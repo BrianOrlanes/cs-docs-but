@@ -1,0 +1,23 @@
+==========================
+Explore the User Interface
+==========================
+
+Use these screenshots to help guide you through Contentserv's user interface:
+
+.. image:: _images/cs_ui1.jpg
+   :alt: Contentsphere UI
+
+|
+
+.. image:: _images/cs_ui2.jpg
+   :alt: Contentsphere UI
+
+|
+
+| :doc:`Previous: About the Product </tutorials/productlines>`
+| :doc:`Next: Add New Users </tutorials/addnewuser>`
+
+|
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line

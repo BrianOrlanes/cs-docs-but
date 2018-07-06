@@ -1,0 +1,382 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Reference &mdash; Contentserv  documentation</title>
+  
+
+  
+  
+  
+  
+
+  
+
+  
+  
+    
+
+  
+
+  <link rel="stylesheet" href="../_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" /> 
+
+  
+  <script src="../_static/js/modernizr.min.js"></script>
+
+</head>
+
+<body class="wy-body-for-nav">
+
+   
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search">
+          
+
+          
+            <a href="../contents.html" class="icon icon-home"> Contentserv
+          
+
+          
+          </a>
+
+          
+            
+            
+              <div class="version">
+                17.3
+              </div>
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <ul>
+<li class="toctree-l1"><a class="reference internal" href="../index.html">Contentserv Documentation</a></li>
+</ul>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../glossary.html">Glossary</a></li>
+</ul>
+
+            
+          
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../contents.html">Contentserv</a>
+        
+      </nav>
+
+
+      <div class="wy-nav-content">
+        
+        <div class="rst-content">
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="../contents.html">Docs</a> &raquo;</li>
+        
+      <li>Reference</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+            
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="s-reference">
+<span id="reference"></span><h1>Reference<a class="headerlink" href="#reference" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="s-elasticsearch-search-store">
+<span id="elasticsearch-search-store"></span><h2>ElasticSearch: Search Store<a class="headerlink" href="#elasticsearch-search-store" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="s-brief">
+<span id="brief"></span><h3>Brief<a class="headerlink" href="#brief" title="Permalink to this headline">¶</a></h3>
+<p>The <em>ElasticSearch</em> search engine, in spite of being a secondary store is one of the main core components.
+It is used to perform all search operations and several get operations. <em>ElasticSearch</em> supports full-text, faceted, and semantic &amp; phonetic searching.
+Additionally, it is also horizontally scalable, thereby, giving us a flexibility to increase the number of nodes in order to facilitate high volume searches.</p>
+<p>For <em>ElasticSearch</em> search store, fast SSD drives are recommended as they can bear lots of random <em>IOPS</em>, therefore avoiding performance bottlenecks.
+<em>ElasticSearch</em> is extremely memory intensive. In the latter, sorting and aggregations can both be memory hungry so enough heap space to accommodate this is important.
+Even when the heap is comparatively small, extra memory can be given to the OS file system cache. As many data structures used by Lucene (full-featured text search engine, which forms the crux of ElasticSearch) are disk-based formats, ElasticSearch leverages the OS cache to great effect.</p>
+</div>
+</div>
+<div class="section" id="s-installation">
+<span id="installation"></span><h2>Installation<a class="headerlink" href="#installation" title="Permalink to this headline">¶</a></h2>
+</div>
+<div class="section" id="s-setup-and-configuration">
+<span id="setup-and-configuration"></span><h2>Setup and Configuration<a class="headerlink" href="#setup-and-configuration" title="Permalink to this headline">¶</a></h2>
+<ol class="arabic">
+<li><p class="first">Download elasticsearch-2.1.1 (at location, <em>/opt/cs/elastic</em>).</p>
+<blockquote>
+<div><p><a class="reference external" href="https://download.elasticsearch.org/elasticsearch/reease/org/elasticsearch/distribution/tar/elasticsearch/2.1.1/elasticsearch-2.1.1.tar.gz">https://download.elasticsearch.org/elasticsearch/reease/org/elasticsearch/distribution/tar/elasticsearch/2.1.1/elasticsearch-2.1.1.tar.gz</a></p>
+</div></blockquote>
+</li>
+</ol>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ol class="arabic">
+<li><p class="first">Extract <em>ElasticSearch</em>.</p>
+<div class="highlight-default"><div class="highlight"><pre><span></span><span class="n">tar</span> <span class="o">-</span><span class="n">zxvf</span> <span class="n">elasticsearch</span><span class="o">-</span><span class="mf">2.1</span><span class="o">.</span><span class="mf">1.</span><span class="n">tar</span><span class="o">.</span><span class="n">gz</span>
+</pre></div>
+</div>
+</li>
+</ol>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ol class="arabic">
+<li><p class="first">Change configuration.</p>
+<div class="highlight-default"><div class="highlight"><pre><span></span><span class="n">vim</span> <span class="o">/</span><span class="n">opt</span><span class="o">/</span><span class="n">cs</span><span class="o">/</span><span class="n">elastic</span><span class="o">/</span><span class="n">elasticsearch</span><span class="o">-</span><span class="mf">2.1</span><span class="o">.</span><span class="mi">1</span><span class="o">/</span><span class="nb">bin</span><span class="o">/</span><span class="n">elasticsearch</span>
+</pre></div>
+</div>
+</li>
+</ol>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ol class="arabic">
+<li><p class="first">Specify <strong>Memory</strong> as following at the top of the file.</p>
+<div class="highlight-default"><div class="highlight"><pre><span></span><span class="n">export</span> <span class="n">ES_HEAP_SIZE</span><span class="o">=</span><span class="mi">10</span><span class="n">g</span>
+
+<span class="n">vim</span> <span class="o">/</span><span class="n">opt</span><span class="o">/</span><span class="n">cs</span><span class="o">/</span><span class="n">elastic</span><span class="o">/</span><span class="n">elasticsearch</span><span class="o">-</span><span class="mf">2.1</span><span class="o">.</span><span class="mi">1</span><span class="o">/</span><span class="n">config</span><span class="o">/</span><span class="n">elasticsearch</span><span class="o">.</span><span class="n">yml</span>
+</pre></div>
+</div>
+</li>
+</ol>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ol class="arabic">
+<li><p class="first">Specify <strong>IP</strong> as following by uncommenting the line and adding IP of the machine in front of it:</p>
+<div class="highlight-default"><div class="highlight"><pre><span></span><span class="n">network</span><span class="o">.</span><span class="n">host</span><span class="p">:</span> <span class="o">&lt;</span><span class="n">IP_OF_ELASTIC_SERVER</span><span class="o">&gt;</span>
+</pre></div>
+</div>
+</li>
+</ol>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ol class="arabic">
+<li><p class="first">Also add following dependencies:</p>
+<div class="highlight-default"><div class="highlight"><pre><span></span><span class="n">script</span><span class="o">.</span><span class="n">inline</span><span class="p">:</span> <span class="n">true</span>
+<span class="n">script</span><span class="o">.</span><span class="n">indexed</span><span class="p">:</span> <span class="n">true</span>
+<span class="n">script</span><span class="o">.</span><span class="n">engine</span><span class="o">.</span><span class="n">groovy</span><span class="o">.</span><span class="n">file</span><span class="o">.</span><span class="n">aggs</span><span class="p">:</span> <span class="n">true</span>
+<span class="n">script</span><span class="o">.</span><span class="n">engine</span><span class="o">.</span><span class="n">groovy</span><span class="o">.</span><span class="n">file</span><span class="o">.</span><span class="n">mapping</span><span class="p">:</span> <span class="n">true</span>
+<span class="n">script</span><span class="o">.</span><span class="n">engine</span><span class="o">.</span><span class="n">groovy</span><span class="o">.</span><span class="n">file</span><span class="o">.</span><span class="n">search</span><span class="p">:</span> <span class="n">true</span>
+<span class="n">script</span><span class="o">.</span><span class="n">engine</span><span class="o">.</span><span class="n">groovy</span><span class="o">.</span><span class="n">file</span><span class="o">.</span><span class="n">update</span><span class="p">:</span> <span class="n">true</span>
+<span class="n">script</span><span class="o">.</span><span class="n">engine</span><span class="o">.</span><span class="n">groovy</span><span class="o">.</span><span class="n">file</span><span class="o">.</span><span class="n">plugin</span><span class="p">:</span> <span class="n">true</span>
+<span class="n">script</span><span class="o">.</span><span class="n">engine</span><span class="o">.</span><span class="n">groovy</span><span class="o">.</span><span class="n">indexed</span><span class="o">.</span><span class="n">aggs</span><span class="p">:</span> <span class="n">true</span>
+<span class="n">script</span><span class="o">.</span><span class="n">engine</span><span class="o">.</span><span class="n">groovy</span><span class="o">.</span><span class="n">indexed</span><span class="o">.</span><span class="n">mapping</span><span class="p">:</span> <span class="n">false</span>
+<span class="n">script</span><span class="o">.</span><span class="n">engine</span><span class="o">.</span><span class="n">groovy</span><span class="o">.</span><span class="n">indexed</span><span class="o">.</span><span class="n">search</span><span class="p">:</span> <span class="n">true</span>
+<span class="n">script</span><span class="o">.</span><span class="n">engine</span><span class="o">.</span><span class="n">groovy</span><span class="o">.</span><span class="n">indexed</span><span class="o">.</span><span class="n">update</span><span class="p">:</span> <span class="n">false</span>
+<span class="n">script</span><span class="o">.</span><span class="n">engine</span><span class="o">.</span><span class="n">groovy</span><span class="o">.</span><span class="n">indexed</span><span class="o">.</span><span class="n">plugin</span><span class="p">:</span> <span class="n">false</span>
+<span class="n">script</span><span class="o">.</span><span class="n">engine</span><span class="o">.</span><span class="n">groovy</span><span class="o">.</span><span class="n">inline</span><span class="o">.</span><span class="n">aggs</span><span class="p">:</span> <span class="n">true</span>
+<span class="n">script</span><span class="o">.</span><span class="n">engine</span><span class="o">.</span><span class="n">groovy</span><span class="o">.</span><span class="n">inline</span><span class="o">.</span><span class="n">mapping</span><span class="p">:</span> <span class="n">false</span>
+<span class="n">script</span><span class="o">.</span><span class="n">engine</span><span class="o">.</span><span class="n">groovy</span><span class="o">.</span><span class="n">inline</span><span class="o">.</span><span class="n">search</span><span class="p">:</span> <span class="n">false</span>
+<span class="n">script</span><span class="o">.</span><span class="n">engine</span><span class="o">.</span><span class="n">groovy</span><span class="o">.</span><span class="n">inline</span><span class="o">.</span><span class="n">update</span><span class="p">:</span> <span class="n">false</span>
+<span class="n">script</span><span class="o">.</span><span class="n">engine</span><span class="o">.</span><span class="n">groovy</span><span class="o">.</span><span class="n">inline</span><span class="o">.</span><span class="n">plugin</span><span class="p">:</span> <span class="n">false</span>
+<span class="n">http</span><span class="o">.</span><span class="n">cors</span><span class="o">.</span><span class="n">enabled</span><span class="p">:</span> <span class="n">true</span>
+<span class="n">http</span><span class="o">.</span><span class="n">cors</span><span class="o">.</span><span class="n">allow</span><span class="o">-</span><span class="n">origin</span><span class="p">:</span> <span class="s2">&quot;*&quot;</span>
+</pre></div>
+</div>
+</li>
+</ol>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ol class="arabic">
+<li><p class="first">Install plugins.</p>
+<div class="highlight-default"><div class="highlight"><pre><span></span><span class="n">cd</span> <span class="o">/</span><span class="n">opt</span><span class="o">/</span><span class="n">cs</span><span class="o">/</span><span class="n">elastic</span><span class="o">/</span><span class="n">elasticsearch</span><span class="o">-</span><span class="mf">2.1</span><span class="o">.</span><span class="mi">1</span><span class="o">/</span><span class="nb">bin</span><span class="o">/</span>
+
+<span class="o">./</span><span class="n">plugin</span> <span class="n">install</span> <span class="n">file</span><span class="p">:</span><span class="o">&lt;</span><span class="n">Path</span> <span class="n">of</span> <span class="n">CS</span><span class="o">-</span><span class="n">Refactored</span><span class="o">&gt;</span><span class="n">CS</span><span class="o">-</span><span class="n">Refactored</span><span class="o">/</span><span class="n">ServerPlugins</span><span class="o">/</span><span class="n">elasticsearch</span><span class="o">/</span><span class="n">build</span><span class="o">/</span><span class="n">distributions</span><span class="o">/</span><span class="n">contentserv</span><span class="o">-</span><span class="n">plugin</span><span class="o">-</span><span class="mf">1.0</span><span class="o">.</span><span class="mi">0</span><span class="o">-</span><span class="n">SNAPSHOT</span><span class="o">.</span><span class="n">zip</span>
+</pre></div>
+</div>
+</li>
+</ol>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ol class="arabic">
+<li><p class="first">Start <em>ElasticSearch</em>.</p>
+<div class="highlight-default"><div class="highlight"><pre><span></span><span class="o">./</span><span class="n">elasticsearch</span> <span class="o">-</span><span class="n">d</span>
+</pre></div>
+</div>
+</li>
+</ol>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ol class="arabic">
+<li><p class="first">Check whether the service is running or not.</p>
+<div class="highlight-default"><div class="highlight"><pre><span></span><span class="n">netstat</span> <span class="o">-</span><span class="n">tulpn</span> <span class="o">|</span> <span class="n">grep</span> <span class="mi">9200</span>
+</pre></div>
+</div>
+</li>
+</ol>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ol class="arabic">
+<li><p class="first">Start/Stop/Update Commands:</p>
+<div class="highlight-default"><div class="highlight"><pre><span></span><span class="n">Stop</span> <span class="n">Elastic</span>
+  <span class="n">ssh</span> <span class="n">elastic</span><span class="nd">@ELASTIC_IP</span>
+  <span class="n">fuser</span> <span class="o">-</span><span class="n">k</span> <span class="mi">9200</span><span class="o">/</span><span class="n">tcp</span>
+
+<span class="n">Start</span> <span class="n">Elastic</span>
+  <span class="n">ssh</span> <span class="n">elastic</span><span class="nd">@ELASTIC_IP</span>
+  <span class="o">/</span><span class="n">opt</span><span class="o">/</span><span class="n">cs</span><span class="o">/</span><span class="n">elastic</span><span class="o">/</span><span class="n">elasticsearch</span><span class="o">-</span><span class="mf">2.1</span><span class="o">.</span><span class="mi">1</span><span class="o">/</span><span class="nb">bin</span><span class="o">/</span><span class="n">elasticsearch</span> <span class="o">-</span><span class="n">d</span>
+</pre></div>
+</div>
+</li>
+</ol>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ol class="arabic">
+<li><p class="first">Remove plugins.</p>
+<div class="highlight-default"><div class="highlight"><pre><span></span><span class="n">cd</span> <span class="o">/</span><span class="n">opt</span><span class="o">/</span><span class="n">cs</span><span class="o">/</span><span class="n">elastic</span><span class="o">/</span><span class="n">elasticsearch</span><span class="o">-</span><span class="mf">2.1</span><span class="o">.</span><span class="mi">1</span><span class="o">/</span><span class="nb">bin</span><span class="o">/</span>
+
+<span class="o">./</span><span class="n">plugin</span> <span class="n">remove</span> <span class="n">contentserv</span><span class="o">-</span><span class="n">plugin</span>
+</pre></div>
+</div>
+</li>
+</ol>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ol class="arabic">
+<li><p class="first">Add plugins.</p>
+<div class="highlight-default"><div class="highlight"><pre><span></span><span class="n">cd</span> <span class="o">/</span><span class="n">opt</span><span class="o">/</span><span class="n">cs</span><span class="o">/</span><span class="n">elastic</span><span class="o">/</span><span class="n">elasticsearch</span><span class="o">-</span><span class="mf">2.1</span><span class="o">.</span><span class="mi">1</span><span class="o">/</span><span class="nb">bin</span><span class="o">/</span>
+
+<span class="o">./</span><span class="n">plugin</span> <span class="n">install</span> <span class="n">file</span><span class="p">:</span><span class="o">&lt;</span><span class="n">Path</span> <span class="n">of</span> <span class="n">plugin</span> <span class="n">file</span><span class="o">&gt;/</span><span class="n">contentserv</span><span class="o">-</span><span class="n">plugin</span><span class="o">-</span><span class="mf">1.0</span><span class="o">.</span><span class="mi">0</span><span class="o">-</span><span class="n">SNAPSHOT</span><span class="o">.</span><span class="n">zip</span>
+</pre></div>
+</div>
+</li>
+</ol>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<img alt="Contentserv line" src="../_images/line-png-326.PNG" />
+</div>
+</div>
+
+
+           </div>
+           
+          </div>
+          <footer>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &copy; Copyright CS Group.
+      Last updated on Jul 06, 2018.
+
+    </p>
+  </div>
+  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/rtfd/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+
+  
+
+    <script type="text/javascript">
+        var DOCUMENTATION_OPTIONS = {
+            URL_ROOT:'../',
+            VERSION:'',
+            LANGUAGE:'None',
+            COLLAPSE_INDEX:false,
+            FILE_SUFFIX:'.html',
+            HAS_SOURCE:  true,
+            SOURCELINK_SUFFIX: '.txt'
+        };
+    </script>
+      <script type="text/javascript" src="../_static/jquery.js"></script>
+      <script type="text/javascript" src="../_static/underscore.js"></script>
+      <script type="text/javascript" src="../_static/doctools.js"></script>
+
+  
+
+  <script type="text/javascript" src="../_static/js/theme.js"></script>
+
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>

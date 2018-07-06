@@ -1,0 +1,6 @@
+==================
+PIM Feature Guides
+==================
+
+.. toctree::
+   :maxdepth: 1

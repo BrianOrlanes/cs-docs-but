@@ -1,0 +1,99 @@
+=====================
+Property Collections
+=====================
+The Property Collections feature allows a user to group the attributes and tags under one area to easily configure a group of products.
+
+
+===================     =============================================================================================================================================================
+**Key Term:**            * **Property:** a data field which describes a product, can also use *'attribute'*.
+                         * **Attribute:** a data field which describes a product, can also use *'property'*.
+
+**Description:**         * A property collection is a group of attributes, properties, tags, and roles. This collection can be added to a class or taxonomy level.
+                         * A user can then categorize a product under that class or taxonomy level to inherit a set of properties.
+                         * This feature is useful for product categories with common sets of attributes.
+
+**Related topics:**      * :doc:`Attribute Management </feature/product_feature/mdm/administration/datamodelattributemanagement/index>`
+                         * :doc:`Tag Management </feature/product_feature/mdm/administration/datamodeltagmanagement/index>`
+
+**Application:**         * A property collection can hold attributes and tags for similar types of information or content.
+                         * *Example:*
+
+                              A supplier wants to add the List Price attribute to his products so he creates a property collection containing the List Price attribute and adds it to the Single Article class.
+
+===================     =============================================================================================================================================================
+
+
+How-to: Property Collections
+================================
+To create and add property collections, follow these steps:
+
+|
+
+#. Log in and click on the **Administration** button.
+
+.. image:: /feature/_images/mdmimages/cs_propertycollections_login.PNG
+|
+|
+
+#. Click on the **Property Groups** drop-down list and select **Property Collections**.
+
+.. image:: /feature/_images/mdmimages/cs_propertycollections_clickpropertygroups.PNG
+|
+|
+
+#. Click on the "+" icon to create a property collection.
+
+.. image:: /feature/_images/mdmimages/cs_propertycollections_clickplusicon.PNG
+|
+|
+
+#. Enter the name of the property collection and click on the **Create** button.
+
+.. image:: /feature/_images/mdmimages/cs_propertycollections_entername.PNG
+|
+|
+
+#. Increase or decrease the number of rows and columns to accommodate the attributes and tags into the property collection.
+
+.. image:: /feature/_images/mdmimages/cs_propertycollections_rowscolumns.PNG
+|
+|
+
+#. Add the attributes, tags and roles to the property collection.
+
+.. image:: /feature/_images/mdmimages/cs_propertycollections_canbeadded.PNG
+|
+|
+
+#. Drag and drop the attributes and tags into the empty rows and columns.
+
+.. image:: /feature/_images/mdmimages/cs_propertycollections_dragdrop.PNG
+|
+|
+
+#. Click on the **Classes** drop-down list and select the class to which the property collection will be applied.
+
+.. image:: /feature/_images/mdmimages/cs_propertycollections_classesdropdownlist.PNG
+|
+|
+
+#. Click the "+" icon in the class to add the property collection.
+
+.. image:: /feature/_images/mdmimages/cs_propertycollections_addpropertycollection.PNG
+|
+|
+
+#. Select the property collection to be added and click on the **Apply** button.
+
+.. image:: /feature/_images/mdmimages/cs_propertycollections_selectpropertycollection.PNG
+|
+|
+
+#. View the added property collection.
+
+.. image:: /feature/_images/mdmimages/cs_propertycollections_viewpropertycollection.PNG
+|
+|
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line

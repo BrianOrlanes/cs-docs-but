@@ -1,0 +1,323 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Correct Imported Records &mdash; Contentserv  documentation</title>
+  
+
+  
+  
+  
+  
+
+  
+
+  
+  
+    
+
+  
+
+  <link rel="stylesheet" href="../../../../../_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="../../../../../_static/pygments.css" type="text/css" />
+    <link rel="index" title="Index" href="../../../../../genindex.html" />
+    <link rel="search" title="Search" href="../../../../../search.html" /> 
+
+  
+  <script src="../../../../../_static/js/modernizr.min.js"></script>
+
+</head>
+
+<body class="wy-body-for-nav">
+
+   
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search">
+          
+
+          
+            <a href="../../../../../contents.html" class="icon icon-home"> Contentserv
+          
+
+          
+          </a>
+
+          
+            
+            
+              <div class="version">
+                17.3
+              </div>
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../../../../../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <ul>
+<li class="toctree-l1"><a class="reference internal" href="../../../../../index.html">Contentserv Documentation</a></li>
+</ul>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../../../../glossary.html">Glossary</a></li>
+</ul>
+
+            
+          
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../../../../../contents.html">Contentserv</a>
+        
+      </nav>
+
+
+      <div class="wy-nav-content">
+        
+        <div class="rst-content">
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="../../../../../contents.html">Docs</a> &raquo;</li>
+        
+      <li>Correct Imported Records</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+            
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="s-correct-imported-records">
+<span id="correct-imported-records"></span><h1>Correct Imported Records<a class="headerlink" href="#correct-imported-records" title="Permalink to this headline">¶</a></h1>
+<p>Correct Imported Records is a feature that edits records with incorrect, non-conforming quality, or incomplete data and reprocess them so that the data can pass the quality check of the system.</p>
+<table class="docutils">
+<colgroup>
+<col width="10%" />
+<col width="90%" />
+</colgroup>
+<tbody valign="top">
+<tr class="row-odd"><td><strong>Key Term:</strong></td>
+<td><ul class="first last simple">
+<li><strong>Taxonomy:</strong> a taxonomy is a scheme of classification used for an organization’s products.</li>
+</ul>
+</td>
+</tr>
+<tr class="row-even"><td><strong>Description:</strong></td>
+<td><ul class="first last simple">
+<li><em>Red</em> violation is a major violation that requires rectifying of errors.</li>
+<li><em>Orange</em> and <em>Yellow</em> violations are non-major violations but should also be rectified.</li>
+<li><em>Note: Red violation for the product data means that the data cannot be transferred into the system.
+Whereas for Orange and Yellow violations, product data can be transferred.</em></li>
+</ul>
+</td>
+</tr>
+<tr class="row-odd"><td><strong>Related topics:</strong></td>
+<td><ul class="first last simple">
+<li><a class="reference internal" href="../monitorandcheckdata/monitorimports.html"><span class="doc">Monitor Imports</span></a></li>
+</ul>
+</td>
+</tr>
+<tr class="row-even"><td><strong>Application:</strong></td>
+<td><ul class="first last">
+<li><p class="first">One can correct the data quality through violations.</p>
+</li>
+<li><p class="first">The feature ensures that the mandatory fields are not left empty.</p>
+</li>
+<li><p class="first"><em>Example:</em></p>
+<blockquote>
+<div><p>Supplier A on-boarded products. If the entered product properties are incomplete, then the <em>Catalog</em> will flag them with a <em>Red Violation</em>.
+The supplier will need to correct those records and only then, those records can be pushed to PIM.</p>
+</div></blockquote>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="section" id="s-how-to-correct-imported-records">
+<span id="how-to-correct-imported-records"></span><h2>How-to: Correct Imported Records<a class="headerlink" href="#how-to-correct-imported-records" title="Permalink to this headline">¶</a></h2>
+<p>To do this, follow these steps:</p>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li>Log in and go to the <strong>Dashboard</strong>.</li>
+</ol>
+<img alt="../../../../../_images/cs_correctimportedrecords_clickdash.PNG" src="../../../../../_images/cs_correctimportedrecords_clickdash.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li>Click <em>Data Integration</em> tab and select an endpoint.</li>
+</ol>
+<img alt="../../../../../_images/cs_correctimportedrecords_clickdash2.PNG" src="../../../../../_images/cs_correctimportedrecords_clickdash2.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li>Click <strong>Files</strong> and select a file to import ( in this demo, we selected the first “Documentation onboard sheet.xlsx”)
+and click <strong>Import</strong> icon.</li>
+</ol>
+<img alt="../../../../../_images/cs_correctimportedrecords_clickfile.PNG" src="../../../../../_images/cs_correctimportedrecords_clickfile.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li>Check the status of the file, click <strong>Workflow Status</strong>.</li>
+</ol>
+<img alt="../../../../../_images/cs_correctimportedrecords_clickstatus.PNG" src="../../../../../_images/cs_correctimportedrecords_clickstatus.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="../../../../../_images/cs_correctimportedrecords_clickimportedfile.PNG" src="../../../../../_images/cs_correctimportedrecords_clickimportedfile.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="../../../../../_images/cs_correctimportedrecords_selectfileandimport2.PNG" src="../../../../../_images/cs_correctimportedrecords_selectfileandimport2.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li>Click <strong>Catalog</strong>. The Catalog includes the products that are visible with violations.</li>
+</ol>
+<img alt="../../../../../_images/cs_correctimportedrecords_viewviolations.PNG" src="../../../../../_images/cs_correctimportedrecords_viewviolations.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li>Click on the <strong>Transfer to PIM</strong> option. The products get transferred to PIM.</li>
+</ol>
+<img alt="../../../../../_images/cs_correctimportedrecords_clicktransfertopim.PNG" src="../../../../../_images/cs_correctimportedrecords_clicktransfertopim.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="Contentserv line" src="../../../../../_images/line-png-323.PNG" />
+</div>
+</div>
+
+
+           </div>
+           
+          </div>
+          <footer>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &copy; Copyright CS Group.
+      Last updated on Jul 06, 2018.
+
+    </p>
+  </div>
+  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/rtfd/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+
+  
+
+    <script type="text/javascript">
+        var DOCUMENTATION_OPTIONS = {
+            URL_ROOT:'../../../../../',
+            VERSION:'',
+            LANGUAGE:'None',
+            COLLAPSE_INDEX:false,
+            FILE_SUFFIX:'.html',
+            HAS_SOURCE:  true,
+            SOURCELINK_SUFFIX: '.txt'
+        };
+    </script>
+      <script type="text/javascript" src="../../../../../_static/jquery.js"></script>
+      <script type="text/javascript" src="../../../../../_static/underscore.js"></script>
+      <script type="text/javascript" src="../../../../../_static/doctools.js"></script>
+
+  
+
+  <script type="text/javascript" src="../../../../../_static/js/theme.js"></script>
+
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>

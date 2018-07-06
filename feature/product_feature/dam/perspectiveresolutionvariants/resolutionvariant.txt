@@ -1,0 +1,119 @@
+===================
+Resolution Variant
+===================
+The Resolution Variant feature allows the user to auto-create images of various resolutions.
+
+
+====================      ===============================================================================================================================================================
+**Key Term:**              * **Tabs:** are used to categorize the properties shown on a product’s page.
+
+**Description:**           * This feature will help user *'auto-create'* images of various resolutions.
+
+**Related topics:**        * :doc:`Perspective Variant </feature/product_feature/dam/perspectiveresolutionvariants/perspectivevariant>`
+
+**Application:**           * This feature is useful for creating several image resolutions based on the given requirements.
+                           * *Example:*
+
+                                A Retailer may need images of various resolutions they can use for multiple outlets: *Social media pages, brochure, sales pamphlet* and so on.
+
+====================      ===============================================================================================================================================================
+
+
+How-to: How to create Resolution Variant
+===========================================
+To do this feature, follow these steps:
+
+|
+
+#. Log in. Click **Administration** icon.
+
+.. image:: /feature/_images/damimages/cs_resolutionvariant_clickadministration.PNG
+|
+|
+
+
+#. On the *Data Model* tab, scroll down to click on **Asset**.
+
+
+#. Click on **'+'** to create a new Asset.
+
+
+#. In the Create window, enter Name, enable Nature class, and click **Type** and select *'Technical image'*.
+
+
+#. Click **CREATE**.
+
+.. image:: /feature/_images/damimages/cs_resolutionvariant_clickcreate.PNG
+|
+|
+
+
+#. Click on the **Context** on the right hand side window.
+
+.. image:: /feature/_images/damimages/cs_resolutionvariant_clickcontext.PNG
+|
+|
+
+
+#. In the Edit window, enable *'Auto Create'*, and select the *Resolution Tags*  and select the *Tag Combinations*.
+
+.. image:: /feature/_images/damimages/cs_resolutionvariant_intheeditwindowautocrestagtagcombi.PNG
+|
+|
+
+
+#. Click on **Asset** and go to **Image**. In the window to the right, scroll down to click **Technical Image**.
+
+.. image:: /feature/_images/damimages/cs_resolutionvariant_gotoimage.PNG
+|
+|
+
+
+#. Select   *'Resolution Variant'* ( we have created in the previous step). Click **Apply** and **Save**.
+
+.. image:: /feature/_images/damimages/cs_resolutionvariant_gotoimageb.PNG
+|
+|
+
+
+#. Click on **Explore** and then **DAM**.
+
+.. image:: /feature/_images/damimages/cs_resolutionvariant_clickexplore.PNG
+|
+|
+
+.. image:: /feature/_images/damimages/cs_resolutionvariant_thendam.PNG
+|
+|
+
+
+#. Select an image, and click on *Contexts* tab.
+
+.. image:: /feature/_images/damimages/cs_resolutionvariant_selectimage.PNG
+|
+|
+
+
+#. Click  **Create**.
+
+.. image:: /feature/_images/damimages/cs_resolutionvariant_selectimagecontextcreate.PNG
+|
+|
+
+
+#. Select the desired resolution in *CONFIGURATION* section ( in this demo, we selected *'72 dpi resolution'* ). Click **Save**.
+
+.. image:: /feature/_images/damimages/cs_resolutionvariant_selectdesiredconfig.PNG
+|
+|
+
+
+#. Click the **Contexts** tab to view the  various *Resolutions Variants* of the image.
+
+.. image:: /feature/_images/damimages/cs_resolutionvariant_viewvariousresocontexttab.PNG
+|
+|
+
+
+.. image:: /feature/_images/damimages/line-png-32.PNG
+   :alt: Contentserv line

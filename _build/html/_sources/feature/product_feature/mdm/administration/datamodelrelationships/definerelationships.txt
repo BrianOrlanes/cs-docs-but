@@ -1,0 +1,86 @@
+=====================
+Define Relationships
+=====================
+The Define Relationships feature provides the functionality to set up relationships between entities.
+
+
+====================      ===============================================================================================================================================================
+**Key Term:**             * **Classes:** define base configurations for products. Each class that is given to a product allows that product to have a more precise definition.
+                            There are multiple levels of classes that can be used in conjunction
+
+                            * *Example:*
+
+                                    Product, Single Article
+
+**Description:**          * This feature links two objects or entities in the system. An example of this linking is the relationship set for an *Article* to its target *Market*
+                            or a *Market* to an active *Promotion*.
+
+**Related topics:**       * :doc:`Manage Media Links </feature/product_feature/mdm/administration/datamodelrelationships/managemedialinks>`
+                          * :doc:`Define Article Links </feature/product_feature/mdm/administration/datamodelrelationships/definearticlelinks>`
+
+**Application:**          * The Define Relationships will allow an administrator to link an article or a product to its target market, which can be a location or a group of
+                            consumers that article/product is intended for.
+
+====================      ===============================================================================================================================================================
+
+
+How-to: Define Relationships
+================================
+To define relationships, follow these steps:
+
+|
+
+#. Log in and click on the **Administration** button.
+
+.. image:: /feature/_images/mdmimages/cs_definerelationships_login.PNG
+|
+|
+
+#. Click on **Relationships**.
+
+.. image:: /feature/_images/mdmimages/cs_definerelationships_relationshipconfiguration.PNG
+|
+|
+
+#. Click on the "+" icon to create a new relationship.
+
+.. image:: /feature/_images/mdmimages/cs_definerelationships_clickplusicon.PNG
+|
+|
+
+#. Enter a name for the relationship and select the two desired entity classes to be linked in *Side1 and Side2* using the drop-down lists.
+   In the example shown, a relationship is created for *Article* and the *Region* articles.
+
+.. image:: /feature/_images/mdmimages/cs_definerelationships_entername.PNG
+|
+|
+
+#. Enter the information for the *Label* and select the *Cardinality* of the relationship. In cardinality, choose either *Many* or *One.*
+
+.. image:: /feature/_images/mdmimages/cs_definerelationships_enterinfo.PNG
+|
+|
+
+#. Tick on the **checkboxes** for the elements to be editable. Select either one or both sides.
+
+.. image:: /feature/_images/mdmimages/cs_definerelationships_tickcheckboxes.PNG
+|
+|
+
+#. Once done, click on the **Save** button.
+
+.. image:: /feature/_images/mdmimages/cs_definerelationships_clicksave.PNG
+|
+|
+
+#. View the applied relationship.
+
+.. image:: /feature/_images/mdmimages/cs_definerelationships_viewrelationship.PNG
+|
+
+*Note: The Class and Cardinality will not be editable once the relationship is saved.*
+
+|
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line

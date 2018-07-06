@@ -1,0 +1,81 @@
+========
+Sort By
+========
+
+The Sort By feature allows a user to view products and assets according to a specific attribute sort order.
+
+===================     =============================================================================================================================================================
+**Key Term:**           * **Attribute:** a data field which describes a product, can also use *'property'*.
+
+**Description:**        * The Sort By feature allows the use of filters to sort products in ascending or descending order.
+                        * Click the Sort By buttons at the top of the catalog to use this feature.
+
+**Related topics:**     * :doc:`Group By </feature/product_feature/mdm/general/searchandexplore/groupby>`
+
+**Application:**        * A user can sort the products in the desired order, either ascending or descending.
+                        * The feature gives the ease to search for a product by arranging it by the user's desired order.
+                        * *Example:*
+
+                             If a user wants to arrange products from the highest to the lowest price or to arrange the products alphabetically, the *Sort By* feature can be used.
+
+===================     =============================================================================================================================================================
+
+
+How-to: Sort By
+===================
+To do a sort by, follow these steps:
+
+|
+
+
+#. Log in and go to *PIM*.
+
+.. image:: /feature/_images/mdmimages/cs_parametricsearch_login.PNG
+|
+|
+
+
+#. Click the **Sort and Filter** button. The menu selection will expand.
+
+.. image:: /feature/_images/mdmimages/cs_sortby_clickthesortandfilter.PNG
+|
+|
+
+
+#. Select an attribute.  Only filterable attributes are displayed.  Once an attribute is selected, it will be highlighted in bold.
+
+.. image:: /feature/_images/mdmimages/cs_sortby_selectanattribute.PNG
+|
+|
+
+
+#. View the icon next to the selected attribute. This icon indicates the sorting order.
+
+.. image:: /feature/_images/mdmimages/cs_sortby_viewtheicon.PNG
+|
+|
+
+  *Examples:*
+
+  |
+
+  #. Below is *Created On* in ascending order (oldest to newest).
+
+  .. image:: /feature/_images/mdmimages/cs_sortby_ascendingorder.PNG
+  |
+  .. image:: /feature/_images/mdmimages/cs_sortby_ascendingorder2.PNG
+  |
+  |
+
+
+  #. Below is *Created On* in descending order (newest to oldest).  Click this icon to toggle between ascending or descending sort order.
+
+  .. image:: /feature/_images/mdmimages/cs_sortby_descendingorder.PNG
+  |
+  .. image:: /feature/_images/mdmimages/cs_sortby_descendingorder2.PNG
+  |
+  |
+
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+  :alt: Contentserv line

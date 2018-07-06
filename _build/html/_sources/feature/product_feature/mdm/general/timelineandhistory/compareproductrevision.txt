@@ -1,0 +1,79 @@
+========================
+Compare Product Revision
+========================
+The Compare Product Revision feature allows the selection and comparison of different versions of the same product.
+It also allows merging of specific values from previous versions into the latest version.
+
+
+===================     ===============================================================================================================================================================
+**Key Term:**           * **Property:** a data field which describes a product, can also use *'attribute'*.
+
+**Description:**        * This feature allows a user to compare versions of a product/article.
+                        * This feature gives an overview of the similarities and differences of comparable versions and merges values from any previous version to the newer version.
+                        * This feature creates a comparison table that shows columns for the product versions and rows for the attributes.  This table allows quick and easy
+                          comparison between each offering's features and characteristics.
+
+**Related topics:**     * :doc:`Bulk Edit </feature/product_feature/mdm/general/masseditingbulkapply/bulkedit>`
+                        * :doc:`Edit Data in a Grid View </feature/product_feature/mdm/general/masseditinggridediting/editdatainagridview>`
+
+**Application:**        * A user can track all the changes that are made to a product/article. Based on values, a user can merge a value from a previous version to the newer one.
+                        * *Example:*
+
+                            For a Red Bull product, a short description is initially provided and then later, some additional changes are done (which are not required).
+                            In the timeline, a user can compare these two versions and merge the appropriate values for the description.
+
+===================     ===============================================================================================================================================================
+
+
+How-to: Compare Product Revision
+======================================
+To do this feature, follow these steps:
+
+|
+
+#. Go to *PIM*.
+
+.. image:: /feature/_images/mdmimages/cs_compareproductrevision_gotopim.PNG
+|
+|
+
+
+#. Select a product and click on the **Timeline Tab**.
+
+.. image:: /feature/_images/mdmimages/cs_compareproductrevision_selectaproduct.PNG
+|
+|
+.. image:: /feature/_images/mdmimages/cs_compareproductrevision_selectaproductandclicktimeline.PNG
+|
+|
+
+
+#. View the revision timeline.
+
+.. image:: /feature/_images/mdmimages/cs_compareproductrevision_viewtimeline.PNG
+|
+|
+
+
+#.  On the selected version, click **Compare with current version** icon.
+
+.. image:: /feature/_images/mdmimages/cs_compareproductrevision_onselectedclickcompare.PNG
+|
+|
+
+
+#. View the comparing versions. The attributes of the latest version in the timeline will be compared to the selected version.
+
+.. image:: /feature/_images/mdmimages/cs_cs_compareproductrevision_viewcomparingversion.PNG
+|
+|
+
+
+#. Click **OK**.
+
+.. image:: /feature/_images/mdmimages/cs_cs_compareproductrevision_clickok.PNG
+|
+|
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line

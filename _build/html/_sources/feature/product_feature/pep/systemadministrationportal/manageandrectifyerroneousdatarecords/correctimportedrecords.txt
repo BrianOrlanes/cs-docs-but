@@ -1,0 +1,83 @@
+=========================
+Correct Imported Records
+=========================
+Correct Imported Records is a feature that edits records with incorrect, non-conforming quality, or incomplete data and reprocess them so that the data can pass the quality check of the system.
+
+
+===================     =======================================================================================================================================================================
+**Key Term:**           * **Taxonomy:** a taxonomy is a scheme of classification used for an organization’s products.
+
+**Description:**        * *Red* violation is a major violation that requires rectifying of errors.
+                        * *Orange* and *Yellow* violations are non-major violations but should also be rectified.
+                        * *Note: Red violation for the product data means that the data cannot be transferred into the system.
+                          Whereas for Orange and Yellow violations, product data can be transferred.*
+
+**Related topics:**     * :doc:`Monitor Imports </feature/product_feature/pep/systemadministrationportal/monitorandcheckdata/monitorimports>`
+
+**Application:**        * One can correct the data quality through violations.
+                        * The feature ensures that the mandatory fields are not left empty.
+                        * *Example:*
+
+                            Supplier A on-boarded products. If the entered product properties are incomplete, then the *Catalog* will flag them with a *Red Violation*.
+                            The supplier will need to correct those records and only then, those records can be pushed to PIM.
+
+===================     =======================================================================================================================================================================
+
+
+How-to: Correct Imported Records
+==================================
+To do this, follow these steps:
+
+|
+
+#. Log in and go to the **Dashboard**.
+
+.. image:: /feature/_images/pepimages/cs_correctimportedrecords_clickdash.PNG
+|
+|
+
+
+#. Click *Data Integration* tab and select an endpoint.
+
+.. image:: /feature/_images/pepimages/cs_correctimportedrecords_clickdash2.PNG
+|
+|
+
+
+#. Click **Files** and select a file to import ( in this demo, we selected the first "Documentation onboard sheet.xlsx")
+   and click **Import** icon.
+
+.. image:: /feature/_images/pepimages/cs_correctimportedrecords_clickfile.PNG
+|
+|
+
+
+#. Check the status of the file, click **Workflow Status**.
+
+.. image:: /feature/_images/pepimages/cs_correctimportedrecords_clickstatus.PNG
+|
+|
+
+.. image:: /feature/_images/pepimages/cs_correctimportedrecords_clickimportedfile.PNG
+|
+|
+
+.. image:: /feature/_images/pepimages/cs_correctimportedrecords_selectfileandimport2.PNG
+|
+|
+
+#. Click **Catalog**. The Catalog includes the products that are visible with violations.
+
+.. image:: /feature/_images/pepimages/cs_correctimportedrecords_viewviolations.PNG
+|
+|
+
+#. Click on the **Transfer to PIM** option. The products get transferred to PIM.
+
+.. image:: /feature/_images/pepimages/cs_correctimportedrecords_clicktransfertopim.PNG
+|
+|
+
+
+.. image:: /feature/_images/pepimages/line-png-32.PNG
+   :alt: Contentserv line

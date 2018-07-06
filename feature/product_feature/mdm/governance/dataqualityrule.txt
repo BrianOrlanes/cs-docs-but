@@ -1,0 +1,120 @@
+==================
+Data Quality Rule
+==================
+The Data Quality Rule feature provides the functionality to create and set rules in the system to ensure the quality of data.
+
+
+===================     ===============================================================================================================================================================
+**Key Term:**           * **Administrator:** a technical specialist who configures a software system.
+
+**Description:**        * This feature allows an administrator to create rules to ensure that data quality is maintained in the system.
+                        * This feature allows data quality rules to be customized.
+                        * This feature has two main types of rule: *Rule Violation and Normalization*.
+
+                            **Rule Violation:** alerts a user about a violated rule with an error message.
+                            **Normalization:** reduces data redundancy and improves the data integrity.
+
+**Related topics:**     * :doc:`Must/Should Attributes </feature/product_feature/mdm/governance/mustshouldattributes>`
+
+**Application:**        * Data Quality Rule restricts the entry of unacceptable data in the system.
+                        * Data Quality Rule reduces the effort in identifying data quality issues in many common information domains.
+                        * Data Quality Rule customizes the rules for specific data conditions.
+                        * *Example:*
+
+                            An administrator does not want to see blacklisted words (or for these words to be added) in the product information pages (e.g. *Bomb, Suicide, Shit, etc*).
+                            In an attribute value (e.g. *Description*), a rule can be customized that will show a notification message
+                            if blacklisted words are added in the description field of a product.
+
+===================     ===============================================================================================================================================================
+
+
+How-to: Data Quality Rule
+=============================
+To do this data governance feature, follow these steps:
+
+|
+
+#. Go to *Administration*.
+
+.. image:: /feature/_images/mdmimages/cs_dataqualityrule_gotoadministration.PNG
+|
+|
+
+
+#. Go to the *Rule Configuration* section.
+
+.. image:: /feature/_images/mdmimages/cs_dataqualityrule_gotoruleconfiguration.PNG
+|
+|
+
+
+#. Click on the "+" icon to create a new rule.
+
+.. image:: /feature/_images/mdmimages/cs_dataqualityrule_clickplus.PNG
+|
+|
+
+.. image:: /feature/_images/mdmimages/cs_dataqualityrule_clickplus2.PNG
+|
+|
+
+
+#. Provide a name for the rule and click on the *Attributes and Classes* where the data quality rule will be applied.
+
+.. image:: /feature/_images/mdmimages/cs_dataqualityrule_entername.PNG
+|
+|
+
+.. image:: /feature/_images/mdmimages/cs_dataqualityrule_entername2.PNG
+|
+|
+
+
+#. Refer to the steps below for a data quality rule example applied to an attribute:
+
+  #. Select the attribute (in Cause) and then, add the warning (in Effect). Save all the changes.
+
+  .. image:: /feature/_images/mdmimages/cs_dataqualityrule_selectattribute.PNG
+  |
+  |
+
+  .. image:: /feature/_images/mdmimages/cs_dataqualityrule_selectattribute2cause.PNG
+  |
+  |
+
+  .. image:: /feature/_images/mdmimages/cs_dataqualityrule_selectattribute3cause.PNG
+  |
+  |
+
+  #. In the *Classes* section, select the rule that will be applied.
+
+  .. image:: /feature/_images/mdmimages/cs_dataqualityrule_inclasssection.PNG
+  |
+  |
+
+  #. Go to *PIM*.
+
+  .. image:: /feature/_images/mdmimages/cs_dataqualityrule_gotopim.PNG
+  |
+  |
+
+  #. Hover over the "+" icon and select the class.
+
+  .. image:: /feature/_images/mdmimages/cs_dataqualityrule_hoverplus.PNG
+  |
+  |
+
+  .. image:: /feature/_images/mdmimages/cs_dataqualityrule_hoverplus2.PNG
+  |
+  |
+
+
+  *Note: As indicated in the rule, the field cannot be empty. In runtime, if it's blank, it will be highlighted for its rule violation. When you click on the warning message, the applied rule notification will appear.*
+
+  .. image:: /feature/_images/mdmimages/cs_dataqualityrule_note.PNG
+  |
+  |
+
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line
