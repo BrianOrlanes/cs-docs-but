@@ -1,6 +1,6 @@
-==============================
-Contentserv Documentation New
-==============================
+==========================
+Contentserv Documentation
+==========================
 
 
 .. toctree::
