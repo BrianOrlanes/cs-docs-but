@@ -1,0 +1,422 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Manage View Templates &mdash; Contentserv  documentation</title>
+  
+
+  
+  
+  
+  
+
+  
+
+  
+  
+    
+
+  
+
+  <link rel="stylesheet" href="../../../../../../_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="../../../../../../_static/pygments.css" type="text/css" />
+    <link rel="index" title="Index" href="../../../../../../genindex.html" />
+    <link rel="search" title="Search" href="../../../../../../search.html" />
+    <link rel="next" title="Taxonomies - Inheritance and Data Transfer" href="../inheritanceanddatatransfer/index.html" />
+    <link rel="prev" title="Users and Permissions - View Templates" href="index.html" /> 
+
+  
+  <script src="../../../../../../_static/js/modernizr.min.js"></script>
+
+</head>
+
+<body class="wy-body-for-nav">
+
+   
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search">
+          
+
+          
+            <a href="../../../../../../contents.html" class="icon icon-home"> Contentserv
+          
+
+          
+          </a>
+
+          
+            
+            
+              <div class="version">
+                17.3
+              </div>
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../../../../../../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <ul class="current">
+<li class="toctree-l1 current"><a class="reference internal" href="../../../../../../index.html">Contentserv Documentation</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../../../../../../introduction.html">Contentserv</a></li>
+<li class="toctree-l2 current"><a class="reference internal" href="../../../../../index.html">Deployment Guides</a><ul class="current">
+<li class="toctree-l3"><a class="reference internal" href="../../../../../gettingstarted/index.html">Getting Started</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../../../../settingup/index.html">Setting Up</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../../../../leadingsections/index.html">Leading Sections</a></li>
+<li class="toctree-l3 current"><a class="reference internal" href="../../../../index.html">Using the Platform</a><ul class="current">
+<li class="toctree-l4"><a class="reference internal" href="../../../../concepts/index.html">Understanding the Core Concepts</a></li>
+<li class="toctree-l4 current"><a class="reference internal" href="../../../index.html">Using the Features</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../references.html">References</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../../../../../glossary.html">Glossary</a></li>
+</ul>
+
+            
+          
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../../../../../../contents.html">Contentserv</a>
+        
+      </nav>
+
+
+      <div class="wy-nav-content">
+        
+        <div class="rst-content">
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="../../../../../../contents.html">Docs</a> &raquo;</li>
+        
+          <li><a href="../../../../../../index.html">Contentserv Documentation</a> &raquo;</li>
+        
+          <li><a href="../../../../../index.html">Deployment Guides</a> &raquo;</li>
+        
+          <li><a href="../../../../index.html">Using the Platform</a> &raquo;</li>
+        
+          <li><a href="../../../index.html">Using the Features</a> &raquo;</li>
+        
+          <li><a href="../../index.html">Master Data Management (MDM)</a> &raquo;</li>
+        
+          <li><a href="../index.html">Administration</a> &raquo;</li>
+        
+          <li><a href="index.html">Users and Permissions - View Templates</a> &raquo;</li>
+        
+      <li>Manage View Templates</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+            
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="s-manage-view-templates">
+<span id="manage-view-templates"></span><h1>Manage View Templates<a class="headerlink" href="#manage-view-templates" title="Permalink to this headline">¶</a></h1>
+<p>Manage View Templates lets you set up view templates that are customized to different users.</p>
+<table class="docutils">
+<colgroup>
+<col width="11%" />
+<col width="89%" />
+</colgroup>
+<tbody valign="top">
+<tr class="row-odd"><td><strong>Key Term:</strong></td>
+<td><ul class="first last simple">
+<li><strong>Taxonomy:</strong> a taxonomy is a scheme of classification used for an organization’s products.</li>
+</ul>
+</td>
+</tr>
+<tr class="row-even"><td><strong>Description:</strong></td>
+<td><ul class="first last simple">
+<li>Easily customize the templates and hide certain portions as necessary.</li>
+<li>Create templates as per user’s requirements.</li>
+<li>Show the custom template to the authorized users.</li>
+<li>Hide certain modules within the product. Even portions of property collections can be hidden from certain users.</li>
+</ul>
+</td>
+</tr>
+<tr class="row-odd"><td><strong>Related topics:</strong></td>
+<td><ul class="first last simple">
+<li><a class="reference internal" href="../../../../../../feature/product_feature/mdm/administration/inheritanceanddatatransfer/linkingobjects.html"><span class="doc">Manage Permissions</span></a></li>
+</ul>
+</td>
+</tr>
+<tr class="row-even"><td><strong>Application:</strong></td>
+<td><ul class="first last">
+<li><p class="first">Limit the access of a user to certain information.</p>
+</li>
+<li><p class="first">Hide sensitive information.</p>
+</li>
+<li><p class="first"><em>Example:</em></p>
+<blockquote>
+<div><p>Let’s say the marketing team does not want to show the promotions to a supplier.
+So what they can do is to create a customized template that does not show promotions and assign it to a role for the supplier to use.</p>
+</div></blockquote>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="section" id="s-how-to-manage-view-templates">
+<span id="how-to-manage-view-templates"></span><h2>How-to: Manage View Templates<a class="headerlink" href="#how-to-manage-view-templates" title="Permalink to this headline">¶</a></h2>
+<p>Easily manage who gets to see what, and here’s how to do it.</p>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li>Click the <strong>Gear</strong> icon to go to <strong>Settings</strong>.</li>
+</ol>
+<img alt="../../../../../../_images/viewtemplates_settings.PNG" src="../../../../../../_images/viewtemplates_settings.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li>Click the <strong>Template Configuration</strong> button.</li>
+</ol>
+<img alt="../../../../../../_images/viewtemplates_templateconfig.PNG" src="../../../../../../_images/viewtemplates_templateconfig.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li>Click the “+” icon to create a new template. The left pane shows the default templates.</li>
+</ol>
+<img alt="../../../../../../_images/viewtemplates_create.PNG" src="../../../../../../_images/viewtemplates_create.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li>Enter the name for the template.</li>
+</ol>
+<img alt="../../../../../../_images/viewtemplates_entername.PNG" src="../../../../../../_images/viewtemplates_entername.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li>Click the <strong>Eye</strong> icon to make the tab visible or hidden. In the image below, the default image is kept visible and the taxonomy is kept hidden.</li>
+</ol>
+<img alt="../../../../../../_images/viewtemplates_eyeicon.PNG" src="../../../../../../_images/viewtemplates_eyeicon.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li>Click the “+” icon to display a list of all property collections.</li>
+</ol>
+<img alt="../../../../../../_images/viewtemplates_viewpropcoll.PNG" src="../../../../../../_images/viewtemplates_viewpropcoll.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li>Select the appropriate property collections and click <strong>Save</strong>.</li>
+</ol>
+<img alt="../../../../../../_images/viewtemplates_save.PNG" src="../../../../../../_images/viewtemplates_save.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li>Click the <strong>Permissions Configuration</strong> button and select a role to which the template is to be assigned.</li>
+</ol>
+<img alt="../../../../../../_images/viewtemplates_permission.PNG" src="../../../../../../_images/viewtemplates_permission.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li>Select the appropriate class from the list of classes then click the “+” icon to add a template. A green check mark indicates default template.</li>
+</ol>
+<img alt="../../../../../../_images/viewtemplates_selectclass.PNG" src="../../../../../../_images/viewtemplates_selectclass.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li>Add the template in the class and click <strong>Apply</strong>. On the top right, click <strong>Templates</strong>.</li>
+</ol>
+<img alt="../../../../../../_images/viewtemplates_clickapply.PNG" src="../../../../../../_images/viewtemplates_clickapply.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li>Select the template.</li>
+</ol>
+<img alt="../../../../../../_images/viewtemplates_selectclass.PNG" src="../../../../../../_images/viewtemplates_selectclass.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li>To toggle the visibility of the property, click the <strong>Eye</strong> icon. To edit the rights for the property, click the <strong>Pencil</strong> icon.</li>
+</ol>
+<img alt="../../../../../../_images/viewtemplates_edit.PNG" src="../../../../../../_images/viewtemplates_edit.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li>Select the properties to be non-editable (for example, <em>PID</em>) and hidden (for example, <em>Taxonomy</em>).</li>
+</ol>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li>Set the template as default for the class and click <strong>Save</strong>.</li>
+</ol>
+<img alt="../../../../../../_images/viewtemplates_setasdefault.PNG" src="../../../../../../_images/viewtemplates_setasdefault.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li>The image below shows the template where the Taxonomy is hidden and the Pricing section is not editable.</li>
+</ol>
+<img alt="../../../../../../_images/viewtemplates_final.PNG" src="../../../../../../_images/viewtemplates_final.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="Contentserv line" src="../../../../../../_images/line-png-32.PNG" />
+</div>
+</div>
+
+
+           </div>
+           
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="../inheritanceanddatatransfer/index.html" class="btn btn-neutral float-right" title="Taxonomies - Inheritance and Data Transfer" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+      
+      
+        <a href="index.html" class="btn btn-neutral" title="Users and Permissions - View Templates" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &copy; Copyright CS Group.
+      Last updated on Jul 12, 2018.
+
+    </p>
+  </div>
+  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/rtfd/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+
+  
+
+    <script type="text/javascript">
+        var DOCUMENTATION_OPTIONS = {
+            URL_ROOT:'../../../../../../',
+            VERSION:'',
+            LANGUAGE:'None',
+            COLLAPSE_INDEX:false,
+            FILE_SUFFIX:'.html',
+            HAS_SOURCE:  true,
+            SOURCELINK_SUFFIX: '.txt'
+        };
+    </script>
+      <script type="text/javascript" src="../../../../../../_static/jquery.js"></script>
+      <script type="text/javascript" src="../../../../../../_static/underscore.js"></script>
+      <script type="text/javascript" src="../../../../../../_static/doctools.js"></script>
+
+  
+
+  <script type="text/javascript" src="../../../../../../_static/js/theme.js"></script>
+
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>

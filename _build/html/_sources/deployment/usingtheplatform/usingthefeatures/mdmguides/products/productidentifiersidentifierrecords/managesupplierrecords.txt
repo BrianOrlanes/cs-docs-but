@@ -1,0 +1,110 @@
+========================
+Manage Supplier Records
+========================
+Manage Supplier Records is a feature that manages supplier records and their identifiers in the *Units* that allow the system to trace back the *Product* to the *Supplier*.
+
+
+===================     =======================================================================================================================================================================
+**Key Term:**           * **Class:** a class defines the base configuration for products.
+
+**Description:**        * The feature allows managing of the products received from various suppliers by adhering to a few standard *Standards/Units*.
+
+                        * **Standard Identifier:** Standard Identifier assigns a unique identifier to the *Products/Supplier*.
+
+							              **GTIN (Global Trade Item Number):** the GTIN is a globally unique 14-digit number used to identify *trade items, products, or services*.
+
+							              **SKU (Stock Keeping Unit):** is a product and service identification code for a store or product, often portrayed as a machine-readable bar code
+							              that helps track an item for inventory.
+
+							              **Supplier ID:** each supplier will get a unique ID to access the product for their specific use.
+
+							              **Supplier Name:** each supplier can be identified by its name.
+
+                        * **Unit:** Units are mentioned for the measurement of the products or their distinction. This is an important information for sales. Various measurement units used are *Box, Piece, etc*.
+
+							              **Unit is an Order Unit:** when the quantity of the product is high. It will come under the *is order unit* category. This unit is typically used by wholesaler or a big supplier. An example is a *crate*.
+
+							              **Unit is a Sales Unit:** when the quantity of the product is moderate. It will come under the *is sales unit* category.
+							              This unit is typically used by the consumer or the supplier. An example is a *box*.
+
+							              **Unit is a Base Unit:** when the basic measurement of the product is one unit. An example is a *piece*.
+
+**Related topics:**     * :doc:`Manage Product Keys </feature/product_feature/mdm/products/productidentifiersidentifierrecords/managesupplierrecords>`
+
+**Application:**        * This feature is used to manage supplier records with their identifiers in 'units' to trace back the product to the supplier.
+                        * If a similar product is sold by various suppliers, the *Standard Identifiers* will help identify which product belongs to which supplier.
+                        * *Example:*
+
+                            If *Retailer A* receives a product, say, **Red Bull** from 3 suppliers, a *Standard Identifier* will help identify the source of the product.
+                            Similarly, when selling a product in bulk, units selected will help a user distinguish the product selling structure whether it is an
+                            *order unit, sales unit, or a base unit*.
+
+===================     =======================================================================================================================================================================
+
+
+How-to: Manage Supplier Records
+===================================
+To manage supplier records, follow these steps:
+
+|
+
+#. Log in and click on the **Administration** button to enter the configuration page.
+
+.. image:: /feature/_images/mdmimages/cs_productidenfitieridentifierrecords_clickadministration.PNG
+|
+|
+
+
+#. Go to the **Data Model** tab and under *Classes*, click on **Supplier**.
+
+.. image:: /feature/_images/mdmimages/cs_productidenfitieridentifierrecords_gotodatamodel.PNG
+|
+|
+
+
+#. Click on "+" button.
+
+.. image:: /feature/_images/mdmimages/cs_productidenfitieridentifierrecords_clickplusbutton.PNG
+|
+|
+
+
+#. Enter the name and enable the nature class then click on the **Create** button.
+
+.. image:: /feature/_images/mdmimages/cs_productidenfitieridentifierrecords_entername.PNG
+|
+|
+
+
+#. Click on the **Explore** button.
+
+.. image:: /feature/_images/mdmimages/cs_productidenfitieridentifierrecords_clickexplore.PNG
+|
+|
+
+
+#. Click on **Supplier**.
+
+.. image:: /feature/_images/mdmimages/cs_productidenfitieridentifierrecords_clicksupplier.PNG
+|
+|
+
+
+#. Hover on the "+" icon to add supplier class.
+
+.. image:: /feature/_images/mdmimages/cs_productidenfitieridentifierrecords_hoverplus.PNG
+|
+.. image:: /feature/_images/mdmimages/cs_productidenfitieridentifierrecords_hoverplus1.PNG
+|
+|
+
+
+#. Enter the information about the supplier.
+
+.. image:: /feature/_images/mdmimages/cs_productidenfitieridentifierrecords_enterinformation.PNG
+|
+|
+
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line

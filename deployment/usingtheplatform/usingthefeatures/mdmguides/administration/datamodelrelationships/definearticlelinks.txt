@@ -1,0 +1,94 @@
+=====================
+Define Article Links
+=====================
+The Define Article Links feature provides the functionality to set up relationships between articles.
+The linking between article-to-article or product-to-product is bidirectional.
+
+
+====================      ===============================================================================================================================================================
+**Key Term:**             * **Tabs:** are used to categorize the properties shown on a product’s page.
+
+**Description:**          * This feature allows the linking of a product to other different products (e.g. *Related Products, others,* etc).
+                            The related products will be visible in the product relationship side. The product is visible in the relationship tab of the related products, too.
+
+**Related topics:**       * :doc:`Manage Media Links </feature/product_feature/mdm/administration/datamodelrelationships/managemedialinks>`
+                          * :doc:`Define Relationships </feature/product_feature/mdm/administration/datamodelrelationships/definerelationships>`
+
+**Application:**          * Define Article Links will allow a product to be linked to similar products in the system.
+                            By setting relationships between products, an administrator can set *Related Products* for a product.
+                          * *Example:*
+
+                             An electronic product can be linked to its accessories that have also been added in the system.
+
+====================      ===============================================================================================================================================================
+
+
+How-to: Define Article Links
+================================
+To define article links, follow these steps:
+
+|
+
+#. Log in and click on the **Administration** button.
+
+.. image:: /feature/_images/mdmimages/cs_definearticlelinks_login.PNG
+|
+|
+
+#. Click on **Relationships**.
+
+.. image:: /feature/_images/mdmimages/cs_definearticlelinks_relationshipconfiguration.PNG
+|
+|
+
+#. Click on the "+" icon to create a new relationship.
+
+.. image:: /feature/_images/mdmimages/cs_definearticlelinks_clickplusicon.PNG
+|
+|
+
+#. Enter the name for the relationship and select the two desired entity classes to be linked in *Side1 and Side2* using the drop-down lists.
+   In the example shown, a relationship is created for an *Electronics* product and one of its *Accessories*.
+
+.. image:: /feature/_images/mdmimages/cs_definearticlelinks_entername.PNG
+|
+|
+
+
+#. Enter the information for the *Label* and select the *Cardinality* of the relationship. In cardinality, choose either *Many* or *One.*
+
+.. image:: /feature/_images/mdmimages/cs_definearticlelinks_enterinfo.PNG
+|
+|
+
+
+#. Tick on the **checkboxes** for the elements to be editable. Select either one or both sides.
+
+.. image:: /feature/_images/mdmimages/cs_definearticlelinks_tickcheckboxes.PNG
+|
+|
+
+
+#. Once done, click on the **Save** button.
+
+.. image:: /feature/_images/mdmimages/cs_definearticlelinks_clicksave.PNG
+|
+|
+
+
+#. View the applied relationship.
+
+.. image:: /feature/_images/mdmimages/cs_definearticlelinks_viewrelationship.PNG
+|
+|
+
+
+#. Add the articles in the *Relationships* tab.
+
+.. image:: /feature/_images/mdmimages/cs_definearticlelinks_addarticles.PNG
+|
+|
+
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line

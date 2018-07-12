@@ -5,7 +5,7 @@ Using the Features
 .. toctree::
    :maxdepth: 1
 
-   mdmguides
-   damguides
-   pepguides
-   tutorials
+   mdmguides/index
+   damguides/index
+   pepguides/index
+   tutorials/index

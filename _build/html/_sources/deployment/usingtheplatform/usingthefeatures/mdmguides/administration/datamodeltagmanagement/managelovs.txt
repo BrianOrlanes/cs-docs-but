@@ -1,0 +1,94 @@
+===========
+Manage LOVs
+===========
+Manage LOVs feature is a feature that lets you create a property with many possible values.
+
+
+====================    =============================================================================================================================================================
+**Key Term:**            * **Property:** a property is a field used to describe a product. It comes in several different types: *Name of Product, Price, Description*.
+
+**Description:**         * This feature  is used to create a property with many possible values.
+                         * Tags can be used to categorize your products, Contrary to categories.
+
+**Related topics:**      * :doc:`Manage Affinities </feature/product_feature/mdm/administration/datamodeltagmanagement/manageaffinities>`
+
+**Application:**         * Some property may have multiple values, wherein  it may/may not be appropriate to a value.
+                         * Multi-select the values that are applicable to the product.
+                         * Apply a boolean tag when the value is either true or false.
+
+====================    =============================================================================================================================================================
+
+
+How-to: Manage LOVs
+=====================
+To manage LOVs, follow these steps:
+
+|
+
+#. Log in and click on the **Administration** button.
+
+.. image:: /feature/_images/mdmimages/cs_managelovs_login.PNG
+|
+|
+
+
+#. Click on **Properties** and select **LOV**.
+
+.. image:: /feature/_images/mdmimages/cs_managelovs_clickproperties.PNG
+|
+.. image:: /feature/_images/mdmimages/cs_managelovs_selectlov.PNG
+|
+|
+
+
+#. Click on the "+" icon to create a new tag (LOV).
+
+.. image:: /feature/_images/mdmimages/cs_managelovs_clickplusicon.PNG
+|
+|
+
+
+#. Enter the name of the tag and click on the **Create** button.
+
+.. image:: /feature/_images/mdmimages/cs_managelovs_entername.PNG
+|
+|
+
+
+#. Select the type of tag from the drop-down list.
+
+.. image:: /feature/_images/mdmimages/cs_managelovs_selecttype.PNG
+|
+|
+
+
+#. Enter the other values such as *Description* and *Color* then click **Save**.
+
+.. image:: /feature/_images/mdmimages/cs_managelovs_clicksave.PNG
+|
+|
+
+
+#. Click on the **Create Tag Value** button.
+
+.. image:: /feature/_images/mdmimages/cs_managelovs_clickcreatetagvalue.PNG
+|
+|
+
+
+#. Enter the name of the tag value and click on the **Create** button.
+
+.. image:: /feature/_images/mdmimages/cs_managelovs_entertagvalue.PNG
+|
+|
+
+
+#. Repeat the above steps for other tag values.
+
+.. image:: /feature/_images/mdmimages/cs_managelovs_repeat.PNG
+|
+|
+
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line
