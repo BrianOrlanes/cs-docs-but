@@ -39,7 +39,7 @@ To do this, follow these steps:
 |
 |
 
-#. Select the product to clone.
+#.  Select the product to clone.
 
 .. image:: /feature/_images/mdmimages/cs_completeclone_selectproduct.PNG
 |
@@ -56,6 +56,7 @@ To do this, follow these steps:
 .. image:: /feature/_images/mdmimages/cs_completeclone_duplicateproduct.PNG
 |
 |
+
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
    :alt: Contentserv line
