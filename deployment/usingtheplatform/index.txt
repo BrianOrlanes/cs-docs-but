@@ -5,6 +5,5 @@ Using the Platform
 .. toctree::
    :maxdepth: 1
 
-   concepts/index
    usingthefeatures/index
    references
