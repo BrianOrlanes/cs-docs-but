@@ -5,4 +5,5 @@ Working with Classes
 .. toctree::
    :maxdepth: 1
 
-   working
+   overview
+   differentclasses

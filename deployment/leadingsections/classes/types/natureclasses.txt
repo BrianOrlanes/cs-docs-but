@@ -1,0 +1,30 @@
+================
+Nature Classes
+================
+
+Default Nature Classes
+=======================
+
+Single Article
+------------------
+A stand-alone product which is a sellable item.
+
+Product
+------------------
+A placeholder for a group of common products.
+
+Loose Bundle
+------------------
+A group of products where the quantity of each product can be defined by the retailer.
+
+Fixed Bundle
+------------------
+A group of products where the quantity of each product is fixed.
+
+Set of Products
+------------------
+Set of product recommendations like clothing pieces put on a mannequin in fashion stores.
+
+Promotional Collection
+-----------------------
+A group of products which is offered at a discounted price.
