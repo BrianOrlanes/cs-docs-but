@@ -1,0 +1,41 @@
+===========================
+Introduction to the Product
+===========================
+
+Overview
+=========
+
+What is a Product?
+------------------
+
+|
+
+Products are the merchandise offered to a market to satisfy a want or need. It is created through a process and provides benefits to a market.
+A chair, a table, or ‘set of furniture’ related to the dining room are examples of products. Similarly, a product can also be an idea or a service. In the CS Global System, a product can be a placeholder for a group of items of the same model or a  standalone item up for sale. Here, you can create a product, enrich it with images, videos and classify  it.
+
+To give our customers liberty of displaying the products in the most attractive manner and to aid the promotional activities, we have introduced various types of products, a detailed account of same is described in the following section.
+
+
+What are the types of Products in the system?
+---------------------------------------------
+
+The CS Global System allows you to create a variety of products. Each type of product has a unique set of values/attributes assigned to it. Having various types of products enhances its use and makes it more relevant. Say, A chair is a good standalone product to sell, but a Dining Table usually sells with chairs.
+
+Single Article
+--------------
+
+A Single Article is a standalone sellable item. This product type is usually used to create independent products. Say –a chair, a table-lamp, a mattress and so on. These Single Articles can be sold individually or grouped together to make a bundle. E.g. Furnishing items like chair, table, sofa, table-lamp are individual items for sale; when put together in a bundle they form ‘living room set’.
+
+
+#. Step.
+#. Step.
+#. Step.
+
+
+.. image:: /feature/_images/deploymentimages/cs_introproduct.PNG
+|
+|
+
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line
