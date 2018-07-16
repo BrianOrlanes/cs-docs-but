@@ -28,7 +28,6 @@ Single Article
 A Single Article is a standalone sellable item. This product type is usually used to create independent products. Items such as:  chair, table-lamp, mattress etc. These Single Articles can be sold individually or grouped together to make a bundle.
 Furnishing items like chair, table, sofa, table-lamp are individual items for sale; when put together in a bundle they form ‘living room set’.
 
-room set’.
 
 
 .. image:: /feature/_images/butimages/cs_introproduct_singlearticle.PNG
@@ -99,7 +98,7 @@ The Sales & Order Units in the CS system are defined as follows – **Base Unit:
 
 
 
-**Order Unit:** Order unit can be tagged to products that are in large quantity. We can say items that are usually not sell-able to an end customer. These units are usually tagged to products that a retailer orders from a wholesaler or a manufacturer (Mainly used for order the products in bulk) (Example, a fridge of beverages).
+**Order Unit:** Order unit can be tagged to products that are in large quantity. Therefore, items that are usually not sell-able to an end customer. These units are usually tagged to products that a retailer orders from a wholesaler or a manufacturer (Mainly used for order the products in bulk) Example, a fridge of beverages.
 
 *Some products can fall under both a sales unit and an order unit. (Example, a shoulder piece of pork)*.
 
@@ -116,7 +115,7 @@ Standard identifiers are a series of numeric or alphanumeric digits that are use
 PID
 ---
 
-A PID, in this system, is a virtual product used to group a product line elated to a brand / Product at one place. A PID is a set of similar products, but with a difference in one or two of the properties. Use this product type, if you have a product with almost similar attributes and properties, albeit varying in a certain property. A sofa retailer may have sofas of similar dimensions, varying in wood-type or fabric or color.
+A PID, in this system, is a virtual product used to group a product line elated to a brand/Product at one place. A PID is a set of similar products, but with a difference in one or two of the properties. Use this product type, if you have a product with almost similar attributes and properties, albeit varying in a certain property. A sofa retailer may have sofas of similar dimensions, varying in wood-type or fabric or color.
 
 .. image:: /feature/_images/butimages/cs_introproduct_pid.PNG
 |
