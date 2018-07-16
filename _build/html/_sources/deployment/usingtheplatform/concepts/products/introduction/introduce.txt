@@ -178,12 +178,6 @@ displayed in an editable table, making it easier for the user to
 make changes in real time.
 
 
-
-
-
-
-
-
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
    :alt: Contentserv line
 
