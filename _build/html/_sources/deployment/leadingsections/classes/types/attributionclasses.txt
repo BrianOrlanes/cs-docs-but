@@ -7,6 +7,20 @@ Attribution Classes with Examples
 
 Electronics
 ------------------
+    * Voltage
 
 Mobile
-------------------
+--------------
+
+    * Screen size
+    * Storage and RAM
+    * Operating System
+    * Camera
+
+
+Food
+--------------
+    * List of Nutritional Information
+    * Contains nuts?
+    * Contains pork?
+    * Contains beef?

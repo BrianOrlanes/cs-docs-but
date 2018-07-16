@@ -14,7 +14,7 @@ how that house will be built. You can use this blueprint to build one, two, or h
 way you define the blueprint of any object in the class, and then using that class you can create N
 number of objects of that class.
 
-| Different types of classes available in the system
+| Different classes available in the system
 * Article
 * Asset
 * Campaign
@@ -24,7 +24,11 @@ number of objects of that class.
 * Text Asset
 * Virtual Catalog
 
-Each type of class can be categorized either as: Nature Class or Non-Nature Class
+.. image:: /feature/_images/butimages/cs_classes.PNG
+|
+|
+
+Each class can be categorized either as: Nature Class or Non-Nature Class
 
 Nature Class
 --------------
