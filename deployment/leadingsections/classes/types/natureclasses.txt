@@ -2,10 +2,11 @@
 Nature Classes
 ===============
 
-Default Nature Classes
-=======================
 We can define base type of product using Nature class. Here, we can define behavior of a product.
 It helps to define how a product should look like. Below are the nature classes that have been predefined within the system.
+
+Predefined Nature Classes
+==========================
 
 Single Article
 ------------------
