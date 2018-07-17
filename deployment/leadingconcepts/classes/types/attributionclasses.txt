@@ -17,15 +17,16 @@ Examples of Attribution Classes
 Electronics
 --------------
     * Voltage
+    * Current
+    * Resistance
+    * Power
 
 Mobile
 ---------
-
     * Screen size
     * Storage and RAM
     * Operating System
     * Camera
-
 
 Food
 ------

@@ -2,8 +2,6 @@
 Introduction to Classes
 ===========================
 
-|
-
 What is a Class?
 ==================
 
@@ -25,8 +23,6 @@ number of objects of that class.
 * Virtual Catalog
 
 .. image:: /feature/_images/butimages/cs_classes.PNG
-|
-|
 
 Each class can be categorized either as: Nature Class or Non-Nature Class
 
