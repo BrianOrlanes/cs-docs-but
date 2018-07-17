@@ -27,9 +27,9 @@ Hierarchies
 Definition and Use
 ===================
 
-A hierarchy refers to the way products are organized and displayed in the system. Each hierarchy level divides similar types of products into progressively smaller categories. The main objectives of hierarchy are to structure, set up and maintain product attributes and properties at the category level.
+A hierarchy refers to the way products are organized and displayed in the system. Each hierarchy level divides similar types of products into progressively smaller categories. The main objectives of hierarchy are to structure, set up, and maintain product attributes and properties at the category level.
 *Example:*
- If we create a hierarchy of Master 'Fashion' Taxonomy, it can be further classified to level 2 ('Shirts', 'Trousers', etc). A Shirt can be further, be classified to Formal or casual wear.
+ If we create a hierarchy of Master 'Fashion' Taxonomy, it can be further classified to level 2 ('Shirts', 'Trousers', etc). A Shirt can be further, be classified to Formal or Casual wear.
 
 
 Major Taxonomy
