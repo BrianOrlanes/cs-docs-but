@@ -1,0 +1,53 @@
+===============
+Nature Classes
+===============
+
+We can define base type of product using Nature class. Here, we can define behavior of a product.
+It helps to define how a product should look like. Below are the nature classes that have been predefined within the system.
+
+Predefined Nature Classes
+==========================
+
+Single Article
+------------------
+A stand-alone product which is a sellable item.
+
+      **Example:**  Dog Bed (Male/Female color scheme).
+
+
+
+Product
+---------
+A placeholder for a group of common products.
+
+      **Example:** Red Bull as the Product, which contains variants like *Regular, Sugarfree, and Zero*.
+
+
+Loose Bundle
+--------------
+A group of products where the quantity of each product can be defined by the retailer.
+
+      **Example:**  Water Bottle Pack: Buy 10 or more for 15% off.  Each item over 10 can still receive the discount.
+
+
+Fixed Bundle
+--------------
+A group of products where the quantity of each product is fixed.
+
+      **Example:**  A Shaving Kit Pack includes 3 blades and a shaving cream. As these are in the same packaging, the customer cannot add more blades for that pack purchase.
+
+
+
+Set of Products
+------------------
+Set of product recommendations like clothing pieces put on a mannequin in fashion stores.
+
+      **Example:** Hat, T-Shirt, Shorts, and Sandals for use on mannequins.
+
+
+
+Promotional Collection
+-----------------------
+A group of products which is offered at a discounted price.
+
+      **Example:**  Buy 3 bags of Dog Food for the price of 2.
