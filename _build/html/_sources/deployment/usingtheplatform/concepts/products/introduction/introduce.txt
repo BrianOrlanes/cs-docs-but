@@ -115,7 +115,7 @@ Standard identifiers are a series of numeric or alphanumeric digits that are use
 PID
 ---
 
-A PID, in this system, is a virtual product used to group a product line elated to a brand/Product at one place. A PID is a set of similar products, but with a difference in one or two of the properties. Use this product type, if you have a product with almost similar attributes and properties, albeit varying in a certain property. A sofa retailer may have sofas of similar dimensions, varying in wood-type or fabric or color.
+A PID, in this system, is a virtual product used to group a product line related to a brand/Product at one place. A PID is a set of similar products, but with a difference of one or two of the properties. Use this product type, if you have a product with almost similar attributes and properties, albeit varying in a certain property. A sofa retailer may have sofas of similar dimensions, varying in wood-type or fabric or color.
 
 .. image:: /feature/_images/butimages/cs_introproduct_pid.PNG
 |
