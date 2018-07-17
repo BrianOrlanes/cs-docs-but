@@ -1,5 +1,5 @@
 ================================
-Configure the Products
+Configuring the Products
 ================================
 
 .. toctree::

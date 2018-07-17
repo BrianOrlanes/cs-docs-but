@@ -1,5 +1,5 @@
 ================================
-Introduction to Products
+Defining the Products
 ================================
 
 .. toctree::
