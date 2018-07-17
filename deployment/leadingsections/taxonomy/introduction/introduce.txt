@@ -19,30 +19,33 @@ In CS Global system, Taxonomy has two types:
 * Major Taxonomy
 
 
-===========
+
+
 Hierarchies
-===========
+-------------
 
 
 Definition and Use
-------------------
+===================
 
 A hierarchy refers to the way products are organized and displayed in the system. Each hierarchy level divides similar types of products into progressively smaller categories. The main objectives of hierarchy are to structure, set up and maintain product attributes and properties at the category level.
 *Example:*
  If we create a hierarchy of Master 'Fashion' Taxonomy, it can be further classified to level 2 like 'Shirts', 'Trousers', etc. A Shirt can be, further, be classified on Formal or casual wear.
 
-=================
-#. Major Taxonomy
-=================
+
+Major Taxonomy
+----------------
 
 
 Definition and Use
-------------------
+===================
 
 Major Taxonomy determines the category of the products.  It is, generally, the highest node of the hierarchy that drives the inheritance. Major Taxonomy may have several levels (Level -2, Level -3, etc.). Major taxonomy has category specific attributes mapped to relevant category levels. Master taxonomy is generally static, as any changes there would impact the overall data quality. A major difference between Hierarchy and Taxonomy in this system is that you can’t add ‘property collection’ to hierarchies.
 
 
 *Example:*
+
+
 A Retailer selling furniture and home appliances may categorize products into Kitchen & Bathroom, Living Room, and Bed Room and so on. The category Kitchen & Bathroom can further have categories like Kitchen Furniture, Bathroom Furniture, and Appliances and so on.
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
