@@ -11,10 +11,13 @@ It can be used to deal with large volume of data and want to categorize it - in 
 *Example:*
  Taxonomy determines the type of product (Chair), its category (Furniture), its attributes (Teakwood, Mahogany, etc.) and the attribute’s type (Wood type, wood finish).
 
+ .. image:: /feature/_images/butimages/cs_introduce_taxonomy.PNG
+
 In CS Global system, Taxonomy has two types:
 
-* Heirarchies
+* Hierarchies
 * Major Taxonomy
+
 
 
 Hierarchies
