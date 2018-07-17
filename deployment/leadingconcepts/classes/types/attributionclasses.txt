@@ -10,15 +10,16 @@ Every mobile phone product in your system can be given this Attribution Class. O
 Below are examples of Attribution Classes and potential properties that they may hold. Each class is fully customizable through the Settings backend.
 
 
-Attribution Classes with Examples
+Examples of Attribution Classes
 ==================================
 
+
 Electronics
-------------------
+--------------
     * Voltage
 
 Mobile
---------------
+---------
 
     * Screen size
     * Storage and RAM
@@ -27,7 +28,7 @@ Mobile
 
 
 Food
---------------
+------
     * List of Nutritional Information
     * Contains nuts?
     * Contains pork?

@@ -7,11 +7,11 @@ Introduction to Classes
 What is a Class?
 ==================
 
-A class is a blueprint, detailed description, a definition of the object. It describes the attributes,
+A class is a blueprint, a detailed description, a definition of the object. It describes the attributes,
 characteristics and behavior that you use to create any type of object. For example, you want to
 build a house, then you first make its blueprint. The blueprint of a house describes everything about
 how that house will be built. You can use this blueprint to build one, two, or hundred houses. In the same manner,
-way you define the blueprint of any object in the class, and then using that class you can create N
+you define the blueprint of any object in the class, and then using that class you can create N
 number of objects of that class.
 
 | Different classes available in the system
@@ -33,7 +33,7 @@ Each class can be categorized either as: Nature Class or Non-Nature Class
 Nature Class
 --------------
 
-We can define base type of product using Nature class. Here, we can define behavior of a product. It
+We can define a base type of product using Nature class. Here, we can define behavior of a product. It
 helps to define how a product should look like.
 
 

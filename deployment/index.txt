@@ -7,5 +7,5 @@ Deployment Guides
 
    gettingstarted/index
    settingup/index
-   leadingsections/index
+   leadingconcepts/index
    usingtheplatform/index
