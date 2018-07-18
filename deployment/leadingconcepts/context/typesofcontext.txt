@@ -1,3 +1,44 @@
-================================
+========
+Context
+========
+Definition and Use
+==================
+
+In today’s times, accurately delivering a message via a channel to a given person at a specific time has become a challenge and an opportunity to determine a successful business. CS Global Systems now uses this opportunity to ensure we are using top of the line technology provided to our customers.  The CS Global System has 3 types of contexts which when applied to the products ensure simplicity and minimize duplicity of the content.
+
+
+
 Types of Context
-================================
+=================
+
+Attribute Context
+-----------------
+
+A retailer’s system may have a thousand products that include Individual articles, articles varying in single or few attributes. To save time, space and for better product organization, Attribute Context can be used to create product variants varying in one or more attributes.
+
+  **Example:**
+
+  Sofas with similar dimension but varying in fabric or wood-type.
+
+Relationship Context
+---------------------
+
+This Relationship Context lets user link several related entity (e.g. images) to a single article. This can be used to give the correct impression of the product's height, width, depth and information (if any).
+
+  **Example:**
+
+  A retailer selling dog food would add several images (front side, back side and side display) to the main product image to give the customer a better and thorough impression of the product. The back-side image often contains important ingredients information, which assist customer make a purchase.
+
+Version Context
+----------------
+
+The feature ‘Version Context’ helps the user create various versions (varies according to the tags) of a product.
+This feature will create clones of original product and is particularly helpful when the user needs to run promotional campaign on one or few versions of the product.
+  **Example:**
+
+  Retailer ‘A’ wants to run a promotion on iPhone 6’s 32 GB and 64 GB variant only during Christmas. He will create variants of the original product through the feature ‘Version Context’ and have a time bound campaigns running for those.
+
+|
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line
