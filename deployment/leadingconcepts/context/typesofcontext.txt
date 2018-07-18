@@ -1,6 +1,7 @@
 ========
 Context
 ========
+
 Definition and Use
 ==================
 
@@ -18,7 +19,7 @@ A retailer’s system may have a thousand products that include Individual artic
 
   **Example:**
 
-  Sofas with similar dimension but varying in fabric or wood-type.
+  Some products such as Sofas, have similar dimension but varies in fabric or wood-type.
 
 Relationship Context
 ---------------------
@@ -34,6 +35,7 @@ Version Context
 
 The feature ‘Version Context’ helps the user create various versions (varies according to the tags) of a product.
 This feature will create clones of original product and is particularly helpful when the user needs to run promotional campaign on one or few versions of the product.
+
   **Example:**
 
   Retailer ‘A’ wants to run a promotion on iPhone 6’s 32 GB and 64 GB variant only during Christmas. He will create variants of the original product through the feature ‘Version Context’ and have a time bound campaigns running for those.
