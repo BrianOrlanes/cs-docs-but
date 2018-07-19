@@ -1,3 +1,52 @@
 ===============
 Relationships
 ===============
+
+Relationship defines the way in which two components of the system are associated with each other. It is the link between two objects/ entities. All different components of the system have relationship with each other.  Example of these relationships existing in the ContentServ components are: relationship between article and asset, article and market, campaign and asset, campaign and promotion, asset and asset, etc.). There are four types of relationships in a system:
+* One to One
+* One to Many
+* Many to One
+* Many to Many
+
+One to One Relationship
+=======================
+
+One to One relationship refers to the relationship between two components A and B in such a way that one element of A is linked with only one element of B and vice versa.
+
+  **Example:**
+
+  #. A country has only one city capital, and a capital city is the capital of only one country.
+  #. A new furniture brand is launched, the brand initially only produces a sofa set. The sofa set is available in its brand store only. This is the example of one to one relationship between an article and a market. A sofa set is the example of an article, and a brand store is an example of the market.
+
+One to Many Relationship
+========================
+
+One to Many relationships refers to the relationship between two components A and B. An element of A is linked with multiple elements of B and multiple elements of B are linked with only one element of A.
+
+  **Example:**
+
+  An Apple store has many apple products like iPhone, apple watch, iPod, and so on, but all the Apple products are available in Apple store only. This is the example of one to many relationships between a market and articles, where an Apple store is the market and Apple products are the articles.
+
+Many to One Relationship
+============================
+
+Many to One relationships refers to the relationship between two components A and B. Elements of A are linked with one element of B and one element of B is linked with multiple elements of A.
+
+  **Example:**
+
+  NEXA cars like Baleno, Ignis, S-Cross are available in only NEXA stores. But, NEXA store can have multiple cars like Baleno, Ignis, S-Cross, etc. This is also an example of many to one relationship between articles and a store.
+
+
+Many to Many Relationship
+==========================
+
+  Many to Many relationships refers to the relationship between two components A and B. Multiple elements of A are linked with multiple elements of B and multiple elements of B are linked with multiple elements of A.
+
+  **Example:**
+
+  A mobile seller wants to add the images of the mobile phone in the system. He will add front, back, top and bottom view of a mobile phone with his product. So, a single mobile phone will have multiple images. Now, same images can be used for all the variants of that model. For example, same images can be used with 32 GB variant, 64 GB variant, and 128 GB variant of a mobile phone. The same images can also be used with all the models of a mobile phone. It is also an example of article-asset relationship, where mobile phone is an article and its images are the assets in the system. The mobile phone can have multiple images, and same images can be used with multiple mobile phones.
+
+|
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line
