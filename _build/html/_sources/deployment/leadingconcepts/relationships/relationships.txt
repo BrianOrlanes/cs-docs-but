@@ -3,9 +3,13 @@ Relationships
 ===============
 
 Relationship defines the way in which two components of the system are associated with each other. It is the link between two objects/ entities. All different components of the system have relationship with each other.  Example of these relationships existing in the ContentServ components are: relationship between article and asset, article and market, campaign and asset, campaign and promotion, asset and asset, etc.). There are four types of relationships in a system:
+
 * One to One
+
 * One to Many
+
 * Many to One
+
 * Many to Many
 
 One to One Relationship
