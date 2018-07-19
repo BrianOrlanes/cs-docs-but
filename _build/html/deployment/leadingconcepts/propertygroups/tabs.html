@@ -8,7 +8,7 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
-  <title>Deploying to Azure &mdash; Contentserv  documentation</title>
+  <title>Creating Tabs &mdash; Contentserv  documentation</title>
   
 
   
@@ -28,8 +28,8 @@
   <link rel="stylesheet" href="../../../_static/pygments.css" type="text/css" />
     <link rel="index" title="Index" href="../../../genindex.html" />
     <link rel="search" title="Search" href="../../../search.html" />
-    <link rel="next" title="Deploying on Premise (Local Source)" href="onpremise.html" />
-    <link rel="prev" title="Deploying to Amazon Web Services (AWS)" href="aws.html" /> 
+    <link rel="next" title="Taxonomy" href="../taxonomy/index.html" />
+    <link rel="prev" title="Adding Property Collections to Products" href="propertycollections.html" /> 
 
   
   <script src="../../../_static/js/modernizr.min.js"></script>
@@ -87,17 +87,17 @@
 <li class="toctree-l2"><a class="reference internal" href="../../../introduction.html">Contentserv</a></li>
 <li class="toctree-l2 current"><a class="reference internal" href="../../index.html">Deployment Guides</a><ul class="current">
 <li class="toctree-l3"><a class="reference internal" href="../../gettingstarted/index.html">Getting Started</a></li>
-<li class="toctree-l3 current"><a class="reference internal" href="../index.html">Setting Up</a><ul class="current">
-<li class="toctree-l4"><a class="reference internal" href="../assessing/index.html">Assessing your Environment and Requirements</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../planning.html">Planning and Preparing your Deployment</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../installing.html">Installing your Contentserv Platform</a></li>
-<li class="toctree-l4 current"><a class="reference internal" href="index.html">Deploying the Platform</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../settingup.html">Setting up Security Features</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../configuring/index.html">Configuring the Components</a></li>
-<li class="toctree-l4"><a class="reference internal" href="../checking.html">Checking the System after deployment</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../settingup/index.html">Setting Up</a></li>
+<li class="toctree-l3 current"><a class="reference internal" href="../index.html">Leading Concepts</a><ul class="current">
+<li class="toctree-l4"><a class="reference internal" href="../products/index.html">Products</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../classes/index.html">Classes</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../properties/index.html">Properties</a></li>
+<li class="toctree-l4 current"><a class="reference internal" href="index.html">Property Groups</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../taxonomy/index.html">Taxonomy</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../context/index.html">Context</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../relationships/index.html">Relationships and Templates</a></li>
 </ul>
 </li>
-<li class="toctree-l3"><a class="reference internal" href="../../leadingconcepts/index.html">Leading Concepts</a></li>
 <li class="toctree-l3"><a class="reference internal" href="../../usingtheplatform/index.html">Using the Platform</a></li>
 </ul>
 </li>
@@ -157,11 +157,11 @@
         
           <li><a href="../../index.html">Deployment Guides</a> &raquo;</li>
         
-          <li><a href="../index.html">Setting Up</a> &raquo;</li>
+          <li><a href="../index.html">Leading Concepts</a> &raquo;</li>
         
-          <li><a href="index.html">Deploying the Platform</a> &raquo;</li>
+          <li><a href="index.html">Property Groups</a> &raquo;</li>
         
-      <li>Deploying to Azure</li>
+      <li>Creating Tabs</li>
     
     
       <li class="wy-breadcrumbs-aside">
@@ -178,21 +178,24 @@
           <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
            <div itemprop="articleBody">
             
-  <div class="section" id="s-deploying-to-azure">
-<span id="deploying-to-azure"></span><h1>Deploying to Azure<a class="headerlink" href="#deploying-to-azure" title="Permalink to this headline">¶</a></h1>
-<ol class="arabic simple">
-<li><a class="reference internal" href="../../../reference/deploymentprerequisites.html"><span class="doc">Refer to the Deployment Prerequisites.</span></a></li>
-</ol>
+  <div class="section" id="s-creating-tabs">
+<span id="creating-tabs"></span><h1>Creating Tabs<a class="headerlink" href="#creating-tabs" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="s-what-is-a-tab">
+<span id="what-is-a-tab"></span><h2>What is a Tab<a class="headerlink" href="#what-is-a-tab" title="Permalink to this headline">¶</a></h2>
+<p>For a better distribution of content and a clutter-free display, one could divide all the product information into various tabs.
+The tabs may contain one or many property collections added to it. Relevant tabs make navigation easy and give product desired structure.
+Once the content behind each tab is logically chunked the users can easily predict what they’ll find when they select a given tab.</p>
+<blockquote>
+<div><p><strong>Example:</strong></p>
+<p>Mobile Product information can be divided into several tabs – Overview (that displays information like classes, Taxonomies, Versions),
+Property Collection (that displays information like Brand Name, PID, Short and Long Description and so on), and Relationships (that displays related Images, Market, Video, and so on).</p>
+</div></blockquote>
+<img alt="feature/_images/butimages/cs_tabs.PNG" src="feature/_images/butimages/cs_tabs.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
-<div class="line"><br /></div>
 </div>
-<img alt="azure admin login screen" src="deployment\settingup\deploying\_images/deployinazure_loginscreen.PNG" />
-<div class="line-block">
-<div class="line"><br /></div>
-<div class="line"><br /></div>
+<img alt="Contentserv line" src="../../../_images/line-png-32.PNG" />
 </div>
-<img alt="Contentserv line" src="deployment\settingup\deploying\_images/line-png-32.PNG" />
 </div>
 
 
@@ -203,10 +206,10 @@
   
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
       
-        <a href="onpremise.html" class="btn btn-neutral float-right" title="Deploying on Premise (Local Source)" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+        <a href="../taxonomy/index.html" class="btn btn-neutral float-right" title="Taxonomy" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
       
       
-        <a href="aws.html" class="btn btn-neutral" title="Deploying to Amazon Web Services (AWS)" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+        <a href="propertycollections.html" class="btn btn-neutral" title="Adding Property Collections to Products" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
       
     </div>
   
