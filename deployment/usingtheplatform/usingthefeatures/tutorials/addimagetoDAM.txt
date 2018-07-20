@@ -9,55 +9,55 @@ How-to: Add an Image
 To do this, follow these steps:
 
 
-#. Click **All**.
+* Click **All**.
 
 .. image:: /feature/_images/mdmimages/addingimage_clickall.PNG
 |
 |
 
-#. Click **DAM**.
+* Click **DAM**.
 
 .. image:: /feature/_images/mdmimages/addingimage_clickDAM.PNG
 |
 |
 
-#.  Hover on the "+".
+*  Hover on the "+".
 
 .. image:: /feature/_images/mdmimages/addingimage_hoverplus.PNG
 |
 |
 
-#.   Then, click **Image**.
+*   Then, click **Image**.
 
 .. image:: /feature/_images/mdmimages/addingimage_selimage.PNG
 |
 |
 
-#.    Click the **Add Image** icon on the File Preview section, and select your desired image from your computer.
+*    Click the **Add Image** icon on the File Preview section, and select your desired image from your computer.
 
 .. image:: /feature/_images/mdmimages/addingimage_clickcloud.PNG
 |
 |
 
-#.   The image appears on the File Preview section, and enter a name for the image.
+*   The image appears on the File Preview section, and enter a name for the image.
 
 .. image:: /feature/_images/mdmimages/addingimage_entername.PNG
 |
 |
 
-#. Then, click **Save**.
+* Then, click **Save**.
 
 .. image:: /feature/_images/mdmimages/addingimage_enternamesave.PNG
 |
 |
 
-#.    Click **Metadata**.
+*    Click **Metadata**.
 
 .. image:: /feature/_images/mdmimages/addingimage_clickmeta.PNG
 |
 |
 
-#.	The available metadata on the Meta Data section  will auto-complete but fields can be manually filled out as desired.
+*	The available metadata on the Meta Data section  will auto-complete but fields can be manually filled out as desired.
 
 .. image:: /feature/_images/mdmimages/addingimage_compmeta.PNG
 

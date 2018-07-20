@@ -11,13 +11,13 @@ To do this, follow these steps:
 
 |
 
-#.	Click  **All** from the top right.
+*	Click  **All** from the top right.
 
 .. image:: /feature/_images/mdmimages/createnewprod_clickall.PNG
 |
 |
 
-#. Hover over the "+" icon and select the desired product (in this demo, we select **Single Product**).
+* Hover over the "+" icon and select the desired product (in this demo, we select **Single Product**).
 
 .. image:: /feature/_images/mdmimages/createnewprod_hoverplus.PNG
 |
@@ -27,19 +27,19 @@ To do this, follow these steps:
 |
 |
 
-#. Enter the necessary information. Items with red marks are required to be filled out.
+* Enter the necessary information. Items with red marks are required to be filled out.
 
 .. image:: /feature/_images/mdmimages/createnewprod_completeattrib.PNG
 |
 |
 
-#. Click **Add Taxonomy** to add taxonomy to the product.
+* Click **Add Taxonomy** to add taxonomy to the product.
 
 .. image:: /feature/_images/mdmimages/createnewprod_addtax.PNG
 |
 |
 
-#. Taxonomy menu appears. Select the desired taxonomy (in this demo, we select **Tops**).
+* Taxonomy menu appears. Select the desired taxonomy (in this demo, we select **Tops**).
 
 .. image:: /feature/_images/mdmimages/createnewprod_taxmenu.PNG
 |
@@ -49,27 +49,27 @@ To do this, follow these steps:
 |
 |
 
-#.  View the selected taxonomy.
+*  View the selected taxonomy.
 
 .. image:: /feature/_images/mdmimages/createnewprod_taxselected.PNG
 |
 |
 
-#.  Click  **Relationships** tab to add an image to the product.
+*  Click  **Relationships** tab to add an image to the product.
 
 
 .. image:: /feature/_images/mdmimages/createnewprod_clickrel.PNG
 |
 |
 
-#.  Click on  "+" to add an entity.
+*  Click on  "+" to add an entity.
 
 
 .. image:: /feature/_images/mdmimages/createnewprod_caddentity.PNG
 |
 |
 
-#.  Click the select button to add the desired image (button turns to blue when selected), then click  **Add**.
+*  Click the select button to add the desired image (button turns to blue when selected), then click  **Add**.
 
 .. image:: /feature/_images/mdmimages/createnewprod_imageselect.PNG
 |
@@ -78,13 +78,13 @@ To do this, follow these steps:
 |
 |
 
-#.  Drag the selected image to the right pane can also be performed to add the image.
+*  Drag the selected image to the right pane can also be performed to add the image.
 
 .. image:: /feature/_images/mdmimages/createnewprod_dragimage.PNG
 |
 |
 
-#.  To add more image, click **Return**, and repeat the previous steps.
+*  To add more image, click **Return**, and repeat the previous steps.
 
 .. image:: /feature/_images/mdmimages/createnewprod_clickret.PNG
 |
