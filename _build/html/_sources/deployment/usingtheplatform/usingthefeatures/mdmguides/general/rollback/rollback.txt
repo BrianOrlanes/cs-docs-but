@@ -31,42 +31,42 @@ To do this, follow these steps:
 
 |
 
-#. Go to **PIM**.
+* Go to **PIM**.
 
 .. image:: /feature/_images/mdmimages/cs_rollback_gotopim2.PNG
 |
 |
 
 
-#. Click to select the desired product for which you want to perform rollback operation.
+* Click to select the desired product for which you want to perform rollback operation.
 
 .. image:: /feature/_images/mdmimages/cs_rollback_selectproduct.PNG
 |
 |
 
 
-#. Click on the *Relationships* tab.
+* Click on the *Relationships* tab.
 
 .. image:: /feature/_images/mdmimages/cs_rollback_clickrelationship.PNG
 |
 |
 
 
-#. In this demo, we will remove the image and change an attribute.
+* In this demo, we will remove the image and change an attribute.
 
 .. image:: /feature/_images/mdmimages/cs_rollback_removeimage.PNG
 |
 |
 
 
-#. Click **OK** to save the changes.
+* Click **OK** to save the changes.
 
 .. image:: /feature/_images/mdmimages/cs_rollback_clickoksave.PNG
 |
 |
 
 
-#. In the *Properties* Tab, change the price of the product (or any other attribute).
+* In the *Properties* Tab, change the price of the product (or any other attribute).
 
 .. image:: /feature/_images/mdmimages/cs_rollback_clickproperties.PNG
 |
@@ -76,21 +76,21 @@ To do this, follow these steps:
 |
 
 
-#. Click on **Save** to save to save the changes on the product.
+* Click on **Save** to save to save the changes on the product.
 
 .. image:: /feature/_images/mdmimages/cs_rollback_clicksave.PNG
 |
 |
 
 
-#. Click **Timeline**. The current version of the product would be with the latest version number on the top.
+* Click **Timeline**. The current version of the product would be with the latest version number on the top.
 
 .. image:: /feature/_images/mdmimages/cs_rollback_clicktimeline.PNG
 |
 |
 
 
-#. Click on **Zoom in** icon to preview the changes in the product versions.
+* Click on **Zoom in** icon to preview the changes in the product versions.
 
 .. image:: /feature/_images/mdmimages/cs_rollback_clickzoomin.PNG
 |
@@ -104,7 +104,7 @@ Select the versions (one or more) that you would like to compare the current ver
 |
 
 
-#.  Click on **Compare** icon.Then, and click **OK** to close the window.
+*  Click on **Compare** icon.Then, and click **OK** to close the window.
 
 .. image:: /feature/_images/mdmimages/cs_rollback_clickcompare.PNG
 |
@@ -116,7 +116,7 @@ Select the versions (one or more) that you would like to compare the current ver
 |
 
 
-#. Click **Rollback** icon of the selected version.
+* Click **Rollback** icon of the selected version.
 
 .. image:: /feature/_images/mdmimages/cs_rollback_clickrollback.PNG
 |
@@ -126,7 +126,7 @@ Select the versions (one or more) that you would like to compare the current ver
 |
 
 
-#. Once the rollback has been confirmed, go to  the *Properties* Tab, and the changes  is restored. View the image (now rereverted to the old version).
+* Once the rollback has been confirmed, go to  the *Properties* Tab, and the changes  is restored. View the image (now rereverted to the old version).
 
 .. image:: /feature/_images/mdmimages/cs_rollback_viewimage.PNG
 |

@@ -33,14 +33,14 @@ To restrict a role's access to class and taxonomy, follow these steps:
 |
 
 
-#. Log in and click on the **Administration** button to enter the configuration page.
+* Log in and click on the **Administration** button to enter the configuration page.
 
 .. image:: /feature/_images/mdmimages/cs_manageroleaccesstoclassandtaxonomies_clickadministration.PNG
 |
 |
 
 
-#. Create a user.
+* Create a user.
 
 
       * Go to *Partner Administration* tab.
@@ -72,7 +72,7 @@ To restrict a role's access to class and taxonomy, follow these steps:
       |
 
 
-#. Create Partners (Organization).
+* Create Partners (Organization).
 
 
       * Click on **Partners** then click on the "+" icon on the right side of the window.
@@ -94,7 +94,7 @@ To restrict a role's access to class and taxonomy, follow these steps:
       |
 
 
-#. Add roles to the users in the organization.
+* Add roles to the users in the organization.
 
 
       * Click on the **Roles** tab
@@ -137,7 +137,7 @@ To restrict a role's access to class and taxonomy, follow these steps:
 |
 
 
-#. Log in as the user to view the products assigned to you.
+* Log in as the user to view the products assigned to you.
 
 .. image:: /feature/_images/mdmimages/cs_manageroleaccesstoclassandtaxonomies_loginasuser.PNG
 |

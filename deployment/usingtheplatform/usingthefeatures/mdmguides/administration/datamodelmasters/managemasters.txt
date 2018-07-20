@@ -27,35 +27,35 @@ To do this, follow these steps:
 
 |
 
-#. Click  **Administration** icon.
+* Click  **Administration** icon.
 
 .. image:: /feature/_images/mdmimages/cs_managemasters_gotoadmin.PNG
 |
 |
 
 
-#. Click *Data Model* tab.
+* Click *Data Model* tab.
 
 .. image:: /feature/_images/mdmimages/cs_managemasters_clickdatam.PNG
 |
 |
 
 
-#. Click **Properties** to view the dropdown menu.
+* Click **Properties** to view the dropdown menu.
 
 .. image:: /feature/_images/mdmimages/cs_managemasters_clickprop.PNG
 |
 |
 
 
-#. Click **Master** on the dropdown menu.
+* Click **Master** on the dropdown menu.
 
 .. image:: /feature/_images/mdmimages/cs_managemasters_clickmas.PNG
 |
 |
 
 
-#. Click the "+" icon on the right of the window. A small details window appears.
+* Click the "+" icon on the right of the window. A small details window appears.
 
 .. image:: /feature/_images/mdmimages/cs_managemasters_clickplus.PNG
 |
@@ -66,27 +66,27 @@ To do this, follow these steps:
 |
 
 
-#. Enter a tag name i.e “Region” and click **CREATE**. Repeat the process to create other tags such as *Color, Material*, and *Brands* to create Master tags.
+* Enter a tag name i.e “Region” and click **CREATE**. Repeat the process to create other tags such as *Color, Material*, and *Brands* to create Master tags.
 
 |
 |
 
 
-#. Click **Create tag value** to create subtag value.
+* Click **Create tag value** to create subtag value.
 
 .. image:: /feature/_images/mdmimages/cs_managemasters_createsub.PNG
 |
 |
 
 
-#. Enter a  name for the subtag and click **CREATE**.
+* Enter a  name for the subtag and click **CREATE**.
 
 .. image:: /feature/_images/mdmimages/cs_managemasters_clickcreatesub.PNG
 |
 |
 
 
-#. View the created tags.
+* View the created tags.
 
 .. image:: /feature/_images/mdmimages/cs_managemasters_viewtags.PNG
 |

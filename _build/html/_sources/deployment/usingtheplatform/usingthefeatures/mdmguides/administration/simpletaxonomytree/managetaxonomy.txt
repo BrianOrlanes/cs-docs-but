@@ -37,42 +37,42 @@ Here's how to do a simple taxonomy tree.
 
 |
 
-#. Click the **Gear** icon to go to *Settings*.
+* Click the **Gear** icon to go to *Settings*.
 
 .. image:: /feature/_images/mdmimages/managetaxonomy_settings.PNG
 |
 |
 
 
-#. Click the **Taxonomy Configuration** button.
+* Click the **Taxonomy Configuration** button.
 
 .. image:: /feature/_images/mdmimages/managetaxonomy_taxonomyconfig.PNG
 |
 |
 
 
-#. Click on the "+" icon to create a new taxonomy.
+* Click on the "+" icon to create a new taxonomy.
 
 .. image:: /feature/_images/mdmimages/managetaxonomy_newtaxonomy.PNG
 |
 |
 
 
-#. Enter the necessary data and click **Save**.
+* Enter the necessary data and click **Save**.
 
 .. image:: /feature/_images/mdmimages/managetaxonomy_filldata.PNG
 |
 |
 
 
-#. To make a hierarchy, click on the taxonomy then click **Create**.
+* To make a hierarchy, click on the taxonomy then click **Create**.
 
 .. image:: /feature/_images/mdmimages/managetaxonomy_makehierarchy.PNG
 |
 |
 
 
-#. Click the "+" icon to add property collection and click **Apply**.
+* Click the "+" icon to add property collection and click **Apply**.
 
 .. image:: /feature/_images/mdmimages/managetaxonomy_addpropertycollection1.PNG
 |
@@ -83,7 +83,7 @@ Here's how to do a simple taxonomy tree.
 |
 
 
-#. Go to PIM. Hover on the "+" icon and select the product.
+* Go to PIM. Hover on the "+" icon and select the product.
 
 .. image:: /feature/_images/mdmimages/managetaxonomy_selectproduct1.PNG
 |
@@ -92,14 +92,14 @@ Here's how to do a simple taxonomy tree.
 |
 
 
-#. Enter the necessary data and click **Add Taxonomy**.
+* Enter the necessary data and click **Add Taxonomy**.
 
 .. image:: /feature/_images/mdmimages/managetaxonomy_addtaxonomy.PNG
 |
 |
 
 
-#. For additional classification, click **Classify further**.
+* For additional classification, click **Classify further**.
 
 .. image:: /feature/_images/mdmimages/managetaxonomy_classifyfurther.PNG
 |

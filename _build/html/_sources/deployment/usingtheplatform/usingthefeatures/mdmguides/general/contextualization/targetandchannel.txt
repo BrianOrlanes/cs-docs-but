@@ -28,79 +28,79 @@ To do this, follow these steps:
 
 |
 
-#. Go to *Settings* tab.
+* Go to *Settings* tab.
 
 .. image:: /feature/_images/mdmimages/targetandchannel_gotosettings.PNG
 |
 |
 
-#. Select *Context Configuration*.
+* Select *Context Configuration*.
 
 .. image:: /feature/_images/mdmimages/targetandchannel_selectcontextconfiguration.PNG
 |
 |
 
-#. Create new context.
+* Create new context.
 
 .. image:: /feature/_images/mdmimages/targetandchannel_createnewcontext.PNG
 |
 |
 
-#. Fill in the name and select *Attribute Context* as the feature type.
+* Fill in the name and select *Attribute Context* as the feature type.
 
 .. image:: /feature/_images/mdmimages/targetandchannel_fillname.PNG
 |
 |
 
-#. Select tag group to be added in the context and click **Save**.
+* Select tag group to be added in the context and click **Save**.
 
 .. image:: /feature/_images/mdmimages/targetandchannel_selecttaggroup.PNG
 |
 |
 
-#. In the class configuration, select the class.
+* In the class configuration, select the class.
 
 .. image:: /feature/_images/mdmimages/targetandchannel_selectclass.PNG
 |
 |
 
-#. Select the desired attribute then select the context from the drop-down list.
+* Select the desired attribute then select the context from the drop-down list.
 
 .. image:: /feature/_images/mdmimages/targetandchannel_selectdesiredattribute.PNG
 |
 |
 
-#. Click **Save** and try the changes in runtime.
+* Click **Save** and try the changes in runtime.
 
 .. image:: /feature/_images/mdmimages/targetandchannel_clicksave.PNG
 |
 |
 
-#. Select the product.
+* Select the product.
 
 .. image:: /feature/_images/mdmimages/targetandchannel_selectproduct.PNG
 |
 |
 
-#. Click on the attribute with variations.
+* Click on the attribute with variations.
 
 .. image:: /feature/_images/mdmimages/targetandchannel_clickattribute.PNG
 |
 |
 
-#. Create Attribute Variant for list price.
+* Create Attribute Variant for list price.
 
 .. image:: /feature/_images/mdmimages/targetandchannel_createattributevariant.PNG
 |
 |
 
-#. Select the tag group, enter the value for the attribute, and click **Save**.
+* Select the tag group, enter the value for the attribute, and click **Save**.
 
 .. image:: /feature/_images/mdmimages/targetandchannel_selecttagandentervalue.PNG
 |
 |
 
-#. The screen should display something like the image below.
+* The screen should display something like the image below.
 
 .. image:: /feature/_images/mdmimages/targetandchannel_checkoutput.PNG
 |

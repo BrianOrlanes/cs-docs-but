@@ -28,21 +28,21 @@ How-to: Define Products Across the Systems
 To do this, follow these steps:
 
 
-#. Login as Supplier and click **Dashboard**. Then, click *Data Integration* and select an endpoint.
+* Login as Supplier and click **Dashboard**. Then, click *Data Integration* and select an endpoint.
 
 .. image:: /feature/_images/pepimages/cs_manageproductdefinitionsacrosssystems_gotodash.PNG
 |
 |
 
 
-#. Click **Catalog**.
+* Click **Catalog**.
 
 .. image:: /feature/_images/pepimages/cs_manageproductdefinitionsacrosssystems_clickcatalog.PNG
 |
 |
 
 
-#. Select a product and click **Transfer to Onboarding**. *Note:The supplier needs to have prior data integration permission to onboard the products in the Master Catalog*.
+* Select a product and click **Transfer to Onboarding**. *Note:The supplier needs to have prior data integration permission to onboard the products in the Master Catalog*.
 
 .. image:: /feature/_images/pepimages/cs_manageproductdefinitionsacrosssystems_clickonboard.PNG
 |

@@ -29,21 +29,21 @@ To export tags, follow these steps:
 
 |
 
-#. Log in and click on the **Administration** button to enter the configuration page.
+* Log in and click on the **Administration** button to enter the configuration page.
 
 .. image:: /feature/_images/mdmimages/cs_exporttags_clickadministration.PNG
 |
 |
 
 
-#. Click on **Properties**.
+* Click on **Properties**.
 
 .. image:: /feature/_images/mdmimages/cs_exporttags_clickproperties.PNG
 |
 |
 
 
-#. Click on **LOV** then click on **Export all tags**.
+* Click on **LOV** then click on **Export all tags**.
 
 .. image:: /feature/_images/mdmimages/cs_exporttags_clicklov.PNG
 |

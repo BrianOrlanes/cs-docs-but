@@ -31,55 +31,55 @@ To manage products across taxonomies, follow these steps:
 
 |
 
-#. Log in and go to *PIM*.
+* Log in and go to *PIM*.
 
 .. image:: /feature/_images/mdmimages/cs_hierarchicalnavigation_gotopim.PNG
 |
 |
 
-#. Click on the **Choose Taxonomies** drop-down list.
+* Click on the **Choose Taxonomies** drop-down list.
 
 .. image:: /feature/_images/mdmimages/cs_hierarchicalnavigation_choosetaxonomies.PNG
 |
 |
 
-#. Click on the **Organize** button at the bottom of the drop-down window.
+* Click on the **Organize** button at the bottom of the drop-down window.
 
 .. image:: /feature/_images/mdmimages/cs_hierarchicalnavigation_organize.PNG
 |
 |
 
-#. View the list of existing taxonomies on the left pane and the products on the right.
+* View the list of existing taxonomies on the left pane and the products on the right.
 
 .. image:: /feature/_images/mdmimages/cs_hierarchicalnavigation_viewlist.PNG
 |
 |
 
-#. Navigate the taxonomy hierarchy to which the desired product belongs.
+* Navigate the taxonomy hierarchy to which the desired product belongs.
 
 .. image:: /feature/_images/mdmimages/cs_hierarchicalnavigation_navigatetaxonomy.PNG
 |
 |
 
-#. Click the checkbox of a product to select it.
+* Click the checkbox of a product to select it.
 
 .. image:: /feature/_images/mdmimages/cs_hierarchicalnavigation_clickcheckbox.PNG
 |
 |
 
-#. Click the **Copy** icon.
+* Click the **Copy** icon.
 
 .. image:: /feature/_images/mdmimages/cs_hierarchicalnavigation_clickcopy.PNG
 |
 |
 
-#. Navigate to the taxonomy where you want to paste the product and click the **Paste** icon.
+* Navigate to the taxonomy where you want to paste the product and click the **Paste** icon.
 
 .. image:: /feature/_images/mdmimages/cs_hierarchicalnavigation_clickpaste.PNG
 |
 |
 
-#. View the product added to the selected taxonomy.
+* View the product added to the selected taxonomy.
 
 .. image:: /feature/_images/mdmimages/cs_hierarchicalnavigation_viewaddedproduct.PNG
 |
