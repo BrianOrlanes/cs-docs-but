@@ -27,7 +27,9 @@
   <link rel="stylesheet" href="../_static/css/theme.css" type="text/css" />
   <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
     <link rel="index" title="Index" href="../genindex.html" />
-    <link rel="search" title="Search" href="../search.html" /> 
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="Configuration" href="configuration.html" />
+    <link rel="prev" title="Swift : Asset Storage" href="swiftassetstorage.html" /> 
 
   
   <script src="../_static/js/modernizr.min.js"></script>
@@ -83,7 +85,33 @@
               <ul>
 <li class="toctree-l1"><a class="reference internal" href="../index.html">Contentserv Documentation</a></li>
 </ul>
-<ul>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../tutorials/index.html">Tutorials</a></li>
+<li class="toctree-l1 current"><a class="reference internal" href="index.html">Reference Guides</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="upgrading.html">Upgrading</a></li>
+<li class="toctree-l2"><a class="reference internal" href="install.html">Installation Guides</a></li>
+<li class="toctree-l2"><a class="reference internal" href="deploymentplanning.html">Deployment Planning</a></li>
+<li class="toctree-l2"><a class="reference internal" href="deploymentprerequisites.html">Deployment Prerequisites</a></li>
+<li class="toctree-l2"><a class="reference internal" href="deployinaws.html">Deploying to AWS</a></li>
+<li class="toctree-l2"><a class="reference internal" href="deployinazure.html">Deploying to Azure</a></li>
+<li class="toctree-l2"><a class="reference internal" href="deployonpremise.html">Deploying on Premise</a></li>
+<li class="toctree-l2"><a class="reference internal" href="deployinthecloud.html">Deploying to the Cloud</a></li>
+<li class="toctree-l2"><a class="reference internal" href="security.html">Security</a></li>
+<li class="toctree-l2"><a class="reference internal" href="elasticsearch.html">Reference</a></li>
+<li class="toctree-l2"><a class="reference internal" href="oraclemasterstore.html">Oracle : MasterStore</a></li>
+<li class="toctree-l2"><a class="reference internal" href="orientdb.html">OrientDB : Graph Store</a></li>
+<li class="toctree-l2"><a class="reference internal" href="swiftassetstorage.html">Swift : Asset Storage</a></li>
+<li class="toctree-l2 current"><a class="current reference internal" href="#">Tomcat : WebServer</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#brief">Brief</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="#installation">Installation</a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="#setup-and-configuration">Setup and Configuration</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="configuration.html">Configuration</a></li>
+</ul>
+</li>
 <li class="toctree-l1"><a class="reference internal" href="../glossary.html">Glossary</a></li>
 </ul>
 
@@ -130,6 +158,8 @@
     
       <li><a href="../contents.html">Docs</a> &raquo;</li>
         
+          <li><a href="index.html">Reference Guides</a> &raquo;</li>
+        
       <li>Tomcat : WebServer</li>
     
     
@@ -164,23 +194,23 @@
 <div class="line-block">
 <div class="line"><br /></div>
 </div>
-<ol class="arabic">
+<ul>
 <li><p class="first">Download Apache Tomcat (/opt/cs/tomcat).</p>
 <blockquote>
 <div><p>Link:  <a class="reference external" href="http://mirror.fibergrid.in/apache/tomcat/tomcat-9/v9.0.0.M9/bin/apache-tomcat-9.0.0.M9.tar.gz">http://mirror.fibergrid.in/apache/tomcat/tomcat-9/v9.0.0.M9/bin/apache-tomcat-9.0.0.M9.tar.gz</a></p>
 </div></blockquote>
 </li>
-</ol>
+</ul>
 <div class="line-block">
 <div class="line"><br /></div>
 </div>
-<ol class="arabic simple">
+<ul class="simple">
 <li>Alternatively, visit <a class="reference external" href="https://tomcat.apache.org/download-90.cgi">https://tomcat.apache.org/download-90.cgi</a> and download <strong>Version 9</strong>.</li>
-</ol>
+</ul>
 <div class="line-block">
 <div class="line"><br /></div>
 </div>
-<ol class="arabic">
+<ul>
 <li><p class="first">Extract tar.gz.</p>
 <div class="highlight-default"><div class="highlight"><pre><span></span><span class="n">cd</span> <span class="o">/</span><span class="n">opt</span><span class="o">/</span><span class="n">cs</span><span class="o">/</span><span class="n">tomcat</span>
 
@@ -188,11 +218,11 @@
 </pre></div>
 </div>
 </li>
-</ol>
+</ul>
 <div class="line-block">
 <div class="line"><br /></div>
 </div>
-<ol class="arabic">
+<ul>
 <li><p class="first">Change configuration:</p>
 <blockquote>
 <div><ul>
@@ -223,11 +253,11 @@
 </ul>
 </div></blockquote>
 </li>
-</ol>
+</ul>
 <div class="line-block">
 <div class="line"><br /></div>
 </div>
-<ol class="arabic">
+<ul>
 <li><p class="first">Start up the application.</p>
 <div class="highlight-default"><div class="highlight"><pre><span></span><span class="n">Stop</span> <span class="n">Tomcat</span>
     <span class="o">/</span><span class="n">opt</span><span class="o">/</span><span class="n">cs</span><span class="o">/</span><span class="n">tomcat</span><span class="o">/</span><span class="n">apache</span><span class="o">-</span><span class="n">tomcat</span><span class="o">-</span><span class="mf">9.0</span><span class="o">.</span><span class="mf">0.</span><span class="n">M9</span><span class="o">/</span><span class="nb">bin</span><span class="o">/</span><span class="n">shutdown</span><span class="o">.</span><span class="n">shORfuser</span> <span class="o">-</span><span class="n">k</span> <span class="mi">8080</span><span class="o">/</span><span class="n">tcp</span>
@@ -241,12 +271,12 @@
 </pre></div>
 </div>
 </li>
-</ol>
+</ul>
 <div class="line-block">
 <div class="line"><br /></div>
 <div class="line"><br /></div>
 </div>
-<ol class="arabic">
+<ul>
 <li><p class="first">Remove/Add war.</p>
 <div class="highlight-default"><div class="highlight"><pre><span></span><span class="n">Remove</span> <span class="n">war</span>
   <span class="n">cd</span> <span class="o">/</span><span class="n">opt</span><span class="o">/</span><span class="n">cs</span><span class="o">/</span><span class="n">tomcat</span><span class="o">/</span><span class="n">apache</span><span class="o">-</span><span class="n">tomcat</span><span class="o">-</span><span class="mf">9.0</span><span class="o">.</span><span class="mf">0.</span><span class="n">M9</span><span class="o">/</span><span class="n">webapps</span><span class="o">/</span>
@@ -258,7 +288,7 @@
 </pre></div>
 </div>
 </li>
-</ol>
+</ul>
 <div class="line-block">
 <div class="line"><br /></div>
 </div>
@@ -276,13 +306,22 @@
           </div>
           <footer>
   
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="configuration.html" class="btn btn-neutral float-right" title="Configuration" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+      
+      
+        <a href="swiftassetstorage.html" class="btn btn-neutral" title="Swift : Asset Storage" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+      
+    </div>
+  
 
   <hr/>
 
   <div role="contentinfo">
     <p>
         &copy; Copyright CS Group.
-      Last updated on Jul 06, 2018.
+      Last updated on Jul 20, 2018.
 
     </p>
   </div>
