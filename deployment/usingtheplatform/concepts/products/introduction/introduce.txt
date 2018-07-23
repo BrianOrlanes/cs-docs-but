@@ -76,6 +76,20 @@ Group of products grouped under same price tag or special promotional price. For
 |
 |
 
+PID
+---
+
+A PID, in this system, is a virtual product used to group a product line related to a brand/Product at one place. A PID is a set of similar products, but with a difference of one or two of the properties. Use this product type, if you have a product with almost similar attributes and properties, albeit varying in a certain property. A sofa retailer may have sofas of similar dimensions, varying in wood-type or fabric or color.
+
+.. image:: /feature/_images/butimages/cs_introproduct_pid.PNG
+|
+|
+
+**Embedded** -  In a similar fashion, the product type ‘Embedded’ should be used when you need to create ‘virtual products’, entities that are not physically present but are linked to the original product as its variants. A retailer selling shirts will require to display shirts of the same brand, same color but different sizes, can achieve the same by using product type Embedded. An embedded variant in CS system is displayed in an editable table, making it easier for the user to make changes in real time.
+|
+|
+
+
 Unit
 ----
 
@@ -111,17 +125,6 @@ Standard Identifier
 
 Standard identifiers are a series of numeric or alphanumeric digits that are used to identify a specific product. PID commonly includes Global Trade Item Numbers (GTINs), Manufacturer Part Numbers (MPNs) and brand names. Depending on the product type, one can submit different identifiers.
 
-
-PID
----
-
-A PID, in this system, is a virtual product used to group a product line related to a brand/Product at one place. A PID is a set of similar products, but with a difference of one or two of the properties. Use this product type, if you have a product with almost similar attributes and properties, albeit varying in a certain property. A sofa retailer may have sofas of similar dimensions, varying in wood-type or fabric or color.
-
-.. image:: /feature/_images/butimages/cs_introproduct_pid.PNG
-|
-|
-
-**Embedded** -  In a similar fashion, the product type ‘Embedded’ should be used when you need to create ‘virtual products’, entities that are not physically present but are linked to the original product as its variants. A retailer selling shirts will require to display shirts of the same brand, same color but different sizes, can achieve the same by using product type Embedded. An embedded variant in CS system is displayed in an editable table, making it easier for the user to make changes in real time.
 
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
