@@ -48,6 +48,6 @@ Set of product recommendations like clothing pieces put on a mannequin in fashio
 
 Promotional Collection
 -----------------------
-A group of products which is offered at a discounted price.
+A group of products having the same price.
 
-      **Example:**  Buy 3 bags of Dog Food for the price of 2.
+      **Example:**  Buy any bag for $10.
