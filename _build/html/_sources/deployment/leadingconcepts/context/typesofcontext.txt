@@ -15,11 +15,12 @@ Types of Context
 Attribute Context
 -----------------
 
-A retailer’s system may have a thousand products that include Individual articles, articles varying in single or few attributes. To save time, space and for better product organization, Attribute Context can be used to create product variants varying in one or more attributes.
+The Attribute Context can be used in assigning multiple values to attribute that varies in time. For better product management, it can be used in assigning various Attribute Values.
 
   **Example:**
 
-  Some products such as Sofas, have similar dimension but varies in fabric or wood-type.
+  In the I-phone category, there is different price for a model for every year model.
+
 
 Relationship Context
 ---------------------
