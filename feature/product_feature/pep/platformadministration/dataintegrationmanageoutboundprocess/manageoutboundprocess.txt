@@ -27,56 +27,56 @@ To do this feature, follow these steps:
 
 |
 
-#. Log in and click on *Administration*.
+* Log in and click on *Administration*.
 
 .. image:: /feature/_images/pepimages/cs_manageoutboundprocess_loginandgotoadministration.PNG
 |
 |
 
 
-#. Click on the **Data Integration** tab and go to *Workflow*.
+* Click on the **Data Integration** tab and go to *Workflow*.
 
 .. image:: /feature/_images/pepimages/cs_manageoutboundprocess_clickondataintegration.PNG
 |
 |
 
 
-#. To create a new process, click on the "+" icon on the right.
+* To create a new process, click on the "+" icon on the right.
 
 .. image:: /feature/_images/pepimages/cs_manageoutboundprocess_tocreateanewprocess.PNG
 |
 |
 
 
-#. On the pop-up window, provide the following details: *Name* and the *Event Type*.  For this example, select the **Business Process Workflow**.
+* On the pop-up window, provide the following details: *Name* and the *Event Type*.  For this example, select the **Business Process Workflow**.
 
 .. image:: /feature/_images/pepimages/cs_manageoutboundprocess_providethedetails.PNG
 |
 |
 
 
-#. Click on the **Create** button.
+* Click on the **Create** button.
 
 .. image:: /feature/_images/pepimages/cs_manageoutboundprocess_clickonthecreate.PNG
 |
 |
 
 
-#. Once clicked, a pop-up window will appear. Check that the details are correct for the *Name, Code,* and the *Event Type*.
+* Once clicked, a pop-up window will appear. Check that the details are correct for the *Name, Code,* and the *Event Type*.
 
 .. image:: /feature/_images/pepimages/cs_manageoutboundprocess_onceclickedapopupwindow.PNG
 |
 |
 
 
-#. Create a graph for the workflow using *BPMN (Business Process Modeling Notation)* components on the left menu.
+* Create a graph for the workflow using *BPMN (Business Process Modeling Notation)* components on the left menu.
 
 .. image:: /feature/_images/pepimages/cs_manageoutboundprocess_createagraphfortheworkflow.PNG
 |
 |
 
 
-#. Once the workflow is created, provide the details of each component used in the graph.
+* Once the workflow is created, provide the details of each component used in the graph.
    On the window on the right, make sure that all details are completed for each tab.
 
 .. image:: /feature/_images/pepimages/cs_manageoutboundprocess_oncetheworkflowiscreated.PNG
@@ -84,7 +84,7 @@ To do this feature, follow these steps:
 |
 
 
-#. Once done, click on the **Save** button. A notification will appear to indicate the workflow is saved. Click the **OK** button.
+* Once done, click on the **Save** button. A notification will appear to indicate the workflow is saved. Click the **OK** button.
 
 .. image:: /feature/_images/pepimages/cs_manageoutboundprocess_oncedoneclickthesavebutton.PNG
 |

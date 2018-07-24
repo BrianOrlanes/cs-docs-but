@@ -25,14 +25,14 @@ To monitor exports, follow these steps:
 
 |
 
-#. Log in.
+* Log in.
 
 .. image:: /feature/_images/pepimages/cs_monitorexports_login.PNG
 |
 |
 
 
-#. | Go to *PIM* and select the products to be exported.
+* | Go to *PIM* and select the products to be exported.
    | *Note: To select all the products, click on the Select All button.*
    |
 
@@ -43,7 +43,7 @@ To monitor exports, follow these steps:
 |
 
 
-#. Once selected, click on the **Transfer** button. This will transfer and get the products ready for offboarding. Select the *Self* option.
+* Once selected, click on the **Transfer** button. This will transfer and get the products ready for offboarding. Select the *Self* option.
 
 .. image:: /feature/_images/pepimages/cs_monitorexports_clickthetransferbutton.PNG
 |
@@ -52,21 +52,21 @@ To monitor exports, follow these steps:
 |
 
 
-#. Once the notification says that the transfer is successful, click on the *PIM* menu on the upper left corner of the screen and go to *Offboarding*.
+* Once the notification says that the transfer is successful, click on the *PIM* menu on the upper left corner of the screen and go to *Offboarding*.
 
 .. image:: /feature/_images/pepimages/cs_monitorexports_oncethenotificationsays.PNG
 |
 |
 
 
-#. Check that the screen shows the selected products.
+* Check that the screen shows the selected products.
 
 .. image:: /feature/_images/pepimages/cs_monitorexports_checkthathescreen.PNG
 |
 |
 
 
-#. Select the products and click on the **Export** button.  Then, select the desired endpoint from the menu.
+* Select the products and click on the **Export** button.  Then, select the desired endpoint from the menu.
    Wait for the data to be exported. Once done, view the exported data.
 
 .. image:: /feature/_images/pepimages/cs_monitorexports_selecttheproductsandclickexport.PNG

@@ -29,31 +29,31 @@ To import tags, follow these steps:
 
 |
 
-#. Log in and click on the **Administration** button to enter the configuration page.
+* Log in and click on the **Administration** button to enter the configuration page.
 
 .. image:: /feature/_images/mdmimages/cs_importtags_clickadministration.PNG
 |
 |
 
-#. Click on **Properties**.
+* Click on **Properties**.
 
 .. image:: /feature/_images/mdmimages/cs_importtags_clickproperties.PNG
 |
 |
 
-#. Click on **LOV** then click on **Import all tags**.
+* Click on **LOV** then click on **Import all tags**.
 
 .. image:: /feature/_images/mdmimages/cs_importtags_clicklov.PNG
 |
 |
 
-#. Select the file to be imported.
+* Select the file to be imported.
 
 .. image:: /feature/_images/mdmimages/cs_importtags_selectfile.PNG
 |
 |
 
-#. View the imported tags in their respective sections.
+* View the imported tags in their respective sections.
 
 .. image:: /feature/_images/mdmimages/cs_importtags_viewimportedtags.PNG
 |

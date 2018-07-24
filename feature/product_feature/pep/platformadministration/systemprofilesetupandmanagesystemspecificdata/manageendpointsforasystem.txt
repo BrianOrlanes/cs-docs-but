@@ -28,14 +28,14 @@ To manage the endpoints, follow these steps:
 
 |
 
-#. Log in and go to *Administration*.
+* Log in and go to *Administration*.
 
 .. image:: /feature/_images/pepimages/cs_systemprofilesetupandmanageendpoints_login.PNG
 |
 |
 
 
-#. Click on the **Data Integration** tab and then go to *Endpoints*.
+* Click on the **Data Integration** tab and then go to *Endpoints*.
 
 .. image:: /feature/_images/pepimages/cs_systemprofilesetupandmanageendpoints_clickondataintegration.PNG
 |
@@ -44,40 +44,40 @@ To manage the endpoints, follow these steps:
 |
 
 
-#. On the right, click on the "+" icon to create a new endpoint.
+* On the right, click on the "+" icon to create a new endpoint.
 
 .. image:: /feature/_images/pepimages/cs_systemprofilesetupandmanageendpoints_ontherightclickontheicon.PNG
 |
 |
 
 
-#. Provide the required details.
+* Provide the required details.
 
 .. image:: /feature/_images/pepimages/cs_systemprofilesetupandmanageendpoints_providetherequireddetails.PNG
 |
 |
 
-      #. If onboarding products, select the *Inbound Endpoint* for the *Type*. Click **Create**.
+      * If onboarding products, select the *Inbound Endpoint* for the *Type*. Click **Create**.
 
       .. image:: /feature/_images/pepimages/cs_systemprofilesetupandmanageendpoints_providetherequireddetails2.PNG
       |
       |
 
-      #. If offboarding products, select the *Outbound Endpoint* for the *Type*. Click **Create**.
+      * If offboarding products, select the *Outbound Endpoint* for the *Type*. Click **Create**.
 
       .. image:: /feature/_images/pepimages/cs_systemprofilesetupandmanageendpoints_providetherequireddetails3.PNG
       |
       |
 
 
-#. Once the endpoint has been added, enable (or disable) the *Realtime Mapping*. This allows the mapping in runtime that can be tracked in the dashboard. Click the **Save** button.
+* Once the endpoint has been added, enable (or disable) the *Realtime Mapping*. This allows the mapping in runtime that can be tracked in the dashboard. Click the **Save** button.
 
 .. image:: /feature/_images/pepimages/cs_systemprofilesetupandmanageendpoints_oncetheendpointhasbeenadded.PNG
 |
 |
 
 
-#. Click on the **System** field and create a new system or use the *"Standard System"* from the selection.
+* Click on the **System** field and create a new system or use the *"Standard System"* from the selection.
    To create a new system, click on the **Create 'system name'** button after typing the name of the new system to be added.
 
 .. image:: /feature/_images/pepimages/cs_systemprofilesetupandmanageendpoints_clickonsystem.PNG
@@ -85,14 +85,14 @@ To manage the endpoints, follow these steps:
 |
 
 
-#. Next, follow this sequence: *Partner Administration tab >> Partners >> Standard Organization >> Systems*.
+* Next, follow this sequence: *Partner Administration tab >> Partners >> Standard Organization >> Systems*.
 
 .. image:: /feature/_images/pepimages/cs_systemprofilesetupandmanageendpoints_nextfollowthissequence.PNG
 |
 |
 
 
-#. Add the created system or select the *Standard System* as you click on the "+" icon to add systems.
+* Add the created system or select the *Standard System* as you click on the "+" icon to add systems.
    Then, enable the endpoint that was created.
 
 .. image:: /feature/_images/pepimages/cs_systemprofilesetupandmanageendpoints_addthesystem.PNG
@@ -102,7 +102,7 @@ To manage the endpoints, follow these steps:
 |
 
 
-#. View the endpoint in the *Dashboard*.
+* View the endpoint in the *Dashboard*.
 
 .. image:: /feature/_images/pepimages/cs_systemprofilesetupandmanageendpoints_viewtheendpoint.PNG
 |

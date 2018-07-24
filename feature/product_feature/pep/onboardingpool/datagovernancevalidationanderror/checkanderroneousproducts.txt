@@ -30,28 +30,28 @@ How-to: Check for Erroneous Products
 To do this, follow these steps:
 
 
-#. Log in and click **Dashboard** to explore the products.
+* Log in and click **Dashboard** to explore the products.
 
 .. image:: /feature/_images/pepimages/cs_checkanderroneousproducts_clickdashboardb.PNG
 |
 |
 
 
-#. Click **Catalog**.
+* Click **Catalog**.
 
 .. image:: /feature/_images/pepimages/cs_checkanderroneousproducts_gotocatalogB.PNG
 |
 |
 
 
-#.  Select a product (in this demo, we selected "Chino Shorts" product). The user displays supplier products in the catalog.
+*  Select a product (in this demo, we selected "Chino Shorts" product). The user displays supplier products in the catalog.
 
 .. image:: /feature/_images/pepimages/cs_checkanderroneousproducts_selectproductb.PNG
 |
 |
 
 
-#. The user also verifies the content and properties of the product and takes corrective actions.
+* The user also verifies the content and properties of the product and takes corrective actions.
 
 .. image:: /feature/_images/pepimages/cs_checkanderroneousproducts_opendatastewardb.PNG
 |

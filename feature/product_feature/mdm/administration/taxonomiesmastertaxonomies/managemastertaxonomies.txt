@@ -35,56 +35,56 @@ To create a Master Taxonomy, follow these steps:
 
 |
 
-#. Log in to the application. Go to *Administration*.
+* Log in to the application. Go to *Administration*.
 
 .. image:: /feature/_images/mdmimages/cs_managemastertaxonomies_administration.PNG
 |
 |
 
 
-#. Click on **Taxonomies** and select **Master Taxonomies**.
+* Click on **Taxonomies** and select **Master Taxonomies**.
 
 .. image:: /feature/_images/mdmimages/cs_managemastertaxonomies_clicktaxonomies.PNG
 |
 |
 
 
-#. Click on the "+" icon to create a new Master Taxonomy.
+* Click on the "+" icon to create a new Master Taxonomy.
 
 .. image:: /feature/_images/mdmimages/cs_managemastertaxonomies_clickplusicon.PNG
 |
 |
 
 
-#. Enter the name and enable the slider to create a major taxonomy.
+* Enter the name and enable the slider to create a major taxonomy.
 
 .. image:: /feature/_images/mdmimages/cs_managemastertaxonomies_entername.PNG
 |
 |
 
 
-#. Click on the **Create** button.
+* Click on the **Create** button.
 
 .. image:: /feature/_images/mdmimages/cs_managemastertaxonomies_create.PNG
 |
 |
 
 
-#. Click on the "+" sign in the *Section* tab to add a property collection.
+* Click on the "+" sign in the *Section* tab to add a property collection.
 
 .. image:: /feature/_images/mdmimages/cs_managemastertaxonomies_clickplussign.PNG
 |
 |
 
 
-#. Select the created taxonomy and add sub-levels to it to create a sub-taxonomy.
+* Select the created taxonomy and add sub-levels to it to create a sub-taxonomy.
 
 .. image:: /feature/_images/mdmimages/cs_managemastertaxonomies_selectcreatedtaxonomy.PNG
 |
 |
 
 
-#. To create sub-levels for a taxonomy, follow these steps.
+* To create sub-levels for a taxonomy, follow these steps.
 
       |
 
@@ -116,7 +116,7 @@ To create a Master Taxonomy, follow these steps:
 |
 |
 
-#. Repeat the previous step if you want to add more levels to the existing sub-taxonomies.
+* Repeat the previous step if you want to add more levels to the existing sub-taxonomies.
 
 |
 |

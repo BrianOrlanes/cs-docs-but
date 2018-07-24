@@ -27,35 +27,35 @@ To do this, follow these steps:
 
 |
 
-#. Go to **Administration**.
+* Go to **Administration**.
 
 .. image:: /feature/_images/mdmimages/cs_multilingualui_gotosettings.PNG
 |
 |
 
 
-#. Click *Translations* tab.
+* Click *Translations* tab.
 
 .. image:: /feature/_images/mdmimages/cs_multilingualui_clicktrans.PNG
 |
 |
 
 
-#. Click  **Application Labels**.
+* Click  **Application Labels**.
 
 .. image:: /feature/_images/mdmimages/cs_multilingualui_selapplabel.PNG
 |
 |
 
 
-#. Based on the language required, enter the translations for the desired label (in this demo, we selected "Acceleration").
+* Based on the language required, enter the translations for the desired label (in this demo, we selected "Acceleration").
 
 .. image:: /feature/_images/mdmimages/cs_multilingualui_entertrans.PNG
 |
 |
 
 
-#.  Logout  and login again.
+*  Logout  and login again.
 
 .. image:: /feature/_images/mdmimages/cs_multilingualui_logoutb.PNG
 |
@@ -66,7 +66,7 @@ To do this, follow these steps:
 |
 
 
-#.   On the login page, select your desired language from the flyout  on the lower right corner of the screen.
+*   On the login page, select your desired language from the flyout  on the lower right corner of the screen.
 
 .. image:: /feature/_images/mdmimages/cs_multilingualui_login.PNG
 |

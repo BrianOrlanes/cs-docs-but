@@ -30,21 +30,21 @@ To do this, follow these steps:
 
 |
 
-#. Log in and go to the **Dashboard**.
+* Log in and go to the **Dashboard**.
 
 .. image:: /feature/_images/pepimages/cs_correctimportedrecords_clickdash.PNG
 |
 |
 
 
-#. Click *Data Integration* tab and select an endpoint.
+* Click *Data Integration* tab and select an endpoint.
 
 .. image:: /feature/_images/pepimages/cs_correctimportedrecords_clickdash2.PNG
 |
 |
 
 
-#. Click **Files** and select a file to import ( in this demo, we selected the first "Documentation onboard sheet.xlsx")
+* Click **Files** and select a file to import ( in this demo, we selected the first "Documentation onboard sheet.xlsx")
    and click **Import** icon.
 
 .. image:: /feature/_images/pepimages/cs_correctimportedrecords_clickfile.PNG
@@ -52,7 +52,7 @@ To do this, follow these steps:
 |
 
 
-#. Check the status of the file, click **Workflow Status**.
+* Check the status of the file, click **Workflow Status**.
 
 .. image:: /feature/_images/pepimages/cs_correctimportedrecords_clickstatus.PNG
 |
@@ -66,13 +66,13 @@ To do this, follow these steps:
 |
 |
 
-#. Click **Catalog**. The Catalog includes the products that are visible with violations.
+* Click **Catalog**. The Catalog includes the products that are visible with violations.
 
 .. image:: /feature/_images/pepimages/cs_correctimportedrecords_viewviolations.PNG
 |
 |
 
-#. Click on the **Transfer to PIM** option. The products get transferred to PIM.
+* Click on the **Transfer to PIM** option. The products get transferred to PIM.
 
 .. image:: /feature/_images/pepimages/cs_correctimportedrecords_clicktransfertopim.PNG
 |

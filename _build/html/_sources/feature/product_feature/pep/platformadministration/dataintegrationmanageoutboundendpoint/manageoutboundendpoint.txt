@@ -28,42 +28,42 @@ To do this, follow these steps:
 
 |
 
-#. Click **Administration**.
+* Click **Administration**.
 
 .. image:: /feature/_images/pepimages/cs_manageoutboundendpoints_gotoadmin.PNG
 |
 |
 
 
-#. Click *Data integration* tab and click on the **Endpoints** section on the left. To create a endpoint, click on the "+" icon on the right side of the window.
+* Click *Data integration* tab and click on the **Endpoints** section on the left. To create a endpoint, click on the "+" icon on the right side of the window.
 
 .. image:: /feature/_images/pepimages/cs_manageoutboundendpoints_datainteg.PNG
 |
 |
 
 
-#. Fill-in the details *(Name, code, type of Endpoint)* and select the outbound endpoint. Click on the **Create** button to create an endpoint.
+* Fill-in the details *(Name, code, type of Endpoint)* and select the outbound endpoint. Click on the **Create** button to create an endpoint.
 
 .. image:: /feature/_images/pepimages/cs_manageoutboundendpoints_enterdetails.PNG
 |
 |
 
 
-#. Select the process in the endpoint for offboarding data.
+* Select the process in the endpoint for offboarding data.
 
 .. image:: /feature/_images/pepimages/cs_manageoutboundendpoints_datainteg.PNG
 |
 |
 
 
-#. Go to 'All/Explore' in PIM and then select the articles to be exported with the export button.
+* Go to 'All/Explore' in PIM and then select the articles to be exported with the export button.
 
 .. image:: /feature/_images/pepimages/cs_manageoutboundendpoints_clickexplore.PNG
 |
 |
 
 
-#. Next, select the endpoint from which data has to be offboarded.
+* Next, select the endpoint from which data has to be offboarded.
 
 .. image:: /feature/_images/pepimages/cs_manageoutboundendpoints_clickexplore.PNG
 |

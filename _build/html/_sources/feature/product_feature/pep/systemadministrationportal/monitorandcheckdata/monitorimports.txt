@@ -27,35 +27,35 @@ How-to: Monitor Imports
 
 |
 
-#. Log in (as a *General User*).
+* Log in (as a *General User*).
 
 .. image:: /feature/_images/pepimages/cs_monitorimports_login.PNG
 |
 |
 
 
-#. Go to the *Dashboard* and click on the **Data Integration** tab.
+* Go to the *Dashboard* and click on the **Data Integration** tab.
 
 .. image:: /feature/_images/pepimages/cs_monitorimports_gotodashboardthendata.PNG
 |
 |
 
 
-#. On the Data Integration page, find the endpoint for your onboarding.  Once found, click on the dashboard entry.
+* On the Data Integration page, find the endpoint for your onboarding.  Once found, click on the dashboard entry.
 
 .. image:: /feature/_images/pepimages/cs_monitorimports_onthedataintegrationpage.PNG
 |
 |
 
 
-#. On that *Onboard Endpoint* page, click on the **Import File** button.
+* On that *Onboard Endpoint* page, click on the **Import File** button.
 
 .. image:: /feature/_images/pepimages/cs_monitorimports_onthatonboardendpoint.PNG
 |
 |
 
 
-#. Select the file to be imported from your computer. Once selected, click **Open**.
+* Select the file to be imported from your computer. Once selected, click **Open**.
 
 .. image:: /feature/_images/pepimages/cs_monitorimports_onceclicked.PNG
 |
@@ -71,14 +71,14 @@ On that page, the *Start Time, End Time, and the Status* are provided for review
 |
 
 
-#. Click on the **Dashboard** button to go back.
+* Click on the **Dashboard** button to go back.
 
 .. image:: /feature/_images/pepimages/cs_monitorimports_clickonthedashboardtogoback.PNG
 |
 |
 
 
-#. View the data shown on the *Dashboard*.
+* View the data shown on the *Dashboard*.
 
 .. image:: /feature/_images/pepimages/cs_monitorimports_viewtheupdateddata.PNG
 |
@@ -98,15 +98,15 @@ How-to: Maintain the Data Quality
 =====================================
 If there are violations in the *Endpoint Dashboard Entry*, the user may correct them by following these simple steps:
 
-#. Click on the **Endpoint**.
+* Click on the **Endpoint**.
 
 |
 
-#. Go to *Catalog* that can be found on the side menu.
+* Go to *Catalog* that can be found on the side menu.
 
 |
 
-#. Click on each product with violation and provide (or correct) the necessary data.
+* Click on each product with violation and provide (or correct) the necessary data.
 
 |
 |
