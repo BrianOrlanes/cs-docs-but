@@ -34,7 +34,7 @@ Fixed Bundle
 --------------
 A group of products where the quantity of each product is fixed.
 
-      **Example:**  A Shaving Kit Pack includes 3 blades and a shaving cream. As these are in the same packaging, the customer cannot add more blades for that pack purchase.
+      **Example:**  A Shaving Kit Pack. As these are in the same packaging, the customer cannot add or remove items from the fixed bundle.
 
 
 
@@ -42,7 +42,7 @@ Set of Products
 ------------------
 Set of product recommendations like clothing pieces put on a mannequin in fashion stores.
 
-      **Example:** Hat, T-Shirt, Shorts, and Sandals for use on mannequins.
+      **Example:** Racing apparel.
 
 
 
@@ -50,4 +50,10 @@ Promotional Collection
 -----------------------
 A group of products having the same price.
 
-      **Example:**  Buy any bag for $10.
+      **Example:**  Buy any pair of sunglasses for $9.99 only.
+
+      
+|
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line
