@@ -60,7 +60,7 @@ To do this, follow these steps:
 
 * View tab which can be used to verify the content and properties of the product. It can also be used to perform corrective actions.
 
-.. image:: /feature/_images/pepimages/cs_correctimportedrecords_userverifiescontentproperties.PNG
+.. image:: /feature/_images/pepimages/cs_checkanderroneousproducts_userverifiescontentproperties.PNG
 |
 |
 
