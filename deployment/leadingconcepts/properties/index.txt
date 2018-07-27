@@ -1,9 +1,11 @@
-=============
+============
 Properties
-=============
+============
 
 .. toctree::
    :maxdepth: 1
 
-   attributes/index
-   tags/index
+   overview
+   attributes
+   tags
+   dependent

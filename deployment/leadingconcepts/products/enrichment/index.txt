@@ -1,8 +1,0 @@
-================================
-Enriching Product Information
-================================
-
-.. toctree::
-   :maxdepth: 1
-
-   enrich
