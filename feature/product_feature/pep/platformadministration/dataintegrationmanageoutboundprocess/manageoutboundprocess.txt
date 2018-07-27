@@ -76,8 +76,7 @@ To do this feature, follow these steps:
 |
 
 
-* Once the workflow is created, provide the details of each component used in the graph.
-   On the window on the right, ensure  all details are completed for each tab.
+* Once the workflow is created, provide the details of each component used in the graph. On the window on the right, ensure  all details are completed for each tab.
 
 .. image:: /feature/_images/pepimages/cs_manageoutboundprocess_onceworkflowcreatedprovidedetails.PNG
 |
