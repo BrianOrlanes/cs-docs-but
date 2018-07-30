@@ -16,7 +16,7 @@ One important aspect of having this feature is that the user can create products
   Similarly, one could also create a Property
   Collection ‘Warranty Information’; this Property Collection can be extended to the other similar products as well.
 
-.. image:: /feature/_images/butimages/cs_propertycollections.PNG
+.. image:: /feature/_images/butimages/cs_propertycollection.PNG
 
 |
 

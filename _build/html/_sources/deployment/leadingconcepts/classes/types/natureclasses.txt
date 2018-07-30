@@ -24,6 +24,7 @@ A placeholder for a group of common products.
       **Example:** Red Bull as the PID, which contains variants like *Regular, Sugarfree, and Zero*.
 
       .. image:: /feature/_images/butimages/pid01.PNG
+      |
 
 Loose Bundle
 --------------
