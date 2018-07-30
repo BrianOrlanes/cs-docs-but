@@ -7,7 +7,7 @@ Major Taxonomy is used for general classification of the products while a minor 
 Note that Major taxonomy is selected by default when creating taxonomy.
 
 
-.. image:: /feature/_images/butimages/cs_mahortaxonomy.PNG
+.. image:: /feature/_images/butimages/cs_majortaxonomy.PNG
 |
 .. image:: /feature/_images/butimages/cs_majortaxonomy2.PNG
 |
