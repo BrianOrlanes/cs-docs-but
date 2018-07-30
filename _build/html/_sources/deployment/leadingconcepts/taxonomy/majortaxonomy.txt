@@ -1,3 +1,16 @@
 ===============
 Major Taxonomy
 ===============
+
+
+Major Taxonomy is used for general classification of the products while a minor taxonomy is used as multi-level property inside a property collection of a product.
+Note that Major taxonomy is selected by default when creating taxonomy.
+
+
+.. image:: /feature/_images/butimages/cs_mahortaxonomy.PNG
+|
+.. image:: /feature/_images/butimages/cs_majortaxonomy2.PNG
+|
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line
