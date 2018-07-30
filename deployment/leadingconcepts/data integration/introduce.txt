@@ -1,0 +1,75 @@
+================================
+Introduction to Data Integration
+================================
+
+|
+
+There are three major components in data integration:
+
+* Workflow
+* Mapping
+* Endpoints
+
+Workflow
+========
+
+|
+
+A workflow is a business process that is modelled digitally within Contentserv. AIt is  is a graphical representation of the internal business processes of the system. It depicts the sequence (from initiation to completion) of processes
+
+and the messages that flow in between the related set of activities.
+
+
+.. image:: /feature/_images/butimages/cs_introduce_workflow.PNG
+
+|
+
+	**Example:**
+
+	#. A simple workflow for onboarding process will display how an onboarding file is uploaded to the system and validated.
+	#. A workflow will display the product life cycle graphically.
+
+|
+
+Mappings
+========
+
+|
+
+Mapping connects the different elements (attributes, tag, classes, and taxonomies) defined in an onboarding/offboarding file to the similar elements (attributes, tag, classes, and taxonomies) defined in the system. It is where the system maps different elements from an offboarding/ offboarding file to the system elements.
+
+.. image:: /feature/_images/butimages/cs_introduce_mappings.PNG
+
+|
+|
+
+Endpoints
+=========
+
+|
+
+The Endpoint is a data gateway to onboard a file into the system or to offboard the file from the system. Custom endpoints can be configured for data import and export. User can access the specific endpoints assigned to him to onboard or offboard the file. There are two types of endpoints available in the system:
+
+* **Inbound Endpoint**
+
+	The inbound endpoint is the gateway through which a file is imported into the system.
+
+* **Outbound Endpoint**
+
+	The inbound endpoint is the gateway through which a file is imported into the system.
+
+
+.. image:: /feature/_images/butimages/cs_introduce_endpoints.PNG
+
+|
+|
+
+	**Example:**
+
+	A fashion retailer wants to transfer all the data defined in an Excel file (i.e. attributes, tags, etc.) to the system altogether. Then, retailer will create the endpoint for it and  assign it to a specific user. That user can onboard the file by accessing the assigned endpoint. In this way, a retailer canupload multiple attributes and tags in the system in one step.
+
+|
+
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line
