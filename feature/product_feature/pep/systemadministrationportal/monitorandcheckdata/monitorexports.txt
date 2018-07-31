@@ -36,8 +36,7 @@ To monitor exports, follow these steps:
 |
 
 
-* Select the products to be exported.
-   *Note: To select all the products, click on the Select All button.*
+* Select the products to be exported. *Note: To select all the products, click on the Select All button.*
 
 .. image:: /feature/_images/pepimages/cs_monitorexports_gotopimselectproducts2.PNG
 |
@@ -70,8 +69,7 @@ To monitor exports, follow these steps:
 |
 
 
-* Select the products and click on the **Export** button.  Then, select the desired endpoint from the menu.
-   Wait for the data to be exported. Once done, view the exported data.
+* Select the products and click on the **Export** button. Then, select the desired endpoint from the menu.Wait for the data to be exported. Once done, view the exported data.
 
 .. image:: /feature/_images/pepimages/cs_monitorexports_clickproductsclickexport.PNG
 |

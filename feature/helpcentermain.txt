@@ -10,7 +10,7 @@ To search through the documentation see the :ref:`search` or use the search fiel
 The site is organized into four key areas which are referenced throughout the handbook. The Handbook is also
 the basis for the context sensitive help and tooltips within the application.
 
-* :doc:`Tutorials </tutorials/index>` take you by the hand through a series of steps to work within the **Contentserv** application.
+* :doc:`Tutorials </deployment/usingtheplatform/usingthefeatures/tutorials/index>` take you by the hand through a series of steps to work within the **Contentserv** application.
   Start here if you’re new to **Contentserv** or training on the product as a user.
   Also look at the *New to Contentserv* section below.
 

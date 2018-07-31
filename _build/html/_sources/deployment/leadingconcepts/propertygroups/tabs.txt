@@ -15,7 +15,8 @@ Once the content behind each tab is logically chunked the users can easily predi
   Property Collection (that displays information like Brand Name, PID, Short and Long Description and so on), and Relationships (that displays related Images, Market, Video, and so on).
 
 .. image:: /feature/_images/butimages/cs_tabs.PNG
-
+|
+.. image:: /feature/_images/butimages/cs_tabs2.PNG
 |
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
