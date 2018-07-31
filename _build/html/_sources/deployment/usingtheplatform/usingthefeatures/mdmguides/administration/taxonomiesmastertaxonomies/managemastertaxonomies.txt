@@ -1,14 +1,14 @@
 ==========================
 Manage Master Taxonomies
 ==========================
-The Manage Master Taxonomies is a feature that sets up Master Taxonomies that are based on Masters so that each level of taxonomy is represented by a Master Tag Group.
+The Manage Master Taxonomies is an admin feature that sets up Master Taxonomies that are based on Masters so that each level of taxonomy is represented by a Master Tag Group.
 
 
 ====================    =======================================================================================================================================================================
 **Key Term:**           * **Taxonomy:** a taxonomy is a scheme of classification used for an organization’s products.
 
-**Description:**        * Taxonomy is concerned with classification of various products.
-                          Taxonomies can also represent related concepts that can be used to connect a product to various level of branches of a taxonomy.
+**Description:**        * Taxonomy is concerned with the classification of various products.
+                          Taxonomies can also represent related concepts that can be used to connect a product to a various level of branches of a taxonomy.
                         * This feature is about how to map a product to different concepts and terms in order to maintain a consistent structure.
 
 **Related topics:**     * :doc:`Multi-Taxonomy Assignment </feature/product_feature/mdm/general/multitaxonomyassignment/multitaxonomyassignment>`
@@ -30,17 +30,16 @@ The Manage Master Taxonomies is a feature that sets up Master Taxonomies that ar
 
 
 How-to: Create a Master Taxonomy
-====================================
+=================================
 To create a Master Taxonomy, follow these steps:
 
 |
 
-* Log in to the application. Go to *Administration*.
+* Log in and click on the **Administration** button.
 
-.. image:: /feature/_images/mdmimages/cs_managemastertaxonomies_administration.PNG
+.. image:: /feature/_images/mdmimages/cs_managemastertaxonomies_login.PNG
 |
 |
-
 
 * Click on **Taxonomies** and select **Master Taxonomies**.
 
@@ -48,13 +47,11 @@ To create a Master Taxonomy, follow these steps:
 |
 |
 
-
 * Click on the "+" icon to create a new Master Taxonomy.
 
 .. image:: /feature/_images/mdmimages/cs_managemastertaxonomies_clickplusicon.PNG
 |
 |
-
 
 * Enter the name and enable the slider to create a major taxonomy.
 
@@ -62,20 +59,17 @@ To create a Master Taxonomy, follow these steps:
 |
 |
 
-
 * Click on the **Create** button.
 
 .. image:: /feature/_images/mdmimages/cs_managemastertaxonomies_create.PNG
 |
 |
 
-
 * Click on the "+" sign in the *Section* tab to add a property collection.
 
 .. image:: /feature/_images/mdmimages/cs_managemastertaxonomies_clickplussign.PNG
 |
 |
-
 
 * Select the created taxonomy and add sub-levels to it to create a sub-taxonomy.
 
@@ -114,11 +108,10 @@ To create a Master Taxonomy, follow these steps:
       |
       .. image:: /feature/_images/mdmimages/cs_managemastertaxonomies_createsublevel2.PNG
 |
-|
+
 
 * Repeat the previous step if you want to add more levels to the existing sub-taxonomies.
 
-|
 |
 
 

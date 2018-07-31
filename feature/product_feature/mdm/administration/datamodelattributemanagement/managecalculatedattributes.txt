@@ -28,37 +28,37 @@ To do this admin feature, follow the steps below:
 
 |
 
-#. Go to *Settings*.
+* Go to *Settings*.
 
 .. image:: /feature/_images/mdmimages/managecalculatedattributes_gotoconfigsettings.PNG
 |
 |
 
-#. Go to the *Attribute Configuration* section.
+* Go to the *Attribute Configuration* section.
 
 .. image:: /feature/_images/mdmimages/managedifferenttypesofattributes_clickonattributeconfigurationsection.PNG
 |
 |
 
-#. Click the "+" icon to create an attribute.
+* Click the "+" icon to create an attribute.
 
 .. image:: /feature/_images/mdmimages/managecalculatedattributes_clicktheicontocreateanattribute.PNG
 |
 |
 
-#. Set the type to *Calculated* attribute.
+* Set the type to *Calculated* attribute.
 
 .. image:: /feature/_images/mdmimages/managecalculatedattributes_createacalculatedtypeattribute.PNG
 |
 |
 
-#. Enter a formula in the *Calculated Formula* section. Click on the field and a pop-up window will appear.
+* Enter a formula in the *Calculated Formula* section. Click on the field and a pop-up window will appear.
 
 .. image:: /feature/_images/mdmimages/managecalculatedattributes_enteraformula.PNG
 |
 |
 
-#. Define the formula by selecting the *Attributes* **(A)**, *Operators* and *Values* **(V)**, shown respectively.
+* Define the formula by selecting the *Attributes* **(A)**, *Operators* and *Values* **(V)**, shown respectively.
 
 .. image:: /feature/_images/mdmimages/managecalculatedattributes_definetheformula.PNG
 |

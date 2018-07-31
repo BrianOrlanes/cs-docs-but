@@ -33,42 +33,42 @@ To configure a dependent attribute, follow the steps provided:
 
 |
 
-#. Log in and click on the **Administration** button to go to the configuration panel.
+* Log in and click on the **Administration** button to go to the configuration panel.
 
 .. image:: /feature/_images/mdmimages/cs_dependentattributes_logintocontentsphere.PNG
 |
 |
 
 
-#. Create the attributes, tags, and property collection for the various dependent attributes.
+* Create the attributes, tags, and property collection for the various dependent attributes.
 
 .. image:: /feature/_images/mdmimages/cs_dependentattributes_createattributestagspropertycollections.PNG
 |
 |
 
 
-#. Go to *Taxonomies* section and then, select *Master Taxonomies*.
+* Go to *Taxonomies* section and then, select *Master Taxonomies*.
 
 .. image:: /feature/_images/mdmimages/cs_dependentattributes_gototaxonomiessection.PNG
 |
 |
 
 
-#. Click on the "+" icon to create a new taxonomy.
+* Click on the "+" icon to create a new taxonomy.
 
 .. image:: /feature/_images/mdmimages/cs_dependentattributes_gototaxonomiessection2.PNG
 |
 |
 
 
-#. Provide a name for the taxonomy. Also, disable the *Major Taxonomy* so that a *Minor Taxonomy* will be created. Click on the **Create** button.
+* Provide a name for the taxonomy. Also, disable the *Major Taxonomy* so that a *Minor Taxonomy* will be created. Click on the **Create** button.
 
 .. image:: /feature/_images/mdmimages/cs_dependentattributes_clickontheicon.PNG
 |
 |
 
 
-#. Click on the "+" icon to add a property collection.
+* Click on the "+" icon to add a property collection.
 
 .. image:: /feature/_images/mdmimages/cs_dependentattributes_clickontheicontoaddpropertycollection.PNG
 |
@@ -77,7 +77,7 @@ To configure a dependent attribute, follow the steps provided:
 |
 
 
-#. To add another level, click on the "+" icon and a list of all the master tags will be shown. Select or add more tags.
+* To add another level, click on the "+" icon and a list of all the master tags will be shown. Select or add more tags.
 
 .. image:: /feature/_images/mdmimages/cs_dependentattributes_toaddanotherlevel.PNG
 |
@@ -86,7 +86,7 @@ To configure a dependent attribute, follow the steps provided:
 |
 
 
-#. Add more levels or property collections, as desired.
+* Add more levels or property collections, as desired.
 
 .. image:: /feature/_images/mdmimages/cs_dependentattributes_addmorelevels.PNG
 |
@@ -95,7 +95,7 @@ To configure a dependent attribute, follow the steps provided:
 |
 
 
-#. Once the taxonomy is created, the minor taxonomy can then be added as a property collection.
+* Once the taxonomy is created, the minor taxonomy can then be added as a property collection.
    In the *Property Collections* tab, search for the minor taxonomy and add it as one of the properties.
 
 .. image:: /feature/_images/mdmimages/cs_dependentattributes_oncethetaxonomyiscreated.PNG

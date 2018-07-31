@@ -28,38 +28,38 @@ To do this admin feature, follow the steps below:
 
 |
 
-#. Go to *Settings*.
+* Go to *Settings*.
 
 .. image:: /feature/_images/mdmimages/managemeasurementsvolume_gotoconfigsettings.PNG
 |
 |
 
-#. Go to the *Attribute Configuration* section.
+* Go to the *Attribute Configuration* section.
 
 .. image:: /feature/_images/mdmimages/managedifferenttypesofattributes_clickonattributeconfigurationsection.PNG
 |
 |
 
-#. Click the "+" icon to create an attribute.
+* Click the "+" icon to create an attribute.
 
 .. image:: /feature/_images/mdmimages/managedifferenttypesofattributes_clicktheicon.PNG
 |
 |
 
-#. For a particular attribute type, refer to its respective section below:
+* For a particular attribute type, refer to its respective section below:
 
 |
 |
 
 **Type: Text**
 
-  #. Enter the attribute name and select the type as *Text*.
+  * Enter the attribute name and select the type as *Text*.
 
   .. image:: /feature/_images/mdmimages/managedifferenttypesofattributes_typetext1.PNG
   |
   |
 
-  #. View the text attribute in runtime.
+  * View the text attribute in runtime.
 
   .. image:: /feature/_images/mdmimages/managedifferenttypesofattributes_typetext2.PNG
   |
@@ -69,13 +69,13 @@ To do this admin feature, follow the steps below:
 
 **Type: Number**
 
-  #. In the configuration, enter the attribute name and select the type as *Number*.
+  * In the configuration, enter the attribute name and select the type as *Number*.
 
   .. image:: /feature/_images/mdmimages/managedifferenttypesofattributes_typenumber1.PNG
   |
   |
 
-  #. View the number attribute in runtime.
+  * View the number attribute in runtime.
 
   .. image:: /feature/_images/mdmimages/managedifferenttypesofattributes_typenumber2.PNG
   |
@@ -85,31 +85,31 @@ To do this admin feature, follow the steps below:
 
 **Type: Price**
 
-  #. In the configuration, enter the attribute name and select *Currency* in the type field.
+  * In the configuration, enter the attribute name and select *Currency* in the type field.
 
   .. image:: /feature/_images/mdmimages/managedifferenttypesofattributes_typeprice1.PNG
   |
   |
 
-  #. Select the desired currency value for the default unit.
+  * Select the desired currency value for the default unit.
 
   .. image:: /feature/_images/mdmimages/managedifferenttypesofattributes_typeprice2.PNG
   |
   |
 
-  #. Set the precision.
+  * Set the precision.
 
   .. image:: /feature/_images/mdmimages/managedifferenttypesofattributes_typeprice3.PNG
   |
   |
 
-  #. Provide the default value.
+  * Provide the default value.
 
   .. image:: /feature/_images/mdmimages/managedifferenttypesofattributes_typeprice4.PNG
   |
   |
 
-  #. View the price attribute in runtime.
+  * View the price attribute in runtime.
 
   .. image:: /feature/_images/mdmimages/managedifferenttypesofattributes_typeprice5.PNG
   |
@@ -119,13 +119,13 @@ To do this admin feature, follow the steps below:
 
 **Type: Date**
 
-  #. In the configuration, enter the attribute name and select *Date* in the type field.
+  * In the configuration, enter the attribute name and select *Date* in the type field.
 
   .. image:: /feature/_images/mdmimages/managedifferenttypesofattributes_typedate1.PNG
   |
   |
 
-  #. Set also the values for *Default Value, Placeholder, and Description*, if available.
+  * Set also the values for *Default Value, Placeholder, and Description*, if available.
 
   .. image:: /feature/_images/mdmimages/managedifferenttypesofattributes_typedate1b.PNG.PNG
   |

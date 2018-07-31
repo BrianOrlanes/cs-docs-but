@@ -32,42 +32,42 @@ To manage/create tag hierarchies, follow this set of instructions:
 
 |
 
-#. Log in and go to *Administration*.
+* Log in and go to *Administration*.
 
 .. image:: /feature/_images/mdmimages/cs_managetaghierarchies_login.PNG
 |
 |
 
 
-#. Go to the *Data Model* tab and then to *Taxonomies*.
+* Go to the *Data Model* tab and then to *Taxonomies*.
 
 .. image:: /feature/_images/mdmimages/cs_managetaghierarchies_gotothedatamodel.PNG
 |
 |
 
 
-#. Under *Taxonomies*, click on **Hierarchies**.
+* Under *Taxonomies*, click on **Hierarchies**.
 
 .. image:: /feature/_images/mdmimages/cs_managetaghierarchies_undertaxonomies.PNG
 |
 |
 
 
-#. Click on the "+" icon to create a new **Master Hierarchy**.
+* Click on the "+" icon to create a new **Master Hierarchy**.
 
 .. image:: /feature/_images/mdmimages/cs_managetaghierarchies_clickontheicon.PNG
 |
 |
 
 
-#. Fill out the required details. Also, slide the button to the right to enable the *Major Taxonomy* option.
+* Fill out the required details. Also, slide the button to the right to enable the *Major Taxonomy* option.
 
 .. image:: /feature/_images/mdmimages/cs_managetaghierarchies_fillouttherequireddetails.PNG
 |
 |
 
 
-#. Click on the **Create** button.
+* Click on the **Create** button.
 
 .. image:: /feature/_images/mdmimages/cs_managetaghierarchies_fillouttherequireddetails2.PNG
 |
@@ -80,28 +80,28 @@ To manage/create tag hierarchies, follow this set of instructions:
 |
 
 
-#. To add a sublevel, click on the newly created Master Hierarchy and click on the **Add New Level** button found on the next column.
+* To add a sublevel, click on the newly created Master Hierarchy and click on the **Add New Level** button found on the next column.
 
 .. image:: /feature/_images/mdmimages/cs_managetaghierarchies_toaddsubtaxonomies.PNG
 |
 |
 
 
-#. Type the name of the sublevel and then, click on the **Create 'name'** button.
+* Type the name of the sublevel and then, click on the **Create 'name'** button.
 
 .. image:: /feature/_images/mdmimages/cs_managetaghierarchies_typethenameofthesubtaxonomy.PNG
 |
 |
 
 
-#. Check the details on the pop-up window and click on the **Create** button to continue.
+* Check the details on the pop-up window and click on the **Create** button to continue.
 
 .. image:: /feature/_images/mdmimages/cs_managetaghierarchies_typethenameofthesubtaxonomy2.PNG
 |
 |
 
 
-#. Add more sublevels to the hierarchy, as desired.
+* Add more sublevels to the hierarchy, as desired.
 
 .. image:: /feature/_images/mdmimages/cs_managetaghierarchies_addmorelevels.PNG
 |

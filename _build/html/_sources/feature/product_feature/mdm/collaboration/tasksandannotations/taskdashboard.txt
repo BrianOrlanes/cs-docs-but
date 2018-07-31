@@ -30,35 +30,35 @@ To view tasks in the dashboard, follow these steps:
 
 |
 
-#. Click on the **Task Dashboard** icon.
+* Click on the **Task Dashboard** icon.
 
 .. image:: /feature/_images/mdmimages/taskdashboard_clickonthetaskdashboard.PNG
 |
 |
 
 
-#. View the tasks in the dashboard. The dashboard contains tasks that are *Public (Shared)* and *Private* tasks.
+* View the tasks in the dashboard. The dashboard contains tasks that are *Public (Shared)* and *Private* tasks.
 
 .. image:: /feature/_images/mdmimages/taskdashboard_viewthetasksinthedashboard.PNG
 |
 |
 
 
-#. Click on the **Notifications** tab to view the notifications. Notifications are quick updates on the task activities.
+* Click on the **Notifications** tab to view the notifications. Notifications are quick updates on the task activities.
 
 .. image:: /feature/_images/mdmimages/taskdashboard_viewthenotificationstab.PNG
 |
 |
 
 
-#. Select a task.
+* Select a task.
 
 .. image:: /feature/_images/mdmimages/taskdashboard_selectatask.PNG
 |
 |
 
 
-#. Edit the details of the task and then save the changes.
+* Edit the details of the task and then save the changes.
 
 .. image:: /feature/_images/mdmimages/taskdashboard_editthedetails.PNG
 |
