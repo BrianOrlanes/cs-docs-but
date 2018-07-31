@@ -1,4 +1,4 @@
-=============
+==============
 Add New Users
 ==============
 Manage different roles or profiles within the system by adding new users.
@@ -11,13 +11,13 @@ To do this, follow these steps:
 
 |
 
-* Click **Settings**.
+* Click **Administration**.
 
 .. image:: /feature/_images/mdmimages/cs_addingnewusers_clicksettings.PNG
 |
 |
 
-* Click **Partner Admin**.
+* Click **Partner Administration**.
 
 .. image:: /feature/_images/mdmimages/cs_addingnewusers_clickpartneradmnistration.PNG
 |
