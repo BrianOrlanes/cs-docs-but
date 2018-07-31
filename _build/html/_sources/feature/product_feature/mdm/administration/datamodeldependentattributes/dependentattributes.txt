@@ -97,8 +97,7 @@ To configure a dependent attribute, follow the steps provided:
 |
 
 
-* Once the taxonomy is created, the minor taxonomy can then be added as a property collection.
-   In the *Property Collections* tab, search for the minor taxonomy and add it as one of the properties.
+* Once the taxonomy is created, the minor taxonomy can then be added as a property collection. In the *Property Collections* tab, search for the minor taxonomy and add it as one of the properties.
 
 .. image:: /feature/_images/mdmimages/cs_dependentattributes_oncethetaxonomyiscreated.PNG
 |
