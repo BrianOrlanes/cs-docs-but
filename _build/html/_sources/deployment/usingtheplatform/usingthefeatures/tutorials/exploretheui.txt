@@ -13,10 +13,6 @@ Use these screenshots to help guide you through Contentserv's user interface:
    :alt: Contentsphere UI
 
 |
-
-| :doc:`Previous: About the Product </tutorials/productlines>`
-| :doc:`Next: Add New Users </tutorials/addnewuser>`
-
 |
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
