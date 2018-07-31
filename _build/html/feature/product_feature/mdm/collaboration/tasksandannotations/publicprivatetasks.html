@@ -8,7 +8,7 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
-  <title>Public/Private Tasks &mdash; Contentserv  documentation</title>
+  <title>RACI-VS Tasks &mdash; Contentserv  documentation</title>
   
 
   
@@ -132,7 +132,7 @@
     
       <li><a href="../../../../../contents.html">Docs</a> &raquo;</li>
         
-      <li>Public/Private Tasks</li>
+      <li>RACI-VS Tasks</li>
     
     
       <li class="wy-breadcrumbs-aside">
@@ -149,9 +149,9 @@
           <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
            <div itemprop="articleBody">
             
-  <div class="section" id="s-public-private-tasks">
-<span id="public-private-tasks"></span><h1>Public/Private Tasks<a class="headerlink" href="#public-private-tasks" title="Permalink to this headline">¶</a></h1>
-<p>The Public/Private Tasks feature allows a user to set a task to either <em>Public (Shared)</em> or <em>Private</em>.</p>
+  <div class="section" id="s-raci-vs-tasks">
+<span id="raci-vs-tasks"></span><h1>RACI-VS Tasks<a class="headerlink" href="#raci-vs-tasks" title="Permalink to this headline">¶</a></h1>
+<p>The RACI-VS Tasks is a feature that allows users to create a task and assign roles that will check each stage of the task until it is completed and signed off.</p>
 <table class="docutils">
 <colgroup>
 <col width="10%" />
@@ -165,14 +165,11 @@
 </td>
 </tr>
 <tr class="row-even"><td><strong>Description:</strong></td>
-<td><ul class="first last">
-<li><p class="first">Tasks are action events created within an article that are intended for a user. In the system, the tasks contain a description of what action should be done.
-This feature allows a user to set a task to either <em>Public or Private</em>:</p>
-<blockquote>
-<div><p>A <strong>Public</strong> task is shared among users.
-A <strong>Private</strong> task is only for the user who created that task (and other users granted with permission to access the task).</p>
-</div></blockquote>
-</li>
+<td><ul class="first last simple">
+<li>This feature allows users to create tasks and assign the checking of the task to users using different roles.</li>
+<li>The role assigned to a user can be one of the following: <em>Responsible, Accountable, Consulted, Informed, Verifier, and Sign off</em>.
+These roles have different levels of rights and permissions in the system.
+The life cycle of a task also depends on the decision of the user assigned to a specific role.</li>
 </ul>
 </td>
 </tr>
@@ -180,35 +177,32 @@ A <strong>Private</strong> task is only for the user who created that task (and 
 <td><ul class="first last simple">
 <li><a class="reference internal" href="tasksandannotations.html"><span class="doc">Tasks and Annotations</span></a></li>
 <li><a class="reference internal" href="taskdashboard.html"><span class="doc">Tasks Dashboards</span></a></li>
-<li><a class="reference internal" href="racivstasks.html"><span class="doc">RACI-VS Tasks</span></a></li>
+<li><a class="reference internal" href="#"><span class="doc">Public/Private Tasks</span></a></li>
 </ul>
 </td>
 </tr>
 <tr class="row-even"><td><strong>Application:</strong></td>
-<td><ul class="first last">
-<li><p class="first">An administrator can set a task to remind another user of an action that needs to be done on a particular day.</p>
-</li>
-<li><p class="first"><em>Example:</em></p>
-<blockquote>
-<div><p>An administrator can create a task for a user to create a new variant for a product. An administrator sets it to <em>Public Mode</em>.
-The user assigned to the task can check the things to be completed and their relevant dates using the calendar view.</p>
-</div></blockquote>
-</li>
+<td><ul class="first last simple">
+<li>The review and approval of tasks can be assigned to the roles (roles may then be assigned to users).
+Each role will have its set of rights and permissions in the system.
+The task flow explains the various stages of a task starting from <em>Planned</em> (initial status) until <em>Signed off</em>.
+It also shows the different roles in charge of validation before the task is endorsed to the next step.
+Refer to the <em>Task Flow</em> image in the <em>How to do</em> section.</li>
 </ul>
 </td>
 </tr>
 </tbody>
 </table>
-<div class="section" id="s-how-to-public-private-tasks">
-<span id="how-to-public-private-tasks"></span><h2>How-to: Public/Private Tasks<a class="headerlink" href="#how-to-public-private-tasks" title="Permalink to this headline">¶</a></h2>
-<p>To set a task to either public or private, follow these steps:</p>
+<div class="section" id="s-how-to-raci-vs-tasks">
+<span id="how-to-raci-vs-tasks"></span><h2>How-to: RACI-VS Tasks<a class="headerlink" href="#how-to-raci-vs-tasks" title="Permalink to this headline">¶</a></h2>
+<p>To do this feature, follow these steps:</p>
 <div class="line-block">
 <div class="line"><br /></div>
 </div>
 <ul class="simple">
 <li>Go to <em>PIM</em> and select a product.</li>
 </ul>
-<img alt="../../../../../_images/publicprivatetasks_gotoPIM.PNG" src="../../../../../_images/publicprivatetasks_gotoPIM.PNG" />
+<img alt="../../../../../_images/cs_racivstasks_gotopim.PNG" src="../../../../../_images/cs_racivstasks_gotopim.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
 <div class="line"><br /></div>
@@ -216,15 +210,19 @@ The user assigned to the task can check the things to be completed and their rel
 <ul class="simple">
 <li>Click on the <strong>Tasks</strong> tab to create a new task.</li>
 </ul>
-<img alt="../../../../../_images/publicprivatetasks_clickonthetasktab.PNG" src="../../../../../_images/publicprivatetasks_clickonthetasktab.PNG" />
+<img alt="../../../../../_images/cs_racivstasks_clickontasktab.PNG" src="../../../../../_images/cs_racivstasks_clickontasktab.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
 <div class="line"><br /></div>
 </div>
 <ul class="simple">
-<li>Select the <em>Content Level</em> task.</li>
+<li>Select the <strong>Content Level</strong> task.</li>
 </ul>
-<img alt="../../../../../_images/publicprivatetasks_clickonthecontentleveltask.PNG" src="../../../../../_images/publicprivatetasks_clickonthecontentleveltask.PNG" />
+<img alt="../../../../../_images/cs_racivstasks_selectcontentleveltask.PNG" src="../../../../../_images/cs_racivstasks_selectcontentleveltask.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<img alt="../../../../../_images/cs_racivstasks_selectcontentleveltask2.PNG" src="../../../../../_images/cs_racivstasks_selectcontentleveltask2.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
 <div class="line"><br /></div>
@@ -232,7 +230,7 @@ The user assigned to the task can check the things to be completed and their rel
 <ul class="simple">
 <li>Click on <strong>Add New Task</strong> button to create a new task.</li>
 </ul>
-<img alt="../../../../../_images/publicprivatetasks_clickontheaddnewtaskbutton.PNG" src="../../../../../_images/publicprivatetasks_clickontheaddnewtaskbutton.PNG" />
+<img alt="../../../../../_images/cs_racivstasks_clickonaddnewtask.PNG" src="../../../../../_images/cs_racivstasks_clickonaddnewtask.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
 <div class="line"><br /></div>
@@ -240,39 +238,83 @@ The user assigned to the task can check the things to be completed and their rel
 <ul class="simple">
 <li>Enter the name of the new task then click on the <strong>Save</strong> button.</li>
 </ul>
-<img alt="../../../../../_images/publicprivatetasks_enterthenameofthenewtask.PNG" src="../../../../../_images/publicprivatetasks_enterthenameofthenewtask.PNG" />
+<img alt="../../../../../_images/cs_racivstasks_enterthename.PNG" src="../../../../../_images/cs_racivstasks_enterthename.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
 <div class="line"><br /></div>
 </div>
 <ul class="simple">
-<li>Toggle between the <strong>Public</strong> or <strong>Private Mode</strong> using the lock icon.</li>
+<li>Provide the description and important dates then click on the <strong>Save</strong> button.</li>
 </ul>
-<img alt="../../../../../_images/publicprivatetasks_togglebetweenpublicorprivate.PNG" src="../../../../../_images/publicprivatetasks_togglebetweenpublicorprivate.PNG" />
+<img alt="../../../../../_images/cs_racivstasks_providethedescription.PNG" src="../../../../../_images/cs_racivstasks_providethedescription.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<p><em>Note: The task flow (including the roles involved) is shown below:</em></p>
+<img alt="../../../../../_images/racivstasks_taskprocessflow.PNG" src="../../../../../_images/racivstasks_taskprocessflow.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<blockquote>
+<div><ul class="simple">
+<li>The user who created the task, by default, is the <strong>Accountable</strong> user. The <strong>Accountable</strong> user can change the task from <em>Planned</em> to the <em>Ready</em> state.</li>
+</ul>
+<img alt="../../../../../_images/racivstasks_plannedtoready.PNG" src="../../../../../_images/racivstasks_plannedtoready.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
 <div class="line"><br /></div>
 </div>
 <ul class="simple">
-<li>Set the important dates for the task.</li>
+<li>Once in the <em>Ready</em> state, the <strong>Responsible</strong> user acknowledges the task and sets it to either <em>Declined</em> or <em>In Progress</em>.</li>
 </ul>
-<img alt="../../../../../_images/publicprivatetasks_setthedates.PNG" src="../../../../../_images/publicprivatetasks_setthedates.PNG" />
+<img alt="../../../../../_images/racivstasks_oncethereadystate.PNG" src="../../../../../_images/racivstasks_oncethereadystate.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
 <div class="line"><br /></div>
 </div>
 <ul class="simple">
-<li>Go to <em>PIM</em> and go to the <em>Calendar View</em> to check the task.</li>
+<li>When the task is completed by the <strong>Accountable</strong> user, the <strong>Responsible</strong> user acknowledges and sets the status to <em>Done</em>.</li>
 </ul>
-<img alt="../../../../../_images/publicprivatetasks_gotoPIMandcalendarview.PNG" src="../../../../../_images/publicprivatetasks_gotoPIMandcalendarview.PNG" />
+<img alt="../../../../../_images/racivstasks_whenthetaskiscompleted.PNG" src="../../../../../_images/racivstasks_whenthetaskiscompleted.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
 <div class="line"><br /></div>
 </div>
-<p><em>Note: If a task is set in Private Mode, other users will not have access to view that task (except for those who are given permission).</em></p>
+<ul class="simple">
+<li>Once the status is <em>Done</em>, the <strong>Verifier</strong> checks the completion of the task and can set the status back to <em>In Progress</em>. If there are no changes, the <strong>Verifier</strong> endorses it to <em>Verified</em> status.</li>
+</ul>
+<img alt="../../../../../_images/racivstasks_oncethestatusisdone.PNG" src="../../../../../_images/racivstasks_oncethestatusisdone.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
+<div class="line"><br /></div>
 </div>
+<ul class="simple">
+<li>If the <strong>Verifier</strong> sets it back to <em>In Progress</em>, the <strong>Accountable</strong> user will have to ensure the completion of the task again so that the <strong>Responsible</strong> user can set it to <em>Done</em> and then, the <strong>Verifier</strong> will validate. If the status is set to <em>Verified</em>, move to the next step.</li>
+</ul>
+<img alt="../../../../../_images/racivstasks_iftheverifiersetsitback.PNG" src="../../../../../_images/racivstasks_iftheverifiersetsitback.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Once <em>Verified</em>, the <strong>Sign-off</strong> user can set it back to <em>In Progress</em> wherein the cycle will restart. If everything is good, the <strong>Sign-off</strong> user can set it to <em>Signed off</em>.</li>
+</ul>
+<img alt="../../../../../_images/racivstasks_onceverified.PNG" src="../../../../../_images/racivstasks_onceverified.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>If <em>Signed off</em>, the final status will look like the image shown below:</li>
+</ul>
+<img alt="../../../../../_images/racivstasks_thefinalsignoff.PNG" src="../../../../../_images/racivstasks_thefinalsignoff.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+</div></blockquote>
 <img alt="Contentserv line" src="../../../../../_images/line-png-32.PNG" />
 </div>
 </div>
@@ -289,7 +331,7 @@ The user assigned to the task can check the things to be completed and their rel
   <div role="contentinfo">
     <p>
         &copy; Copyright CS Group.
-      Last updated on Jul 27, 2018.
+      Last updated on Jul 31, 2018.
 
     </p>
   </div>

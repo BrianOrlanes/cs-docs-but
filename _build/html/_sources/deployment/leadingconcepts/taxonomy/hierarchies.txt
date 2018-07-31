@@ -3,7 +3,7 @@ Hierarchies
 ===============
 
 Hierarchies are used to search for an object or navigate the system via the taxonomy.
-It can also be used copy or move objects between different taxonomies or different nodes within the same taxonomy.
+It can also be used to copy or move objects between different taxonomies or different nodes within the same taxonomy.
 
 .. image:: /feature/_images/butimages/cs_hierarchies.PNG
 |
