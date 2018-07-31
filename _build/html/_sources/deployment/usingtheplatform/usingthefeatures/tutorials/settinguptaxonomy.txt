@@ -71,10 +71,6 @@ Icons can also be added to the Taxonomy.
 
 |
 
-| :doc:`Previous: Create a New Product </tutorials/createnewproduct>`
-| :doc:`Next: What is a Data Model? </tutorials/whatisadatamodel>`
-
-|
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
    :alt: Contentserv line
