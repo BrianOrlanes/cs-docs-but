@@ -11,12 +11,12 @@ Learn the basics to get up and running quickly.
 .. toctree::
    :maxdepth: 1
 
-   productlines
-   exploretheui
-   addnewuser
-   addimagetoDAM
-   createnewproduct
-   settinguptaxonomy
+   productlines1
+   exploretheui1
+   addnewuser1
+   addimagetoDAM1
+   createnewproduct1
+   settinguptaxonomy1
 
 
 
