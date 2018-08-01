@@ -5,9 +5,9 @@ Creating Tabs
 What is a Tab
 ===============
 
-For a better distribution of content and a clutter-free display, one could divide all the product information into various tabs.
-The tabs may contain one or many property collections added to it. Relevant tabs make navigation easy and give product desired structure.
-Once the content behind each tab is logically chunked the users can easily predict what they'll find when they select a given tab.
+For a better distribution of content and a clutter-free display, one could divide the product information into various tabs.
+The tabs may contain one or many property collections added to it. Relevant tabs make navigation easy and give the product its desired structure.
+Once the content behind each tab is logically chunked, the users can easily predict what they'll find when they select a certain tab.
 
   **Example:**
 

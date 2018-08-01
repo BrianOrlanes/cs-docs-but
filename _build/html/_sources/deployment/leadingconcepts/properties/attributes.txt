@@ -2,7 +2,7 @@
 Attributes
 ============
 
-An attribute is a data field which describes a product.
+An attribute is a data field that describes a product.
 It is a characteristic or property of a component that can only have one value at a time.
 The properties that are preceded with an 'A' icon are the attributes.
 
@@ -24,7 +24,7 @@ The properties that are preceded with an 'A' icon are the attributes.
 
 Calculated
 -----------
-A calculated attribute is a read-only field, whose value is based on a specified formula that takes values from other defined attributes.
+A calculated attribute is a read-only field whose value is based on a specified formula that derives values from other defined attributes.
 This attribute stores the calculation of two or more numbers.
 By definition, one can define a formula for this type of attribute and the value of an attribute will be calculated based on this defined formula.
 
@@ -37,7 +37,7 @@ By definition, one can define a formula for this type of attribute and the value
 
 	A manufacturer wants to give 10 percent discount on the selling price of a chair.
 	He can define the formula to apply a 10 percent discount on the selling price using a *Calculated* attribute.
-	The attribute value will be based on the calculation of defined formula and the attributes that have been used.
+	The attribute value will be based on the calculation of the defined formula and the attributes that have been used.
 
 
 Concatenated
@@ -53,10 +53,10 @@ It is used to combine related values together that will produce a single value o
 	**Example:**
 
 	We want to show the physical address of a user. The user sets the details in different fields and
-	We can combine different attributes like *State, City, and Zip Code* to get the final address of a user.
+	We can combine different attributes like *State, City, and Zip Code* to get the complete address of a user.
 
-	Two different attributes containing first name and last name of a user are available in the system. Supplier wants to show the full name of a user.
-	He will combine the first name and last name of the user using Concatenated attribute and will display the full name of a user.
+	Two different attributes containing the first name and last name of a user are available in the system. Supplier wants to show the full name of a user.
+	He will use Concatenated attribute to combine the first name and last name, displaying the full name of the user.
 
 
 Date
@@ -81,8 +81,8 @@ In runtime, the attributes will have a calendar popup for the date picker.
 HTML
 -----
 This attribute is used to store text in the system.
-The added advantage in using this attribute type is that a user can modify the behavior of a text using different HTML attributes like *Bold, Italic, Underline, Font Size, Font Family,* and so on.
-By default, the attribute value can have a maximum of 999 characters. But, a user can manually change the maximum number of characters that an attribute value can accommodate.
+The advantage in using this attribute type is that a user can modify the behavior of a text using different HTML attributes like *Bold, Italic, Underline, Font Size, Font Family,* and so on.
+By default, the attribute value can have a maximum of 999 characters. However, a user can manually change the maximum number of characters that an attribute value can accommodate.
 
 
 .. image:: /feature/_images/butimages/cs_properties_html.PNG
@@ -102,7 +102,7 @@ By default, the attribute value can have a maximum of 999 characters. But, a use
 Measurement
 ------------
 This attribute can be used to set different types of measurement attributes to be managed in the system.
-The examples of different types of measurement attributes are: *Length, Width, Volume, Speed, Power, Density,* and so on.
+Some examples of different types of measurement attributes are: *Length, Width, Volume, Speed, Power, Density,* and so on.
 Once set as a measurement, the appropriate unit can be attached to the value of the attribute.
 
 
@@ -114,14 +114,14 @@ Once set as a measurement, the appropriate unit can be attached to the value of 
 
 	A furniture manufacturer wants to define the height and width of a cupboard.
 	He can define the height and width in the system using the Measurement attribute.
-	He can then also set the unit of the measurement.
+	He can then also set the unit of measurement.
 
 
 Number
 -------
 This attribute is used to save any type of number value in the system.
-Once set to a number type, the system can validate the information in the field and check that numbers should have been provided.
-An initial default value can also be provided.
+Once set to a number type, the system can validate the information in the field and check that the numbers have been entered.
+A default value can also be provided.
 
 
 .. image:: /feature/_images/butimages/cs_properties_number.PNG
@@ -130,15 +130,15 @@ An initial default value can also be provided.
 
 	**Example:**
 
-	A furniture manufacturer wants to define GTIN value for his product.
-	He can define the GTIN value using Number attribute.
+	A furniture manufacturer wants to define the GTIN value for his product.
+	He can define the GTIN value using the Number attribute.
 
 
 Price
 -------
 This attribute is used to save any type of price in a system like *List price, Minimum price, Maximum price, Retail price, Selling price,* and so on.
-Similar to a number attribute, the system will check that numbers should only be values that are to be provided.
-In additiona, the *Price* attribute allows a user to define the currency in which you want to display the price value like *Euro, US Dollar, Australian Dollar, Indian Rupee, Canadian Dollar,* and so on.
+Similar to the Number attribute, the system will check that numbers are the only values to be provided.
+In addition, the *Price* attribute allows a user to define the currency in which the price value is displayed like *Euro, US Dollar, Australian Dollar, Indian Rupee, Canadian Dollar,* and so on.
 
 
 .. image:: /feature/_images/butimages/cs_properties_price.PNG
@@ -148,14 +148,14 @@ In additiona, the *Price* attribute allows a user to define the currency in whic
 	**Example:**
 
 	A manufacturer wants to display the selling price of all the products in Euro.
-	Then, he can set up a price attribute and define this as Euro for the unit.
+	He can then set up a price attribute and define Euro as the unit.
 
 
 Standard Attribute
 -------------------
 Standard Attributes are the system-generated attributes.
 The system automatically generates these attributes and may be available in the system, by default.
-The most frequently used or common attributes across the system are generated by default for the convenience of a user.
+The most frequently used or common attributes across the system are generated by default for the convenience of the user.
 
 
 .. image:: /feature/_images/butimages/cs_properties_standardattribute.PNG
@@ -182,3 +182,8 @@ It can accommodate any number of characters as the attribute value.
 
 	A manufacturer wants to show the key features of a sofa set.
 	He can create the Text attribute to define the features of a sofa set.
+
+|
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line

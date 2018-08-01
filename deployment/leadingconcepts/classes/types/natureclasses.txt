@@ -2,8 +2,8 @@
 Nature Classes
 ===============
 
-We can define base type of product using Nature class. Here, we can define behavior of a product.
-It helps to define how a product should look like. Below are the nature classes that have been predefined within the system.
+We can define the base type of a product using Nature class. Here, we can define behavior of a product.
+It helps to establish how a product should look like. Below are the nature classes that have been predefined within the system.
 
 Predefined Nature Classes
 ==========================
@@ -17,11 +17,11 @@ A stand-alone product which is a sellable item.
       .. image:: /feature/_images/butimages/singlearticle01.PNG
 
 
-PID
+Product
 ---------
 A placeholder for a group of common products.
 
-      **Example:** Red Bull as the PID, which contains variants like *Regular, Sugarfree, and Zero*.
+      **Example:** Red Bull as Product, which contains variants like *Regular, Sugarfree, and Zero*.
 
       .. image:: /feature/_images/butimages/pid01.PNG
       |
