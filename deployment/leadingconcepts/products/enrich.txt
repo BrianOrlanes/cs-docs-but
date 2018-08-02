@@ -1,3 +1,47 @@
 ==============================
 Enriching Product Information
 ==============================
+
+
+Why do we enrich product information
+=====================================
+
+Having a product that is described by text-heavy information, more often than not, overwhelms a potential customer.
+Going through chunks of text to know about the product doesn't appeal to a majority of consumers simply because they don't spend time and effort to peruse all that text.
+On the other hand, a product that is enriched with visuals is more appreciated since it gives the customer an at-a-glace feel for the product before they delve into the details.
+A product can be enriched by adding digital assets such as relevant images and videos to the prodcut information page.
+With the inclusion of images and videos to the product information page, the customer can gain a better understanding about the product through the informative visuals presented alongside the text content.
+These images can range from the different views of the products, down to its multiple variants and customizations.
+It is for this reason that we use Digital Asset Management (DAM), a solution for enterprises to store, organize, find and retrieve digital files.
+Digital files in the DAM are linked to the PIM through relationships.
+
+
+  **Example:**
+
+  Mobile Product information can be divided into several tabs – Overview (that displays information like classes, Taxonomies, Versions),
+  Property Collection (that displays information like Brand Name, PID, Short and Long Description and so on), and Relationships (that displays related Images, Market, Video, and so on).
+
+
+To add an image to a product
+=============================
+
+#. Log in and go to *DAM*.
+#. Hover over the "+" icon and select *Image*.
+#. Click on the "+" icon.
+#. Click **Add Image** icon found on the File Preview section.
+#. Select the image to be added.
+#. Click the **Pencil** icon and enter a name for the image.
+#. Click **SAVE**.
+#. Go to *PIM* and select the product to which the image will be applied.
+#. Click the **Relationships** tab and click the "+" icon under Images.
+#. Select the image and click **Add**.
+#. Click the **Back** button to view the added image.
+
+
+.. image:: /feature/_images/butimages/cs_tabs.PNG
+|
+.. image:: /feature/_images/butimages/cs_tabs2.PNG
+|
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line

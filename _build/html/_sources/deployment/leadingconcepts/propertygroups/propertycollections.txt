@@ -15,6 +15,21 @@ One important aspect of having this feature is that the user can create products
 
   Similarly, one could also create a Property Collection ‘Warranty Information’; this Property Collection can be extended to the other similar products as well.
 
+To add a property collection to a product
+==========================================
+
+#. Log in and go to *Administration*.
+#. Click **Property Groups** and select *Property Collection*.
+#. Click on the "+" icon.
+#. Enter a name for the property collection and click **CREATE**.
+#. Drag and drop the desired *attributes, tags and classifications* to the table under section.
+#. Click **Classes** and select the class to which the property collection will be applied.
+#. Click the "+" icon found on the rightmost part of *Section*.
+#. Select the property collection and click **Apply**.
+#. Go to PIM and select the product under the class to which the property collection was applied.
+#. Click the **Property Collection** tab to view the created property collection.
+
+
 .. image:: /feature/_images/butimages/cs_propertycollection.PNG
 
 |
