@@ -15,20 +15,6 @@ Once the content behind each tab is logically chunked, the users can easily pred
   Property Collection (that displays information like Brand Name, PID, Short and Long Description and so on), and Relationships (that displays related Images, Market, Video, and so on).
 
 
-To create a tab
-===============
-
-#. Log in and go to *Administration*.
-#. Click **Property Groups** and select *Tabs*.
-#. Click on the "+" icon.
-#. Enter a name for the tag and click **CREATE**.
-#. Under Property Groups, click **Property Collection**.
-#. Select the property collection to which the tag will be applied.
-#. Click the *Tab* field and select the tag.
-#. Go to *PIM* and select the product to which the property collection was applied.
-#. View the tab.
-
-
 .. image:: /feature/_images/butimages/cs_tabs.PNG
 |
 .. image:: /feature/_images/butimages/cs_tabs2.PNG
