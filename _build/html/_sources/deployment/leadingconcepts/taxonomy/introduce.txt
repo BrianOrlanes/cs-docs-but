@@ -2,11 +2,11 @@
 Taxonomy
 ========
 
-Definition and Use
+Why use taxonomies
 ==================
 
 Taxonomy is the classification of data. It is about the “semantic architecture”, which includes naming items, making decisions for a different concept, and term mapping. Aside from being useful for creating a consistent structure, it can also be used to categorize large volume of data in readable and identifiable form. In the CS Global system, Taxonomy is also used to link two objects and drive inheritance.
-A child (or last node of a taxonomy branch) will have most attributes (not all) of the parent node.
+A child (or last node of a taxonomy branch) will have most attributes (not all) of the parent node. Taxonomy makes it easier for the customer to find his/her desired product based on the cues provided by the classification structure.
 
   **Example:**
 
