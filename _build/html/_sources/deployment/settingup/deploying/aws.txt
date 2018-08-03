@@ -11,7 +11,7 @@ Users, Access, Folder Structure
 
 *Note: Click the image to enlarge.*
 
-.. image:: _images/tableimage.PNG
+.. image:: /reference/_images/tableimage.PNG
    :scale: 50%
 
 |
