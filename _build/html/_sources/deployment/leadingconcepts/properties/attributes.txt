@@ -32,7 +32,6 @@ By definition, one can define a formula for this type of attribute and the value
 .. image:: /feature/_images/butimages/cs_properties_calculated.PNG
 |
 
-
 	**Example:**
 
 	A manufacturer wants to give 10 percent discount on the selling price of a chair.
@@ -48,7 +47,6 @@ It is used to combine related values together that will produce a single value o
 
 .. image:: /feature/_images/butimages/cs_properties_concatenated.PNG
 |
-
 
 	**Example:**
 
@@ -69,7 +67,6 @@ In runtime, the attributes will have a calendar popup for the date picker.
 |
 .. image:: /feature/_images/butimages/cs_properties_date2.PNG
 |
-|
 
 
 	**Example:**
@@ -88,7 +85,6 @@ By default, the attribute value can have a maximum of 999 characters. However, a
 .. image:: /feature/_images/butimages/cs_properties_html.PNG
 |
 .. image:: /feature/_images/butimages/cs_properties_html2.PNG
-|
 |
 
 
