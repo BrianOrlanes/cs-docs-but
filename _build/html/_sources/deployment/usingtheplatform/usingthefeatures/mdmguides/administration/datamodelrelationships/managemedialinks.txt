@@ -49,8 +49,7 @@ To manage media links follow these steps:
 |
 |
 
-* Enter the name for the relationship and select the two desired entity classes to be linked in *Side1 and Side2* using the drop-down lists.
-   In the example shown, a relationship is created for an *Article* and its *Video* files.
+* Enter a name for the relationship and select the two desired entity classes to be linked in *Side1 and Side2* using the drop-down lists. In the example shown, a relationship is created for an *Article* and its *Video* files.
 
 .. image:: /feature/_images/mdmimages/cs_managemedialinks_entername.PNG
 |

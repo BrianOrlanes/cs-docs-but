@@ -34,7 +34,7 @@ To multi-classify objects, follow these steps:
 
 |
 
-* Go to PIM and hover over the "+" icon.
+* Go to *PIM* and hover over the "+" icon.
 
 .. image:: /feature/_images/mdmimages/cs_multiclassification_gotopim.PNG
 |

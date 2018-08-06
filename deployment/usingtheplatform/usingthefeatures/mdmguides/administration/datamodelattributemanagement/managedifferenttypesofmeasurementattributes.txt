@@ -390,7 +390,7 @@ To set an attribute as a weight/mass, follow these steps:
 |
 
 
-* Click the '+' icon to create an attribute.
+* Click the "+" icon to create an attribute.
 
 .. image:: /feature/_images/mdmimages/cs_manageattributeweight_clickoncreatebutton.PNG
 |
