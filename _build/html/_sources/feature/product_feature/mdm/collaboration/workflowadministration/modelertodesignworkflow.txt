@@ -66,8 +66,7 @@ To configure a workflow, follow these steps:
 |
 
 
-* The *Graph* section in the pop-up window is divided into three vertical sections. The first two vertical sections are called *Workflow Modeler*. It allows to configure workflows using BPMN 2.0 modelling notation.
-   This will allow users to model complex onboarding process using universally known and standardized BPMN 2.0 notation.
+* The *Graph* section in the pop-up window is divided into three vertical sections. The first two vertical sections are called *Workflow Modeler*. It allows to configure workflows using BPMN 2.0 modelling notation. This will allow users to model complex onboarding process using universally known and standardized BPMN 2.0 notation.
 
 .. image:: /feature/_images/mdmimages/cs_modelertodesignworkflow_graphsection.PNG
 |
@@ -88,8 +87,7 @@ To configure a workflow, follow these steps:
 |
 
 
-* Start adding the notations to define a workflow according to the onboarding file. For example, if you want to add *Article* in the workflow, then click on the **Task** notation.
-   Custom actions for different users will be managed through the workflow **Task**.
+* Start adding the notations to define a workflow according to the onboarding file. For example, if you want to add *Article* in the workflow, then click on the **Task** notation. Custom actions for different users will be managed through the workflow **Task**.
 
 .. image:: /feature/_images/mdmimages/cs_modelertodesignworkflow_addnotations.PNG
 |
@@ -153,7 +151,7 @@ To configure a workflow, follow these steps:
 
 
 * Click on a component and in the third vertical section, fill in the details of the component such as *Sheet Name, Primary Key Column, Type, Class ID/Class Column, Multiclassification, Type, Select Classes/Class Column Name* and *Taxonomies*.
-   Perform this step for each component then click on the **Save** button.
+  Perform this step for each component then click on the **Save** button.
 
 .. image:: /feature/_images/mdmimages/cs_modelertodesignworkflow_clickeachcomponent.PNG
 |
