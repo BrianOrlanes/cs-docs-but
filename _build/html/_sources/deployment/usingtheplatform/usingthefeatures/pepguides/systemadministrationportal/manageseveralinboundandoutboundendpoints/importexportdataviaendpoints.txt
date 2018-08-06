@@ -33,10 +33,12 @@ To import and export via endpoints, follow these steps:
 
 |
 
-* Log in using the supplier username and password, then click on the **Log In** button.
+* Log in and go to Dashboard, then then click on the **Data Integration** tab.
+
+.. image:: /feature/_images/pepimages/cs_importexportdataviaendpoints_login.PNG
 |
 
-* Click on the **Data Integration** tab.
+* Click on the desired endpoint to open and view the endpoint.
 
 .. image:: /feature/_images/pepimages/cs_importexportdataviaendpoints_dataintegration.PNG
 |
@@ -54,13 +56,12 @@ To import and export via endpoints, follow these steps:
 
 .. image:: /feature/_images/pepimages/cs_importexportdataviaendpoints_importfile1.PNG
 |
-.. image:: /feature/_images/pepimages/cs_importexportdataviaendpoints_importfile2.PNG
-|
 |
 
 
-* VIew the process under the *Process Status* tab and click on the **Back** icon to go back to *Dashboard*.
+* Go back to *Dashboard*.
 
+.. image:: /feature/_images/pepimages/cs_importexportdataviaendpoints_back.PNG
 |
 |
 
