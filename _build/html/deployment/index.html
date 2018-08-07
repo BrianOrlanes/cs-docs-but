@@ -28,7 +28,7 @@
   <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
-    <link rel="next" title="Getting Started" href="gettingstarted/index.html" />
+    <link rel="next" title="Setting Up" href="settingup/index.html" />
     <link rel="prev" title="Contentserv" href="../introduction.html" /> 
 
   
@@ -86,7 +86,6 @@
 <li class="toctree-l1 current"><a class="reference internal" href="../index.html">Contentserv Documentation</a><ul class="current">
 <li class="toctree-l2"><a class="reference internal" href="../introduction.html">Contentserv</a></li>
 <li class="toctree-l2 current"><a class="current reference internal" href="#">Deployment Guides</a><ul>
-<li class="toctree-l3"><a class="reference internal" href="gettingstarted/index.html">Getting Started</a></li>
 <li class="toctree-l3"><a class="reference internal" href="settingup/index.html">Setting Up</a></li>
 <li class="toctree-l3"><a class="reference internal" href="leadingconcepts/index.html">Leading Concepts</a></li>
 <li class="toctree-l3"><a class="reference internal" href="usingtheplatform/index.html">Using the Platform</a></li>
@@ -167,12 +166,6 @@
 <span id="deployment-guides"></span><h1>Deployment Guides<a class="headerlink" href="#deployment-guides" title="Permalink to this headline">¶</a></h1>
 <div class="toctree-wrapper compound">
 <ul>
-<li class="toctree-l1"><a class="reference internal" href="gettingstarted/index.html">Getting Started</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="gettingstarted/understand.html">Understanding the Contentserv Platform</a></li>
-<li class="toctree-l2"><a class="reference internal" href="gettingstarted/version.html">Knowing your Contentserv Version</a></li>
-<li class="toctree-l2"><a class="reference internal" href="gettingstarted/upgrade.html">Upgrading your Platform Version</a></li>
-</ul>
-</li>
 <li class="toctree-l1"><a class="reference internal" href="settingup/index.html">Setting Up</a><ul>
 <li class="toctree-l2"><a class="reference internal" href="settingup/assessing/index.html">Assessing your Environment and Requirements</a><ul>
 <li class="toctree-l3"><a class="reference internal" href="settingup/assessing/networkdiagram.html">Network Diagram</a></li>
@@ -242,8 +235,14 @@
 <li class="toctree-l4"><a class="reference internal" href="leadingconcepts/products/introduce.html#overview">Overview</a></li>
 </ul>
 </li>
-<li class="toctree-l3"><a class="reference internal" href="leadingconcepts/products/configure.html">Configuring the Products</a></li>
-<li class="toctree-l3"><a class="reference internal" href="leadingconcepts/products/enrich.html">Enriching Product Information</a></li>
+<li class="toctree-l3"><a class="reference internal" href="leadingconcepts/products/configure.html">Configuring the Products</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="leadingconcepts/products/configure.html#why-do-we-configure-products">Why do we configure products</a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="leadingconcepts/products/enrich.html">Enriching Product Information</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="leadingconcepts/products/enrich.html#why-do-we-enrich-product-information">Why do we enrich product information</a></li>
+</ul>
+</li>
 </ul>
 </li>
 <li class="toctree-l2"><a class="reference internal" href="leadingconcepts/classes/index.html">Classes</a><ul>
@@ -260,7 +259,7 @@
 </ul>
 </li>
 <li class="toctree-l2"><a class="reference internal" href="leadingconcepts/properties/index.html">Properties</a><ul>
-<li class="toctree-l3"><a class="reference internal" href="leadingconcepts/properties/overview.html">Properties</a></li>
+<li class="toctree-l3"><a class="reference internal" href="leadingconcepts/properties/overview.html">Introduction to Properties</a></li>
 <li class="toctree-l3"><a class="reference internal" href="leadingconcepts/properties/attributes.html">Attributes</a><ul>
 <li class="toctree-l4"><a class="reference internal" href="leadingconcepts/properties/attributes.html#calculated">Calculated</a></li>
 <li class="toctree-l4"><a class="reference internal" href="leadingconcepts/properties/attributes.html#concatenated">Concatenated</a></li>
@@ -271,6 +270,14 @@
 <li class="toctree-l4"><a class="reference internal" href="leadingconcepts/properties/attributes.html#price">Price</a></li>
 <li class="toctree-l4"><a class="reference internal" href="leadingconcepts/properties/attributes.html#standard-attribute">Standard Attribute</a></li>
 <li class="toctree-l4"><a class="reference internal" href="leadingconcepts/properties/attributes.html#text">Text</a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="leadingconcepts/properties/tags.html">Tags</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="leadingconcepts/properties/tags.html#boolean">Boolean</a></li>
+<li class="toctree-l4"><a class="reference internal" href="leadingconcepts/properties/tags.html#lov">LOV</a></li>
+<li class="toctree-l4"><a class="reference internal" href="leadingconcepts/properties/tags.html#master">Master</a></li>
+<li class="toctree-l4"><a class="reference internal" href="leadingconcepts/properties/tags.html#status">Status</a></li>
+<li class="toctree-l4"><a class="reference internal" href="leadingconcepts/properties/tags.html#unit">Unit</a></li>
 </ul>
 </li>
 <li class="toctree-l3"><a class="reference internal" href="leadingconcepts/properties/dependent.html">Dependent Attributes</a></li>
@@ -289,7 +296,7 @@
 </li>
 <li class="toctree-l2"><a class="reference internal" href="leadingconcepts/taxonomy/index.html">Taxonomy</a><ul>
 <li class="toctree-l3"><a class="reference internal" href="leadingconcepts/taxonomy/introduce.html">Taxonomy</a><ul>
-<li class="toctree-l4"><a class="reference internal" href="leadingconcepts/taxonomy/introduce.html#definition-and-use">Definition and Use</a></li>
+<li class="toctree-l4"><a class="reference internal" href="leadingconcepts/taxonomy/introduce.html#why-use-taxonomies">Why use taxonomies</a></li>
 <li class="toctree-l4"><a class="reference internal" href="leadingconcepts/taxonomy/introduce.html#hierarchies">Hierarchies</a></li>
 <li class="toctree-l4"><a class="reference internal" href="leadingconcepts/taxonomy/introduce.html#major-taxonomy">Major Taxonomy</a></li>
 </ul>
@@ -302,6 +309,7 @@
 <li class="toctree-l3"><a class="reference internal" href="leadingconcepts/context/typesofcontext.html">Context</a><ul>
 <li class="toctree-l4"><a class="reference internal" href="leadingconcepts/context/typesofcontext.html#definition-and-use">Definition and Use</a></li>
 <li class="toctree-l4"><a class="reference internal" href="leadingconcepts/context/typesofcontext.html#types-of-context">Types of Context</a></li>
+<li class="toctree-l4"><a class="reference internal" href="leadingconcepts/context/typesofcontext.html#head">&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD</a></li>
 </ul>
 </li>
 </ul>
@@ -317,7 +325,13 @@
 <li class="toctree-l3"><a class="reference internal" href="leadingconcepts/relationships/templates.html">Templates</a></li>
 </ul>
 </li>
-<li class="toctree-l2"><a class="reference internal" href="leadingconcepts/data integration/index.html">Data Integration</a><ul class="simple">
+<li class="toctree-l2"><a class="reference internal" href="leadingconcepts/data integration/index.html">Data Integration</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="leadingconcepts/data integration/introduce.html">Introduction to Data Integration</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="leadingconcepts/data integration/introduce.html#workflow">Workflow</a></li>
+<li class="toctree-l4"><a class="reference internal" href="leadingconcepts/data integration/introduce.html#mappings">Mappings</a></li>
+<li class="toctree-l4"><a class="reference internal" href="leadingconcepts/data integration/introduce.html#endpoints">Endpoints</a></li>
+</ul>
+</li>
 </ul>
 </li>
 </ul>
@@ -349,7 +363,6 @@
 </li>
 <li class="toctree-l3"><a class="reference internal" href="usingtheplatform/usingthefeatures/tutorials/index.html">Tutorials</a><ul>
 <li class="toctree-l4"><a class="reference internal" href="usingtheplatform/usingthefeatures/tutorials/index.html#new-to-contentserv">New to Contentserv</a></li>
-<li class="toctree-l4"><a class="reference internal" href="usingtheplatform/usingthefeatures/tutorials/index.html#concepts">Concepts</a></li>
 <li class="toctree-l4"><a class="reference internal" href="usingtheplatform/usingthefeatures/tutorials/index.html#onboarding">Onboarding</a></li>
 </ul>
 </li>
@@ -370,7 +383,7 @@
   
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
       
-        <a href="gettingstarted/index.html" class="btn btn-neutral float-right" title="Getting Started" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+        <a href="settingup/index.html" class="btn btn-neutral float-right" title="Setting Up" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
       
       
         <a href="../introduction.html" class="btn btn-neutral" title="Contentserv" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
@@ -383,11 +396,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright CS Group.
-<<<<<<< HEAD
-      Last updated on Jul 24, 2018.
-=======
-      Last updated on Jul 27, 2018.
->>>>>>> c1cc60e8635e1c83c144894a6bcdcfe676b4d04f
+      Last updated on Aug 07, 2018.
 
     </p>
   </div>
