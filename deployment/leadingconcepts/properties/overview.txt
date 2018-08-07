@@ -1,6 +1,6 @@
-============
-Properties
-============
+============================
+Introduction to Properties
+============================
 
 
 A property is a characteristic of the component that can be set to different values.

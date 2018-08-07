@@ -11,25 +11,12 @@ Learn the basics to get up and running quickly.
 .. toctree::
    :maxdepth: 1
 
-   productlines1
-   exploretheui1
-   addnewuser1
-   addimagetoDAM1
-   createnewproduct1
-   settinguptaxonomy1
-
-
-
-Concepts
-=========
-
-Understand the core concepts.
-
-.. toctree::
-   :maxdepth: 1
-
-   whatisadatamodel
-   howclasseswork
+   productlines
+   exploretheui
+   addnewuser
+   addimagetoDAM
+   createnewproduct
+   settinguptaxonomy
 
 
 

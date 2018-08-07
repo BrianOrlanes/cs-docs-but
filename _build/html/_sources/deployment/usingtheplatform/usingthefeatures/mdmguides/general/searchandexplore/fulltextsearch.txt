@@ -32,6 +32,7 @@ To do a full-text search, follow these steps:
 
 * Log in and go to *PIM*.
 
+.. image:: /feature/_images/mdmimages/cs_parametricsearch_login.PNG
 |
 |
 

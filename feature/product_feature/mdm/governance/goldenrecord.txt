@@ -86,8 +86,7 @@ To create a *Golden Record*, follow these steps:
 |
 
 
-* Then, complete the details under the **Match** section: *Tags, Attributes, Nature Class, Non-Nature Class, and Taxonomies*.
-   As mentioned in the description, the details to be provided in these fields will be used to compare records and to classify them as duplicates.
+* Then, complete the details under the **Match** section: *Tags, Attributes, Nature Class, Non-Nature Class, and Taxonomies*. As mentioned in the description, the details to be provided in these fields will be used to compare records and to classify them as duplicates.
 
 .. image:: /feature/_images/mdmimages/cs_goldenrecord_thencompletethedetails.PNG
 |
@@ -148,8 +147,7 @@ To create a *Golden Record*, follow these steps:
 |
 
 
-* To test the feature, create a new *Nature Class* (as defined in the *Match* section).
-   Do this by placing the cursor over the "+" icon in PIM and selecting the Nature Class defined in the Golden Record rule.
+* To test the feature, create a new *Nature Class* (as defined in the *Match* section). Do this by placing the cursor over the "+" icon in PIM and selecting the Nature Class defined in the Golden Record rule.
 
 .. image:: /feature/_images/mdmimages/cs_goldenrecord_totestthefeature.PNG
 |
@@ -191,24 +189,21 @@ Once found, the system will put these records in a bundle and will create a buck
 |
 
 
-* View the duplicate records as they are presented in a table. Each duplicate is shown in one column.
-   Each column will also display the value of the *Tags, Attributes, Nature Class, Non-Nature Class, Taxonomies, and Relationships* applied to each record.
+* View the duplicate records as they are presented in a table. Each duplicate is shown in one column. Each column will also display the value of the *Tags, Attributes, Nature Class, Non-Nature Class, Taxonomies, and Relationships* applied to each record.
 
 .. image:: /feature/_images/mdmimages/cs_goldenrecord_viewtheduplicaterecords.PNG
 |
 |
 
 
-* Select one from the values of all the shown *Tags, Attributes, Nature Class, Non-Nature Class, Taxonomies, and Relationships*.
-   All the selected values will be displayed in a final product when we merge the records into a single record.
+* Select one from the values of all the shown *Tags, Attributes, Nature Class, Non-Nature Class, Taxonomies, and Relationships*. All the selected values will be displayed in a final product when we merge the records into a single record.
 
 .. image:: /feature/_images/mdmimages/cs_goldenrecord_selectoneofthevalues.PNG
 |
 |
 
 
-* Note that there is a symbol beside each value.  An equal sign means that this value is equal to the value in the merged record.
-   Make sure that all values you want to include in the Golden Record have this symbol.
+* Note that there is a symbol beside each value.  An equal sign means that this value is equal to the value in the merged record. Make sure that all values you want to include in the Golden Record have this symbol.
 
 .. image:: /feature/_images/mdmimages/cs_goldenrecord_notethattherearesymbols.PNG
 |

@@ -56,12 +56,6 @@ New to Contentserv
 Are you new to Contentserv? This is the place to start:
 
 
-Newbie
-
-* :doc:`About the product <product/productlines>`
-* :doc:`Explore the User Interface <tutorials/exploretheui>`
-* :doc:`Technical Deployment <reference/install>`
-
 Tutorial
 
 * :doc:`Part 1: About the product <product/productlines>`

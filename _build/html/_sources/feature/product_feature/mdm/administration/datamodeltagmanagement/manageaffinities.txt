@@ -107,8 +107,6 @@ To manage affinities, follow these steps:
 
 * Click on the **Explore** button and go to *PIM*.
 
-.. image:: /feature/_images/mdmimages/cs_manageaffinities_gotoclasses.PNG
-|
 .. image:: /feature/_images/mdmimages/cs_manageaffinities_gotopim.PNG
 |
 |

@@ -15,6 +15,6 @@ A dependent attribute is also referred to as *Minor taxonomy*. One could create 
 
 	**Example:**
 
-	There are properties which are dependent on the type of material.
-	Glass has different properties associated with it and steel has different properties, as well.
+	There are properties that are dependent on the type of material.
+	Glass has different properties associated with it and steel has different properties as well.
 	The *‘Material’* will be set as a minor taxonomy and will be added in a property collection.

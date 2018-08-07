@@ -52,8 +52,7 @@ To do this editing feature, follow these steps:
 |
 
 
-* Scroll to the right and find the *Grid Editable* column.  Enable this option for the attribute or tag.
-   Repeat this step for the other attributes and tags.  If not enabled, the attribute/tag will not be editable in a grid view.
+* Scroll to the right and find the *Grid Editable* column. Enable this option for the attribute or tag. Repeat this step for the other attributes and tags.  If not enabled, the attribute/tag will not be editable in a grid view.
 
 .. image:: /feature/_images/mdmimages/cs_editdataingridview_scrollrightandfind.PNG
 |
