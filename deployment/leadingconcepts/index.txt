@@ -12,4 +12,3 @@ Leading Concepts
    taxonomy/index
    context/index
    relationships/index
-   data integration/index

@@ -1,8 +1,0 @@
-================
-Data Integration
-================
-
-.. toctree::
-   :maxdepth: 1
-
-   introduce
