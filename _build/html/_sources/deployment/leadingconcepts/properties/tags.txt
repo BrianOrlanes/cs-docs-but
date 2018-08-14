@@ -80,7 +80,7 @@ An LOV type of tag will have the following options:
 
 Each of this LOV type will be useful for various applications:
 
-**Yes, Neutral and Yes, Neutral, No**
+**Yes, Neutral and Yes, Neutral, No:**
 This LOV type provides options that are displayed as a percentage bar to denote the likeliness of a property to be a **Yes**, **Neutral**, or a **No**.
 For example, when used for a Gender property, the tag can describe the usability of that product for that gender.
 
@@ -89,7 +89,7 @@ For example, when used for a Gender property, the tag can describe the usability
 |
 
 
-**Range**
+**Range:**
 This LOV type allows a user to set a value for a property.  This tag can be used by a property to select a value on a scale.
 In runtime, a range type tag will allow a user to set a value for a property by picking a value from a scale of pre-defined values.
 
@@ -97,7 +97,7 @@ In runtime, a range type tag will allow a user to set a value for a property by 
 |
 
 
-**Ruler**
+**Ruler:**
 This LOV type lets a user to directly select a value from the options that are readily available on an empty field of a property.
 A user will just have to click on the appropriate value from the available list.
 
