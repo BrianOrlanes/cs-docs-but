@@ -12,3 +12,5 @@ Setting Up
    settingup
    configuring/index
    checking
+   rst.rst
+   rst
