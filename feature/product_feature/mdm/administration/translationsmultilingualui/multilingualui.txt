@@ -33,11 +33,13 @@ To do this, follow these steps:
 |
 |
 
+
 * Click **Translations** tab.
 
 .. image:: /feature/_images/mdmimages/cs_multilingualui_clicktranslationtab.PNG
 |
 |
+
 
 * Click **Application Labels**.
 
@@ -45,23 +47,27 @@ To do this, follow these steps:
 |
 |
 
+
 * Based on the language required, enter the translations for the desired label (in this demo, we selected "Acceleration").
 
 .. image:: /feature/_images/mdmimages/cs_multilingualui_basedlanguagerequiredentertranslation.PNG
 |
 |
 
-* Logout and login again.
+
+* Log out and log in again.
 
 .. image:: /feature/_images/mdmimages/cs_multilingualui_logout.PNG
 |
 |
+
 
 *  On the login page, select your desired language from the flyout on the lower right corner of the screen.
 
 .. image:: /feature/_images/mdmimages/cs_multilingualui_onthelogin.PNG
 |
 |
+
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
    :alt: Contentserv line

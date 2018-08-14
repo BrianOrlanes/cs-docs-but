@@ -59,7 +59,7 @@ To do this, follow these steps:
 
 |
 
-* Login again with the desired language; you can see the translated data model items.
+* Log in again with the desired language; you can see the translated data model items.
 
 .. image:: /feature/_images/mdmimages/cs_multilingualdatamodel_loginagain.PNG
 |

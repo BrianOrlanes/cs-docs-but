@@ -102,7 +102,7 @@ To restrict a role's access to class and taxonomy, follow these steps:
 * Add roles to the users in the organization.
 
 
-      * Click on the **Roles** tab
+      * Click on the **Roles** tab.
 
       .. image:: /feature/_images/mdmimages/cs_manageroleaccesstoclassandtaxonomies_clickroles.PNG
       |
@@ -146,7 +146,7 @@ To restrict a role's access to class and taxonomy, follow these steps:
       |
 
 
-      Note: If no class or taxonomy is selected, the user has access to all the classes and taxonomies.
+      *Note: If no class or taxonomy is selected, the user has access to all the classes and taxonomies.*
 
 |
 
@@ -159,6 +159,7 @@ To restrict a role's access to class and taxonomy, follow these steps:
 .. image:: /feature/_images/mdmimages/cs_manageroleaccesstoclassandtaxonomies_loginasuser2.PNG
 |
 |
+
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
    :alt: Contentserv line
