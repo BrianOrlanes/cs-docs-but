@@ -68,10 +68,11 @@ A user can define multiple values for an LOV tag.
 
 
 An LOV type of tag will have the following options:
-* Yes, Neutral
-* Yes, Neutral, No
-* Range
-* Ruler
+
+#. Yes, Neutral
+#. Yes, Neutral, No
+#. Range
+#. Ruler
 
 
 .. image:: /feature/_images/butimages/cs_properties_lovtypes.PNG
