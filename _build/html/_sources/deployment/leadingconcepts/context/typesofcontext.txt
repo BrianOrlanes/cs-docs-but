@@ -1,4 +1,4 @@
-﻿========
+========
 Context
 ========
 
@@ -15,23 +15,12 @@ Types of Context
 Attribute Context
 -----------------
 
-<<<<<<< HEAD
-Attribute Context can be used in assigning multiple values to attribute that varies with time. For better Product management, it can be used in assigning various Attribute Values.
-=======
 The Attribute Context can be used in assigning multiple values to attribute that varies in time. For better product management, it can be used in assigning various Attribute Values.
->>>>>>> c1cc60e8635e1c83c144894a6bcdcfe676b4d04f
 
   **Example:**
 
-<<<<<<< HEAD
-  In the I-phone category, there is different price for a model for every year model.
-<<<<<<< HEAD
-=======
-=======
   In the iPhone category, there is a different price for a model for every year model.
->>>>>>> 859bee14ef934819479787f91639b4de0e8757b9
 
->>>>>>> c1cc60e8635e1c83c144894a6bcdcfe676b4d04f
 
 Relationship Context
 ---------------------
