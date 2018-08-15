@@ -35,7 +35,7 @@ To do this feature, follow these steps:
 * On the *Data Model* tab, scroll down to click on **Asset**.
 
 
-* Click on **'+'** to create a new Asset.
+* Click on "+" to create a new Asset.
 
 
 * In the Create window, enter Name, enable Nature class, and click **Type** and select *'Technical image'*.
