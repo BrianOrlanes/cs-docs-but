@@ -285,12 +285,7 @@
 <div class="line"><br /></div>
 </div>
 <ul class="simple">
-<li><dl class="first docutils">
-<dt>For the deployment of updates in the PROD environment, prepare all the things that DBAs need.</dt>
-<dd>In the sense of a Change process, those are a summary of all DB objects that will be changed, all new DB objects, and the amount of data in change.
-Based on this information, all necessary resources (especially tablespace) will be provided.</dd>
-</dl>
-</li>
+<li>For the deployment of updates in the PROD environment, prepare all the things that DBAs need. In the sense of a Change process, those are a summary of all DB objects that will be changed, all new DB objects, and the amount of data in change. Based on this information, all necessary resources (especially tablespace) will be provided.</li>
 </ul>
 <div class="line-block">
 <div class="line"><br /></div>
@@ -302,13 +297,7 @@ Based on this information, all necessary resources (especially tablespace) will 
 <div class="line"><br /></div>
 </div>
 <ul class="simple">
-<li><dl class="first docutils">
-<dt>Verify that the 5 application server nodes in one DC will use (configurable) 50 permanent JDBC connections.</dt>
-<dd>The connections will be established during the startup of the application.
-In case of a DB restart, the application server will perform an automatic reconnect (automatic fail-over).
-The behavior will be tested on the cluster after the PROD system is set up.</dd>
-</dl>
-</li>
+<li>Verify that the 5 application server nodes in one DC will use (configurable) 50 permanent JDBC connections. The connections will be established during the startup of the application. In case of a DB restart, the application server will perform an automatic reconnect (automatic fail-over). The behavior will be tested on the cluster after the PROD system is set up.</li>
 </ul>
 <div class="line-block">
 <div class="line"><br /></div>
@@ -444,13 +433,13 @@ The behavior will be tested on the cluster after the PROD system is set up.</dd>
 <div class="line"><br /></div>
 </div>
 <ul class="simple">
-<li>Permissions: (1)        Connect to the database (create session) | (2) Alter session related parameters (alter session) | (3) Create objects (table, views, indexes, procedures and functions).</li>
+<li>Permissions: (1)        Connect to the database (create session); (2) Alter session related parameters (alter session); (3) Create objects (table, views, indexes, procedures and functions).</li>
 </ul>
 </div></blockquote>
 </li>
 <li><p class="first"><strong>Application User:</strong> is used by the <em>Application</em> to access the database. This user will have DML rights on the Deployment User’s schema and the Pentaho User’s schema and will not need any additional space.</p>
 <blockquote>
-<div><p>Permissions:        (1) Connect to the database (create session) | (2) Alter session related parameters (alter session) | (3) Grant Object Level Permissions for tables and views (<em>Select, Insert, Update, Delete</em>) | (4) Grant Execute Permissions (<em>Procedures, Functions</em>).</p>
+<div><p>Permissions:        (1) Connect to the database (create session); (2) Alter session related parameters (alter session); (3) Grant Object Level Permissions for tables and views (<em>Select, Insert, Update, Delete</em>); (4) Grant Execute Permissions (<em>Procedures, Functions</em>).</p>
 </div></blockquote>
 </li>
 <li><p class="first"><strong>Read-only (Support) User:</strong> is used by the <em>Support</em> to access the database.  This user will have read access on the Deployment User’s schema and the Pentaho User’s schema in order to run some queries to check for issues in the data.</p>
@@ -461,7 +450,7 @@ The behavior will be tested on the cluster after the PROD system is set up.</dd>
 </ul>
 <p>Note that the <strong>Deployment User</strong> is used to connect to the schema and run the SQL scripts to create various objects. Thereafter, the user will grant permissions on these objects to the application user.</p>
 <blockquote>
-<div>CS will perform the following checks: (1) The tables and procedures have been created properly | (2) CS will run some select scripts to check if the updates have been successful.</div></blockquote>
+<div>CS will perform the following checks: (1) The tables and procedures have been created properly; (2) CS will run some select scripts to check if the updates have been successful.</div></blockquote>
 <div class="line-block">
 <div class="line"><br /></div>
 </div>
@@ -491,7 +480,7 @@ The behavior will be tested on the cluster after the PROD system is set up.</dd>
   <div role="contentinfo">
     <p>
         &copy; Copyright CS Group.
-      Last updated on Aug 15, 2018.
+      Last updated on Aug 16, 2018.
 
     </p>
   </div>

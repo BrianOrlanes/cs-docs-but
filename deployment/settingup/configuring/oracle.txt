@@ -77,9 +77,7 @@ Set up Oracle by following the steps below:
 
 |
 
-* For the deployment of updates in the PROD environment, prepare all the things that DBAs need.
-   In the sense of a Change process, those are a summary of all DB objects that will be changed, all new DB objects, and the amount of data in change.
-   Based on this information, all necessary resources (especially tablespace) will be provided.
+* For the deployment of updates in the PROD environment, prepare all the things that DBAs need. In the sense of a Change process, those are a summary of all DB objects that will be changed, all new DB objects, and the amount of data in change. Based on this information, all necessary resources (especially tablespace) will be provided.
 
 |
 
@@ -87,10 +85,7 @@ Set up Oracle by following the steps below:
 
 |
 
-* Verify that the 5 application server nodes in one DC will use (configurable) 50 permanent JDBC connections.
-   The connections will be established during the startup of the application.
-   In case of a DB restart, the application server will perform an automatic reconnect (automatic fail-over).
-   The behavior will be tested on the cluster after the PROD system is set up.
+* Verify that the 5 application server nodes in one DC will use (configurable) 50 permanent JDBC connections. The connections will be established during the startup of the application. In case of a DB restart, the application server will perform an automatic reconnect (automatic fail-over). The behavior will be tested on the cluster after the PROD system is set up.
 
 |
 |
@@ -190,13 +185,13 @@ The Schemas required will be the following:
 
     |
 
-    *	Permissions: (1)	Connect to the database (create session) | (2) Alter session related parameters (alter session) | (3) Create objects (table, views, indexes, procedures and functions).
+    *	Permissions: (1)	Connect to the database (create session); (2) Alter session related parameters (alter session); (3) Create objects (table, views, indexes, procedures and functions).
 
 
 * **Application User:** is used by the *Application* to access the database. This user will have DML rights on the Deployment User’s schema and the Pentaho User’s schema and will not need any additional space.
 
 
-    Permissions:	(1) Connect to the database (create session) | (2) Alter session related parameters (alter session) | (3) Grant Object Level Permissions for tables and views (*Select, Insert, Update, Delete*) | (4) Grant Execute Permissions (*Procedures, Functions*).
+    Permissions:	(1) Connect to the database (create session); (2) Alter session related parameters (alter session); (3) Grant Object Level Permissions for tables and views (*Select, Insert, Update, Delete*); (4) Grant Execute Permissions (*Procedures, Functions*).
 
 
 * **Read-only (Support) User:** is used by the *Support* to access the database.  This user will have read access on the Deployment User’s schema and the Pentaho User’s schema in order to run some queries to check for issues in the data.
@@ -207,7 +202,7 @@ The Schemas required will be the following:
 
 Note that the **Deployment User** is used to connect to the schema and run the SQL scripts to create various objects. Thereafter, the user will grant permissions on these objects to the application user.
 
-    CS will perform the following checks: (1) The tables and procedures have been created properly | (2) CS will run some select scripts to check if the updates have been successful.
+    CS will perform the following checks: (1) The tables and procedures have been created properly; (2) CS will run some select scripts to check if the updates have been successful.
 
 
 |
