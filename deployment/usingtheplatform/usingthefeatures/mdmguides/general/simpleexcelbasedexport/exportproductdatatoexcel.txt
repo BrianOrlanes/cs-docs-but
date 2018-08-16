@@ -40,7 +40,7 @@ To export product data to an Excel file, follow these steps:
 |
 |
 
-*Note: You may also use the **Select All** button to select all the products.
+*Note: You may also use the **Select All** button to select all the products.*
 
 .. image:: /feature/_images/mdmimages/cs_exportproductdatatoexcel_selectalltheproducts.PNG
 |
