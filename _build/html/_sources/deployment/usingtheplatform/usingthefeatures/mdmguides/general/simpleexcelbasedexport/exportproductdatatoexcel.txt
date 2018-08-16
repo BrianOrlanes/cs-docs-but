@@ -44,8 +44,6 @@ To export product data to an Excel file, follow these steps:
 
 .. image:: /feature/_images/mdmimages/cs_exportproductdatatoexcel_selectalltheproducts.PNG
 |
-.. image:: /feature/_images/mdmimages/cs_exportproductdatatoexcel_selectalltheproducts2.PNG
-|
 |
 
 
