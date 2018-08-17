@@ -292,7 +292,7 @@ To set an attribute as a volume, follow these steps:
 
 * Enter the name of the volume attribute and click on the **Create** button.
 
-.. image:: /feature/_images/mdmimages/cs1_managemeasurementvolume_enterthename.PNG
+.. image:: /feature/_images/mdmimages/cs_manageattributevolume_enterthename.PNG
 |
 |
 
