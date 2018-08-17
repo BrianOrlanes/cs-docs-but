@@ -6,7 +6,7 @@ Deploying to the Cloud
 * :doc:`Refer to the Deployment Prerequisites. </reference/deploymentprerequisites>`
 
 
-Users, Access, Folder Structure :
+Users, Access, Folder Structure
 =================================
 +--------------+--------------------+--------------------+-----------------+----------------+-------------+
 | Component    |  Value             |                    |                 |                |             |
