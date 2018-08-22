@@ -140,6 +140,7 @@ suppress_warnings = ['app.add_directive']
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 html_theme = "sphinx_rtd_theme"
+# might need to remove below line for new theme
 html_static_path = ["_theme/contentspheredocs/static"]
 
 # Theme options are theme-specific and customize the look and feel of a theme
