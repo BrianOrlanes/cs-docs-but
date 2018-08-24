@@ -1,6 +1,6 @@
-=====================================================
-Marketing Experience Management (MxM) Prerequisites
-=====================================================
+===================
+MxM Prerequisites
+===================
 
 
 Prerequisites
