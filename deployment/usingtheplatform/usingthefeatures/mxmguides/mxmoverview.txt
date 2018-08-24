@@ -1,0 +1,19 @@
+=======================================
+Marketing Experience Management (MxM)
+=======================================
+
+
+
+Introduction
+==============
+
+Marketing communication is an important aspect of all businesses.
+It not only boosts the sales but also transforms the way a business is perceived.
+One of the old yet most effective forms of marketing communication is ‘Flyer’ or ‘Publication’ i.e. a form of paper advertisement intended for wide distribution
+and typically posted or distributed in a public place, handed out to individuals or sent through the mail.
+
+|
+|
+
+.. image:: /feature/_images/pepimages/line-png-32.PNG
+   :alt: Contentserv line

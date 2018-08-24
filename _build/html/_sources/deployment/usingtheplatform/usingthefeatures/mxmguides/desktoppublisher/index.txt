@@ -1,0 +1,9 @@
+=======================
+CS Desktop Publisher
+=======================
+
+.. toctree::
+   :maxdepth: 1
+
+   installation
+   manual

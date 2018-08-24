@@ -1,0 +1,22 @@
+=============================
+CS Desktop Publisher Manual
+=============================
+
+
+CS Desktop Publisher and Adobe InDesign ©
+===========================================
+
+The CS DTP is implemented based on the standard Adobe InDesign © functionality.
+So all InDesign features and functions are supported:
+
+* Formatting
+* Character and paragraph styles
+* Text frame options: placing an image will adjust the frame to the context (image placement behavior in order to Adobe © InDesign © graphic frame settings)
+* Grep-Style
+* Adobe © InDesign © Library
+
+|
+|
+
+.. image:: /feature/_images/pepimages/line-png-32.PNG
+   :alt: Contentserv line

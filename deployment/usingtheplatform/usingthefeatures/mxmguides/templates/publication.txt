@@ -1,0 +1,15 @@
+======================
+Publication Template
+======================
+
+
+Purpose
+========
+
+This document will help you create a Publication Template in Contentserv PXP application.
+
+|
+|
+
+.. image:: /feature/_images/pepimages/line-png-32.PNG
+   :alt: Contentserv line

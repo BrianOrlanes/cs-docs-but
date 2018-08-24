@@ -1,0 +1,16 @@
+========================================
+Prepare Document Template in Whiteboard
+========================================
+
+
+Purpose
+========
+
+The purpose of this document is to show you how to plan Document Templates.
+You will be guided through the different stages that are involved in the planning of a new document template.
+
+|
+|
+
+.. image:: /feature/_images/pepimages/line-png-32.PNG
+   :alt: Contentserv line
