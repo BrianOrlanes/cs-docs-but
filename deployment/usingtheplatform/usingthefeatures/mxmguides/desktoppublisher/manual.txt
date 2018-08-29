@@ -15,6 +15,23 @@ So all InDesign features and functions are supported:
 * Grep-Style
 * Adobe © InDesign © Library
 
+
+How-to: Start CS Desktop Publisher
+====================================
+
+* Open Adobe © InDesign © software in your system.
+
+* Browse to Windows → Extension → CS Desktop Publisher.
+
+* A new pop-up window appears on the screen.
+
+* Type in Server URL in the CS Desktop Publisher pop-up window. It is the URL of your Contentserv application.
+
+* Type in Username and Password that you use to log into the Contentserv application.
+
+* Click the Save button to save the configuration details and then click on Login button.
+
+
 |
 |
 

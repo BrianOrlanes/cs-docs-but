@@ -44,8 +44,22 @@ Once the documents templates are uploaded in the PXP application, you can use Wh
 
 |
 
-Publication Template
+**Publication Template**
 The publication templates define the overall structure of the Publication. It comprises of the several document templates that share common settings, features, and design elements. The Publication Templates are created in the PXP application using the document templates.
+
+|
+
+Each of this stage will evolve with inputs from the planner(s) and the designer(s).
+A feedback related to the design, positioning and elements placement would go to and fro before the final publication template is readied.
+
+|
+
+
+Planning
+---------
+
+The next step is to plan the Marketing Products in the documents (slot structure).
+During the planning phase, the planner (usually, the product manager) plans the Marketing Products, Promotions, Media Assets in the Publication documents.
 
 |
 |
