@@ -1,0 +1,20 @@
+===================
+MxM Prerequisites
+===================
+
+
+Prerequisites
+==============
+
+* Adobe InDesign CC must have been installed in your system.
+* Desktop Publisher (DTP) client must have been installed and integrated with Adobe InDesign CC.
+* You must have valid credentials to access the Contentserv system.
+* At least one product template must exist in the system.
+* At least one document template must exist in the system.
+* At least one publication template must exist in the system, which may contain a single document template or multiple document templates. It may contain a single document template multiple times.
+
+|
+|
+
+.. image:: /feature/_images/pepimages/line-png-32.PNG
+   :alt: Contentserv line
