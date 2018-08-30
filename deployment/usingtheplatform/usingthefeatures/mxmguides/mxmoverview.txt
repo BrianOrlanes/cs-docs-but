@@ -2,8 +2,6 @@
 Marketing Experience Management (MxM)
 =======================================
 
-
-
 Introduction
 =============
 
@@ -17,6 +15,10 @@ Also, Publication has a wider audience reach and can be customized as per the ma
 That’s not all, you can also gauge audience reaction by adding flyer numbers, QR codes, and custom URLs.
 These allow you to monitor how successful your flyer campaign has been.
 
+
+.. image:: /feature/_images/mxmimages/retail-flyer-template-1-.jpg
+
+|
 |
 
 The MxM module of PXP application allows the marketing and sales to plan and prepare publications for their businesses.
