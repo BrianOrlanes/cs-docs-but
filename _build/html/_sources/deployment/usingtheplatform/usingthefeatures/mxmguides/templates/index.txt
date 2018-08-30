@@ -1,0 +1,11 @@
+=======================
+Publication Templates
+=======================
+
+.. toctree::
+   :maxdepth: 1
+
+   document
+   preparedoc
+   product
+   publication
