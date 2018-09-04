@@ -38,9 +38,166 @@ The Desktop Publisher allows you to use and update Contentserv system objects in
 Icons of CS Desktop Publisher Window
 =====================================
 
+============     ======================================================     ======================      ========================================================================================================================================================================================================================================================================================================================================================================================================
+**Sr. No.**       **Icon**                                                  **Icon Name**               **Details**
+============     ======================================================     ======================      ========================================================================================================================================================================================================================================================================================================================================================================================================
+1.               .. image:: /feature/_images/mxmimages/doctemp/1.PNG        Document Template           It will show the list of document templates created in an Adobe © InDesign © application.
+2.               .. image:: /feature/_images/mxmimages/doctemp/2.PNG        Product Template            It will show the list of product templates created in an Adobe © InDesign © application.
+3.               .. image:: /feature/_images/mxmimages/doctemp/3.PNG        Publication                 It will show the list of publication templates in an Adobe © InDesign © application.
+4.               .. image:: /feature/_images/mxmimages/doctemp/4.PNG        Product                     It will show the list of publication templates in an Adobe © InDesign © application.
+5.               .. image:: /feature/_images/mxmimages/doctemp/5.PNG        Attribute                   It will list all the marketing articles, which are created in Contentserv system.
+6.               .. image:: /feature/_images/mxmimages/doctemp/6.PNG        Images                      It will show all the images, which are created in Contentserv system.
+7.               .. image:: /feature/_images/mxmimages/doctemp/7.PNG        Show Sync Status            This option enables you to keep the sync of a document template. It is useful when you are preparing the document template in Adobe © InDesign ©, and making the modifications in a document template in Whiteboard as well.
+8.               .. image:: /feature/_images/mxmimages/doctemp/8.PNG        Logout                      It will log you out from CS Desktop Publisher. It will terminate the current session for CS Desktop publisher.
+9.               .. image:: /feature/_images/mxmimages/doctemp/9.PNG        Create Template             It is used to create a new document template.
+10.              .. image:: /feature/_images/mxmimages/doctemp/10.PNG       Save/ Upload                It is a Save/ Upload option. It will save the details of a document template and it will upload the created document template in Contentserv system.
+11.              .. image:: /feature/_images/mxmimages/doctemp/11.PNG       Define Workable area        It helps to define the Workable Area in a document template.
+12.              .. image:: /feature/_images/mxmimages/doctemp/54.PNG       Refresh                     It is a refresh feature. This feature is useful when a planner and a designer are working simultaneously on a document. Whenever a planner makes any changes in a document template via Whiteboard and saves the details in Whiteboard, this refresh icon will blink in Adobe © InDesign ©. So, a designer will get to know that a planner has made modifications in a document template via
+                                                                                                        Whiteboard. When a designer clicks on this icon, all the changes that the planner has made in a document template via Whiteboard, will be reflected in Adobe © InDesign © document.
+13.              .. image:: /feature/_images/mxmimages/doctemp/55.PNG       Accept Changes              This is an accepted change feature. A designer will select the changes made by a planner and click on this icon to accept the changes.
+14.              .. image:: /feature/_images/mxmimages/doctemp/53.PNG       Delete                      This deletes feature. A designer will select the changes made by a planner and click on this icon to reject or delete the changes.
+15.              .. image:: /feature/_images/mxmimages/doctemp/56.PNG       Select All                  This is select all feature. A designer will select all the changes made by a planner by clicking on this icon. The designer can either accept or delete all the changes made by a planner at a time with the help of this feature.
+============     ======================================================     ======================      ========================================================================================================================================================================================================================================================================================================================================================================================================
+|
+How-to: Create Document Template
+=====================
+To create document template, follow these steps:
 
+|
+
+Install DTP
+------------
+
+* Install CS Desktop Publisher client in your system to use and update CONTENTSERV objects in Adobe © InDesign © documents.
+
+|
+
+Connect to DTP
+----------------
+
+* Once you install CS Desktop Publisher client in your system, open Adobe © InDesign © and connect to DTP client.
+
+Create New Document Template
+-----------------------------
+
+* CS Desktop Publisher pop-up window contains the details of Contentserv system (ex: articles, products, images, etc).
+
+.. image:: /feature/_images/mxmimages/doctemp/cs_document_desktoppublisher.PNG
+
+* Click on  **Create Template** icon from CS Desktop Publisher pop-up window to create a document template.
+
+.. image:: /feature/_images/mxmimages/doctemp/cs_document_createtemplate.PNG
+
+Define the Workable Area
+------------------------
+
+* Find a blank page where you can put all the styles, designs and anything that you want to add in a document template.
+
+.. image:: /feature/_images/mxmimages/doctemp/cs_document_defineworkarea.PNG
 |
 |
 
+* select the frame from the left side panel of a screen to define a workable area.
+
+.. image:: /feature/_images/mxmimages/doctemp/cs_document_selectframe.PNG
+|
+|
+
+* Place the frame across the document to define a Workable Area in a document.
+
+.. image:: /feature/_images/mxmimages/doctemp/cs_document_placeframe.PNG
+|
+|
+
+* Click on **Define Workable area** icon to define the frame area as a Workable Area. You can define the entire document as a Workable Area or you can use some of the portions of a document as a workable area. It is up to you how you want to design a document template.
+|
+|
+
+.. image:: /feature/_images/mxmimages/doctemp/cs_document_clickdefineworkablerea.PNG
+|
+|
+
+Add Frames
+----------
+
+* Suppose you have used some portion of a document as a Workable Area and you want to add some text in rest of the area of a document, then you can do so by clicking on  **T** icon frame located in the left side panel of a screen.
+
+.. image:: /feature/_images/mxmimages/doctemp/cs_document_supposeusedsomeportion.PNG
+|
+|
+
+* Click on **T** icon frame and place the frame across the portion of a document where you want to define static text in a document.
+|
+|
+
+.. image:: /feature/_images/mxmimages/doctemp/cs_document_clickTiconframe.PNG
+|
+|
+
+* Now enter the text in this framed area that you want to add in a document template.
+
+.. image:: /feature/_images/mxmimages/doctemp/cs_document_nowentertext.PNG
+|
+|
+
+How to Add Pages in a Document Template
+----------------------------------------
+
+* In addition to this, you can add as many pages as you want in a document template. Locate the **Pages** icon option on the right side panel of the screen.
+
+.. image:: /feature/_images/mxmimages/doctemp/cs_document_inadditiontothis.PNG
+|
+|
+
+* Select **Pages** icon option and click on **Create Page** icon to create a page in a document template.
+
+.. image:: /feature/_images/mxmimages/doctemp/cs_document_inadditiontothis.PNG
+|
+|
+
+* Define Workable Area in each page of a document template.
+
+
+Save/Update Document Templates in Adobe © InDesign ©
+----------------------------------------------------
+
+* Once you add all the elements in a document template, then click on **Save/Upload** icon to save and upload it to the Contentserv system.
+
+.. image:: /feature/_images/mxmimages/doctemp/cs_document_oncaddelements.PNG
+|
+|
+
+* Once you click on **Save/Upload** icon, then you will find a prompt on the screen. Enter Template Name and click on the Upload button. It will save this document template in Adobe © InDesign © and upload it to the Contentserv system.
+
+.. image:: /feature/_images/mxmimages/doctemp/cs_document_inadditiontothis.PNG
+|
+|
+
+Check Sync Status and Accept or Reject Changes
+----------------------------------------------
+
+* You can sync the changes in Adobe © InDesign © document template, that you made in Whiteboard. This is necessary when you work in a document template at both places; in an Adobe © InDesign © and in Whiteboard of Contentserv system. You can click on **Show Sync Status** icon located in the CS Desktop Publisher window to know the sync status of a document template.
+
+.. image:: /feature/_images/mxmimages/doctemp/cs_document_syncchanges.PNG
+|
+|
+
+* A designer can accept all the changes made by a planner. In this case, a designer will select the changes and click on **Accept Changes** icon in SyncStatus window to accept the changes.
+
+.. image:: /feature/_images/mxmimages/doctemp/cs_document_designercanaccept.PNG
+|
+|
+
+* A designer can delete or reject all the changes made by a planner. In this case, a designer will select the changes and click on **Delete** icon in SyncStatus window to delete the changes.
+
+.. image:: /feature/_images/mxmimages/doctemp/cs_document_designerdeletereject.PNG
+|
+|
+
+* A designer can select all the changes made by a designer at a time by clicking on **Select All** icon in SyncStatus window. Thus, he can either accept or delete all the changes in one go.
+
+.. image:: /feature/_images/mxmimages/doctemp/cs_document_designerselectallchanges.PNG
+|
+|
 .. image:: /feature/_images/pepimages/line-png-32.PNG
    :alt: Contentserv line
