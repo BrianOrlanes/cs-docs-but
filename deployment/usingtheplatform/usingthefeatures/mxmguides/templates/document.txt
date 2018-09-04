@@ -113,7 +113,7 @@ Define the Workable Area
 |
 |
 
-.. image:: /feature/_images/mxmimages/doctemp/cs_document_clickdefineworkablerea.PNG
+.. image:: /feature/_images/mxmimages/doctemp/cs_document_clickdefineworkablearea.PNG
 |
 |
 

@@ -16,7 +16,7 @@ That’s not all, you can also gauge audience reaction by adding flyer numbers, 
 These allow you to monitor how successful your flyer campaign has been.
 
 
-.. image:: /feature/_images/mxmimages/retail-flyer-template-1-.jpg
+.. image:: /feature/_images/mxmimages/cs_mwmoverview_introduction.PNG
 
 |
 |
@@ -40,19 +40,16 @@ The Product template serves as the basic starting point of the publication and d
 |
 
 **Document Template**
-The document template defines the layout and pages of the publication. It may contain guides, styles, page attribute placeholders, static elements, and so on. The document templates are created in Adobe InDesign tool and are uploaded into PXP application via CS Adobe InDesign DTP plugin.
 
-Once the documents templates are uploaded in the PXP application, you can use Whiteboard Editor to define and tag slots, which can be later used to plan products during the planning phase.
+The document template defines the layout and pages of the publication. It may contain guides, styles, page attribute placeholders, static elements, and so on. The document templates are created in Adobe InDesign tool and are uploaded into PXP application via CS Adobe InDesign DTP plugin. Once the documents templates are uploaded in the PXP application, you can use Whiteboard Editor to define and tag slots, which can be later used to plan products during the planning phase.
 
 |
 
 **Publication Template**
+
 The publication templates define the overall structure of the Publication. It comprises of the several document templates that share common settings, features, and design elements. The Publication Templates are created in the PXP application using the document templates.
 
-|
-
-Each of this stage will evolve with inputs from the planner(s) and the designer(s).
-A feedback related to the design, positioning and elements placement would go to and fro before the final publication template is readied.
+Each of this stage will evolve with inputs from the planner(s) and the designer(s). A feedback related to the design, positioning and elements placement would go to and fro before the final publication template is readied.
 
 |
 
