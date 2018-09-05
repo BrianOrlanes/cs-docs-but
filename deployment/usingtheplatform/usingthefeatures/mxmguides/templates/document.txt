@@ -83,10 +83,13 @@ Create New Document Template
 * CS Desktop Publisher pop-up window contains the details of Contentserv system (ex: articles, products, images, etc).
 
 .. image:: /feature/_images/mxmimages/doctemp/cs_document_desktoppublisher.PNG
+|
 
 * Click on  **Create Template** icon from CS Desktop Publisher pop-up window to create a document template.
 
 .. image:: /feature/_images/mxmimages/doctemp/cs_document_createtemplate.PNG
+|
+|
 
 Define the Workable Area
 ------------------------
@@ -95,22 +98,18 @@ Define the Workable Area
 
 .. image:: /feature/_images/mxmimages/doctemp/cs_document_defineworkarea.PNG
 |
-|
 
-* select the frame from the left side panel of a screen to define a workable area.
+* Select the frame from the left side panel of a screen to define a workable area.
 
 .. image:: /feature/_images/mxmimages/doctemp/cs_document_selectframe.PNG
-|
 |
 
 * Place the frame across the document to define a Workable Area in a document.
 
 .. image:: /feature/_images/mxmimages/doctemp/cs_document_placeframe.PNG
 |
-|
 
 * Click on **Define Workable area** icon to define the frame area as a Workable Area. You can define the entire document as a Workable Area or you can use some of the portions of a document as a workable area. It is up to you how you want to design a document template.
-|
 |
 
 .. image:: /feature/_images/mxmimages/doctemp/cs_document_clickdefineworkablearea.PNG
@@ -124,14 +123,11 @@ Add Frames
 
 .. image:: /feature/_images/mxmimages/doctemp/cs_document_supposeusedsomeportion.PNG
 |
-|
 
 * Click on **Text** icon frame and place the frame across the portion of a document where you want to define static text in a document.
 |
-|
 
 .. image:: /feature/_images/mxmimages/doctemp/cs_document_clickTiconframe.PNG
-|
 |
 
 * Now enter the text in this framed area that you want to add in a document template.
@@ -147,16 +143,15 @@ How to Add Pages in a Document Template
 
 .. image:: /feature/_images/mxmimages/doctemp/cs_document_inadditiontothis.PNG
 |
-|
 
 * Select **Pages** icon option and click on **Create Page** icon to create a page in a document template.
 
 .. image:: /feature/_images/mxmimages/doctemp/cs_document_inadditiontothis.PNG
 |
-|
 
 * Define Workable Area in each page of a document template.
-
+|
+|
 
 Save/Update Document Templates in Adobe © InDesign ©
 ----------------------------------------------------
@@ -165,12 +160,10 @@ Save/Update Document Templates in Adobe © InDesign ©
 
 .. image:: /feature/_images/mxmimages/doctemp/cs_document_oncaddelements.PNG
 |
-|
 
 * Once you click on **Save/Upload** icon, then you will find a prompt on the screen. Enter Template Name and click on the Upload button. It will save this document template in Adobe © InDesign © and upload it to the Contentserv system.
 
 .. image:: /feature/_images/mxmimages/doctemp/cs_document_inadditiontothis.PNG
-|
 |
 
 Check Sync Status and Accept or Reject Changes
@@ -180,24 +173,21 @@ Check Sync Status and Accept or Reject Changes
 
 .. image:: /feature/_images/mxmimages/doctemp/cs_document_syncchanges.PNG
 |
-|
 
 * A designer can accept all the changes made by a planner. In this case, a designer will select the changes and click on **Accept Changes** icon in SyncStatus window to accept the changes.
 
 .. image:: /feature/_images/mxmimages/doctemp/cs_document_designercanaccept.PNG
-|
 |
 
 * A designer can delete or reject all the changes made by a planner. In this case, a designer will select the changes and click on **Delete** icon in SyncStatus window to delete the changes.
 
 .. image:: /feature/_images/mxmimages/doctemp/cs_document_designerdeletereject.PNG
 |
-|
 
 * A designer can select all the changes made by a designer at a time by clicking on **Select All** icon in SyncStatus window. Thus, he can either accept or delete all the changes in one go.
 
 .. image:: /feature/_images/mxmimages/doctemp/cs_document_designerselectallchanges.PNG
 |
-|
+
 .. image:: /feature/_images/pepimages/line-png-32.PNG
    :alt: Contentserv line
