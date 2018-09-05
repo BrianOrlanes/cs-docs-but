@@ -48,9 +48,10 @@ DTP Functions
 
 ===========   ====================================================================  =======================     ==================================================================================
 
+|
 
-How to create Product Templates in Adobe © InDesign ©
-======================================================
+How-to: Create Product Templates in Adobe © InDesign ©
+=======================================================
 
 
 * Open the Adobe © InDesign © application.
@@ -73,7 +74,7 @@ How to create Product Templates in Adobe © InDesign ©
 .. image:: /feature/_images/mxmimages/producttemplate/3.PNG
 |
 
-* You may **Save** the information or simply proceed to **log in**.
+* You may **Save** the information or simply proceed to **Login**.
 
 .. image:: /feature/_images/mxmimages/producttemplate/4.PNG
 |
@@ -90,8 +91,8 @@ How to create Product Templates in Adobe © InDesign ©
 |
 
 
-How to add Placeholder Frames for Images
------------------------------------------
+How-to: Add Placeholder Frames for Images
+------------------------------------------
 
 
 Click on the **Rectangular Tool** to place frames on the sheet. The frames serve as a placeholder for text and images in the template.
@@ -107,8 +108,8 @@ The rectangular frame tool is generally used to place graphic images. Click on t
 |
 
 
-How to add Placeholder Frames for Attributes
----------------------------------------------
+How-to: Add Placeholder Frames for Attributes
+----------------------------------------------
 
 
 Similarly, place text frames as a placeholder for attributes.
@@ -118,8 +119,8 @@ Similarly, place text frames as a placeholder for attributes.
 |
 
 
-How to link attributes/assets to a placeholder in InDesign
------------------------------------------------------------
+How-to: Link Attributes/Assets to a Placeholder in InDesign
+------------------------------------------------------------
 
 
 To link the attributes of the CS system, select the frame (or the text), and then click on the **Attributes**. Search and select the respective attribute and click on the **Link** button at the bottom of the screen.
@@ -155,8 +156,8 @@ You can also link images to the template by following steps:
 |
 |
 
-How to update/save Product Templates in Adobe © InDesign ©
------------------------------------------------------------
+How-to: Update/Save Product Templates in Adobe © InDesign ©
+-------------------------------------------------------------
 
 
 * As soon as you click on the save icon, a window pops up asking you the name of the template. Enter a name and save.
@@ -165,7 +166,7 @@ How to update/save Product Templates in Adobe © InDesign ©
 |
 
 
-How to manage Product Templates in Contentserv PXP application
+How-to: Manage Product Templates in Contentserv PXP application
 ================================================================
 
 
