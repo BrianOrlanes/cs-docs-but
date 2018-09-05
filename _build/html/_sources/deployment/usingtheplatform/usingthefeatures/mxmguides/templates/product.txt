@@ -5,7 +5,7 @@ Product Template
 
 Purpose
 ========
-This document will help you create ‘Product Template’ in Adobe InDesign ©.
+This document will help you create ‘Product Template’ in Adobe © InDesign ©.
 
 
 Target Audience
@@ -33,6 +33,160 @@ When enriching the template in the PXP system (outside of Adobe © InDesign ©),
 DTP Functions
 =============
 
+===========   ====================================================================  =======================     ==================================================================================
+**Sr. No.**   **Icon**                                                              **Name**                    **Details**
+===========   ====================================================================  =======================     ==================================================================================
+1.            .. image:: /feature/_images/mxmimages/producttemplate/9.PNG           Create template             Creates a product, document or a publication template.
+2.            .. image:: /feature/_images/mxmimages/producttemplate/link.PNG        Link                        Links the attribute or images in the system and the placeholder in the template.
+3.            .. image:: /feature/_images/mxmimages/producttemplate/images.PNG      Images                      Enlists the existing images in the system
+4.            .. image:: /feature/_images/mxmimages/producttemplate/attributes.PNG  Attributes                  Enlists the attributes in the system.
+5.            .. image:: /feature/_images/mxmimages/producttemplate/save.PNG        Save/Upload                 Save/ Upload.
+6.            .. image:: /feature/_images/mxmimages/producttemplate/sync.PNG        Check content status        Refresh
+7.            .. image:: /feature/_images/mxmimages/producttemplate/update.PNG      Update content              Updates the content status if the content (say Price, Quantity) are updated in the system.
+8.            .. image:: /feature/_images/mxmimages/producttemplate/hide.PNG        Hide content status         Hides Content Status
+9.            .. image:: /feature/_images/mxmimages/producttemplate/logout.PNG      Logout                      Logs out.
+
+===========   ====================================================================  =======================     ==================================================================================
+
+
+How to create Product Templates in Adobe © InDesign ©
+======================================================
+
+
+* Open the Adobe © InDesign © application.
+
+.. image:: /feature/_images/mxmimages/producttemplate/1.PNG
+|
+
+* Navigate to the **Window**, scroll down to **Extensions** and click on **CS Desktop Publisher**.
+
+.. image:: /feature/_images/mxmimages/producttemplate/2.PNG
+|
+
+* On the pop-up window, fill in the details like Configuration Presets, Server URL, User Name, and Password etc.
+
+.. image:: /feature/_images/mxmimages/producttemplate/kuch.PNG
+|
+
+* Append the server URL with extension *dtp*.
+
+.. image:: /feature/_images/mxmimages/producttemplate/3.PNG
+|
+
+* You may **Save** the information or simply proceed to **log in**.
+
+.. image:: /feature/_images/mxmimages/producttemplate/4.PNG
+|
+
+* Click on **PT**, to create a new product template.
+
+.. image:: /feature/_images/mxmimages/producttemplate/5.PNG
+|
+
+* Click on **Create template** icon to create a new template.
+
+.. image:: /feature/_images/mxmimages/producttemplate/6.PNG
+|
+|
+
+
+How to add Placeholder Frames for Images
+-----------------------------------------
+
+
+Click on the **Rectangular Tool** to place frames on the sheet. The frames serve as a placeholder for text and images in the template.
+
+
+.. image:: /feature/_images/mxmimages/producttemplate/10.PNG
+|
+
+The rectangular frame tool is generally used to place graphic images. Click on the **Rectangular Frame tool** icon to choose it, then click and drag a frame on the template.
+
+.. image:: /feature/_images/mxmimages/producttemplate/MAx1.PNG
+|
+|
+
+
+How to add Placeholder Frames for Attributes
+---------------------------------------------
+
+
+Similarly, place text frames as a placeholder for attributes.
+
+.. image:: /feature/_images/mxmimages/producttemplate/x2.PNG
+|
+|
+
+
+How to link attributes/assets to a placeholder in InDesign
+-----------------------------------------------------------
+
+
+To link the attributes of the CS system, select the frame (or the text), and then click on the **Attributes**. Search and select the respective attribute and click on the **Link** button at the bottom of the screen.
+
+.. image:: /feature/_images/mxmimages/producttemplate/11.PNG
+|
+
+You can also link images to the template by following steps:
+
+* Select the frame that you want to use as placeholder of the image.
+
+.. image:: /feature/_images/mxmimages/producttemplate/12.PNG
+|
+
+* Click on the **Images** icon in the CS Desktop Publisher window to see the list of available images in the system.
+
+.. image:: /feature/_images/mxmimages/producttemplate/12.PNG
+|
+
+* Select a suitable image and click on **Link**.
+
+.. image:: /feature/_images/mxmimages/producttemplate/13.PNG
+|
+
+* The image appears in the selected frame. To fit an image based on the frame size, right-click on the image and select the appropriate option.
+
+.. image:: /feature/_images/mxmimages/producttemplate/13.PNG
+|
+
+* Click on the **Save** icon to save the template. Please make sure you are in product template section while saving.
+
+.. image:: /feature/_images/mxmimages/producttemplate/14.PNG
+|
+|
+
+How to update/save Product Templates in Adobe © InDesign ©
+-----------------------------------------------------------
+
+
+* As soon as you click on the save icon, a window pops up asking you the name of the template. Enter a name and save.
+
+.. image:: /feature/_images/mxmimages/producttemplate/15.PNG
+|
+
+
+How to manage Product Templates in Contentserv PXP application
+================================================================
+
+
+* Once you have saved the product template, switch to the Conteserv PXP application. Choose the MxM catalog as you click on the user profile.
+
+.. image:: /feature/_images/mxmimages/producttemplate/x2.PNG
+|
+
+* Click on **Templates**,to see the product template you have just created.
+
+.. image:: /feature/_images/mxmimages/producttemplate/x4.PNG
+|
+
+* You can now add content to the product template.
+
+.. image:: /feature/_images/mxmimages/producttemplate/x5.PNG
+|
+
+* Click on the **Save** button.
+
+.. image:: /feature/_images/mxmimages/producttemplate/x6.PNG
 |
 |
 
