@@ -58,7 +58,9 @@ Icons of CS Desktop Publisher Window
 14.              .. image:: /feature/_images/mxmimages/doctemp/53.PNG       Delete                      This deletes feature. A designer will select the changes made by a planner and click on this icon to reject or delete the changes.
 15.              .. image:: /feature/_images/mxmimages/doctemp/56.PNG       Select All                  This is select all feature. A designer will select all the changes made by a planner by clicking on this icon. The designer can either accept or delete all the changes made by a planner at a time with the help of this feature.
 ============     ======================================================     ======================      ========================================================================================================================================================================================================================================================================================================================================================================================================
+
 |
+
 How-to: Create Document Template
 =====================
 To create document template, follow these steps:
