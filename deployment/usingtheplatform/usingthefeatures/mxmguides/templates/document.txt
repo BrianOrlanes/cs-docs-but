@@ -184,7 +184,7 @@ Check Sync Status and Accept or Reject Changes
 .. image:: /feature/_images/mxmimages/doctemp/cs_document_designerdeletereject.PNG
 |
 
-* A designer can select all the changes made by a designer at a time by clicking on **Select All** icon in SyncStatus window. Thus, he can either accept or delete all the changes in one go.
+* A designer can select all the changes made by a designer at a time by clicking on **Select All** icon in SyncStatus window. Thus, can either accept or delete all the changes in one go.
 
 .. image:: /feature/_images/mxmimages/doctemp/cs_document_designerselectallchanges.PNG
 |
