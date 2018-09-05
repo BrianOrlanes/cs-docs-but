@@ -171,7 +171,7 @@ How to manage Product Templates in Contentserv PXP application
 
 * Once you have saved the product template, switch to the Conteserv PXP application. Choose the MxM catalog as you click on the user profile.
 
-.. image:: /feature/_images/mxmimages/producttemplate/x2.PNG
+.. image:: /feature/_images/mxmimages/producttemplate/x3.PNG
 |
 
 * Click on **Templates**,to see the product template you have just created.
