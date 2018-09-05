@@ -126,7 +126,7 @@ Add Frames
 |
 |
 
-* Click on **T** icon frame and place the frame across the portion of a document where you want to define static text in a document.
+* Click on **Text** icon frame and place the frame across the portion of a document where you want to define static text in a document.
 |
 |
 
