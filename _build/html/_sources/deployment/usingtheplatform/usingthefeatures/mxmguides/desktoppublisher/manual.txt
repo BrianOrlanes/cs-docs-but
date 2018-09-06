@@ -44,7 +44,7 @@ How-to: Start CS Desktop Publisher
 .. image:: /feature/_images/mxmimages/manual/cs_manual_enterusernamepassword.PNG
 |
 
-* Click the **Save** button to save the configuration details and then click **Login** button.
+* Click the **Save** button to save the configuration details and then click the **Login** button.
 
 .. image:: /feature/_images/mxmimages/manual/cs_manual_clicksavelogin.PNG
 
