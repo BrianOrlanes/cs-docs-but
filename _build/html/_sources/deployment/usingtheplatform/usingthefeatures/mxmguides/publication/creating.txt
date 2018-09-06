@@ -18,33 +18,56 @@ This document is intended for template planners, managers, and product owners.
 Key Terms
 ==========
 
-**Whiteboard:** whiteboard is a feature in Contentserv system, which is similar to Adobe © InDesign © application. There are two types of the target audience who will be involved in the publications. One is a planner who will actually plan the publication. The other one is a designer, who will make the layout and will prepare the templates using Adobe © InDesign © software. Whiteboard will help a planner to plan how a publication should look like.
+**Whiteboard:** whiteboard is a feature in Contentserv system, which is similar to Adobe © InDesign © application. There are two types of the target audience who will be involved in the publications: (1) The planner who will actually plan the publication. (2) The designer, who will make the layout and will prepare the templates using Adobe © InDesign © software. Whiteboard will help a planner to plan how a publication should look like.
 
-**Slot:** a Slot is a place in a document template where a product is placed while planning of a document template in Whiteboard. The planner will split the defined Workable Area of a document template into N number of rows and columns according to his need in Whiteboard. Thus, he will create the Slot, which is a separate space for each product. Now, a planner can place products into separate Slots, where one Slot will contain a single product.
+**Slot:** a Slot is a place in a document template where a product is placed while planning a document template in Whiteboard. The planner will split the defined Workable Area of a document template into N number of rows and columns according to his need in Whiteboard. Thus, will create the Slot(a separate space for each product). Then, A planner can place products into separate Slots. Note that one Slot will contain a single product.
 
-**Overview:**  publication is sort of magazine, catalog, brochure, or flyer that is used for the marketing of your products. The planner will plan how a publication should look like using the Whiteboard of the PXP Application. Publication is created from the publication template.
+**Overview:**  publication is sort of magazine, catalog, brochure, or flyer that is used for the marketing of your products. The planner will plan how a publication should appear using the Whiteboard of the PXP Application. Publication is created from the publication template.
 
 The representation of a publication is based on the created publication template in the system. Publication may contain single or multiple documents/pages as defined in the publication template. The Whiteboard can be used to create/edit the Slot structure on the Publication documents as well as for planning the Marketing Products.
 
 
-How-to:  Create Publications
+How-to: Create Publications
 =============================
 
 * Log into the application and select the option MxM from the drop-down located in the header panel.
 
-* Click on Publications menu from the left side vertical panel.
+.. image:: /feature/_images/mxmimages/creating/cs_creating_loginapplication.PNG
+|
+
+* Click on **Publications** from the left side vertical panel.
+
+.. image:: /feature/_images/mxmimages/creating/cs_creating_clickpublications.PNG
+|
 
 * You will see all created publications on this screen.
 
-* Click on the Create icon and select Publication option from the drop-down to create a new publication.
+.. image:: /feature/_images/mxmimages/creating/cs_creating_youseecreatedapplications.PNG
+|
 
-* You will be redirected to a window where you can select a publication template and click on CREATE button.
+* Click on the **Create** icon and select **Publication** from the drop-down to create a new publication.
 
-* You will see a new publication is created.  You can define Classes and Taxonomies from the Overview tab.
+.. image:: /feature/_images/mxmimages/creating/cs_creating_clickcreateselectpublication.PNG
+|
 
-* You can define properties from the Properties tab.
+* You will be redirected to a window where you can select a publication template and click on **CREATE** button.
 
-* You can see publication template, document templates, and product templates associated with the publication from Relationships tab.
+.. image:: /feature/_images/mxmimages/creating/cs_creating_youwillberedirected.PNG
+|
+
+* You will see a new publication is created.  You can define Classes and Taxonomies from the *Overview* tab.
+
+.. image:: /feature/_images/mxmimages/creating/cs_creating_youseenewpublication.PNG
+|
+
+* You can define properties from the *Properties* tab.
+
+.. image:: /feature/_images/mxmimages/creating/cs_creating_youdefinefromproperties.PNG
+|
+
+* You can see publication template, document templates, and product templates associated with the publication from *Relationships* tab.
+
+.. image:: /feature/_images/mxmimages/creating/cs_creating_youseepublicationtemplate.PNG
 
 |
 |
