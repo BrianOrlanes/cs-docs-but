@@ -10,7 +10,7 @@ This document will help you create a Publication Template in Contentserv PXP app
 
 Target Audience
 ================
-Template Designers, Graphic Designers, System Administrators.
+This document is intended for template designers, graphic designers, and system administrators.
 
 
 Prerequisites
@@ -22,7 +22,7 @@ Overview
 =========
 A publication template describes the structure of a publication, e.g. a handout, as a sequence of Adobe © InDesign © document templates and is assigned to a sales channel.
 
-The publication template references document templates (changes to document templates are thus automatically effective for the publication template used).
+The publication template references document templates (thus, changes to document templates are automatically in effect for the publication template used).
 
 The page extent of a publication template results from the sum of the pages of the referenced document templates.
 
@@ -34,7 +34,7 @@ How-to: Create a Publication Template in Contentserv PXP Application
 ======================================================================
 
 
-* Login into the Contentserv PXP system.
+* Log in to the Contentserv PXP system.
 
 .. image:: /feature/_images/mxmimages/publicationtemplate/1.PNG
 |
@@ -59,7 +59,7 @@ How-to: Create a Publication Template in Contentserv PXP Application
 .. image:: /feature/_images/mxmimages/publicationtemplate/4.PNG
 |
 
-* Select the document templates to be added to your publication template and click on **Add**. *Note: You may add a document template more than once.*
+* Select the document templates to be added to your publication template and click on the **Add** button. *Note: You may add a document template more than once.*
 
 .. image:: /feature/_images/mxmimages/publicationtemplate/5.PNG
 |
@@ -69,7 +69,7 @@ How-to: Create a Publication Template in Contentserv PXP Application
 .. image:: /feature/_images/mxmimages/publicationtemplate/6.PNG
 |
 
-* You may rearrange the document templates before clicking on **Save** and then **Back**.
+* You may rearrange the document templates before clicking on the **Save** button and then **Back** button.
 
 .. image:: /feature/_images/mxmimages/publicationtemplate/7.PNG
 |
@@ -79,7 +79,7 @@ How-to: Create a Publication Template in Contentserv PXP Application
 .. image:: /feature/_images/mxmimages/publicationtemplate/prop.PNG
 |
 
-* Clicking on the *Relationship* tab of Publication Template will show the document templates. (*Even if you have selected a document template multiple times, in this space, you will get to see its single representation only)
+* Clicking on the *Relationship* tab of Publication Template will show the document templates. *(Even if you have selected a document template multiple times, in this space, you will get to see its single representation only)*
 
 .. image:: /feature/_images/mxmimages/publicationtemplate/8.PNG
 |
