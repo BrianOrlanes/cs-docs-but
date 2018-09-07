@@ -1,0 +1,14 @@
+===========
+Whiteboard
+===========
+
+
+Whiteboard is a feature in the Contentserv system, which is similar to Adobe © InDesign © application. There are two types of target audiences who will be involved in the publications.
+One is a planner who will actually plan the publication. The other one is a designer who will make the layout and will prepare the templates using Adobe © InDesign © software.
+Whiteboard will help the planner to plan how a publication should look like.
+
+.. image:: /feature/_images/mxmimages/planning/101.PNG
+|
+
+.. image:: /feature/_images/pepimages/line-png-32.PNG
+   :alt: Contentserv line

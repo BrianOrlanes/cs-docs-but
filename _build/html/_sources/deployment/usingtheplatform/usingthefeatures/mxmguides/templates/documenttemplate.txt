@@ -1,0 +1,19 @@
+===================
+Document Template
+===================
+
+
+A document template contains guides, styles, page attribute placeholders, "static" elements, and so on.
+A designer starts the preparation of a document template using Adobe © InDesign ©. It is a physical .indd  Adobe © InDesign © file.
+It does not contain actual information, just the layout and data dimension. It serves as a starting point of a document.
+A designer can define a Workable Area in a document template, where a planner can plan and place the products.
+A designer can use the remaining area of a document template, which is not defined as the Workable Area, to place the header, footer, logo or background image.
+Once you create the document template in Adobe © InDesign ©, you can tinker with it in the Whiteboard of the Contentserv system. Using Whiteboard, you can plan how products should be placed in a document template, and define Slots for product placement. These document templates are used in creating publication templates.
+
+.. image:: /feature/_images/mxmimages/preparedoc/59.PNG
+|
+|
+
+
+.. image:: /feature/_images/pepimages/line-png-32.PNG
+   :alt: Contentserv line

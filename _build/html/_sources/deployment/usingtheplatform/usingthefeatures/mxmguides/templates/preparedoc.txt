@@ -26,49 +26,20 @@ At least one product template must exist in the system.
 Key Terms
 ==========
 
-**CS Desktop Publisher:** the Desktop Publisher is a plugin for simple data transfer and updating functions. It is available as an additional option for templates and dynamic editing in the print sector.
+**CS Desktop Publisher:** the :doc:`Desktop Publisher </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/csdesktoppublisher>` is a plugin for simple data transfer and updating functions. It is available as an additional option for templates and dynamic editing in the print sector.
 The Desktop Publisher allows you to use and update Contentserv system objects in Adobe © InDesign © documents. Frames and individual texts will be assigned to variables which can connect them to system objects like products or images. This will allow for ease of creating and updating documents which are based on an object or document templates.
 
-**Whiteboard:** whiteboard is a feature in the Contentserv system, which is similar to Adobe © InDesign © application. There are two types of target audiences who will be involved in the publications. One is a planner who will actually plan the publication. The other one is a designer who will make the layout and will prepare the templates using Adobe © InDesign © software. Whiteboard will help the planner to plan how a publication should look like.
+**Whiteboard:** :doc:`Whiteboard </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/whiteboard>` is a feature in the Contentserv system, which is similar to Adobe © InDesign © application. There are two types of target audiences who will be involved in the publications. One is a planner who will actually plan the publication. The other one is a designer who will make the layout and will prepare the templates using Adobe © InDesign © software. Whiteboard will help the planner to plan how a publication should look like.
 
-**Workable Area:** the Workable Area is defined while creating a document template in Adobe © InDesign ©. A designer will define this area using an Adobe © InDesign © frame in a document template. The Workable Area is a dynamic area where products will be placed in Whiteboard.
+**Workable Area:** the :doc:`Workable Area </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/workablearea>` is defined while creating a document template in Adobe © InDesign ©. A designer will define this area using an Adobe © InDesign © frame in a document template. The Workable Area is a dynamic area where products will be placed in Whiteboard.
 
-**Slot:** the Slot is a place in a document template where a product is placed while planning the document template in Whiteboard. A planner will split the defined Workable Area of a document template into N number of rows and columns according to his need in Whiteboard. Thus, he will create a slot, which is a separate space for each product. Now, a planner can place products into separate slots, where one slot will contain a single product.
+**Slot:** the :doc:`Slot </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/slots>` is a place in a document template where a product is placed while planning the document template in Whiteboard. A planner will split the defined Workable Area of a document template into N number of rows and columns according to his need in Whiteboard. Thus, he will create a slot, which is a separate space for each product. Now, a planner can place products into separate slots, where one slot will contain a single product.
 
-**Document Template Overview:** document template contains guides, styles, page attribute placeholders, "static" elements, and so on. A designer starts the preparation of a document template using Adobe © InDesign ©. It is a physical .indd  Adobe © InDesign © file. It does not contain actual information, just the layout and data dimension. It serves as a starting point of a document. A designer can define a Workable Area in a document template, where a planner can plan and place the products. A designer can use the remaining area of a document template, which is not defined as the Workable Area, to place the header, footer, logo or background image. Once you create the document template in Adobe © InDesign ©, you can tinker with it in the Whiteboard of the Contentserv system. Using Whiteboard, you can plan how products should be placed in a document template, and define Slots for product placement. These document templates are used in creating publication templates.
+**Document Template:** a :doc:`document template </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/documenttemplate>` contains guides, styles, page attribute placeholders, "static" elements, and so on. A designer starts the preparation of a document template using Adobe © InDesign ©. It is a physical .indd  Adobe © InDesign © file. It does not contain actual information, just the layout and data dimension. It serves as a starting point of a document. A designer can define a Workable Area, to place the header, footer, logo or background image. Once you create the document template in Adobe © InDesign ©, you can tinker with it in the Whiteboard of the Contentserv system. Using Whiteboard, you can plan how products should be placed in a document template, and define Slots for product placement. These document templates are used in creating publication templates.
 
 
 Available Features in Whiteboard
 =================================
-
-===========   =======================================================         =======================     ==================================================================================
-**Sr. No.**   **Icon**                                                        **Name**                    **Details**
-===========   =======================================================         =======================     ==================================================================================
-1.            .. image:: /feature/_images/mxmimages/preparedoc/32.PNG         Zoom In                     It is the Zoom in feature. It will make a screen appear much larger.
-2.            .. image:: /feature/_images/mxmimages/preparedoc/33.PNG         Zoom Out                    It is the Zoom out feature. It will make a screen appear much smaller.
-3.            .. image:: /feature/_images/mxmimages/preparedoc/34.PNG         Set Default Zoom Level      It will set the default zoom level.
-4.            .. image:: /feature/_images/mxmimages/preparedoc/35.PNG         Hide Grid                   This feature It is useful for hiding the grids from the document template in a page preview.
-5.            .. image:: /feature/_images/mxmimages/preparedoc/36.PNG         Show Grid                   This feature is useful for showing the grids in a document template in page preview.
-6.            .. image:: /feature/_images/mxmimages/preparedoc/37.PNG         Hide Background             This feature will hide everything from the background in page preview.
-7.            .. image:: /feature/_images/mxmimages/preparedoc/38.PNG         Show Background             This feature will show everything in the background if anything is hidden.
-8.            .. image:: /feature/_images/mxmimages/preparedoc/39.PNG         Hide Tags                   This feature will hide the tags in a page preview.
-9.            .. image:: /feature/_images/mxmimages/preparedoc/40.PNG         Show Tags                   This feature will show the tags in a page overview.
-10.           .. image:: /feature/_images/mxmimages/preparedoc/42.PNG         Merge Slots                 This feature is used to merge more than one Slots in a document template. You can select the Slots with the help of CTRL key and click on this icon to merge the selected Slots.
-11.           .. image:: /feature/_images/mxmimages/preparedoc/43.PNG         Split Slots                 This feature is used to split the Workable Area into multiple Slots. So that products can be placed in a separate Slot. When you click on split Slot icon, a window will prompt where you need to enter the number of rows and columns in which you want to split the Workable Area.
-12.           .. image:: /feature/_images/mxmimages/preparedoc/44.PNG         Exchange Slots              This feature is used to exchange the Slots. You need to select any two Slots that you want to exchange and click on this icon.
-13.           .. image:: /feature/_images/mxmimages/preparedoc/45.PNG         Page Previews               This feature is used to display a document in a preview mode. You will be able to see a document in a preview mode before it gets ready for Adobe © InDesign ©.
-14.           .. image:: /feature/_images/mxmimages/preparedoc/46.PNG         Marketing Content           You need to first select any Slot where you want to place the article and then click on this icon. It will show the list of marketing articles that best fit in selected Slot. You can drag any article from the list and place into the selected Slot.
-15.           .. image:: /feature/_images/mxmimages/preparedoc/47.PNG         Marketing Bundles           You need to first select any Slot where you want to place the marketing bundle and then click on this icon. It will show the list of marketing bundles that best fit in selected Slot. You can drag any bundle from the list and place into the selected Slot.
-16.           .. image:: /feature/_images/mxmimages/preparedoc/48.PNG         Product Templates           You need to first select any Slot. It will show you the list of product templates that best fit the selected Slot according to the Slot size. When you drag and drop any marketing article into a Slot, it will automatically fetch the product template as well based on the size of the selected Slot.
-17.           .. image:: /feature/_images/mxmimages/preparedoc/49.PNG         Tags                        It will show you the list of tags. You can drag and drop any of the tags into a Slot.
-18.           .. image:: /feature/_images/mxmimages/preparedoc/50.PNG         Sync Status                 This feature lets you know whether the planned products in product templates are present in a document or not. It shows whether the products are in the planning phase or it is ready for Adobe © InDesign © and print.
-19.           .. image:: /feature/_images/mxmimages/preparedoc/54.PNG         Refresh                     It is a refresh feature. A planner will plan and save the document template details in Whiteboard. A Designer will accept the changes in Adobe © InDesign © made by a planner. If a designer makes any changes in a document template in Adobe © InDesign © and uploads it after he accepts the changes from a planner, then this refresh icon will blink in Whiteboard.
-20.           .. image:: /feature/_images/mxmimages/preparedoc/52.PNG         Accept Changes              A planner will select the changes made by a designer and click on this icon to accept the changes.
-21.           .. image:: /feature/_images/mxmimages/preparedoc/53.PNG         Delete                      A planner will select the changes made by a designer and click on this icon to reject or delete the changes.
-22.           .. image:: /feature/_images/mxmimages/preparedoc/56.PNG         Select All                  A planner will select all the changes made by a designer by clicking on this icon. A planner can either accept or delete all the changes made by a designer at a time with the help of this feature.
-
-
-===========   =======================================================         =======================     ==================================================================================
 
 |
 |
@@ -90,7 +61,7 @@ Locate a Document Template
 .. image:: /feature/_images/mxmimages/preparedoc/58.PNG
 |
 
-* This screen shows all created templates including product templates, document templates, and publication templates.
+* This screen shows all created templates including product templates, :doc:`document templates </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/documenttemplate>`, and publication templates.
 
 .. image:: /feature/_images/mxmimages/preparedoc/59.PNG
 |
@@ -100,7 +71,7 @@ Locate a Document Template
 .. image:: /feature/_images/mxmimages/preparedoc/60.PNG
 |
 
-* Alternatively, you can also use the filter option *Document Template* from **Class Taxonomy** to show only the document templates.
+* Alternatively, you can also use the filter option *Document Template* from **Class Taxonomy** to show only the :doc:`document templates </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/documenttemplate>`.
 
 .. image:: /feature/_images/mxmimages/preparedoc/61.PNG
 |
@@ -110,7 +81,7 @@ Locate a Document Template
 Open a Document Template in Content Open View
 ----------------------------------------------
 
-* Select and click on a document template to open it in content open view.
+* Select and click on a :doc:`document template </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/documenttemplate>` to open it in content open view.
 
 .. image:: /feature/_images/mxmimages/preparedoc/60.PNG
 |
@@ -126,7 +97,7 @@ Open a Document Template in Content Open View
 .. image:: /feature/_images/mxmimages/preparedoc/63.PNG
 |
 
-* The *Relationship* tab of content open view lets you see Product Template, Images, Marketing Products, Publication Templates, and so on associated with a document template.
+* The *Relationship* tab of content open view lets you see Product Template, Images, Marketing Products, Publication Templates, and so on associated with a :doc:`document template </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/documenttemplate>`.
 
 .. image:: /feature/_images/mxmimages/preparedoc/64.PNG
 |
@@ -135,28 +106,28 @@ Open a Document Template in Content Open View
 Open a Document Template in Whiteboard
 ----------------------------------------------
 
-* Click on the **Open** icon to open a document template in Whiteboard.
+* Click on the **Open** icon to open a :doc:`document template </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/documenttemplate>` in :doc:`Whiteboard </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/whiteboard>`.
 
 .. image:: /feature/_images/mxmimages/preparedoc/65.PNG
 |
 
 
-* The document template is shown in a preview mode.
+* The :doc:`document template </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/documenttemplate>` is shown in a preview mode.
 
 .. image:: /feature/_images/mxmimages/preparedoc/67.PNG
 |
 
 
-Add Slots in a Document Template
+Add Slots in the Document Template
 ----------------------------------
 
-* View and select the Workable Area in a document template.
+* View and select the Workable Area in a :doc:`document template </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/documenttemplate>`.
 
 .. image:: /feature/_images/mxmimages/preparedoc/68.PNG
 |
 
 
-* Click on the **Split Slots** icon to split the Workable Area into Slots.
+* Click on the **Split Slots** icon to split the :doc:`Workable Area </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/workablearea>` into :doc:`Slots </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/slots>`.
 
 .. image:: /feature/_images/mxmimages/preparedoc/69.PNG
 |
@@ -167,7 +138,7 @@ Add Slots in a Document Template
 .. image:: /feature/_images/mxmimages/preparedoc/70.PNG
 |
 
-* The Workable Area is now divided into Slots.
+* The :doc:`Workable Area </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/workablearea>` is now divided into :doc:`Slots </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/slots>`.
 
 .. image:: /feature/_images/mxmimages/preparedoc/71.PNG
 |
@@ -176,13 +147,13 @@ Add Slots in a Document Template
 Add Tags in a Slots
 ---------------------
 
-* Select any Slot and assign tags to it. Click on the **Tags** icon found in the left vertical toolbar to view the list of tags.
+* Select any :doc:`Slot </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/slots>` and assign tags to it. Click on the **Tags** icon found in the left vertical toolbar to view the list of tags.
 
 .. image:: /feature/_images/mxmimages/preparedoc/72.PNG
 |
 
 
-* All tags that you select will be assigned to a Slot, and the selected tags are visible on the top of a Slot.
+* All tags that you select will be assigned to a :doc:`Slot </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/slots>`, and the selected tags are visible on the top of a Slot.
 
 .. image:: /feature/_images/mxmimages/preparedoc/73.PNG
 |
@@ -197,12 +168,12 @@ Add Products in a Slot
 |
 
 
-* From the list, drag and drop any article to the desired Slot. The product template is selected automatically based on the slot size.
+* From the list, drag and drop any article to the desired :doc:`Slot </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/slots>`. The product template is selected automatically based on the slot size.
 
 .. image:: /feature/_images/mxmimages/preparedoc/75.PNG
 |
 
-* Drag and drop the marketing articles in each of the Slot based on how you want your document template to look like.
+* Drag and drop the marketing articles in each of the :doc:`Slot </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/slots>` based on how you want your :doc:`document template </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/documenttemplate>` to look like.
 
 .. image:: /feature/_images/mxmimages/preparedoc/76.PNG
 |
@@ -211,19 +182,19 @@ Add Products in a Slot
 Refresh and Sync Changes
 -------------------------
 
-* Click on the **Refresh** icon to show the sync status of the products. It will let you know whether the planned products in a product template are present in a document template or they are in a planning phase.
+* Click on the **Refresh** icon to show the sync status of the products. It will let you know whether the planned products in a product template are present in a :doc:`document template </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/documenttemplate>` or they are in a planning phase.
   You will be able to see red vertical line beside each product which is not in sync.
 
 .. image:: /feature/_images/mxmimages/preparedoc/78.PNG
 |
 
 
-* Hover on the **Information** icon beside each Slot to know more details regarding the Slot, assigned product, and product template.
+* Hover on the **Information** icon beside each :doc:`Slot </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/slots>` to know more details regarding the Slot, assigned product, and product template.
 
 .. image:: /feature/_images/mxmimages/preparedoc/79.PNG
 |
 
-* Click on the **Save** button to save the planning details from Whiteboard.
+* Click on the **Save** button to save the planning details from :doc:`Whiteboard </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/whiteboard>`.
 
 .. image:: /feature/_images/mxmimages/preparedoc/80.PNG
 |
@@ -233,12 +204,12 @@ Refresh and Sync Changes
 
 |
 
-* Planner and Designer can work in parallel in Whiteboard and Adobe © InDesign © respectively.
+* Planner and Designer can work in parallel in :doc:`Whiteboard </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/whiteboard>` and Adobe © InDesign © respectively.
 
 |
 
-* When a document is open at both Whiteboard and Adobe © InDesign ©, and a designer makes any modification in a document template after accepting the changes that the planner has made in a document template,
-  then there will be a notification in the Whiteboard side. A planner will see a blinking *Refresh* icon in Whiteboard.
+* When a document is open at both :doc:`Whiteboard </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/whiteboard>` and Adobe © InDesign ©, and a designer makes any modification in a :doc:`document template </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/documenttemplate>` after accepting the changes that the planner has made in a :doc:`document template </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/documenttemplate>`,
+  then there will be a notification in the :doc:`Whiteboard </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/whiteboard>` side. A planner will see a blinking *Refresh* icon in :doc:`Whiteboard </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/whiteboard>`.
 
 .. image:: /feature/_images/mxmimages/preparedoc/127.PNG
 |
