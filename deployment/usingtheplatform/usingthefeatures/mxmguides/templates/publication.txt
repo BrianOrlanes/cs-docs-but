@@ -5,7 +5,7 @@ Publication Template
 
 Purpose
 ========
-This document will help you create a Publication Template in Contentserv PXP application.
+This document will help you create a Publication Template in Contentserv application.
 
 
 Target Audience
@@ -34,7 +34,7 @@ How-to: Create a Publication Template in Contentserv PXP Application
 ======================================================================
 
 
-* Log in to the Contentserv PXP system.
+* Log in to the Contentserv system.
 
 .. image:: /feature/_images/mxmimages/publicationtemplate/1.PNG
 |
@@ -54,7 +54,7 @@ How-to: Create a Publication Template in Contentserv PXP Application
 .. image:: /feature/_images/mxmimages/publicationtemplate/3.PNG
 |
 
-* Add document templates to the Publication Template Planner.
+* Add document templates to the **Publication Template Planner**.
 
 .. image:: /feature/_images/mxmimages/publicationtemplate/4.PNG
 |

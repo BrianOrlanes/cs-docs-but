@@ -111,7 +111,7 @@ Define the Workable Area
 .. image:: /feature/_images/mxmimages/doctemp/cs_document_placeframe.PNG
 |
 
-* Click on **Define Workable area** icon to define the frame area as a Workable Area. You can define the entire document as a Workable Area or you can use some of the portions of a document as a workable area. It is up to you how you want to design a document template.
+* Click on the **Define Workable area** icon to define the frame area as a Workable Area. You can define the entire document as a Workable Area or you can use portions of a document as a workable area. It is up to you how you want to design a document template.
 |
 
 .. image:: /feature/_images/mxmimages/doctemp/cs_document_clickdefineworkablearea.PNG
@@ -132,7 +132,7 @@ Add Frames
 .. image:: /feature/_images/mxmimages/doctemp/cs_document_clickTiconframe.PNG
 |
 
-* Now enter the text in this framed area that you want to add in a document template.
+* Now, enter the text in this framed area that you want to add in a document template.
 
 .. image:: /feature/_images/mxmimages/doctemp/cs_document_nowentertext.PNG
 |
@@ -158,7 +158,7 @@ How to Add Pages in a Document Template
 Save/Update Document Templates in Adobe © InDesign ©
 ----------------------------------------------------
 
-* Once you add all the elements in a document template, then click on **Save/Upload** icon to save and upload it to the Contentserv system.
+* Once you have added all the elements in a document template, click on the **Save/Upload** icon to save and upload it to the Contentserv system.
 
 .. image:: /feature/_images/mxmimages/doctemp/cs_document_oncaddelements.PNG
 |
@@ -181,12 +181,12 @@ Check Sync Status and Accept or Reject Changes
 .. image:: /feature/_images/mxmimages/doctemp/cs_document_designercanaccept.PNG
 |
 
-* A designer can delete or reject all the changes made by a planner. In this case, a designer will select the changes and click on **Delete** icon in SyncStatus window to delete the changes.
+* A designer can delete or reject all the changes made by a planner. In this case, a designer will select the changes and click on the **Delete** icon in SyncStatus window to delete the changes.
 
 .. image:: /feature/_images/mxmimages/doctemp/cs_document_designerdeletereject.PNG
 |
 
-* A designer can select all the changes made by a designer at a time by clicking on **Select All** icon in SyncStatus window. Thus, can either accept or delete all the changes in one go.
+* A designer can select all the changes made by a designer at a time by clicking on **Select All** icon in SyncStatus window. Thus, the designer can either accept or delete all the changes in one go.
 
 .. image:: /feature/_images/mxmimages/doctemp/cs_document_designerselectallchanges.PNG
 |
