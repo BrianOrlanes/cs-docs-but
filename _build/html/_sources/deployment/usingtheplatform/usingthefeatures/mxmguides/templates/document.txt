@@ -13,7 +13,10 @@ You will be guided through the different stages that are involved in building a 
 Target Audience
 ================
 
-This document is intended for template designers and system administrators.
+This document is intended for the following:
+
+* Template Designers
+* System Administrators
 
 
 Overview

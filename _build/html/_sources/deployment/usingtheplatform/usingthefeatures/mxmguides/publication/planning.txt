@@ -13,7 +13,11 @@ You will be guided through the different stages of planning a new publication.
 Target Audience
 ================
 
-This document is intended for template planners, managers, and product owners.
+This document is intended for the following:
+
+* Template Planners
+* Managers
+* Product Owners
 
 
 Key Terms

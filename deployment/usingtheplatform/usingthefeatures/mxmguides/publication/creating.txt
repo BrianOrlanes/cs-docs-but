@@ -12,7 +12,11 @@ You will be guided through different stages that are involved in the planning of
 
 Target Audience
 ================
-This document is intended for template planners, managers, and product owners.
+This document is intended for the following:
+
+* Template Planners
+* Managers
+* Product Owners
 
 
 Key Terms

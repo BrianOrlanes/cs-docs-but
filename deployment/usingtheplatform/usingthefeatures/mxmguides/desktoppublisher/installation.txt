@@ -13,7 +13,9 @@ You will be guided through the different stages that are involved in installing 
 Target Audience
 ================
 
-This document is intended for system administrators.
+This document is intended for the following:
+
+* System Administrators
 
 
 Prerequisites

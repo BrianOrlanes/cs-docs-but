@@ -10,7 +10,11 @@ This document will help you create a Publication Template in Contentserv applica
 
 Target Audience
 ================
-This document is intended for template designers, graphic designers, and system administrators.
+This document is intended for the following:
+
+* Template Designers
+* Graphic Designers
+* System Administrators
 
 
 Prerequisites

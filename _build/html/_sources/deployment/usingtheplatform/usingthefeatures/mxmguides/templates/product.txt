@@ -10,7 +10,12 @@ This document will help you create ‘Product Template’ in Adobe © InDesign �
 
 Target Audience
 ================
-Template Designers, Graphic Designers, System Administrators.
+
+This document is intended for the following:
+
+* Template Designers
+* Graphic Designers
+* System Administrators
 
 
 Overview
