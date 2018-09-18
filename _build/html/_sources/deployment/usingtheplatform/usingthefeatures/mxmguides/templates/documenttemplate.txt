@@ -10,6 +10,7 @@ A designer can define a Workable Area in a document template, where a planner ca
 A designer can use the remaining area of a document template, which is not defined as the Workable Area, to place the header, footer, logo or background image.
 Once you create the document template in Adobe © InDesign ©, you can tinker with it in the Whiteboard of the Contentserv system. Using Whiteboard, you can plan how products should be placed in a document template, and define Slots for product placement. These document templates are used in creating publication templates.
 
+
 .. image:: /feature/_images/mxmimages/preparedoc/59.PNG
 |
 |
