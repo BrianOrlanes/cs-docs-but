@@ -19,7 +19,8 @@ This document is intended for the following:
 
 Overview
 =========
-Product template in Adobe © InDesign © or Whiteboard is used to create single page templates of marketing products. You can add images and text to a pre-defined workable area and design it as per the marketing requirement. It has both a layout and a data representation which is managed in their own structure.
+
+Product template in Adobe © InDesign © or :doc:`Whiteboard </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/whiteboard>` is used to create single page templates of marketing products. You can add images and text to a pre-defined :doc:`Workable Area </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/workablearea>` and design it as per the marketing requirement. It has both a layout and a data representation which is managed in their own structure.
 
 A product template may consist of one or more Adobe © InDesign © frames that can be directly associated with attribute placeholders within the frame or on the frame (e.g., text, image, table).
 
@@ -139,7 +140,7 @@ You can also link images to the template by following steps:
 .. image:: /feature/_images/mxmimages/producttemplate/12.PNG
 |
 
-* Click on the **Images** icon in the CS Desktop Publisher window to see the list of available images in the system.
+* Click on the **Images** icon in the CS :doc:`Desktop Publisher </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/csdesktoppublisher>` window to see the list of available images in the system.
 
 .. image:: /feature/_images/mxmimages/producttemplate/12.PNG
 |

@@ -34,9 +34,9 @@ The :doc:`Desktop Publisher </deployment/usingtheplatform/usingthefeatures/mxmgu
 
 **Whiteboard:** :doc:`Whiteboard </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/whiteboard>` is a feature in the Contentserv system, which is similar to Adobe © InDesign © application. There are two types of target audiences who will be involved in the publications. One is a planner who will actually plan the publication. The other one is a designer who will make the layout and will prepare the templates using Adobe © InDesign © software. :doc:`Desktop Publisher </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/csdesktoppublisher>` will help the planner to plan how a publication should look like.
 
-**Workable Area:** the :doc:`Workable Area </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/slot>` is defined while creating a document template in Adobe © InDesign ©. A designer will define this area using an Adobe © InDesign © frame in a document template. The :doc:`Workable Area </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/workablearea>` is a dynamic area where products will be placed in :doc:`Desktop Publisher </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/csdesktoppublisher>`.
+**Workable Area:** the :doc:`Workable Area </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/workablearea>` is defined while creating a document template in Adobe © InDesign ©. A designer will define this area using an Adobe © InDesign © frame in a document template. The :doc:`Workable Area </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/workablearea>` is a dynamic area where products will be placed in :doc:`Desktop Publisher </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/csdesktoppublisher>`.
 
-**Slot:** the :doc:`Slot </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/workablearea>`  is a place in a document template where a product is placed while planning the document template in Whiteboard. A planner will split the defined Workable Area of a document template into N number of rows and columns according to his need in Whiteboard. Thus, he will create a slot, which is a separate space for each product. Now, a planner can place products into separate slots, where one slot will contain a single product.
+**Slot:** the :doc:`Slot </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/slots>` is a place in a document template where a product is placed while planning the document template in Whiteboard. A planner will split the defined Workable Area of a document template into N number of rows and columns according to his need in Whiteboard. Thus, he will create a :doc:`slot </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/slots>`, which is a separate space for each product. Now, a planner can place products into separate slots, where one :doc:`slot </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/slots>` will contain a single product.
 
 Icons of CS Desktop Publisher Window
 =====================================
@@ -114,12 +114,7 @@ Define the Workable Area
 .. image:: /feature/_images/mxmimages/doctemp/cs_document_placeframe.PNG
 |
 
-<<<<<<< HEAD
 * Click on **Define Workable Area** icon to define the frame area as a :doc:`Workable Area </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/workablearea>`. You can define the entire document as a :doc:`Workable Area </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/workablearea>` or you can use some of the portions of a document as a :doc:`Workable Area </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/workablearea>`. It is up to you how you want to design a document template.
-=======
-* Click on **Define Workable area** icon to define the frame area as a Workable Area. You can define the entire document as a Workable Area or you can use some of the portions of a document as a workable area. It is up to you how you want to design a document template.
->>>>>>> 10e5a74c8a68a5de9da94ea3df18f674b444d679
-|
 
 .. image:: /feature/_images/mxmimages/doctemp/cs_document_clickdefineworkablearea.PNG
 |
