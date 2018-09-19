@@ -1,0 +1,17 @@
+=====
+Slot
+=====
+
+Slot is a place in a document template where a product is placed while planning the document template in Whiteboard.
+A planner will split the defined Workable Area of a document template into N number of rows and columns according to his need in Whiteboard.
+Thus, he will create a slot, which is a separate space for each product.
+Now, a planner can place products into separate slots, where one slot will contain a single product.
+
+
+.. image:: /feature/_images/mxmimages/preparedoc/71.PNG
+|
+|
+
+
+.. image:: /feature/_images/pepimages/line-png-32.PNG
+   :alt: Contentserv line

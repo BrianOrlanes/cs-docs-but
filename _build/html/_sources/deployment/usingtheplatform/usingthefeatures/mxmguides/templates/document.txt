@@ -111,7 +111,11 @@ Define the Workable Area
 .. image:: /feature/_images/mxmimages/doctemp/cs_document_placeframe.PNG
 |
 
+<<<<<<< HEAD
 * Click on **Define Workable Area** icon to define the frame area as a :doc:`Workable Area </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/workablearea>`. You can define the entire document as a :doc:`Workable Area </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/workablearea>` or you can use some of the portions of a document as a :doc:`Workable Area </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/workablearea>`. It is up to you how you want to design a document template.
+=======
+* Click on **Define Workable area** icon to define the frame area as a Workable Area. You can define the entire document as a Workable Area or you can use some of the portions of a document as a workable area. It is up to you how you want to design a document template.
+>>>>>>> 10e5a74c8a68a5de9da94ea3df18f674b444d679
 |
 
 .. image:: /feature/_images/mxmimages/doctemp/cs_document_clickdefineworkablearea.PNG

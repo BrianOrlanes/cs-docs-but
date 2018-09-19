@@ -1,0 +1,18 @@
+=====================
+CS Desktop Publisher
+=====================
+
+
+Desktop Publisher is a plugin for simple data transfer and updating functions.
+It is available as an additional option for templates and dynamic editing in the print sector.
+The Desktop Publisher allows you to use and update Contentserv system objects in Adobe © InDesign © documents.
+Frames and individual texts will be assigned to variables which can connect them to system objects like products or images.
+This will allow for ease of creating and updating documents which are based on an object or document templates.
+
+
+
+.. image:: /feature/_images/mxmimages/manual/cs_manual_openadobeindesign.PNG
+|
+
+.. image:: /feature/_images/pepimages/line-png-32.PNG
+   :alt: Contentserv line
