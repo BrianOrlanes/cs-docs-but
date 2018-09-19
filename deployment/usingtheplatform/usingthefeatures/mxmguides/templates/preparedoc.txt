@@ -7,7 +7,7 @@ Purpose
 ========
 
 The purpose of this document is to show you how to plan Document Templates.
-You will be guided through the different stages of planning a new document template.
+You will be guided through the different stages that are involved in the planning of a new document template.
 
 
 Target Audience
@@ -17,7 +17,7 @@ This document is intended for template planners, managers, and product owners.
 
 Prerequisites
 =============
-Adobe © InDesign © must already be installed in your system.
+Adobe © InDesign © must have been installed in your system.
 Desktop Publisher (DTP) client should first be installed and integrated with Adobe © InDesign ©.
 You must have valid credentials to access the Contentserv system.
 At least one product template must exist in the system.
@@ -73,8 +73,8 @@ Available Features in Whiteboard
 |
 |
 
-How-to: Plan a Document Template
-=================================
+Plan a Document Template
+===========================
 
 Locate a Document Template
 ---------------------------
@@ -85,7 +85,7 @@ Locate a Document Template
 |
 
 
-* Click on the **Templates** menu from the left pane.
+* Click on **Templates** menu from the left pane.
 
 .. image:: /feature/_images/mxmimages/preparedoc/58.PNG
 |
@@ -135,7 +135,11 @@ Open a Document Template in Content Open View
 Open a Document Template in Whiteboard
 ----------------------------------------------
 
+<<<<<<< HEAD
 * Click on the **Open** icon to open a :doc:`document template </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/documenttemplate>` in :doc:`Whiteboard </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/whiteboard>`.
+=======
+* Click on **Open** icon to open a document template in Whiteboard.
+>>>>>>> parent of 050ef57c... Merge branch 'MxMPublications_08302018' of https://github.com/BrianOrlanes/cs-docs-but into MxMPublications_08302018
 
 .. image:: /feature/_images/mxmimages/preparedoc/65.PNG
 |
@@ -156,7 +160,11 @@ Add Slots in the Document Template
 |
 
 
+<<<<<<< HEAD
 * Click on the **Split Slots** icon to split the :doc:`Workable Area </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/workablearea>` into :doc:`Slots </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/slots>`.
+=======
+* Click on **Split Slots** icon to split the Workable Area into Slots.
+>>>>>>> parent of 050ef57c... Merge branch 'MxMPublications_08302018' of https://github.com/BrianOrlanes/cs-docs-but into MxMPublications_08302018
 
 .. image:: /feature/_images/mxmimages/preparedoc/69.PNG
 |
@@ -176,13 +184,21 @@ Add Slots in the Document Template
 Add Tags in a Slots
 ---------------------
 
+<<<<<<< HEAD
 * Select any :doc:`Slot </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/slots>` and assign tags to it. Click on the **Tags** icon found in the left vertical toolbar to view the list of tags.
+=======
+* Click on the **Marketing Articles** icon found in left vertical toolbar to view the list of marketing articles.
+>>>>>>> parent of 050ef57c... Merge branch 'MxMPublications_08302018' of https://github.com/BrianOrlanes/cs-docs-but into MxMPublications_08302018
 
 .. image:: /feature/_images/mxmimages/preparedoc/72.PNG
 |
 
 
+<<<<<<< HEAD
 * All tags that you select will be assigned to a :doc:`Slot </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/slots>`, and the selected tags are visible on the top of a Slot.
+=======
+* All selected tags are assigned to a Slot, and the selected tags are visible on the top of a Slot.
+>>>>>>> parent of 050ef57c... Merge branch 'MxMPublications_08302018' of https://github.com/BrianOrlanes/cs-docs-but into MxMPublications_08302018
 
 .. image:: /feature/_images/mxmimages/preparedoc/73.PNG
 |
@@ -191,7 +207,7 @@ Add Tags in a Slots
 Add Products in a Slot
 ------------------------
 
-* Click on the **Marketing Articles** icon found in the left vertical toolbar to view the list of marketing articles.
+* Click on the **Marketing Articles** icon found in left vertical toolbar to view the list of marketing articles.
 
 .. image:: /feature/_images/mxmimages/preparedoc/74.PNG
 |
@@ -211,7 +227,11 @@ Add Products in a Slot
 Refresh and Sync Changes
 -------------------------
 
+<<<<<<< HEAD
 * Click on the **Refresh** icon to show the sync status of the products. It will let you know whether the planned products in a product template are present in a :doc:`document template </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/documenttemplate>` or they are in a planning phase.
+=======
+* Click on **Refresh** icon to show the sync status of the products. It will let you know whether the planned products in a product template are present in a document template or they are in a planning phase.
+>>>>>>> parent of 050ef57c... Merge branch 'MxMPublications_08302018' of https://github.com/BrianOrlanes/cs-docs-but into MxMPublications_08302018
   You will be able to see red vertical line beside each product which is not in sync.
 
 .. image:: /feature/_images/mxmimages/preparedoc/78.PNG
@@ -231,20 +251,23 @@ Refresh and Sync Changes
 * You can sync these changes in DTP using Adobe © InDesign ©. When you accept the changes or planning from the Sync Status list in InDesign, the actual products will be placed in Adobe © InDesign © template.
   Planning and Placement become in sync this way.
 
-|
 
 * Planner and Designer can work in parallel in :doc:`Whiteboard </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/whiteboard>` and Adobe © InDesign © respectively.
 
-|
 
+<<<<<<< HEAD
 * When a document is open at both :doc:`Whiteboard </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/whiteboard>` and Adobe © InDesign ©, and a designer makes any modification in a :doc:`document template </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/documenttemplate>` after accepting the changes that the planner has made in a :doc:`document template </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/documenttemplate>`,
   then there will be a notification in the :doc:`Whiteboard </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/whiteboard>` side. A planner will see a blinking *Refresh* icon in :doc:`Whiteboard </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/whiteboard>`.
+=======
+* When a document is open at both in Whiteboard and in Adobe © InDesign ©, and a designer makes any modification in a document template after accepting the changes that the planner has made in a document template,
+  then there will be a notification in Whiteboard side. A planner will see a blinking *Refresh* icon in Whiteboard.
+>>>>>>> parent of 050ef57c... Merge branch 'MxMPublications_08302018' of https://github.com/BrianOrlanes/cs-docs-but into MxMPublications_08302018
 
 .. image:: /feature/_images/mxmimages/preparedoc/127.PNG
 |
 
 
-* A planner can accept all the changes made by a designer. In this case, the planner will select the changes and click on the **Accept Changes** icon.
+* A planner can accept all the changes made by a designer. In this case, a planner will select the changes and click on **Accept** icon to accept the changes.
 
 .. image:: /feature/_images/mxmimages/preparedoc/82.PNG
 |
@@ -255,12 +278,12 @@ Refresh and Sync Changes
 .. image:: /feature/_images/mxmimages/preparedoc/84.PNG
 |
 
-* A planner can also delete the changes made by a designer. In this case, a planner will select the changes and click on the **Delete** icon.
+* A planner can also delete the changes made by a designer. In this case, a planner will select the changes and click on the **Delete** icon to delete the changes.
 
 .. image:: /feature/_images/mxmimages/preparedoc/82.PNG
 |
 
-* Save the changes by clicking on the **Save** button.
+* Save the changes by clicking on the **SAVE** button.
 
 .. image:: /feature/_images/mxmimages/preparedoc/86.PNG
 |
