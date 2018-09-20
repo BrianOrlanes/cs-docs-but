@@ -36,7 +36,7 @@ The Desktop Publisher allows you to use and update Contentserv system objects in
 
 **Workable Area:** the :doc:`Workable Area </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/workablearea>` is defined while creating a :doc:`document template </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/documenttemplate>` in Adobe © InDesign ©. A designer will define this area using an Adobe © InDesign © frame in a document template. The Workable Area is a dynamic area where products will be placed in :doc:`Desktop Publisher </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/csdesktoppublisher>`.
 
-**Slot:** the :doc:`Slot </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/slots>` is a place in a :doc:`document template </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/documenttemplate>` where a product is placed while planning the document template in :doc:`Whiteboard </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/whiteboard>`. A planner will split the defined :doc:`Workable Area </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/workablearea>` of a document template into N number of rows and columns according to his need in Whiteboard. Thus, he will create a slots, which is a separate space for each product. Now, a planner can place products into separate slots, where one slot will contain a single product.
+**Slot:** the :doc:`Slot </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/slots>` is a place in a :doc:`document template </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/documenttemplate>` where a product is placed while planning the document template in :doc:`Whiteboard </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/whiteboard>`. A planner will split the defined :doc:`Workable Area </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/workablearea>` of a document template into N number of rows and columns according to his need in Whiteboard. Thus, he will create a slot, which is a separate space for each product. Now, a planner can place products into separate slots, where one slot will contain a single product.
 
 Icons of CS Desktop Publisher Window
 =====================================
@@ -66,7 +66,8 @@ Icons of CS Desktop Publisher Window
 
 How-to: Create Document Template
 =====================
-To create document template, follow these steps:
+
+To create :doc:`Document Template </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/documenttemplate>`, follow these steps:
 
 |
 
@@ -159,7 +160,7 @@ How to Add Pages in a Document Template
 Save/Update Document Templates in Adobe © InDesign ©
 ----------------------------------------------------
 
-* Once you add all the elements in a document template, then click on **Save/Upload** icon to save and upload it to the Contentserv system.
+* Once you add all the elements in a :doc:`Document Template </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/documenttemplate>`, then click on **Save/Upload** icon to save and upload it to the Contentserv system.
 
 .. image:: /feature/_images/mxmimages/doctemp/cs_document_oncaddelements.PNG
 |
