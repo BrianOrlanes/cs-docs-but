@@ -24,7 +24,7 @@ Key Terms
 
 **Whiteboard:** :doc:`Whiteboard </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/whiteboard>` is a feature in the Contentserv system, which is similar to Adobe © InDesign © application. There are two types of target audiences who will be involved in the publications. One is a planner who will actually plan the publication. The other one is a designer who will make the layout and will prepare the templates using Adobe © InDesign © software. :doc:`Desktop Publisher </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/csdesktoppublisher>` will help the planner to plan how a publication should look like.
 
-**Slot:** the :doc:`Slot </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/slots>` is a place in a document template where a product is placed while planning the document template in :doc:`Whiteboard </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/whiteboard>`. A planner will split the defined Workable Area of a document template into N number of rows and columns according to his need in :doc:`Whiteboard </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/whiteboard>`. Thus, he will create a :doc:`slot </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/slots>`, which is a separate space for each product. Now, a planner can place products into separate :doc:`slots </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/slots>`, where one :doc:`slot </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/slots>` will contain a single product.
+**Slot:** the :doc:`Slot </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/slots>` is a place in a :doc:`document template </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/documenttemplate>` where a product is placed while planning the document template in :doc:`Whiteboard </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/whiteboard>`. A planner will split the defined :doc:`Workable Area </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/workablearea>` of a document template into N number of rows and columns according to his need in Whiteboard. Thus, he will create a slot, which is a separate space for each product. Now, a planner can place products into separate slots, where one slot will contain a single product.
 
 
 Overview
@@ -73,7 +73,7 @@ How-to: Create Publications
 .. image:: /feature/_images/mxmimages/creating/cs_creating_youdefinefromproperties.PNG
 |
 
-* You can see publication template, document templates, and product templates associated with the publication from *Relationships* tab.
+* You can see publication template, :doc:`document templates </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/documenttemplate>`, and product templates associated with the publication from *Relationships* tab.
 
 .. image:: /feature/_images/mxmimages/creating/cs_creating_youseepublicationtemplate.PNG
 

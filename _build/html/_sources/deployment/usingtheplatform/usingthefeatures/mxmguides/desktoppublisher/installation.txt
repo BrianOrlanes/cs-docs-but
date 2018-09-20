@@ -27,9 +27,9 @@ Adobe © InDesign © must have been installed in your system.
 CS Desktop Publisher Overview
 ==============================
 
-The Desktop Publisher is an Adobe © InDesign © Plugin for simple data transfer and updating functions. It is available as an additional option to make templates and dynamic editing in the print sector.
+The :doc:`Desktop Publisher </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/csdesktoppublisher>` is an Adobe © InDesign © Plugin for simple data transfer and updating functions. It is available as an additional option to make templates and dynamic editing in the print sector.
 
-The Desktop Publisher allows you to use and update  CONTENTSERV objects in Adobe © InDesign © documents. Frames and individual texts will be assigned to variables, which can connect them to system objects like products or images. This will ease the creation and updating of documents which are based on an object or document templates.
+The Desktop Publisher allows you to use and update  CONTENTSERV objects in Adobe © InDesign © documents. Frames and individual texts will be assigned to variables, which can connect them to system objects like products or images. This will ease the creation and updating of documents which are based on an object or :doc:`document template </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/documenttemplate>`.
 
 
 Install and Configure CS Desktop Publisher
