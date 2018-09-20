@@ -23,14 +23,20 @@ This document is intended for the following:
 Key Terms
 ==========
 
-**Slot:** the :doc:`Slot </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/slots>` is a place in a document template where a product is placed while planning the document template in Whiteboard. A planner will split the defined Workable Area of a document template into N number of rows and columns according to his need in Whiteboard. Thus, he will create a :doc:`slot </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/slots>`, which is a separate space for each product. Now, a planner can place products into separate slots, where one :doc:`slot </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/slots>` will contain a single product.
+**Slot:** the :doc:`Slot </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/slots>` is a place in a document template where a product is placed while planning the document template in Whiteboard.
+A planner will split the defined Workable Area of a document template into N number of rows and columns according to his need in Whiteboard. Thus, he will create a slot, which is a separate space for each product.
+Now, a planner can place products into separate slots, where one slot  will contain a single product.
 
-**Workable Area:** the :doc:`Workable Area </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/workablearea>` is defined while creating a document template in Adobe © InDesign ©. A designer will define this area using an Adobe © InDesign © frame in a document template. The :doc:`Workable Area </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/workablearea>` is a dynamic area where products will be placed in Desktop Publisher.
+**Workable Area:** the :doc:`Workable Area </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/workablearea>` is defined while creating a document template in Adobe © InDesign ©.
+A designer will define this area using an Adobe © InDesign © frame in a document template. The Workable Area is a dynamic area where products will be placed in Desktop Publisher.
 
 
 Overview
 =========
-Whiteboard is a feature in Contentserv system, which is similar to Adobe © InDesign © application. There are two types of target audience who will be involved in the publications. One is a planner who will actually plan the publication. The other one is a designer who will make the layout and prepare the templates using Adobe © InDesign © software. Whiteboard will help the planner to plan how a publication should look like.
+:doc:`Whiteboard </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/whiteboard>` is a feature in Contentserv system, which is similar to Adobe © InDesign © application.
+There are two types of target audience who will be involved in the publications. One is a planner who will actually plan the publication.
+The other one is a designer who will make the layout and prepare the templates using Adobe © InDesign © software.
+Whiteboard will help the planner to plan how a publication should look like.
 
 
 Whiteboard Features
@@ -72,14 +78,18 @@ Whiteboard Features
 How-to: Plan Products in Whiteboard
 ====================================
 
-* From the publication content open view, click on the **Open** icon to open a publication in Whiteboard.
+* From the publication content open view, click on the **Open** icon to open a publication in :doc:`Whiteboard </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/whiteboard>`.
 
 .. image:: /feature/_images/mxmimages/planning/101.PNG
 |
 
 
-* When we open a publication in Whiteboard, all the documents which are part of this publication will be listed in the navigation reel at the top of the screen. You can render all the documents one by one by clicking on it and plan it via Whiteboard. It is possible that some of the documents have already been planned while planning the document template via Whiteboard.
-  You can plan the remaining documents which are not yet planned. Whatever changes you make in the document template parallel in the background that is used in the publication, will also be reflected in this publication automatically until you click the **Ready for InDesign** button for a document.
+* When we open a publication in :doc:`Whiteboard </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/whiteboard>`,
+  all the documents which are part of this publication will be listed in the navigation reel at the top of the screen.
+  You can render all the documents one by one by clicking on it and plan it via Whiteboard.
+  It is possible that some of the documents have already been planned while planning the document template via Whiteboard.
+  You can plan the remaining documents which are not yet planned.
+  Whatever changes you make in the document template parallel in the background that is used in the publication, will also be reflected in this publication automatically until you click the **Ready for InDesign** button for a document.
 
 .. image:: /feature/_images/mxmimages/planning/102.PNG
 |
@@ -91,13 +101,13 @@ How-to: Plan Products in Whiteboard
 |
 
 
-* View and select the Workable Area in a document template.
+* View and select the Workable Area in a :doc:`document template </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/documenttemplate>`.
 
 .. image:: /feature/_images/mxmimages/planning/105.PNG
 |
 
 
-* Click on the **Split Slots** icon to split the Workable Area into Slots.
+* Click on the **Split Slots** icon to split the :doc:`Workable Area </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/workablearea>` into :doc:`Slots </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/slots>`.
 
 .. image:: /feature/_images/mxmimages/planning/106.PNG
 |
@@ -109,7 +119,7 @@ How-to: Plan Products in Whiteboard
 |
 
 
-* The Workable Area is now divided into Slots.
+* The doc:`Workable Area </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/workablearea>` is now divided into :doc:`Slots </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/slots>`.
 
 .. image:: /feature/_images/mxmimages/planning/108.PNG
 |
@@ -121,7 +131,7 @@ How-to: Plan Products in Whiteboard
 |
 
 
-* All the tags that you select will be assigned to a Slot. You will be able to see the selected tags on the top of a Slot.
+* All the tags that you select will be assigned to a :doc:`Slot </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/slots>`. You will be able to see the selected tags on the top of a Slot.
 
 .. image:: /feature/_images/mxmimages/planning/110.PNG
 |
@@ -132,25 +142,25 @@ How-to: Plan Products in Whiteboard
 |
 
 
-* From the list, drag and drop any article to the desired Slot. The product template is selected automatically based on the Slot size.
+* From the list, drag and drop any article to the desired :doc:`Slot </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/slots>`. The product template is selected automatically based on the Slot size.
 
 .. image:: /feature/_images/mxmimages/planning/112.PNG
 |
 
 
-* Drag and drop the marketing articles in each of the Slot based on how you want your document template to look like.
+* Drag and drop the marketing articles in each of the :doc:`Slot </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/slots>` based on how you want your document template to look like.
 
 .. image:: /feature/_images/mxmimages/planning/113.PNG
 |
 
 
-* You can right-click any of the Slots and click on the **Get Info** button.
+* You can right-click any of the :doc:`Slots </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/slots>` and click on the **Get Info** button.
 
 .. image:: /feature/_images/mxmimages/planning/114.PNG
 |
 
 
-* On the pop-up window that appears, view the details of a marketing article that you use in a selected Slot.
+* On the pop-up window that appears, view the details of a marketing article that you use in a selected :doc:`Slot </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/slots>`.
 
 .. image:: /feature/_images/mxmimages/planning/115.PNG
 |
@@ -170,7 +180,7 @@ How-to: Plan Products in Whiteboard
 .. image:: /feature/_images/mxmimages/planning/117.PNG
 |
 
-* When a document is open at both in Whiteboard and in Adobe InDesign as well, and a designer makes any modification in a document after accepting the changes that the planner has made in a document via Whiteboard, then there will be a notification in the Whiteboard side.
+* When a document is open at both in :doc:`Whiteboard </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/whiteboard>` and in Adobe InDesign as well, and a designer makes any modification in a document after accepting the changes that the planner has made in a document via Whiteboard, then there will be a notification in the Whiteboard side.
   The planner will see a blinking *Refresh* icon in Whiteboard.
 
 .. image:: /feature/_images/mxmimages/planning/118.PNG
