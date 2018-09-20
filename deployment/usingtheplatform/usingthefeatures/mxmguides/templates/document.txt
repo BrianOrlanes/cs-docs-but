@@ -66,7 +66,8 @@ Icons of CS Desktop Publisher Window
 
 How-to: Create Document Template
 =====================
-To create document template, follow these steps:
+
+To create :doc:`Document Template </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/documenttemplate>`, follow these steps:
 
 |
 
@@ -159,7 +160,7 @@ How to Add Pages in a Document Template
 Save/Update Document Templates in Adobe © InDesign ©
 ----------------------------------------------------
 
-* Once you add all the elements in a document template, then click on **Save/Upload** icon to save and upload it to the Contentserv system.
+* Once you add all the elements in a :doc:`Document Template </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/documenttemplate>`, then click on **Save/Upload** icon to save and upload it to the Contentserv system.
 
 .. image:: /feature/_images/mxmimages/doctemp/cs_document_oncaddelements.PNG
 |
