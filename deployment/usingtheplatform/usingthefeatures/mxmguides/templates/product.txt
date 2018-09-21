@@ -10,7 +10,6 @@ This document will help you create ‘Product Template’ in Adobe © InDesign �
 
 Target Audience
 ================
-This document is intended for the following:
 
 * Template Planners
 * Managers
