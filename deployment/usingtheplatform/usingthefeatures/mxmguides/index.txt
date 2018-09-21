@@ -10,3 +10,4 @@ Marketing Experience Management (MxM)
    templates/index
    desktoppublisher/index
    publication/index
+   features/index
