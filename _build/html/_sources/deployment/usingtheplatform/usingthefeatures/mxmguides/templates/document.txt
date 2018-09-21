@@ -13,7 +13,6 @@ You will be guided through the different stages that are involved in building a 
 Target Audience
 ================
 
-This document is intended for the following:
 
 * Systwem Administrators
 * Template Designers
@@ -22,7 +21,7 @@ This document is intended for the following:
 Overview
 =========
 
-:doc:`Document template </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/documenttemplate>` contains guides, styles, page attribute placeholders, "static" elements, and so on. A designer starts the preparation of document template using Adobe © InDesign ©. It is a physical .indd  Adobe © InDesign © file. It does not contain actual information, but it just contains the layout and data dimension. It serves as a starting point of a document. A designer can define the :doc:`Workable Area </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/workablearea>` in a document template, where a planner can plan and place the products. A designer can use the rest of the area of a document template, which is not defined as the Workable Area, to place the header, footer, logo, or background image. Once you create the document template in Adobe © InDesign ©, you can play with it using the :doc:`Whiteboard </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/whiteboard>` of Contentserv system. You can plan how products should be placed in a document template using :docWhiteboard. You can define :doc:`Slots </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/slots>` in a document template to place the products in the  using Whiteboard. These document templates are used in creating publication templates.
+Document template contains guides, styles, page attribute placeholders, "static" elements, and so on. A designer starts the preparation of document template using Adobe © InDesign ©. It is a physical .indd  Adobe © InDesign © file. It does not contain actual information, but it just contains the layout and data dimension. It serves as a starting point of a document. A designer can define the Workable Area in a document template, where a planner can plan and place the products. A designer can use the rest of the area of a document template, which is not defined as the Workable Area, to place the header, footer, logo, or background image. Once you create the document template in Adobe © InDesign ©, you can play with it using the Whiteboard of Contentserv system. You can plan how products should be placed in a document template using :docWhiteboard. You can define Slots in a document template to place the products in the  using Whiteboard. These document templates are used in creating publication templates.
 
 
 
@@ -30,7 +29,7 @@ Key Terms
 ==========
 
 **CS Desktop Publisher:** the :doc:`Desktop Publisher </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/csdesktoppublisher>` is a plugin for simple data transfer and updating functions. It is available as an additional option for templates and dynamic editing in the print sector.
-The Desktop Publisher allows you to use and update Contentserv system objects in Adobe © InDesign © documents. Frames and individual texts will be assigned to variables which can connect them to system objects like products or images. This will allow for ease of creating and updating documents which are based on an object or :doc:`document template </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/documenttemplate>`.
+The Desktop Publisher allows you to use and update Contentserv system objects in Adobe © InDesign © documents. Frames and individual texts will be assigned to variables which can connect them to system objects like products or images. This will allow for ease of creating and updating documents which are based on an object or document template.
 
 **Whiteboard:** :doc:`Whiteboard </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/whiteboard>` is a feature in the Contentserv system, which is similar to Adobe © InDesign © application. There are two types of target audiences who will be involved in the publications. One is a planner who will actually plan the publication. The other one is a designer who will make the layout and will prepare the templates using Adobe © InDesign © software. :doc:`Desktop Publisher </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/csdesktoppublisher>` will help the planner to plan how a publication should look like.
 
@@ -67,31 +66,31 @@ Icons of CS Desktop Publisher Window
 How-to: Create Document Template
 =====================
 
-To create :doc:`Document Template </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/documenttemplate>`, follow these steps:
+To create Document Template, follow these steps:
 
 |
 
 Install DTP
 ------------
 
-* Install CS :doc:`Desktop Publisher </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/csdesktoppublisher>` client in your system to use and update CONTENTSERV objects in Adobe © InDesign © documents.
+* Install CS Desktop Publisher client in your system to use and update Contenserv objects in Adobe © InDesign © documents.
 
 |
 
 Connect to DTP
 ----------------
 
-* Once you install CS :doc:`Desktop Publisher </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/csdesktoppublisher>` client in your system, open Adobe © InDesign © and connect to DTP client.
+* Once you install CS Desktop Publisher client in your system, open Adobe © InDesign © and connect to DTP client.
 
 Create New Document Template
 -----------------------------
 
-* CS :doc:`Desktop Publisher </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/csdesktoppublisher>` pop-up window contains the details of Contentserv system (ex: articles, products, images, etc).
+* CS Desktop Publisher pop-up window contains the details of Contentserv system (ex: articles, products, images, etc).
 
 .. image:: /feature/_images/mxmimages/doctemp/cs_document_desktoppublisher.PNG
 |
 
-* Click on  **Create Template** icon from CS :doc:`Desktop Publisher </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/csdesktoppublisher>` pop-up window to create a :doc:`document template </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/documenttemplate>`.
+* Click on  **Create Template** icon from CS Desktop Publisher pop-up window to create a document template.
 
 .. image:: /feature/_images/mxmimages/doctemp/cs_document_createtemplate.PNG
 |
@@ -100,22 +99,22 @@ Create New Document Template
 Define the Workable Area
 ------------------------
 
-* Find a blank page where you can put all the styles, designs and anything that you want to add in a :doc:`document template </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/documenttemplate>`.
+* Find a blank page where you can put all the styles, designs and anything that you want to add in a document template.
 
 .. image:: /feature/_images/mxmimages/doctemp/cs_document_defineworkarea.PNG
 |
 
-* Select the frame from the left side panel of a screen to define a :doc:`Workable Area </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/workablearea>`.
+* Select the frame from the left side panel of a screen to define a Workable Area.
 
 .. image:: /feature/_images/mxmimages/doctemp/cs_document_selectframe.PNG
 |
 
-* Place the frame across the document to define a :doc:`Workable Area </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/workablearea>` in a document.
+* Place the frame across the document to define a Workable Area.
 
 .. image:: /feature/_images/mxmimages/doctemp/cs_document_placeframe.PNG
 |
 
-* Click on **Define Workable Area** icon to define the frame area as a :doc:`Workable Area </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/workablearea>`. You can define the entire document as a Workable Area or you can use some of the portions of a document as a Workable Area. It is up to you how you want to design a :doc:`document template </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/documenttemplate>`.
+* Click on **Define Workable Area** icon to define the frame area as a Workable Area. You can define the entire document as a Workable Area or you can use some of the portions of a document as a Workable Area. It is up to you how you want to design a :doc:`document template </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/documenttemplate>`.
 
 .. image:: /feature/_images/mxmimages/doctemp/cs_document_clickdefineworkablearea.PNG
 |
@@ -124,7 +123,7 @@ Define the Workable Area
 Add Frames
 ----------
 
-* Suppose you have used some portion of a document as a :doc:`Workable Area </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/workablearea>` and you want to add some text in rest of the area of a document, then you can do so by clicking on  **T** icon frame located in the left side panel of a screen.
+* Suppose you have used some portion of a document as a Workable Area and you want to add some text in rest of the area of a document, then you can do so by clicking on  **T** icon frame located in the left side panel of a screen.
 
 .. image:: /feature/_images/mxmimages/doctemp/cs_document_supposeusedsomeportion.PNG
 |
@@ -135,37 +134,37 @@ Add Frames
 .. image:: /feature/_images/mxmimages/doctemp/cs_document_clickTiconframe.PNG
 |
 
-* Now, enter the text in this framed area that you want to add in a :doc:`document template </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/documenttemplate>`.
+* Now, enter the text in this framed area that you want to add in a document template.
 
 .. image:: /feature/_images/mxmimages/doctemp/cs_document_nowentertext.PNG
 |
 |
 
-How to Add Pages in a Document Template
+How-to Add Pages in a Document Template
 ----------------------------------------
 
-* In addition to this, you can add as many pages as you want in a :doc:`document template </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/documenttemplate>`. Locate the **Pages** icon option on the right side panel of the screen.
+* In addition to this, you can add as many pages as you want in a document template. Locate the **Pages** icon option on the right side panel of the screen.
 
 .. image:: /feature/_images/mxmimages/doctemp/cs_document_inadditiontothis.PNG
 |
 
-* Select **Pages** icon option and click on **Create Page** icon to create a page in a :doc:`document template </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/documenttemplate>`.
+* Select **Pages** icon option and click on **Create Page** icon to create a page in a document template.
 
 .. image:: /feature/_images/mxmimages/doctemp/cs_document_inadditiontothis.PNG
 |
 
-* Define :doc:`Workable Area </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/workablearea>` in each page of a :doc:`document template </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/documenttemplate>`.
+* Define Workable Area in each page of a document template.
 |
 |
 Save/Update Document Templates in Adobe © InDesign ©
 ----------------------------------------------------
 
-* Once you add all the elements in a :doc:`Document Template </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/documenttemplate>`, then click on **Save/Upload** icon to save and upload it to the Contentserv system.
+* Once you add all the elements in a Document Template, then click on **Save/Upload** icon to save and upload it to the Contentserv system.
 
 .. image:: /feature/_images/mxmimages/doctemp/cs_document_oncaddelements.PNG
 |
 
-* Once you click on **Save/Upload** icon, then you will find a prompt on the screen. Enter Template Name and click on the Upload button. It will save this :doc:`document template </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/documenttemplate>` in Adobe © InDesign © and upload it to the Contentserv system.
+* Once you click on **Save/Upload** icon, then you will find a prompt on the screen. Enter Template Name and click on the Upload button. It will save this document template in Adobe © InDesign © and upload it to the Contentserv system.
 
 .. image:: /feature/_images/mxmimages/doctemp/cs_document_inadditiontothis.PNG
 |
@@ -173,7 +172,7 @@ Save/Update Document Templates in Adobe © InDesign ©
 Check Sync Status and Accept or Reject Changes
 ----------------------------------------------
 
-* You can sync the changes in Adobe © InDesign © :doc:`document template </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/documenttemplate>`, that you made in :doc:`Desktop Publisher </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/csdesktoppublisher>`. This is necessary when you work in a document template at both places; in an Adobe © InDesign © and in Desktop Publisher of Contentserv system. You can click on **Show Sync Status** icon located in the CS Desktop Publisher  window to know the sync status of a :doc:`document template </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/documenttemplate>`.
+* You can sync the changes in Adobe © InDesign © document template, that you made in Desktop Publisher. This is necessary when you work in a document template at both places; in an Adobe © InDesign © and in Desktop Publisher of Contentserv system. You can click on **Show Sync Status** icon located in the CS Desktop Publisher  window to know the sync status of a :doc:`document template </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/documenttemplate>`.
 
 .. image:: /feature/_images/mxmimages/doctemp/cs_document_syncchanges.PNG
 |

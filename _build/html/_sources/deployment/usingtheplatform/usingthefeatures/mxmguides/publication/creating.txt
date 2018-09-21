@@ -12,7 +12,6 @@ You will be guided through different stages that are involved in the planning of
 
 Target Audience
 ================
-This document is intended for the following:
 
 * Template Planners
 * Managers+
@@ -58,7 +57,7 @@ How-to: Create Publications
 .. image:: /feature/_images/mxmimages/creating/cs_creating_clickcreateselectpublication.PNG
 |
 
-* You will be redirected to a window where you can select a publication template and click on **CREATE** button.
+* You will be redirected to a window where you can select a publication template and click on **Create** button.
 
 .. image:: /feature/_images/mxmimages/creating/cs_creating_youwillberedirected.PNG
 |
@@ -73,7 +72,7 @@ How-to: Create Publications
 .. image:: /feature/_images/mxmimages/creating/cs_creating_youdefinefromproperties.PNG
 |
 
-* You can see publication template, :doc:`document templates </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/documenttemplate>`, and product templates associated with the publication from *Relationships* tab.
+* You can see publication template, document templates, and product templates associated with the publication from *Relationships* tab.
 
 .. image:: /feature/_images/mxmimages/creating/cs_creating_youseepublicationtemplate.PNG
 
