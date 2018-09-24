@@ -72,7 +72,7 @@ To create Document Template, follow these steps:
 Install DTP
 ------------
 
-* Install CS Desktop Publisher client in your system to use and update Contenserv objects in Adobe © InDesign © documents.
+* Install CS Desktop Publisher client in your system to use and update Contentserv objects in Adobe © InDesign © documents.
 
 |
 
@@ -80,6 +80,8 @@ Connect to DTP
 ----------------
 
 * Once you install CS Desktop Publisher client in your system, open Adobe © InDesign © and connect to DTP client.
+
+|
 
 Create New Document Template
 -----------------------------

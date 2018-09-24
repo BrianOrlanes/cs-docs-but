@@ -21,10 +21,10 @@ Target Audience
 Prerequisites
 =============
 
-Adobe © InDesign © must be installed in your system.
-Desktop Publisher  (DTP) client must be installed and integrated with Adobe © InDesign ©.
-You must have valid credentials to access the Contentserv system.
-At least one product template must exist in the system.
+* Adobe © InDesign © must be installed in your system.
+* Desktop Publisher  (DTP) client must be installed and integrated with Adobe © InDesign ©.
+* You must have valid credentials to access the Contentserv system.
+* At least one product template must exist in the system.
 
 
 Key Terms
@@ -177,7 +177,7 @@ Add Slots in the Document Template
 .. image:: /feature/_images/mxmimages/preparedoc/70.PNG
 |
 
-* The Workable Area is now divided into :Slots.
+* The Workable Area is now divided into Slots.
 
 .. image:: /feature/_images/mxmimages/preparedoc/71.PNG
 |

@@ -19,7 +19,7 @@ Target Audience
 Prerequisites
 ==============
 
-Adobe © InDesign © must have been installed in your system.
+* Adobe © InDesign © must have been installed in your system.
 
 
 CS Desktop Publisher Overview

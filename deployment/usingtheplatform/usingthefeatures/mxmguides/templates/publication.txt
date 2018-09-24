@@ -18,7 +18,8 @@ Target Audience
 
 Prerequisites
 ==============
-Document templates.
+
+* Document templates
 
 
 Overview

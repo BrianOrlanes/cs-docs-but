@@ -83,7 +83,7 @@ How-to: Create Product Templates in Adobe © InDesign ©
 .. image:: /feature/_images/mxmimages/producttemplate/4.PNG
 |
 
-* Click on **PT**, to create a new product template.
+* Click on **PT** to create a new product template.
 
 .. image:: /feature/_images/mxmimages/producttemplate/5.PNG
 |
@@ -174,7 +174,7 @@ How-to: Manage Product Templates in Contentserv PXP application
 ================================================================
 
 
-* Once you have saved the product template, switch to the Conteserv PXP application. Choose the MxM catalog as you click on the user profile.
+* Once you have saved the product template, switch to the Contentserv PXP application. Choose the MxM catalog as you click on the user profile.
 
 .. image:: /feature/_images/mxmimages/producttemplate/x3.PNG
 |
