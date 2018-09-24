@@ -13,7 +13,6 @@ You will be guided through the different stages that are involved in building a 
 Target Audience
 ================
 
-
 * Systwem Administrators
 * Template Designers
 
@@ -21,7 +20,7 @@ Target Audience
 Overview
 =========
 
-Document template contains guides, styles, page attribute placeholders, "static" elements, and so on. A designer starts the preparation of document template using Adobe © InDesign ©. It is a physical .indd  Adobe © InDesign © file. It does not contain actual information, but it just contains the layout and data dimension. It serves as a starting point of a document. A designer can define the Workable Area in a document template, where a planner can plan and place the products. A designer can use the rest of the area of a document template, which is not defined as the Workable Area, to place the header, footer, logo, or background image. Once you create the document template in Adobe © InDesign ©, you can play with it using the Whiteboard of Contentserv system. You can plan how products should be placed in a document template using :docWhiteboard. You can define Slots in a document template to place the products in the  using Whiteboard. These document templates are used in creating publication templates.
+Document template contains guides, styles, page attribute placeholders, "static" elements, and so on. A designer starts the preparation of document template using Adobe © InDesign ©. It is a physical .indd  Adobe © InDesign © file. It does not contain actual information, but it just contains the layout and data dimension. It serves as a starting point of a document. A designer can define the Workable Area in a document template, where a planner can plan and place the products. A designer can use the rest of the area of a document template, which is not defined as the Workable Area, to place the header, footer, logo, or background image. Once you create the document template in Adobe © InDesign ©, you can play with it using the Whiteboard of Contentserv system. You can plan how products should be placed in a document template using Whiteboard. You can define Slots in a document template to place the products in the  using Whiteboard. These document templates are used in creating publication templates.
 
 
 
@@ -114,7 +113,7 @@ Define the Workable Area
 .. image:: /feature/_images/mxmimages/doctemp/cs_document_placeframe.PNG
 |
 
-* Click on **Define Workable Area** icon to define the frame area as a Workable Area. You can define the entire document as a Workable Area or you can use some of the portions of a document as a Workable Area. It is up to you how you want to design a :doc:`document template </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/documenttemplate>`.
+* Click on **Define Workable Area** icon to define the frame area as a Workable Area. You can define the entire document as a Workable Area or you can use some of the portions of a document as a Workable Area. It is up to you how you want to design a document template.
 
 .. image:: /feature/_images/mxmimages/doctemp/cs_document_clickdefineworkablearea.PNG
 |
@@ -172,7 +171,7 @@ Save/Update Document Templates in Adobe © InDesign ©
 Check Sync Status and Accept or Reject Changes
 ----------------------------------------------
 
-* You can sync the changes in Adobe © InDesign © document template, that you made in Desktop Publisher. This is necessary when you work in a document template at both places; in an Adobe © InDesign © and in Desktop Publisher of Contentserv system. You can click on **Show Sync Status** icon located in the CS Desktop Publisher  window to know the sync status of a :doc:`document template </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/documenttemplate>`.
+* You can sync the changes in Adobe © InDesign © document template, that you made in Desktop Publisher. This is necessary when you work in a document template at both places; in an Adobe © InDesign © and in Desktop Publisher of Contentserv system. You can click on **Show Sync Status** icon located in the CS Desktop Publisher  window to know the sync status of a document template.
 
 .. image:: /feature/_images/mxmimages/doctemp/cs_document_syncchanges.PNG
 |

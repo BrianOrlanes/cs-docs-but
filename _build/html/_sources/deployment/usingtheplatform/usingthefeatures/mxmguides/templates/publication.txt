@@ -10,7 +10,6 @@ This document will help you create a Publication Template in Contentserv PXP app
 
 Target Audience
 ================
-This document is intended for the following:
 
 * Template Planners
 * Managers

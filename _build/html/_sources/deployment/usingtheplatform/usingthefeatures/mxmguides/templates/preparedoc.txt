@@ -12,7 +12,6 @@ You will be guided through the different stages that are involved in the plannin
 
 Target Audience
 ================
-This document is intended for the following:
 
 * Template Planners
 * Managers
@@ -102,7 +101,7 @@ Locate a Document Template
 .. image:: /feature/_images/mxmimages/preparedoc/58.PNG
 |
 
-* This screen shows all created templates including product templates, :doc:`document templates </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/documenttemplate>`, and publication templates.
+* This screen shows all created templates including product templates, document templates, and publication templates.
 
 .. image:: /feature/_images/mxmimages/preparedoc/59.PNG
 |
@@ -112,7 +111,7 @@ Locate a Document Template
 .. image:: /feature/_images/mxmimages/preparedoc/60.PNG
 |
 
-* Alternatively, you can also use the filter option *Document Template* from **Class Taxonomy** to show only the :doc:`document templates </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/documenttemplate>`.
+* Alternatively, you can also use the filter option *Document Template* from **Class Taxonomy** to show only the document templates.
 
 .. image:: /feature/_images/mxmimages/preparedoc/61.PNG
 |
@@ -122,7 +121,7 @@ Locate a Document Template
 Open a Document Template in Content Open View
 ----------------------------------------------
 
-* Select and click on a :doc:`document template </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/documenttemplate>` to open it in content open view.
+* Select and click on a document template to open it in content open view.
 
 .. image:: /feature/_images/mxmimages/preparedoc/60.PNG
 |
@@ -138,8 +137,7 @@ Open a Document Template in Content Open View
 .. image:: /feature/_images/mxmimages/preparedoc/63.PNG
 |
 
-* The *Relationship* tab of content open view lets you see Product Template, Images, Marketing Products, Publication Templates, and so on associated with a :doc:`document template </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/documenttemplate>`.
-
+* The *Relationship* tab of content open view lets you see Product Template, Images, Marketing Products, Publication Templates, and so on associated with a document template.
 .. image:: /feature/_images/mxmimages/preparedoc/64.PNG
 |
 
@@ -147,13 +145,13 @@ Open a Document Template in Content Open View
 Open a Document Template in Whiteboard
 ----------------------------------------------
 
-* Click on the **Open** icon to open a :doc:`document template </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/documenttemplate>` in :doc:`Whiteboard </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/whiteboard>`.
+* Click on the **Open** icon to open a document template in Whiteboard.
 
 .. image:: /feature/_images/mxmimages/preparedoc/65.PNG
 |
 
 
-* The :doc:`document template </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/documenttemplate>` is shown in a preview mode.
+* The document template is shown in a preview mode.
 
 .. image:: /feature/_images/mxmimages/preparedoc/67.PNG
 |
@@ -162,13 +160,13 @@ Open a Document Template in Whiteboard
 Add Slots in the Document Template
 ----------------------------------
 
-* View and select the Workable Area in a :doc:`document template </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/documenttemplate>`.
+* View and select the Workable Area in a document template.
 
 .. image:: /feature/_images/mxmimages/preparedoc/68.PNG
 |
 
 
-* Click on the **Split Slots** icon to split the :doc:`Workable Area </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/workablearea>` into :doc:`Slots </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/slots>`.
+* Click on the **Split Slots** icon to split the Workable Area into Slots.
 
 .. image:: /feature/_images/mxmimages/preparedoc/69.PNG
 |
@@ -179,7 +177,7 @@ Add Slots in the Document Template
 .. image:: /feature/_images/mxmimages/preparedoc/70.PNG
 |
 
-* The :doc:`Workable Area </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/workablearea>` is now divided into :doc:`Slots </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/slots>`.
+* The Workable Area is now divided into :Slots.
 
 .. image:: /feature/_images/mxmimages/preparedoc/71.PNG
 |
@@ -188,13 +186,13 @@ Add Slots in the Document Template
 Add Tags in a Slots
 ---------------------
 
-* Select any :doc:`Slot </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/slots>` and assign tags to it. Click on the **Tags** icon found in the left vertical toolbar to view the list of tags.
+* Select any Slot and assign tags to it. Click on the **Tags** icon found in the left vertical toolbar to view the list of tags.
 
 .. image:: /feature/_images/mxmimages/preparedoc/72.PNG
 |
 
 
-* All tags that you select will be assigned to a :doc:`Slot </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/slots>`, and the selected tags are visible on the top of a Slot.
+* All tags that you select will be assigned to a Slot, and the selected tags are visible on the top of a Slot.
 
 .. image:: /feature/_images/mxmimages/preparedoc/73.PNG
 |
@@ -209,12 +207,12 @@ Add Products in a Slot
 |
 
 
-* From the list, drag and drop any article to the desired :doc:`Slot </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/slots>`. The product template is selected automatically based on the slot size.
+* From the list, drag and drop any article to the desired Slot. The product template is selected automatically based on the slot size.
 
 .. image:: /feature/_images/mxmimages/preparedoc/75.PNG
 |
 
-* Drag and drop the marketing articles in each of the :doc:`Slot </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/slots>` based on how you want your :doc:`document template </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/documenttemplate>` to look like.
+* Drag and drop the marketing articles in each of the Slot based on how you want your document template to look like.
 
 .. image:: /feature/_images/mxmimages/preparedoc/76.PNG
 |
@@ -223,19 +221,19 @@ Add Products in a Slot
 Refresh and Sync Changes
 -------------------------
 
-* Click on the **Refresh** icon to show the sync status of the products. It will let you know whether the planned products in a product template are present in a :doc:`document template </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/documenttemplate>` or they are in a planning phase.
+* Click on the **Refresh** icon to show the sync status of the products. It will let you know whether the planned products in a product template are present in a document template or they are in a planning phase.
   You will be able to see red vertical line beside each product which is not in sync.
 
 .. image:: /feature/_images/mxmimages/preparedoc/78.PNG
 |
 
 
-* Hover on the **Information** icon beside each :doc:`Slot </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/slots>` to know more details regarding the Slot, assigned product, and product template.
+* Hover on the **Information** icon beside each Slot to know more details regarding the Slot, assigned product, and product template.
 
 .. image:: /feature/_images/mxmimages/preparedoc/79.PNG
 |
 
-* Click on the **Save** button to save the planning details from :doc:`Whiteboard </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/whiteboard>`.
+* Click on the **Save** button to save the planning details from Whiteboard.
 
 .. image:: /feature/_images/mxmimages/preparedoc/80.PNG
 |
@@ -244,11 +242,10 @@ Refresh and Sync Changes
   Planning and Placement become in sync this way.
 
 
-* Planner and Designer can work in parallel in :doc:`Whiteboard </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/whiteboard>` and Adobe © InDesign © respectively.
+* Planner and Designer can work in parallel in Whiteboard and Adobe © InDesign © respectively.
 
 
-* When a document is open at both :doc:`Whiteboard </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/whiteboard>` and Adobe © InDesign ©, and a designer makes any modification in a :doc:`document template </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/documenttemplate>`
-after accepting the changes that the planner has made in a document template, then there will be a notification in the Whiteboard side. A planner will see a blinking *Refresh* icon in Whiteboard.
+* When a document is open at both Whiteboard and Adobe © InDesign ©, and a designer makes any modification in a document template after accepting the changes that the planner has made in a document template, then there will be a notification in the Whiteboard side. A planner will see a blinking *Refresh* icon in Whiteboard.
 
 .. image:: /feature/_images/mxmimages/preparedoc/127.PNG
 |
