@@ -3,10 +3,9 @@ Document Template
 ===================
 
 ====================      ======================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
-**Purpose:**               * The purpose of this document is to explain what a Document Template is and how to create it.
-                            You will be guided through the different stages that are involved in building a new document template.
+**Purpose:**               * The purpose of this document is to explain what a Document Template is and how to create it. You will be guided through the different stages that are involved in building a new document template.
 
-**Target Audience:**       * Systwem Administrators
+**Target Audience:**       * System Administrators
                            * Template Designers
 
 
