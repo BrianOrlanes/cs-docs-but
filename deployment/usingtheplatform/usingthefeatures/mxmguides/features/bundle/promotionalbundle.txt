@@ -24,13 +24,16 @@ Prerequisites
 
 Overview
 =========
-A bundle is a set of multiple Marketing Products, which are put together to form a bundle. It offers several products for sale as one combined product. The bundle may contain the complementary products. It is used for promotion and marketing of your business products. You can sell a set of products at a lower price than they would cost if the customer buys all of them separately. Bundling allows consumers to benefit from a single, value-oriented purchase of complementary offerings. Pursuing a bundle pricing strategy allows the supplier or retailer to increase the profit by giving customers a discount. A customer has to buy the entire bundle of products. He cannot choose to buy only some of the items from the bundle. For example, a retailer offers the promotional bundle for women that contains a tunic wear, a bag, and a pair of shoes. A customer needs to purchase this bundle as a whole. A retailer can sell this bundle at a lower price then they would cost if a customer buys all of them separately.
+A bundle is a set of multiple Marketing Products that are put together to form a bundle. It offers several products for sale as one combined product. The bundle may contain complementary products and is used for promotion and marketing of your business products.
+You can sell a set of products at a lower price compared to the total cost of all the included items. Bundling allows consumers to benefit from a single, value-oriented purchase of complementary offerings.
+Pursuing a bundle pricing strategy allows the supplier or retailer to increase the profit by giving customers a discount when buying the bundled products. Note that the customer cannot choose to buy only some of the items from the bundle.
+For example, a retailer offers a promotional bundle for women, and this bundle consists of a tunic wear, a bag, and a pair of shoes. A customer needs to purchase this bundle as a whole. A retailer can sell this bundle at a lower cost compared to the cost of buying the items separately.
 |
 
 How-to: Use a Promotional Bundle
 =================================
 
-Configure the Promotional Bundle Class Administration Side
+Configure a Promotional Bundle from the Administration Side
 ------------------------------------------------------------
 
 
@@ -39,7 +42,7 @@ Configure the Promotional Bundle Class Administration Side
 .. image:: /feature/_images/mxmimages/promotionalbundle/133.PNG
 |
 
-* Navigate to Data Model → Classes → Marketing Content → Marketing Bundle menu.
+* Navigate to **Data Model** → **Classes** → **Marketing Content** → **Marketing Bundle** menu.
 
 .. image:: /feature/_images/mxmimages/promotionalbundle/135.PNG
 |
@@ -67,7 +70,7 @@ Create a Promotional Bundle
 ----------------------------
 
 
-* Click on the avatar and select the MxM option from the drop-down list.
+* Click on the avatar and select **MxM** from the drop-down list.
 
 .. image:: /feature/_images/mxmimages/promotionalbundle/142.PNG
 |
@@ -77,12 +80,12 @@ Create a Promotional Bundle
 .. image:: /feature/_images/mxmimages/promotionalbundle/143.PNG
 |
 
-* Click on the **Create** drop-down and select the created Marketing Bundle class to make a bundle out of Marketing Products.
+* Click on the **Create** drop-down menu and select the created Marketing Bundle class to make a bundle out of Marketing Products.
 
 .. image:: /feature/_images/mxmimages/promotionalbundle/144.PNG
 |
 
-* New bundle is created and you will be redirected to the Content Open view for a bundle.
+* New bundle is created and you will be redirected to the content open view for a bundle.
 
 .. image:: /feature/_images/mxmimages/promotionalbundle/145.PNG
 |
@@ -92,7 +95,7 @@ Create a Promotional Bundle
 .. image:: /feature/_images/mxmimages/promotionalbundle/146.PNG
 |
 
-* Click on the **Add Products(s)** icon.
+* Click on the **Add Product(s)** icon.
 
 .. image:: /feature/_images/mxmimages/promotionalbundle/147.PNG
 |
@@ -128,7 +131,7 @@ Create a Promotional Bundle
 .. image:: /feature/_images/mxmimages//promotionalbundle/157.PNG
 |
 
-* Select an existing image or add a new image. Click on **Create** drop-down and select **Image**.
+* Select an existing image or add a new image. Click on the **Create** drop-down menu and select **Image**.
 
 .. image:: /feature/_images/mxmimages//promotionalbundle/159.PNG
 |
@@ -148,7 +151,7 @@ Create a Promotional Bundle
 .. image:: /feature/_images/mxmimages//promotionalbundle/163.PNG
 |
 
-* View the created marketing bundle in the **Bundles** menu.
+* View the created marketing bundle in the *Bundles* menu.
 
 .. image:: /feature/_images/mxmimages/promotionalbundle/164.PNG
 |
