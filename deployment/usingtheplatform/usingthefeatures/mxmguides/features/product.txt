@@ -42,11 +42,16 @@ How-to: Configure Marketing Product
 |
 |
 
-*	 Click on **Marketing Product** and then the + icon to create a Marketing unit. Fill in the details. Set the context to "unit".
-* Click on **Marketing Product** and then the + icon to create a single article. Fill in the details.
-
+*	 Click on **Marketing Product** and then the + icon to create a Marketing unit. Fill in the details. Set the context to "unit" and click **Create**.
 
 .. image:: /feature/_images/mxmimages/marketprod/cs_product_filldetails.PNG
+
+|
+|
+* Click on **Marketing Product** and then the + icon to create a single article. Fill in the details and click **Create**.
+
+
+.. image:: /feature/_images/mxmimages/marketprod/cs_product_filldetails2.PNG
 
 |
 |
