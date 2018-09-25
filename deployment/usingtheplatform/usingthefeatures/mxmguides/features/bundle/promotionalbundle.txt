@@ -74,7 +74,7 @@ Create a Promotional Bundle
 
 * From the left pane, click on **Bundles**.
 
-.. image:: /feature/_images/mxmimages/promotionalbundle/141.PNG
+.. image:: /feature/_images/mxmimages/promotionalbundle/143.PNG
 |
 
 * Click on the **Create** drop-down and select the created Marketing Bundle class to make a bundle out of Marketing Products.
@@ -110,7 +110,7 @@ Create a Promotional Bundle
 
 * Click on the **Back** icon to go to the bundle content open view screen.
 
-.. image:: /feature/_images/mxmimages//promotionalbundle/151.PNG
+.. image:: /feature/_images/mxmimages//promotionalbundle/152.PNG
 |
 
 * In the *Overview* tab, view the Marketing Products that have been added to the *Marketing Products* section.
@@ -135,12 +135,12 @@ Create a Promotional Bundle
 
 * In the image class open view, click on the **Upload** icon to upload an image.
 
-.. image:: /feature/_images/mxmimages/cs_promotionalbundle/name.PNG
+.. image:: /feature/_images/mxmimages/promotionalbundle/161.PNG
 |
 
 * Click on the **Save** button.
 
-.. image:: /feature/_images/mxmimages//promotionalbundle/162.PNG
+.. image:: /feature/_images/mxmimages/promotionalbundle/162.PNG
 |
 
 * Go back to the content open view for a bundle to view the image added to the bundle.
