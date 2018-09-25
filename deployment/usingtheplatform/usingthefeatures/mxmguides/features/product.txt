@@ -1,3 +1,100 @@
 ====================
 Marketing Product
 ====================
+
+Purpose
+========
+
+This document will help you configure and create marketing Products in Contentserv PXP application.
+
+Target Audience
+===============
+
+* Administrator
+* Marketing Professionals
+* Analysts who will create a Marketing Product
+
+Prerequisites
+=============
+
+*	Access to PIM/MDM Products
+*	Tags, Relationships
+
+Overview
+========
+
+The Marketing Product represents the marketing and promotional sales aspect of MDM product. It is virtually composed of MDM article along with the marketing and sales information. The promotional prices can be present at the marketing Product level as recommendations. The user can track down the sell-side or buy-side units and prices for a Marketing Product in MDM/PIM via relationship hierarchy. Product performance, Usage in campaigns/promotions/marketing channels and other web analytics info is stored at Marketing Product level For each MDM/PIM article directly used in a Promotion or publication, a Marketing Product will be created automatically in the MCM background.
+
+How-to: Configure Marketing Product
+===================================
+
+* Login to the Contentserv PXP application and click on the profile icon to switch the catalog.
+
+.. image:: /feature/_images/mxmimages/marketprod/cs_product_logincontentserv.PNG
+
+|
+|
+
+*	 Click on **Administration** icon and then scroll down to **Marketing Content** under **Classes**.
+
+.. image:: /feature/_images/mxmimages/marketprod/cs_product_clickadmin.PNG
+
+|
+|
+
+*	 Click on **Marketing Product** and then the + icon to create a Marketing unit. Fill in the details. Set the context to " unit".
+* Click on **Marketing Product** and then the + icon to create a single article. Fill in the details.
+
+
+.. image:: /feature/_images/mxmimages/marketprod/cs_product_filldetails.PNG
+
+|
+|
+
+*	Once the Marketing Product is created, click on the plus sign to add a Property collection and select "General Information".
+
+
+.. image:: /feature/_images/mxmimages/marketprod/cs_product_oncecreated.PNG
+
+|
+|
+
+* Add Unit class.
+
+.. image:: /feature/_images/mxmimages/marketprod/cs_product_addunitclass.PNG
+
+|
+|
+
+•	Scroll up to the Relationship section and select Data Transfer Properties for the selected property. Coupling in Data Transfer properties allows flow of data from the link MDM product to the MCM product.
+
+.. image:: /feature/_images/mxmimages/marketprod/cs_product_scrolluprelationship.PNG
+
+|
+|
+
+* 	Click **Save**.
+
+.. image:: /feature/_images/mxmimages/marketprod/cs_product_clicksave.PNG
+
+|
+|
+
+How-to: Create a Marketing Product
+===================================
+
+*	Click on the **admin** icon and the profile to switch catalogs. Select **MxM**.
+
+
+*	Click on **Products** and create a new single article.
+*	A window pops up asking you to select a product. Click on the desired product and click on Create.
+
+*	You may create more than one products by clicking on the checkboxes. Refresh the page to see the Marketing Product created.
+
+*	Depending on the nature of Data transfer properties (Tight coupling /Dynamic coupling and so on) selected you may or may not enter values.
+
+
+
+
+.. image:: /feature/_images/pepimages/line-png-32.PNG
+   :alt: Contentserv line
