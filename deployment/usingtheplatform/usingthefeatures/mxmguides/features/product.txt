@@ -42,7 +42,7 @@ How-to: Configure Marketing Product
 |
 |
 
-*	 Click on **Marketing Product** and then the + icon to create a Marketing unit. Fill in the details. Set the context to " unit".
+*	 Click on **Marketing Product** and then the + icon to create a Marketing unit. Fill in the details. Set the context to "unit".
 * Click on **Marketing Product** and then the + icon to create a single article. Fill in the details.
 
 
@@ -83,16 +83,39 @@ How-to: Configure Marketing Product
 How-to: Create a Marketing Product
 ===================================
 
-*	Click on the **admin** icon and the profile to switch catalogs. Select **MxM**.
+*	Click on the **admin** icon and the Select **MxM** from the profile to switch catalogs.
 
+.. image:: /feature/_images/mxmimages/marketprod/cs_product_clickadmin.PNG
+
+|
+|
 
 *	Click on **Products** and create a new single article.
-*	A window pops up asking you to select a product. Click on the desired product and click on Create.
+.. image:: /feature/_images/mxmimages/marketprod/cs_product_clickproducts.PNG
 
-*	You may create more than one products by clicking on the checkboxes. Refresh the page to see the Marketing Product created.
+|
+|
 
-*	Depending on the nature of Data transfer properties (Tight coupling /Dynamic coupling and so on) selected you may or may not enter values.
+*	Click to select desired product and click **Create**.
 
+.. image:: /feature/_images/mxmimages/marketprod/cs_product_selectproducts.PNG
+
+|
+|
+
+*	You may create more than one products by clicking on the checkboxes. Click the **Refresh** icon Refresh the page to see the Marketing Product created.
+
+.. image:: /feature/_images/mxmimages/marketprod/cs_product_createmore.PNG
+
+|
+|
+
+*	Depending on the nature of Data transfer properties (Tight coupling /Dynamic coupling, etc.) selected you may or may not enter values.
+
+.. image:: /feature/_images/mxmimages/marketprod/cs_product_dependnature.PNG
+
+|
+|
 
 
 
