@@ -1,3 +1,158 @@
 ====================
 Promotional Bundle
 ====================
+
+Purpose
+========
+The purpose of this document is to show you how to make a promotional bundle in the system. You will be guided through the different stages that are involved in the configuration of a promotional bundle.
+
+
+Target Audience
+================
+
+* Administrators
+* Marketing Professionals
+* Analysts
+
+
+Prerequisites
+==============
+
+* You must have valid credentials to access Contentserv PXP system.
+* More than one Marketing Products must exist in the system.
+
+
+Overview
+=========
+A bundle is a set of multiple Marketing Products, which are put together to form a bundle. It offers several products for sale as one combined product. The bundle may contain the complementary products. It is used for promotion and marketing of your business products. You can sell a set of products at a lower price than they would cost if the customer buys all of them separately. Bundling allows consumers to benefit from a single, value-oriented purchase of complementary offerings. Pursuing a bundle pricing strategy allows the supplier or retailer to increase the profit by giving customers a discount. A customer has to buy the entire bundle of products. He cannot choose to buy only some of the items from the bundle. For example, a retailer offers the promotional bundle for women that contains a tunic wear, a bag, and a pair of shoes. A customer needs to purchase this bundle as a whole. A retailer can sell this bundle at a lower price then they would cost if a customer buys all of them separately.
+|
+
+How-to: Use a Promotional Bundle
+=================================
+
+Configure the Promotional Bundle Class Administration Side
+------------------------------------------------------------
+
+
+* Log in and go to *Administration*.
+
+.. image:: /feature/_images/mxmimages/promotionalbundle/133.PNG
+|
+
+* Navigate to Data Model → Classes → Marketing Content → Marketing Bundle menu.
+
+.. image:: /feature/_images/mxmimages/promotionalbundle/135.PNG
+|
+
+* Click on the "+" icon to create the marketing bundle.
+
+.. image:: /feature/_images/mxmimages/promotionalbundle/137.PNG
+|
+
+
+* On the pop-up window, enter the Name and Code. Enable the slider if you want to create a nature class.
+  Select **Promotional Bundle** from Type then click on the **Create** button.
+
+.. image:: /feature/_images/mxmimages/promotionalbundle/138.PNG
+|
+
+* Go to *Explore* to view the Dashboard.
+
+.. image:: /feature/_images/mxmimages/promotionalbundle/140.PNG
+|
+
+
+
+Create a Promotional Bundle
+----------------------------
+
+
+* Click on the avatar and select the MxM option from the drop-down list.
+
+.. image:: /feature/_images/mxmimages/promotionalbundle/142.PNG
+|
+
+* From the left pane, click on **Bundles**.
+
+.. image:: /feature/_images/mxmimages/promotionalbundle/143.PNG
+|
+
+* Click on the **Create** drop-down and select the created Marketing Bundle class to make a bundle out of Marketing Products.
+
+.. image:: /feature/_images/mxmimages/promotionalbundle/144.PNG
+|
+
+* New bundle is created and you will be redirected to the Content Open view for a bundle.
+
+.. image:: /feature/_images/mxmimages/promotionalbundle/145.PNG
+|
+
+* In the *Marketing Products* section under the *Overview* tab, add products to make a promotional bundle.
+
+.. image:: /feature/_images/mxmimages/promotionalbundle/146.PNG
+|
+
+* Click on the **Add Products(s)** icon.
+
+.. image:: /feature/_images/mxmimages/promotionalbundle/147.PNG
+|
+
+* Select the Marketing Products that you want to add to the bundle.
+
+.. image:: /feature/_images/mxmimages/promotionalbundle/148.PNG
+|
+
+* Click on the **Add** icon.
+
+.. image:: /feature/_images/mxmimages/promotionalbundle/150.PNG
+|
+
+
+* Click on the **Back** icon to go to the bundle content open view screen.
+
+.. image:: /feature/_images/mxmimages//promotionalbundle/152.PNG
+|
+
+* In the *Overview* tab, view the Marketing Products that have been added to the *Marketing Products* section.
+
+.. image:: /feature/_images/mxmimages//promotionalbundle/154.PNG
+|
+
+* From the content open view, click on the **Edit** icon and enter a name for the bundle.
+
+.. image:: /feature/_images/mxmimages//promotionalbundle/156c.PNG
+|
+
+* Click on the **Relationships** tab and click on the "+" icon from the *Images section* to add an image to the bundle.
+
+.. image:: /feature/_images/mxmimages//promotionalbundle/157.PNG
+|
+
+* Select an existing image or add a new image. Click on **Create** drop-down and select **Image**.
+
+.. image:: /feature/_images/mxmimages//promotionalbundle/159.PNG
+|
+
+* In the image class open view, click on the **Upload** icon to upload an image.
+
+.. image:: /feature/_images/mxmimages/promotionalbundle/161.PNG
+|
+
+* Click on the **Save** button.
+
+.. image:: /feature/_images/mxmimages/promotionalbundle/162.PNG
+|
+
+* Go back to the content open view for a bundle to view the image added to the bundle.
+
+.. image:: /feature/_images/mxmimages//promotionalbundle/163.PNG
+|
+
+* View the created marketing bundle in the **Bundles** menu.
+
+.. image:: /feature/_images/mxmimages/promotionalbundle/164.PNG
+|
+|
+
+.. image:: /feature/_images/pepimages/line-png-32.PNG
+   :alt: Contentserv line

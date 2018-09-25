@@ -2,8 +2,15 @@
 Document Template
 ===================
 
+Document Template is a feature that allows system administrators and template designers to create publication templates that serve as a starting point for a document.
+
 ====================      ======================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
+<<<<<<< HEAD
 **Purpose:**               * The purpose of this document is to explain what a Document Template is and how to create it. You will be guided through the different stages that are involved in building a new document template.
+=======
+**Purpose:**               * The purpose of this document is to explain what a Document Template is and how to create it.
+                             You will be guided through the different stages that are involved in building a new document template.
+>>>>>>> 2d44075c1aba1e5acae5f7688cfacffb5ccc32f3
 
 **Target Audience:**       * System Administrators
                            * Template Designers
@@ -27,8 +34,8 @@ Document Template
 
 ====================      ======================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
 
-
-
+|
+|
 
 Icons of CS Desktop Publisher Window
 =====================================
