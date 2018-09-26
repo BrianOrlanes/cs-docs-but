@@ -4,7 +4,6 @@ CS Desktop Publisher Installation
 
 The CS Desktop Publisher is an Adobe Indesign Plugin used by the System Administrators to perform updates on Contentserv objects in Adobe © InDesign © documents.
 
-
 ====================      ======================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
 **Purpose:**               * The purpose of this document is to show you how to install CS Desktop Publisher. You will be guided through the different stages that are involved in installing CS Desktop Publisher.
 
