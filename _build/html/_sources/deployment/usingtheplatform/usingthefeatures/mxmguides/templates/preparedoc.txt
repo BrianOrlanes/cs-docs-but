@@ -78,8 +78,8 @@ Available Features in Whiteboard
 |
 |
 
-Plan a Document Template
-===========================
+How-to: Plan a Document Template
+==================================
 
 Locate a Document Template
 ---------------------------
