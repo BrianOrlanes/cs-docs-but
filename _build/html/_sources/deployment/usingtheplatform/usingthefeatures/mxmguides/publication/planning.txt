@@ -2,39 +2,33 @@
 Planning in Whiteboard Editor
 ==============================
 
+Planning in Whiteboard Editor allows the template planners to effectively plan how a publication should look like.
 
-Purpose
-========
+=====================      ======================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
+**Purpose:**               * The purpose of this document is to show you how to create and plan publications in Contentserv PXP application.You will be guided through the different stages of planning a new publication.
 
-The purpose of this document is to show you how to create and plan publications in Contentserv PXP application.
-You will be guided through the different stages of planning a new publication.
+**Target Audience:**       * Template Planners
+                           * Managers
+                           * Product Owners
 
+**Prerequisites:**         * Adobe © InDesign © must be installed in your system.
+                           * Desktop Publisher (DTP) client must be installed and integrated with Adobe © InDesign ©.
+                           * You must have valid credentials to access the Contentserv system.
+                           * At least one product template must exist in the system.
 
-Target Audience
-================
+**Overview:**              * Whiteboard is a feature in Contentserv system, which is similar to Adobe © InDesign © application.
+                             There are two types of target audience who will be involved in the publications. One is a planner who will actually plan the publication.
+                             The other one is a designer who will make the layout and prepare the templates using Adobe © InDesign © software.
 
-* Template Planners
-* Managers
-* Product Owners
+**Key Terms:**             * **Slot:** the :doc:`Slot </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/slots>` is a place in a document template where a product is placed while planning the document template in Whiteboard.
+                             A planner will split the defined :doc:`Workable Area </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/workablearea>` of a :doc:`document template </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/documenttemplate>` into N number of rows and columns according to his need in Whiteboard. Thus, he will create a slot, which is a separate space for each product.
+                             Now, a planner can place products into separate slots, where one slot will contain a single product.
 
+                           * **Workable Area:** the Workable Area is defined while creating a document template in Adobe © InDesign ©.
+                             A designer will define this area using an Adobe © InDesign © frame in a document template. The Workable Area is a dynamic area where products will be placed in :doc:`Desktop Publisher </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/csdesktoppublisher>`.
+=====================      ======================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
 
-Key Terms
-==========
-
-**Slot:** the :doc:`Slot </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/slots>` is a place in a document template where a product is placed while planning the document template in Whiteboard.
-A planner will split the defined Workable Area of a document template into N number of rows and columns according to his need in Whiteboard. Thus, he will create a slot, which is a separate space for each product.
-Now, a planner can place products into separate slots, where one slot  will contain a single product.
-
-**Workable Area:** the :doc:`Workable Area </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/workablearea>` is defined while creating a document template in Adobe © InDesign ©.
-A designer will define this area using an Adobe © InDesign © frame in a document template. The Workable Area is a dynamic area where products will be placed in Desktop Publisher.
-
-
-Overview
-=========
-Whiteboard is a feature in Contentserv system, which is similar to Adobe © InDesign © application.
-There are two types of target audience who will be involved in the publications. One is a planner who will actually plan the publication.
-The other one is a designer who will make the layout and prepare the templates using Adobe © InDesign © software.
-Whiteboard will help the planner to plan how a publication should look like.
+|
 
 
 Whiteboard Features

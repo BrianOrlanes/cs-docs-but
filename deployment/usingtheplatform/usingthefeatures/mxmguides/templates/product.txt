@@ -2,37 +2,26 @@
 Product Template
 ===================
 
+Product template in Adobe © InDesign © or Whiteboard is a feature that allows template planners to create single page templates of marketing products.
 
-Purpose
-========
-This document will help you create ‘Product Template’ in Adobe © InDesign ©.
+=====================      ======================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
+**Purpose:**               * This document will help you create ‘Product Template’ in Adobe © InDesign ©.
 
+**Target Audience:**       * Template Planners
+                           * Managers
+                           * Product Owners
 
-Target Audience
-================
+**Overview:**              * A product template may consist of one or more Adobe © InDesign © frames that can be directly associated with attribute placeholders within the frame or on the frame (e.g., text, image, table).
+                             Placement options (e.g., Fit content to frames, Fit frames to content), and paragraph styles (including GREP styles) are assigned to the frame via Adobe © InDesign © functionality. The frames of a product template can be placed on different levels. By saving and naming a product template, it is read into the PXP system.
+                             The value for the entire length and width of the elements of the basic template is determined (size of the rectangle enclosing all frames).
+                             When enriching the template in the PXP system (outside of Adobe © InDesign ©), the following information is collected:
 
-* Template Planners
-* Managers
-* Product Owners
+                             *  **Size** (length, width)
+                             *  **Initially filled Distribution Channels (VTS)**: defines as to which distribution channels the template can be used (see distinction/tagging)
+                             *  **Assortment Validity**: defines as to which the assortment ranges the template can be used (see distinction/tagging)
+=====================      ======================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
 
-
-Overview
-=========
-
-Product template in Adobe © InDesign © or Whiteboard is used to create single page templates of marketing products. You can add images and text to a pre-defined Workable Area and design it as per the marketing requirement. It has both a layout and a data representation which is managed in their own structure.
-
-A product template may consist of one or more Adobe © InDesign © frames that can be directly associated with attribute placeholders within the frame or on the frame (e.g., text, image, table).
-
-Placement options (e.g., Fit content to frames, Fit frames to content), and paragraph styles (including GREP styles) are assigned to the frame via Adobe © InDesign © functionality. The frames of a product template can be placed on different levels. By saving and naming a product template, it is read into the PXP system.
-
-The value for the entire length and width of the elements of the basic template is determined (size of the rectangle enclosing all frames).
-
-When enriching the template in the PXP system (outside of Adobe © InDesign ©), the following information is collected:
-
-  *  **Size** (length, width)
-  *  **Initially filled Distribution Channels (VTS)**: for which distribution channels the template can be used (see distinction/tagging)
-  *  **Assortment Validity**: for which assortment ranges the template can be used (see distinction/tagging)
-
+|
 
 DTP Functions
 =============
@@ -78,7 +67,7 @@ How-to: Create Product Templates in Adobe © InDesign ©
 .. image:: /feature/_images/mxmimages/producttemplate/3.PNG
 |
 
-* You may **Save** the information or simply proceed to **Login**.
+* Click on the **Save** to save the information or simply proceed to **Login**.
 
 .. image:: /feature/_images/mxmimages/producttemplate/4.PNG
 |
@@ -88,7 +77,7 @@ How-to: Create Product Templates in Adobe © InDesign ©
 .. image:: /feature/_images/mxmimages/producttemplate/5.PNG
 |
 
-* Click on **Create template** icon to create a new template.
+* Click on the **Create template** icon to create a new template.
 
 .. image:: /feature/_images/mxmimages/producttemplate/6.PNG
 |
@@ -99,13 +88,13 @@ How-to: Add Placeholder Frames for Images
 ------------------------------------------
 
 
-* Click on the **Rectangular Tool** to place frames on the sheet. The frames serve as a placeholder for text and images in the template.
+* Click on the **Rectangular Tool** to place frames on the sheet. The frames serve as placeholders for the text and images in the template.
 
 
 .. image:: /feature/_images/mxmimages/producttemplate/10.PNG
 |
 
-* The rectangular frame tool is generally used to place graphic images. Click on the **Rectangular Frame tool** icon to choose it, then click and drag a frame on the template.
+* To place graphic images, click on the **Rectangular Frame tool** icon then click and drag a frame on the template.
 
 .. image:: /feature/_images/mxmimages/producttemplate/MAx1.PNG
 |
@@ -127,12 +116,13 @@ How-to: Link Attributes/Assets to a Placeholder in InDesign
 ------------------------------------------------------------
 
 
-To link the attributes of the CS system, select the frame (or the text), and then click on the **Attributes**. Search and select the respective attribute and click on the **Link** button at the bottom of the screen.
+To link the attributes of the CS system, select the frame (or text) then click on the **Attributes**.
+Search and select the respective attribute then click on the **Link** button at the bottom of the screen.
 
 .. image:: /feature/_images/mxmimages/producttemplate/11.PNG
 |
 
-You can also link images to the template by following steps:
+You can also link images to the template by doing the following steps:
 
 * Select the frame that you want to use as placeholder of the image.
 
@@ -154,7 +144,7 @@ You can also link images to the template by following steps:
 .. image:: /feature/_images/mxmimages/producttemplate/13.PNG
 |
 
-* Click on the **Save** icon to save the template. Please make sure you are in product template section while saving.
+* Click on the **Save** icon to save the template. Please make sure you are in the product template section while saving.
 
 .. image:: /feature/_images/mxmimages/producttemplate/14.PNG
 |
@@ -164,7 +154,7 @@ How-to: Update/Save Product Templates in Adobe © InDesign ©
 -------------------------------------------------------------
 
 
-* As soon as you click on the **Save** icon, a window pops up asking you the name of the template. Enter a name and save.
+* Click on the **Save** icon and on the pop-up window, enter a name for the template and click on the **SAve** button.
 
 .. image:: /feature/_images/mxmimages/producttemplate/15.PNG
 |
@@ -174,7 +164,7 @@ How-to: Manage Product Templates in Contentserv PXP application
 ================================================================
 
 
-* Once you have saved the product template, switch to the Contentserv PXP application. Choose the MxM catalog as you click on the user profile.
+* After saving the product template, switch to the Contentserv PXP application. Click on the user profile and select **MxM**.
 
 .. image:: /feature/_images/mxmimages/producttemplate/x3.PNG
 |
@@ -184,7 +174,7 @@ How-to: Manage Product Templates in Contentserv PXP application
 .. image:: /feature/_images/mxmimages/producttemplate/x4.PNG
 |
 
-* You can now add content to the product template.
+* Add content to the product template.
 
 .. image:: /feature/_images/mxmimages/producttemplate/x5.PNG
 |
