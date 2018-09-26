@@ -5,12 +5,7 @@ Document Template
 Document Template is a feature that allows system administrators and template designers to create publication templates that serve as a starting point for a document.
 
 ====================      ======================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
-<<<<<<< HEAD
 **Purpose:**               * The purpose of this document is to explain what a Document Template is and how to create it. You will be guided through the different stages that are involved in building a new document template.
-=======
-**Purpose:**               * The purpose of this document is to explain what a Document Template is and how to create it.
-                             You will be guided through the different stages that are involved in building a new document template.
->>>>>>> 2d44075c1aba1e5acae5f7688cfacffb5ccc32f3
 
 **Target Audience:**       * System Administrators
                            * Template Designers
@@ -24,13 +19,13 @@ Document Template is a feature that allows system administrators and template de
                               The Desktop Publisher allows you to use and update Contentserv system objects in Adobe © InDesign © documents. Frames and individual texts will be assigned to variables which can connect them to system objects like products or images. This will allow for ease of creating and updating documents which are based on an object or document template.
 
                             * **Whiteboard:** :doc:`Whiteboard </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/whiteboard>` is a feature in the Contentserv system, which is similar to Adobe © InDesign © application. There are two types of target audiences who will be involved in the publications. One is a planner who will actually plan the publication. The other one is a designer who will make the layout and will prepare the templates using Adobe © InDesign © software.
-                              :doc:`Desktop Publisher </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/csdesktoppublisher>` will help the planner to plan how a publication should look like.
+                              Desktop Publisher will help the planner to plan how a publication should look like.
 
                             * **Workable Area:** the :doc:`Workable Area </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/workablearea>` is defined while creating a :doc:`document template </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/documenttemplate>` in Adobe © InDesign ©. A designer will define this area using an Adobe © InDesign © frame in a document template. The Workable Area is a dynamic area where products will be placed in
-                              :doc:`Desktop Publisher </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/csdesktoppublisher>`.
+                              Desktop Publisher.
 
-                            * **Slot:** the :doc:`Slot </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/slots>` is a place in a :doc:`document template </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/documenttemplate>` where a product is placed while planning the document template in :doc:`Whiteboard </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/whiteboard>`. A planner will split the defined
-                              :doc:`Workable Area </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/workablearea>` of a document template into N number of rows and columns according to his need in Whiteboard. Thus, he will create a slot, which is a separate space for each product. Now, a planner can place products into separate slots, where one slot will contain a single product.
+                            * **Slot:** the :doc:`Slot </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/slots>` is a place in a  where a product is placed while planning the document template in Whiteboard. A planner will split the defined
+                              Workable Area of a document template into N number of rows and columns according to his need in Whiteboard. Thus, he will create a slot, which is a separate space for each product. Now, a planner can place products into separate slots, where one slot will contain a single product.
 
 ====================      ======================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
 

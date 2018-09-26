@@ -2,28 +2,38 @@
 Marketing Product
 ====================
 
-Purpose
-========
+This document includes marketing and sales information that can be used by the Administrators, Marketing Professionals, and Analysts who creates the Marketing Product.
 
-This document will help you configure and create marketing Products in Contentserv PXP application.
+====================      ======================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
+**Purpose:**               * This document will help you configure and create marketing Products in Contentserv PXP application.
 
-Target Audience
-===============
+**Target Audience:**       * Administrator
+                           * Marketing Professionals
+                           * Analysts who will create a Marketing Product
 
-* Administrator
-* Marketing Professionals
-* Analysts who will create a Marketing Product
+**Prerequisites**          * Access to PIM/MDM Products
+                           * Tags, Relationships
 
-Prerequisites
-=============
+**Overview:**              * The Marketing Product represents the marketing and promotional sales aspect of MDM product. It is virtually composed of MDM article along with the marketing and sales information. The promotional prices can be present at the marketing Product level as recommendations. The user can track down the sell-side or buy-side units and prices for a Marketing Product in MDM/PIM via relationship hierarchy. Product performance,
+                             usage in campaigns/promotions/marketing channels and other web analytics info is stored at Marketing Product level For each MDM/PIM article directly used in a Promotion or publication, a Marketing Product will be created automatically in the MCM background.
 
-*	Access to PIM/MDM Products
-*	Tags, Relationships
+**Key Terms**              *  **CS Desktop Publisher:** the :doc:`Desktop Publisher </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/csdesktoppublisher>` is a plugin for simple data transfer and updating functions. It is available as an additional option for templates and dynamic editing in the print sector.
+                              The Desktop Publisher allows you to use and update Contentserv system objects in Adobe © InDesign © documents. Frames and individual texts will be assigned to variables which can connect them to system objects like products or images. This will allow for ease of creating and updating documents which are based on an object or document template.
 
-Overview
-========
+                           *  **Whiteboard:** :doc:`Whiteboard </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/whiteboard>` is a feature in the Contentserv system, which is similar to Adobe © InDesign © application. There are two types of target audiences who will be involved in the publications. One is a planner who will actually plan the publication. The other one is a designer who will make the layout and will prepare the templates using Adobe © InDesign © software.
 
-The Marketing Product represents the marketing and promotional sales aspect of MDM product. It is virtually composed of MDM article along with the marketing and sales information. The promotional prices can be present at the marketing Product level as recommendations. The user can track down the sell-side or buy-side units and prices for a Marketing Product in MDM/PIM via relationship hierarchy. Product performance, Usage in campaigns/promotions/marketing channels and other web analytics info is stored at Marketing Product level For each MDM/PIM article directly used in a Promotion or publication, a Marketing Product will be created automatically in the MCM background.
+                              :doc:`Desktop Publisher </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/csdesktoppublisher>` will help the planner to plan how a publication should look like.
+
+                           *  **Workable Area:** the :doc:`Workable Area </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/workablearea>` is defined while creating a :doc:`document template </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/documenttemplate>` in Adobe © InDesign ©. A designer will define this area using an Adobe © InDesign © frame in a document template. The Workable Area is a dynamic area where products will be placed in
+                              Desktop Publisher.
+
+                           *  **Slot:** the :doc:`Slot </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/slots>` is a place in a document template where a product is placed while planning the document template in Whiteboard. A planner will split the defined
+                              Workable Area of a document template into N number of rows and columns according to his need in Whiteboard. Thus, he will create a slot, which is a separate space for each product. Now, a planner can place products into separate slots, where one slot will contain a single product.
+
+====================      ======================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
+
+|
+|
 
 How-to: Configure Marketing Product
 ===================================
