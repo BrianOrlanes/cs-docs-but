@@ -5,7 +5,8 @@ Document Template
 Document Template is a feature that allows system administrators and template designers to create publication templates that serve as a starting point for a document.
 
 ====================      ======================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
-**Purpose:**               * The purpose of this document is to explain what a Document Template is and how to create it. You will be guided through the different stages that are involved in building a new document template.
+**Purpose:**               * The purpose of this document is to explain what a Document Template is and how to create it.
+                             You will be guided through the different stages that are involved in building a new document template.
 
 **Target Audience:**       * System Administrators
                            * Template Designers

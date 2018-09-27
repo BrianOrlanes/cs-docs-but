@@ -2,10 +2,12 @@
 Promotional Sets
 ====================
 
-Promotional Set is a feature that includes a combined group of Marketing products, which can be used by  System Administrators, Marketing Professionals, and Analysts who creates the promotional sets
+Promotional Set is a feature that includes a combined group of Marketing products, which can be used by  System Administrators, Marketing Professionals,
+and Analysts who creates the promotional sets.
 
 ====================      ======================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
-**Purpose:**               * The purpose of this document is to explain what is a promotional set and how to configure it in a system. You will be guided through the different stages that are involved in the configuration of a promotional set.
+**Purpose:**               * The purpose of this document is to explain what is a promotional set and how to configure it in a system.
+                             You will be guided through the different stages that are involved in the configuration of a promotional set.
 
 **Target Audience:**       * System Administrators
                            * Marketing Professionals
@@ -15,13 +17,18 @@ Promotional Set is a feature that includes a combined group of Marketing product
                            * More than one Marketing Products must exist in the system.
                            * Marketing Products must contain unit tags.
 
-**Overview:**              * The promotional set is a collection of multiple Marketing Products, which are put together to form a set. It offers several products for sale as one combined product. The set may contain the similar products with same sales unit and common sales price. The user can choose to buy any of
+**Overview:**              * The promotional set is a collection of multiple Marketing Products, which are put together to form a set.
+                             It offers several products for sale as one combined product.
+                             The set may contain the similar products with same sales unit and common sales price. The user can choose to buy any of
 
-**Key Terms:**             * **Marketing Product:** The Marketing Product represents the marketing and promotional sales aspect of MDM product. It is virtually composed of MDM article along with the marketing and sales information.
+**Key Terms:**             * **Marketing Product:** The :doc:`Marketing Product </deployment/usingtheplatform/usingthefeatures/mxmguides/features/bundlemarketingproduct>` represents the marketing and promotional sales aspect of MDM product.
+                             It is virtually composed of MDM article along with the marketing and sales information.
                              Overview of Promotional Set.
-
 
 ====================      ======================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
 
 |
 |
+
+How-to: Configure the Promotional Set
+======================================

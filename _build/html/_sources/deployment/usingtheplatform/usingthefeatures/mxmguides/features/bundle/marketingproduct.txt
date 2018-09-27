@@ -2,5 +2,4 @@
 Marketing Product
 ====================
 
-Marketing Product
 The Marketing Product represents the marketing and promotional sales aspect of MDM product. It is virtually composed of MDM article along with the marketing and sales information.

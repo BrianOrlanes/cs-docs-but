@@ -2,7 +2,8 @@
 Marketing Product
 ====================
 
-This document includes marketing and sales information that can be used by the Administrators, Marketing Professionals, and Analysts who creates the Marketing Product.
+This document includes marketing and sales information that can be used by the Administrators, Marketing Professionals,
+and Analysts who creates the Marketing Product.
 
 ====================      ======================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
 **Purpose:**               * This document will help you configure and create marketing Products in Contentserv PXP application.
