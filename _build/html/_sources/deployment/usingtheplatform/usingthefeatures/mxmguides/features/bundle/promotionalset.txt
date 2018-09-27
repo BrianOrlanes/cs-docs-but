@@ -23,10 +23,5 @@ Promotional Set is a feature that includes a combined group of Marketing product
 
 ====================      ======================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
 
-Prerequisites
-•
-Key Terms
-•	Marketing Product
-•	The Marketing Product represents the marketing and promotional sales aspect of MDM product. It is virtually composed of MDM article along with the marketing and sales information.
-Overview of Promotional Set
-The promotional set is a collection of multiple Marketing Products, which are put together to form a set. It offers several products for sale as one combined product. The set may contain the similar products with same sales unit and common sales price. The user can choose to buy any of the Marketing Product from the set at the defined common price. It is used for promotion and marketing of your business products. A promotional set is used for any special offer intended to raise a customer's interest and influence a purchase. For example, a retailer offers the promotional set that contains three different types of cold drink bottles of 1 liter. Here, a retailer has set a common sales unit, which is the 1-liter bottle. He will set a common sales price for this promotional set. A customer can buy any of the cold-drink from a set at a defined common sales price.
+|
+|
