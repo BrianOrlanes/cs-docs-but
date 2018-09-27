@@ -15,7 +15,7 @@ Publication Template is a feature that allows the template planners to define th
 **Prerequisites:**         * Document Templates
 
 **Overview:**              * A publication template describes the structure of a publication, such as a handout, as a sequence of Adobe © InDesign © document templates and is assigned to a sales channel.
-                             The publication template references document templates (changes to document templates are thus automatically effective for the publication template used).
+                             The publication template references document templates (thus, changes to document templates are automatically effective for the publication template used).
                              The page extent of a publication template results from the sum of the pages of the referenced document templates. A publication template can refer to the same document template multiple times.
 
 =====================      ======================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
@@ -32,7 +32,7 @@ How-to: Create a Publication Template in Contentserv PXP Application
 .. image:: /feature/_images/mxmimages/publicationtemplate/1.PNG
 |
 
-* Click on the user profile and select **MxM**.
+* Click on **MxM** from the drop-down menu in the header.
 
 .. image:: /feature/_images/mxmimages/publicationtemplate/2.PNG
 |
