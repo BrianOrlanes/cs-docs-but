@@ -44,6 +44,7 @@ To do this, follow these steps:
 #. Log into Contentserv and click on the **Administration** icon.
 
 .. image:: /feature/_images/mxmimages/creating/cs_promotionalset_logincontent.PNG
+
 |
 |
 
