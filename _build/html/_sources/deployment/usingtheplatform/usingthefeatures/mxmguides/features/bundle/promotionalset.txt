@@ -43,7 +43,11 @@ To do this, follow these steps:
 
 #. Log into Contentserv and click on the **Administration** icon.
 
+<<<<<<< HEAD
 .. image:: /feature/_images/mxmimages/promotionalset/cs_promotionalset_logincontent.PNG
+=======
+.. image:: /feature/_images/mxmimages/creating/cs_promotionalset_logincontent.PNG
+>>>>>>> b438e66b09b040d504ab8eea9ac88314a76e780c
 
 |
 |
