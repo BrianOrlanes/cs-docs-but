@@ -13,7 +13,7 @@ and Analysts who creates the promotional sets.
                            * Marketing Professionals
                            * Analysts who will create promotional sets
 
-**Prerequisites**          * You must have valid credentials to access Contentserv PXP system.
+**Prerequisites**          * Valid credentials to access Contentserv PXP system.
                            * More than one Marketing Products must exist in the system.
                            * Marketing Products must contain unit tags.
 
@@ -43,21 +43,21 @@ To do this, follow these steps:
 
 #. Log into Contentserv and click on the **Administration** icon.
 
-.. image:: /feature/_images/mxmimages/creating/cs_promotionalset_logincontent.PNG
+.. image:: /feature/_images/mxmimages/promotionalset/cs_promotionalset_logincontent.PNG
 
 |
 |
 
-#. Navigate to Data Model → Classes → Marketing Content → Marketing Bundle menu.
+#. Navigate to **Data Model** → **Classes** → **Marketing Content** → **Marketing Bundle** menu.
 
-.. image:: /feature/_images/mxmimages/creating/cs_promotionalset_navigate.PNG
+.. image:: /feature/_images/mxmimages/promotionalset/cs_promotionalset_navigatedatamodel.PNG
 
 |
 |
 
 #. Click on the plus icon to create a marketing bundle.
 
-.. image:: /feature/_images/mxmimages/creating/cs_promotionalset_clickplus.PNG
+.. image:: /feature/_images/mxmimages/promotionalset/cs_promotionalset_clickplus.PNG
 
 |
 |
@@ -66,17 +66,17 @@ To do this, follow these steps:
 Select the **Promotional Set** option from Type.
 Select created marketing product class from Nature Class field, for which you want to create a promotional set Click on **Create** button.
 
-.. image:: /feature/_images/mxmimages/creating/cs_promotionalset_popupwindow.PNG
+.. image:: /feature/_images/mxmimages/promotionalset/cs_promotionalset_popupwindow.PNG
 
 |
 |
 
-#. Click on the **Explore** icon to display the Dashboard.
+#. Click on the **Explore** icon to display the Dashboard
 
-.. image:: /feature/_images/mxmimages/creating/cs_promotionalset_clickexplore.PNG
+.. image:: /feature/_images/mxmimages/promotionalset/cs_promotionalset_clickexplore.PNG
 
- |
- |
+|
+|
 
 Create a Promotional Set Containing Marketing Products
 --------------------------------------------------------
@@ -84,53 +84,106 @@ To do this, follow these steps:
 
 #. Click on the **Admin** icon and select **MxM** option from the drop-down list.
 
-.. image:: /feature/_images/mxmimages/creating/cs_promotionalset_clickadmin.PNG
+.. image:: /feature/_images/mxmimages/promotionalset/cs_promotionalset_clickadmin.PNG
 
 |
 |
 
-#. Navigate to Bundles menu on left side panel.
+#. Navigate to **Bundles** menu on left side panel.
 
-.. image:: /feature/_images/mxmimages/creating/cs_promotionalset_navigate.PNG
+.. image:: /feature/_images/mxmimages/promotionalset/cs_product_navigatebundles.PNG
 
 |
 |
 
-#. Click on **Create** drop-down and select the created promotional set class to make the set of Marketing Products.
+#. Click on **Create** drop-down and select the created **Promotional Set** class to make the set of Marketing Products.
 
-.. image:: /feature/_images/mxmimages/creating/cs_promotionalset_clickcreatedropdown.PNG
+.. image:: /feature/_images/mxmimages/promotionalset/cs_promotionalset_clickcreatedropdown.PNG
 
 |
 |
 
 #. It will redirect you to a window from where you can select the multiple products to add them to a promotional set.
-Select the products and click on  icon to add the products into a set.
+Select the products and click on  icon to add the products into a setand click **Add**.
 
-.. image:: /feature/_images/mxmimages/creating/cs_promotionalset_clickcreatedropdown.PNG
+.. image:: /feature/_images/mxmimages/promotionalset/cs_promotionalset_redirectwindow.PNG
 
 |
 |
 
-#. You will see that selected products are added on the right side. Click on  icon and click on NEXT button.
+#. You will see that selected products are added on the right side. Click on **Select**  icon and click on **Next**.
+
+.. image:: /feature/_images/mxmimages/promotionalset/cs_promotionalset_seeselectedright.PNG
+
+|
+|
+
 
 #. You will see the filters based on the units of different products. You will see the availability of selected products in different sales units.
 
-#. You can select a particular unit to make a promotional set of selected products pertaining to a unit. This means that you will make a promotional set of products in the same sales unit. Once you select the unit, click on CREATE button to create a promotional set.
+.. image:: /feature/_images/mxmimages/promotionalset/cs_promotionalset_seefilters.PNG
 
-#. You will see the created promotional set in the list.
+|
+|
+
+#. Select a particular unit to make a promotional set of selected products pertaining to a unit. This means that you will make a promotional set of products in the same sales unit.
+Once you select the unit, click on **Create** button to create a promotional set.
+
+.. image:: /feature/_images/mxmimages/promotionalset/cs_promotionalset_selectparticularunit.PNG
+
+|
+|
+
+#. See the created promotional set in the list.
+
+.. image:: /feature/_images/mxmimages/promotionalset/cs_promotionalset_seepromotional.PNG
+
+|
+|
+
 
 Promotional Set in Content Open View
 -------------------------------------
 To do this, follow these steps:
 
-#. Click on the created promotional set and open it in a content open view.
+#. Click on the created promotional set and see the content open view.
 
-#. You can give a suitable name for a promotional set by clicking on  icon.
+.. image:: /feature/_images/mxmimages/promotionalset/cs_promotionalset_clickparticularset.PNG
 
-#. You will the unit in an Overview tab of a content open view, which you selected while creating a promotional set. This will be a promotional set of products for this unit.
+|
+|
 
-#. You will see all the products of a promotional set in Marketing Products section of an Overview tab.
+#. Enter a name for a promotional set by clicking on the **Edit** icon.
 
-#. You can select any product from the Marketing Products section of an Overview tab as a father article.
+.. image:: /feature/_images/mxmimages/promotionalset/cs_promotionalset_entername.PNG
 
-#. Click on SAVE button once you make all the changes in a promotional set.
+|
+|
+
+#. In the Overview tab of a content, unitthe created unit. This will be a promotional set of products for this unit.
+
+.. image:: /feature/_images/mxmimages/promotionalset/cs_promotionalset_viewoverviewtab.PNG
+
+|
+|
+
+#. See all promotional set products in the Marketing Products section.
+
+.. image:: /feature/_images/mxmimages/promotionalset/cs_promotionalset_seepromotional.PNG
+
+|
+|
+
+#. In the Overview tab, select any product from the Marketing Products section  as a father article.
+
+.. image:: /feature/_images/mxmimages/promotionalset/cs_promotionalset_overviewtabselprod.PNG
+
+|
+|
+
+#. Click on the **Save** button once all the changes in the set are made.
+
+.. image:: /feature/_images/mxmimages/promotionalset/cs_promotionalset_clicksave.PNG
+
+|
+|
