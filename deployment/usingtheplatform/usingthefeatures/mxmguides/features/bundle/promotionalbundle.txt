@@ -139,12 +139,12 @@ Create a Promotional Bundle
 
 * Click on the **Save** button.
 
-.. image:: /feature/_images/mxmimages/promotionalbundle/162.PNG
+.. image:: /feature/_images/mxmimages/promotionalbundle/cs_promotionalbundle_clicksave.PNG
 |
 
 * Go back to the content open view for a bundle to view the image added to the bundle.
 
-.. image:: /feature/_images/mxmimages/promotionalbundle/cs_promotionalbundle_clicksave.PNG
+.. image:: /feature/_images/mxmimages/promotionalbundle/cs_promotionalbundle_backtocontentopenview.PNG
 |
 
 * View the created marketing bundle in the *Bundles* menu.
