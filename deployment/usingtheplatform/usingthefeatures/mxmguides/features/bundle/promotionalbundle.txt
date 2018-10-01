@@ -149,7 +149,7 @@ Create a Promotional Bundle
 
 * View the created marketing bundle in the *Bundles* menu.
 
-.. image:: /feature/_images/mxmimages/promotionalbundle/cs_promotionalbundle_viewmarketingbundle.PNG
+.. image:: /feature/_images/mxmimages/promotionalbundle/cs_promotionalbundle_viewcreatedmarketingbundle.PNG
 |
 |
 
