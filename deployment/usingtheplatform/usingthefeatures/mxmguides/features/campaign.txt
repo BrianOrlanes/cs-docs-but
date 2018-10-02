@@ -64,69 +64,69 @@ How-to: Configure a Marketing Campaign in Contentserv PXP Application
 
 * Log in to the Contentserv PXP application and click on the 'user profile' to select the PIM catalog.
 
-.. image:: /feature/_images/mxmimages/campaign/c1.PNG
+.. image:: /feature/_images/mxmimages/campaign/cs_marketingcampaign_login.PNG
 |
 
 * Click on the **Administration** icon.
 
-.. image:: /feature/_images/mxmimages/campaign/c2.PNG
+.. image:: /feature/_images/mxmimages/campaign/cs_marketingcampaign_administration.PNG
 |
 
 
 * Go to the *Data Model* tab and click on **Campaigns**.
 
-.. image:: /feature/_images/mxmimages/campaign/c3.PNG
+.. image:: /feature/_images/mxmimages/campaign/cs_marketingcampaign_clickcampaign.PNG
 |
 
 
 * Click on the **Create** icon to create a new Campaign.
 
-.. image:: /feature/_images/mxmimages/campaign/c4.PNG
+.. image:: /feature/_images/mxmimages/campaign/cs_marketingcampaign_clickcreate.PNG
 |
 
 * On the pop-up window, enter the name and enable as **Nature Class**. Select the type of campaign that you want to create and click on the **Create** button.
 
-.. image:: /feature/_images/mxmimages/campaign/c5.PNG
+.. image:: /feature/_images/mxmimages/campaign/cs_marketingcampaign_entername.PNG
 |
 
 * Click on the "+" icon beside *Section* to select the appropriate property collection.
 
-.. image:: /feature/_images/mxmimages/campaign/c7.PNG
+.. image:: /feature/_images/mxmimages/campaign/cs_marketingcampaign_clickplusicon.PNG
 |
 
 * Click on the **Explore** icon, then click on the user profile and select **MxM** catalog.
 
-.. image:: /feature/_images/mxmimages/campaign/c8.PNG
+.. image:: /feature/_images/mxmimages/campaign/cs_marketingcampaign_clickexploreicon.PNG
 |
 
 * Click on the **Campaign** menu and click on the **Create** button. From the drop-down list, select the campaign that you have created.
 
-.. image:: /feature/_images/mxmimages/campaign/c9.PNG
+.. image:: /feature/_images/mxmimages/campaign/cs_marketingcampaign_clickcreatebutton.PNG
 |
 
 * In the *Overview* tab, enter the details such as Schedule (date span for which the campaign will last), Target (Market you want your campaign to be promoted at) and so on.
 
-.. image:: /feature/_images/mxmimages/campaign/c10.PNG
+.. image:: /feature/_images/mxmimages/campaign/cs_marketingcampaign_enterdetails.PNG
 |
 
 * Click on the "+" icon to add products to the campaign via product recommendations.
 
-.. image:: /feature/_images/mxmimages/campaign/c11.PNG
+.. image:: /feature/_images/mxmimages/campaign/cs_marketingcampaign_productrecommendation.PNG
 |
 
 * Select and add the products you would like to run a campaign on.
 
-.. image:: /feature/_images/mxmimages/campaign/c12.PNG
+.. image:: /feature/_images/mxmimages/campaign/cs_marketingcampaign_selectproducts.PNG
 |
 
 * After adding the products, click on the **Back** icon.
 
-.. image:: /feature/_images/mxmimages/campaign/c13.PNG
+.. image:: /feature/_images/mxmimages/campaign/cs_marketingcampaign_clickback.PNG
 |
 
 * View the products added in *Products Recommendations*.
 
-.. image:: /feature/_images/mxmimages/campaign/c14.PNG
+.. image:: /feature/_images/mxmimages/campaign/cs_marketingcampaign_viewproducts.PNG
 |
 
 
@@ -137,37 +137,38 @@ How-to: Configure a Collaborative Marketing Campaign in Contentserv PXP Applicat
 
 * Enter the name and enable as **Nature Class**, then select the type **Collaborative** and click on the **Create** button.
 
-.. image:: /feature/_images/mxmimages/campaign/c15.PNG
+.. image:: /feature/_images/mxmimages/campaign/cs_marketingcampaign_collaborative.PNG
 |
 
 * Once the collaborative campaign is created, you can connect this campaign to other local campaigns in the system.
   Go to the **Sub Campaign Relationship** section, and click on the **Other Side** to select local campaigns.
 
-.. image:: /feature/_images/mxmimages/campaign/c16.PNG
+.. image:: /feature/_images/mxmimages/campaign/cs_marketingcampaign_subcampaign.PNG
 |
 
 * Click on the **Save** button.
 
+.. image:: /feature/_images/mxmimages/campaign/cs_marketingcampaign_clicksave.PNG
 |
 
 * Click on the **Explore** icon, then click on the user profile and select the **MxM** catalog.
 
-.. image:: /feature/_images/mxmimages/campaign/c17.PNG
+.. image:: /feature/_images/mxmimages/campaign/cs_marketingcampaign_clickexplore.PNG
 |
 
 * Click on the **Campaign** tab then click on the **Create** icon to create a collaborative campaign.
 
-.. image:: /feature/_images/mxmimages/campaign/c18.PNG
+.. image:: /feature/_images/mxmimages/campaign/cs_marketingcampaign_clickcampaigntab.PNG
 |
 
 * Once a new collaborative campaign is created, scroll down to the **Sub Campaigns** section. Click on the "+" icon to add sub-campaigns to this collaborative campaign.
 
-.. image:: /feature/_images/mxmimages/campaign/c19.PNG
+.. image:: /feature/_images/mxmimages/campaign/cs_marketingcampaign_scrolltosubcampaign.PNG
 |
 
 * You may create a new sub-campaign or add existing ones.
 
-.. image:: /feature/_images/mxmimages/campaign/c20.PNG
+.. image:: /feature/_images/mxmimages/campaign/cs_marketingcampaign_createoraddsubcampaign.PNG
 |
 
 * Click on the **Save** button.
@@ -176,13 +177,13 @@ How-to: Configure a Collaborative Marketing Campaign in Contentserv PXP Applicat
 
 * Click on the **Product Recommendations** to add products to the campaign.
 
-.. image:: /feature/_images/mxmimages/campaign/c21.PNG
+.. image:: /feature/_images/mxmimages/campaign/cs_marketingcampaign_addproductrecommendation.PNG
 |
 
 * The feature 'recommended products' allows you to select all marketing products available or select only the products belonging to a certain sub-campaign.
   Click on the **Sort and Filter** drop menu on the right. In the *Applicable Filters* option, click on the sub-campaigns whose products you would want to select.
 
-.. image:: /feature/_images/mxmimages/campaign/c25.PNG
+.. image:: /feature/_images/mxmimages/campaign/cs_marketingcampaign_clicksortandfilter.PNG
 |
 
 How-to: Create a Campaign-to-Campaign Relationship
