@@ -215,7 +215,7 @@ How-to: Create a Campaign-to-Campaign Relationship
 .. image:: /feature/_images/mxmimages/campaign/cs_marketingcampaign_viewaddedcampaign.PNG
 |
 
-* Click on the **Calendar View** icon to view all the campaigns.
+* Click on the **Calendar View** icon for a detailed view of all the campaigns.
 
 .. image:: /feature/_images/mxmimages/campaign/cs_marketingcampaign_clickcalendarview.PNG
 |
