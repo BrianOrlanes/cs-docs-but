@@ -102,27 +102,27 @@ How-to: Create a Marketing Product
 
 *	Click on the **admin** icon and the Select **MxM** from the profile to switch catalogs.
 
-.. image:: /feature/_images/mxmimages/marketprod/cs_product_clickadmin.PNG
+.. image:: /feature/_images/mxmimages/marketprod/cs_product_clickadmin2.PNG
 
 |
 |
 
 *	Click on the desired **Products** and **Create** create a new single article.
-.. image:: /feature/_images/mxmimages/marketprod/cs_product_clickproducts.PNG
+.. image:: /feature/_images/mxmimages/marketprod/cs_product_clickproducts2.PNG
 
 |
 |
 
 *	You may create more than one products by clicking on the checkboxes. Click the **Refresh** icon Refresh the page to see the Marketing Product created.
 
-.. image:: /feature/_images/mxmimages/marketprod/cs_product_createmore.PNG
+.. image:: /feature/_images/mxmimages/marketprod/cs_product_createmore2.PNG
 
 |
 |
 
 *	Depending on the nature of Data transfer properties (Tight coupling/Dynamic coupling, etc.) selected you may or may not enter values.
 
-.. image:: /feature/_images/mxmimages/marketprod/cs_product_dependnature.PNG
+.. image:: /feature/_images/mxmimages/marketprod/cs_product_dependnature2.PNG
 
 |
 |
