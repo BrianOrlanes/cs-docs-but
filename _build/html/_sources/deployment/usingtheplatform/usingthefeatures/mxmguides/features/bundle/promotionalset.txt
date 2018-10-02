@@ -43,11 +43,7 @@ To do this, follow these steps:
 
 #. Log into Contentserv and click on the **Administration** icon.
 
-<<<<<<< HEAD
 .. image:: /feature/_images/mxmimages/promotionalset/cs_promotionalset_logincontent.PNG
-=======
-.. image:: /feature/_images/mxmimages/creating/cs_promotionalset_logincontent.PNG
->>>>>>> b438e66b09b040d504ab8eea9ac88314a76e780c
 
 |
 |
@@ -142,12 +138,15 @@ Once you select the unit, click on **Create** button to create a promotional set
 
 .. image:: /feature/_images/mxmimages/promotionalset/cs_promotionalset_seepromotional.PNG
 
+|
+|
+
 
 Promotional Set in Content Open View
 -------------------------------------
 To do this, follow these steps:
 
-#. Click on the created promotional set and open it in a content open view.
+#. Click on the created promotional set and see the content open view.
 
 .. image:: /feature/_images/mxmimages/promotionalset/cs_promotionalset_clickparticularset.PNG
 
@@ -161,7 +160,7 @@ To do this, follow these steps:
 |
 |
 
-#. View the Overview tab of a content open view, which was selected while creating a promotional set. This will be a promotional set of products for this unit.
+#. In the Overview tab of a content, unitthe created unit. This will be a promotional set of products for this unit.
 
 .. image:: /feature/_images/mxmimages/promotionalset/cs_promotionalset_viewoverviewtab.PNG
 
@@ -177,4 +176,14 @@ To do this, follow these steps:
 
 #. In the Overview tab, select any product from the Marketing Products section  as a father article.
 
+.. image:: /feature/_images/mxmimages/promotionalset/cs_promotionalset_overviewtabselprod.PNG
+
+|
+|
+
 #. Click on the **Save** button once all the changes in the set are made.
+
+.. image:: /feature/_images/mxmimages/promotionalset/cs_promotionalset_clicksave.PNG
+
+|
+|
