@@ -191,34 +191,35 @@ How-to: Create a Campaign-to-Campaign Relationship
 
 * Select a campaign to which you would want to link another campaign to. Click on the campaign and go to the *Relationships* tab.
 
-.. image:: /feature/_images/mxmimages/campaign/r2r.PNG
+.. image:: /feature/_images/mxmimages/campaign/cs_marketingcampaign_selectcampaigntolink.PNG
 |
 
 
 * Click on the "+" icon to add a Campaign.
 
-.. image:: /feature/_images/mxmimages/campaign/r2r1.PNG
+.. image:: /feature/_images/mxmimages/campaign/cs_marketingcampaign_clickplusicon2.PNG
 |
 
 * In the next window, select the campaign that you want to add or click on the **Create** button to make a new one.
 
-.. image:: /feature/_images/mxmimages/campaign/r2r3.PNG
+.. image:: /feature/_images/mxmimages/campaign/cs_marketingcampaign_selectcampaigntoadd.PNG
 |
 
-* View the added campaign.
+* Click on the **Back** icon to return to the main window.
 
-.. image:: /feature/_images/mxmimages/campaign/r2r4.PNG
+.. image:: /feature/_images/mxmimages/campaign/cs_marketingcampaign_clickbackicon.PNG
 |
 
-* Click on the **Back** icon to return to the main window. The added campaign will appear in the *Campaign* section.
-  *Note: Adding products via Product Recommendations will also show the products belonging to this campaign.*
+* View the added campaign in the *Campaign* section. *Note: Adding products via Product Recommendations will also show the products belonging to this campaign.*
 
-.. image:: /feature/_images/mxmimages/campaign/r2r5.PNG
+.. image:: /feature/_images/mxmimages/campaign/cs_marketingcampaign_viewaddedcampaign.PNG
 |
 
-* Click on the **Calendar** icon to view all the campaigns.
+* Click on the **Calendar View** icon to view all the campaigns.
 
-.. image:: /feature/_images/mxmimages/campaign/calendar.PNG
+.. image:: /feature/_images/mxmimages/campaign/cs_marketingcampaign_clickcalendarview.PNG
+|
+.. image:: /feature/_images/mxmimages/campaign/cs_marketingcampaign_clickcalendarview2.PNG
 |
 |
 
