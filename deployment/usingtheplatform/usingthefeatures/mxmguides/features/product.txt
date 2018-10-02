@@ -120,7 +120,7 @@ How-to: Create a Marketing Product
 |
 |
 
-*	Depending on the nature of Data transfer properties (Tight coupling /Dynamic coupling, etc.) selected you may or may not enter values.
+*	Depending on the nature of Data transfer properties (Tight coupling/Dynamic coupling, etc.) selected you may or may not enter values.
 
 .. image:: /feature/_images/mxmimages/marketprod/cs_product_dependnature.PNG
 
