@@ -59,8 +59,7 @@ The local campaigns may access the recommended products defined at the parent ca
 **Prerequisites:**         * Access to PIM/MDM/MXM Products
                            * Targets
 
-**Key Terms:**             * A collaborative campaign is a campaign whose execution schedule is defined by the central entity, which the local entity may use.
-                             The content remains the same for each local entity but costs are shared. To take part, local entities subscribe to the collaborative campaign.
+**Key Terms:**             * **Collaborative campaign**: is a campaign whose execution schedule is defined by the central entity, which the local entity may use.                           
 =====================      ======================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
 
 |
