@@ -4,6 +4,50 @@ Marketing Campaign
 
 Marketing Campaign is a feature that allows system administrators and marketing professionals to increase awareness for certain products.
 
+**Campaign and its Types**
+
+A campaign is a long-term promotion, done to increase brand awareness or sales of a product.
+It is a fool-proof way to promote your brand and to reach your customers, clients, and leads.
+A well-planned marketing campaign aims to achieve:
+
+  * a well-targeted message that reaches the defined target audience
+  * a message that is understood by that audience
+  * a message that encourages those recipients to perform one or more actions (say make an inquiry or even buy the product/services).
+
+Contentserv MxM offers collaborative campaign solution for implementing campaigns between Central Agencies, headquarters, marketing departments and local markets (sales points, regional agencies, etc.).
+This collaboration in MxM is achieved by campaign templates (classes) created by central Agency and instances in the form of sub-campaigns offered to the local markets.
+The central entity provides campaigns that local entities may use.
+
+To use a central campaign, the local market gets approval to instantiate the campaign as sub-campaign and customize targets, products, publications as per local needs.
+
+**Collaborative campaign by Central Agencies**
+
+A collaborative campaign is a campaign whose execution schedule is defined by the central entity, which the local entity may use.
+The content remains the same for each local entity but costs are shared. To take part, local entities subscribe to the collaborative campaign.
+The main parent campaigns are created by central agencies for multiple markets during the planning phase.
+
+The central agencies may also add products as recommendations that are valid for the entire region independent of the markets.
+The local markets valid for the campaigns can also be defined, based on which local markets can create new sub-campaigns for each market.
+Central entities are made up of marketing operators in charge of specifying communications and assisting local entities in executing their marketing campaign.
+The campaign objective and goals are defined at the main campaign to set directives for the local markets.
+The overall budgets and costs can be defined which may be broken down further for local campaigns.
+
+**Types of Collaborative Campaigns**
+
+  * Collaboration by Review approval
+  * Collaborative Campaign (Automated)
+
+**Local Campaigns by Local Markets**
+
+A local campaign is an instance created from a template referenced in the list of collaborative campaigns with a specific execution schedule.
+Its aim is to meet a local communication need using a campaign template that was set up and configured by the central entity.
+The local entity's degree of autonomy depends on the implementation used.
+Local agencies consists of regional distributors, local markets, regional brand and marketing managers aiming to create localized sub-campaigns from the central campaigns.
+
+Fields such as target markets, date of execution, budgets and costs, etc. can be localized for the sub-campaigns provided that such attributes form the sub-set of parent campaign attributes.
+The local campaigns may access the recommended products defined at the parent campaign.
+
+|
 
 =====================      ======================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
 **Purpose:**               * This document will help you create a Marketing Campaign.
@@ -15,45 +59,7 @@ Marketing Campaign is a feature that allows system administrators and marketing 
 **Prerequisites:**         * Access to PIM/MDM/MXM Products
                            * Targets
 
-**Overview:**              * **Campaign and its Types**
-
-                             * A campaign is a long-term promotion, done to increase brand awareness or sales of a product. It is a fool-proof way to promote your brand and to reach your customers, clients, and leads.
-                             * A well-planned marketing campaign aims to achieve:
-
-                                * a well-targeted message that reaches the defined target audience
-                                * a message that is understood by that audience
-                                * a message that encourages those recipients to perform one or more actions (say make an inquiry or even buy the product/services).
-
-                             * Contentserv MxM offers collaborative campaign solution for implementing campaigns between Central Agencies, headquarters, marketing departments and local markets (sales points, regional agencies, etc.).
-                             * This collaboration in MxM is achieved by campaign templates (classes) created by central Agency and instances in the form of sub-campaigns offered to the local markets.
-                             * The central entity provides campaigns that local entities may use. To use a central campaign, the local market gets approval to instantiate the campaign as sub-campaign and customize targets, products, publications as per local needs.
-
-|
-                           * **Collborative campaign by Central Agencies**
-
-                             * A collaborative campaign is a campaign whose execution schedule is defined by the central entity, which the local entity may use. The content remains the same for each local entity but costs are shared. To take part, local entities subscribe to the collaborative campaign.
-                             * The main parent campaigns are created by central agencies for multiple markets during the planning phase.The central agencies may also add products as recommendations that are valid for the entire region independent of the markets.
-                             * The local markets valid for the campaigns can also be defined, based on which local markets can create new sub-campaigns for each market. Central entities are made up of marketing operators in charge of specifying communications and assisting local entities in executing their marketing campaign.
-                             * The campaign objective and goals are defined at the main campaign to set directives for the local markets.
-                             * The overall budgets and costs can be defined which may be broken down further for local campaigns.
-
-|
-                           * **Types of Collaborative Campaigns**
-
-                             * Collaboration by Review approval
-                             * Collaborative Campaign (Automated)
-
-|
-                           * **Local Campaigns by Local Markets**
-
-                             * A local campaign is an instance created from a template referenced in the list of collaborative campaign with a specific execution schedule.
-                             * Its aim is to meet a local communication need using a campaign template that was set up and configured by the central entity.
-                             * The local entity's degree of autonomy depends on the implementation used.
-                             * Local agencies comprises of regional distributors, local markets, regional brand and marketing managers aiming to create localized sub-campaigns from the central campaigns.
-                             * Fields such as target markets, date of execution, budgets and costs, etc. can be localized for the sub-campaigns provided that such attributes form the sub-set of parent campaign attributes.
-                             * The local campaigns may access the recommended products defined at the parent campaign.
-
-**Key Terms:**             * A collaborative campaign is a campaign whose execution schedule is defined by the central entity, which the local entity may use. The content remains the same for each local entity but costs are shared. To take part, local entities subscribe to the collaborative campaign.
+**Key Terms:**             * **Collaborative campaign**: is a campaign whose execution schedule is defined by the central entity, which the local entity may use.                           
 =====================      ======================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
 
 |
@@ -133,7 +139,7 @@ How-to: Configure a Marketing Campaign in Contentserv PXP Application
 How-to: Configure a Collaborative Marketing Campaign in Contentserv PXP Application
 =====================================================================================
 
-* Repeat the steps 1 - 4.
+* Create a new campaign.
 
 * Enter the name and enable as **Nature Class**, then select the type **Collaborative** and click on the **Create** button.
 
