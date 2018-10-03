@@ -2,7 +2,14 @@
 CS Desktop Publisher Installation
 ==================================
 
-The CS Desktop Publisher is an Adobe Indesign plugin used by system administrators to perform updates on Contentserv objects in Adobe © InDesign © documents.
+The Desktop Publisher is an Adobe © InDesign © Plugin for simple data transfer and updating functions.
+It is available as an additional option to make templates and dynamic editing in the print sector.
+The Desktop Publisher allows you to use and update Contentserv objects in Adobe © InDesign © documents.
+
+Frames and individual texts will be assigned to variables, which can connect them to system objects like products or images.
+This will ease the creation and updating of documents that are based on an object or document template.
+
+|
 
 ====================      ======================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
 **Purpose:**               * The purpose of this document is to show you how to install CS Desktop Publisher. You will be guided through the different stages involved in the installation of CS Desktop Publisher.
@@ -11,21 +18,23 @@ The CS Desktop Publisher is an Adobe Indesign plugin used by system administrato
 
 **Prerequisites**          * Adobe © InDesign © must be installed in your system.
 
-**Overview:**              * The Desktop Publisher is an Adobe © InDesign © Plugin for simple data transfer and updating functions. It is available as an additional option to make templates and dynamic editing in the print sector.
-                             The Desktop Publisher allows you to use and update Contentserv objects in Adobe © InDesign © documents. Frames and individual texts will be assigned to variables, which can connect them to system objects like products or images.
-                             This will ease the creation and updating of documents that are based on an object or document template.
-
-**Key Terms**              *  **CS Desktop Publisher:** the :doc:`Desktop Publisher </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/csdesktoppublisher>` is a plugin for simple data transfer and updating functions.
-                              It is available as an additional option for templates and dynamic editing in the print sector.
-                              The Desktop Publisher allows you to use and update Contentserv system objects in Adobe © InDesign © documents. Frames and individual texts will be assigned to variables which can connect them to system objects like products or images.
+**Key Terms**              *  **CS Desktop Publisher:** the :doc:`Desktop Publisher </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/csdesktoppublisher>`
+                              is a plugin for simple data transfer and updating functions. It is available as an additional option for templates and dynamic editing in the print sector.
+                              The Desktop Publisher allows you to use and update Contentserv system objects in Adobe © InDesign © documents.
+                              Frames and individual texts will be assigned to variables which can connect them to system objects like products or images.
                               This will allow for ease of creating and updating documents which are based on an object or document template.
 
-                           *  **Whiteboard:** :doc:`Whiteboard </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/whiteboard>` is a feature in the Contentserv system, which is similar to Adobe © InDesign © application.
-                              There are two types of target audiences who will be involved in the publications. One is a planner who will actually plan the publication. The other one is a designer who will make the layout and will prepare the templates using Adobe © InDesign © software.
+                           *  **Whiteboard:** :doc:`Whiteboard </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/whiteboard>`
+                              is a feature in the Contentserv system, which is similar to Adobe © InDesign © application.
+                              There are two types of target audiences who will be involved in the publications. One is a planner who will actually plan the publication.
+                              The other one is a designer who will make the layout and will prepare the templates using Adobe © InDesign © software.
                               Desktop Publisher will help the planner to plan how a publication should look like.
 
-                           *  **Workable Area:** the :doc:`Workable Area </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/workablearea>` is defined while creating a :doc:`document template </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/documenttemplate>` in Adobe © InDesign ©.
-                              A designer will define this area using an Adobe © InDesign © frame in a document template. The Workable Area is a dynamic area where products will be placed in Desktop Publisher.
+                           *  **Workable Area:** the :doc:`Workable Area </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/workablearea>`
+                              is defined while creating a :doc:`document template </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/documenttemplate>`
+                              in Adobe © InDesign ©.
+                              A designer will define this area using an Adobe © InDesign © frame in a document template.
+                              The Workable Area is a dynamic area where products will be placed in Desktop Publisher.
 
                            *  **Slot:** the :doc:`Slot </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/slots>` is a place in a document template where a product is placed while planning the document template in Whiteboard. A planner will split the defined
                               Workable Area of a document template into N number of rows and columns according to his need in Whiteboard. Thus, he will create a slot, which is a separate space for each product. Now, a planner can place products into separate slots, where one slot will contain a single product.

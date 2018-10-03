@@ -2,8 +2,16 @@
 Promotional Sets
 ====================
 
-Promotional Set is a feature that includes a combined group of Marketing products, which can be used by  System Administrators, Marketing Professionals,
-and Analysts who creates the promotional sets.
+
+The promotional set is a collection of multiple Marketing Products, which are put together to form a set. It offers several products for sale as one combined product.
+The set may contain the similar products with same sales unit and common sales price. The user can choose to buy any of the Marketing Product from the set at the defined common price.
+It is used for promotion and marketing of your business products.
+
+A promotional set is used for any special offer intended to raise a customer's interest and influence a purchase.
+For example, a retailer offers the promotional set that contains three different types of cold drink bottles of 1 liter. Here, a retailer has set a common sales unit,
+which is the 1-liter bottle. He will set a common sales price for this promotional set. A customer can buy any of the cold-drink from a set at a defined common sales price.
+
+|
 
 ====================      ================================================================================================================================================================
 **Purpose:**               * The purpose of this document is to explain what is a promotional set and how to configure it in a system.
@@ -26,16 +34,6 @@ and Analysts who creates the promotional sets.
 
 |
 
-Overview of Promotional Set
-===========================
-
-The promotional set is a collection of multiple Marketing Products, which are put together to form a set. It offers several products for sale as one combined product.
-The set may contain the similar products with same sales unit and common sales price. The user can choose to buy any of the Marketing Product from the set at the defined common price.
-It is used for promotion and marketing of your business products.
-
-A promotional set is used for any special offer intended to raise a customer's interest and influence a purchase.
-For example, a retailer offers the promotional set that contains three different types of cold drink bottles of 1 liter. Here, a retailer has set a common sales unit,
-which is the 1-liter bottle. He will set a common sales price for this promotional set. A customer can buy any of the cold-drink from a set at a defined common sales price.
 
 How-to: Configure the Promotional Set
 ======================================
@@ -158,7 +156,7 @@ To do this, follow these steps:
 |
 |
 
-* In the Overview tab of a contentview, the created unit. will be a promotional set of products for this unit.
+* In the Overview tab of a contentview, the created unit will be a promotional set of products for this unit.
 
 .. image:: /feature/_images/mxmimages/promotionalset/cs_promotionalset_inoverviewtab.PNG
 
