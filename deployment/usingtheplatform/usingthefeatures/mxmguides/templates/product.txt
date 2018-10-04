@@ -2,7 +2,17 @@
 Product Template
 ===================
 
-Product template in Adobe © InDesign © or Whiteboard is a feature that allows template planners to create single-page templates of marketing products.
+A product template may consist of one or more Adobe © InDesign © frames that can be directly associated with attribute placeholders within the frame or on the frame (e.g., text, image, table).
+Placement options (e.g., Fit content to frames, Fit frames to content), and paragraph styles (including GREP styles) are assigned to the frame via Adobe © InDesign © functionality.
+The frames of a product template can be placed on different levels. By saving and naming a product template, it is read into the PXP system.
+The value for the entire length and width of the elements of the basic template is determined (size of the rectangle enclosing all frames).
+When enriching the template in the PXP system (outside of Adobe © InDesign ©), the following information is collected:
+
+**Size** (length, width)
+**Initially filled Distribution Channels (VTS)**: defines as to which distribution channels the template can be used (see distinction/tagging)
+**Assortment Validity**: defines as to which assortment ranges the template can be used (see distinction/tagging)
+
+|
 
 =====================      ======================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
 **Purpose:**               * This document will help you create ‘Product Template’ in Adobe © InDesign ©.
@@ -10,18 +20,9 @@ Product template in Adobe © InDesign © or Whiteboard is a feature that allows 
 **Target Audience:**       * Template Planners
                            * Managers
                            * Product Owners
-
-**Overview:**              * A product template may consist of one or more Adobe © InDesign © frames that can be directly associated with attribute placeholders within the frame or on the frame (e.g., text, image, table).
-                             Placement options (e.g., Fit content to frames, Fit frames to content), and paragraph styles (including GREP styles) are assigned to the frame via Adobe © InDesign © functionality.
-                             The frames of a product template can be placed on different levels. By saving and naming a product template, it is read into the PXP system.
-                             The value for the entire length and width of the elements of the basic template is determined (size of the rectangle enclosing all frames).
-                             When enriching the template in the PXP system (outside of Adobe © InDesign ©), the following information is collected:
-
-                             *  **Size** (length, width)
-                             *  **Initially filled Distribution Channels (VTS)**: defines as to which distribution channels the template can be used (see distinction/tagging)
-                             *  **Assortment Validity**: defines as to which assortment ranges the template can be used (see distinction/tagging)
 =====================      ======================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
 
+|
 |
 
 DTP Functions

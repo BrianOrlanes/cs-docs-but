@@ -2,8 +2,12 @@
 Publication Template
 ======================
 
+A publication template describes the structure of a publication, such as a handout, as a sequence of Adobe © InDesign © document templates and is assigned to a sales channel.
+The publication template references document templates (thus, changes to document templates are automatically effective for the publication template used).
+The page extent of a publication template results from the sum of the pages of the referenced document templates.
+A publication template can refer to the same document template multiple times.
 
-Publication Template is a feature that allows the template planners to define the structure of a publication as a sequence of Adobe © InDesign © document templates.
+|
 
 =====================      ======================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
 **Purpose:**               * This document will help you create a Publication Template in Contentserv PXP application.
@@ -13,15 +17,10 @@ Publication Template is a feature that allows the template planners to define th
                            * Product Owners
 
 **Prerequisites:**         * Document Templates
-
-**Overview:**              * A publication template describes the structure of a publication, such as a handout, as a sequence of Adobe © InDesign © document templates and is assigned to a sales channel.
-                             The publication template references document templates (thus, changes to document templates are automatically effective for the publication template used).
-                             The page extent of a publication template results from the sum of the pages of the referenced document templates. A publication template can refer to the same document template multiple times.
-
 =====================      ======================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
 
 |
-
+|
 
 How-to: Create a Publication Template in Contentserv PXP Application
 ======================================================================
