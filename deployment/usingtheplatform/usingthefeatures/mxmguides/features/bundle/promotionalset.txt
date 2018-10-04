@@ -3,8 +3,9 @@ Promotional Sets
 ====================
 
 
-The promotional set is a collection of multiple Marketing Products, which are put together to form a set. It offers several products for sale as one combined product.
-The set may contain the similar products with same sales unit and common sales price. The user can choose to buy any of the Marketing Product from the set at the defined common price.
+The promotional set is a collection of multiple Marketing Products, which are put together to form a set.
+It offers several products for sale as one combined product. The set may contain the similar products with the same sales unit and common sales price.
+The user can choose to buy any of the Marketing Product from the set at the defined common price.
 It is used for promotion and marketing of your business products.
 
 A promotional set is used for any special offer intended to raise a customer's interest and influence a purchase.
