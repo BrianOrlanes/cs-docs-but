@@ -42,7 +42,7 @@ The overall budgets and costs can be defined which may be broken down further fo
 A local campaign is an instance created from a template referenced in the list of collaborative campaigns with a specific execution schedule.
 Its aim is to meet a local communication need using a campaign template that was set up and configured by the central entity.
 The local entity's degree of autonomy depends on the implementation used.
-Local agencies consists of regional distributors, local markets, regional brand and marketing managers aiming to create localized sub-campaigns from the central campaigns.
+Local agencies consist of regional distributors, local markets, regional brand and marketing managers aiming to create localized sub-campaigns from the central campaigns.
 
 Fields such as target markets, date of execution, budgets and costs, etc. can be localized for the sub-campaigns provided that such attributes form the sub-set of parent campaign attributes.
 The local campaigns may access the recommended products defined at the parent campaign.
@@ -59,7 +59,7 @@ The local campaigns may access the recommended products defined at the parent ca
 **Prerequisites:**         * Access to PIM/MDM/MXM Products
                            * Targets
 
-**Key Terms:**             * **Collaborative campaign**: is a campaign whose execution schedule is defined by the central entity, which the local entity may use.                           
+**Key Terms:**             * **Collaborative campaign**: is a campaign whose execution schedule is defined by the central entity, which the local entity may use.
 =====================      ======================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
 
 |
