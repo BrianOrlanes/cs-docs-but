@@ -9,18 +9,22 @@ Publication is created from the publication template.
 |
 
 ====================      ======================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
-**Purpose:**               * The purpose of this document is to show you how to create and plan publications in Contentserv PXP application. You will be guided through different stages that are involved in the planning of a new publication.
+**Purpose:**               * The purpose of this document is to show you how to create and plan publications in Contentserv PXP application. 
+                             You will be guided through different stages that are involved in the planning of a new publication.
 
 **Target Audience:**       * Template Planners
                            * Managers
                            * Product Owners
 
-                             The representation of a publication is based on the created publication template in the system. Publication may contain single or multiple documents/pages as defined in the publication template.
+                             The representation of a publication is based on the created publication template in the system.
+                             Publication may contain single or multiple documents/pages as defined in the publication template.
                              The Whiteboard can be used to create/edit the Slot structure on the Publication documents as well as for planning the Marketing Products.
 
 **Key Terms**              * **Whiteboard:** :doc:`Whiteboard </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/whiteboard>`
-                             is a feature in the Contentserv system, which is similar to Adobe © InDesign © application. There are two types of target audiences who will be involved in the publications.
-                             One is a planner who will actually plan the publication. The other one is a designer who will make the layout and will prepare the templates using Adobe © InDesign © software.
+                             is a feature in the Contentserv system, which is similar to Adobe © InDesign © application.
+                             There are two types of target audiences who will be involved in the publications.
+                             One is a planner who will actually plan the publication.
+                             The other one is a designer who will make the layout and will prepare the templates using Adobe © InDesign © software.
                              :doc:`Desktop Publisher </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/csdesktoppublisher>` will help the planner to plan how a publication should look like.
 
                            * **Slot:** the :doc:`Slot </deployment/usingtheplatform/usingthefeatures/mxmguides/templates/slots>` is a place in a
