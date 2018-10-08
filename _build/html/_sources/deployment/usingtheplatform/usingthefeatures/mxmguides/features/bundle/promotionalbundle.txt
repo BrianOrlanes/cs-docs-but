@@ -2,8 +2,16 @@
 Promotional Bundle
 ====================
 
-Promotional Bundle is a feature that allows system suppliers and retailers to offer bundled products at a discounted price to the customers.
+A bundle is a set of multiple Marketing Products that are put together to form a bundle. It offers several products for sale as one combined product.
+The bundle may contain complementary products and is used for promotion and marketing of your business products.
+You can sell a set of products at a lower price compared to the total cost of all the included items. Bundling allows consumers to benefit from a single, value-oriented purchase of complementary offerings.
 
+Pursuing a bundle pricing strategy allows the supplier or retailer to increase the profit by giving customers a discount when buying the bundled products.
+Note that the customer cannot choose to buy only some of the items from the bundle.
+For example, a retailer offers a promotional bundle for women, and this bundle consists of a tunic wear, a bag, and a pair of shoes.
+A customer needs to purchase this bundle as a whole. A retailer can sell this bundle at a lower cost compared to the cost of buying the items separately.
+
+|
 
 =====================      ======================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
 **Purpose:**               * The purpose of this document is to show you how to make a promotional bundle in the system. You will be guided through the different stages that are involved in the configuration of a promotional bundle.
@@ -15,14 +23,10 @@ Promotional Bundle is a feature that allows system suppliers and retailers to of
 **Prerequisites:**         * You must have valid credentials to access Contentserv PXP system.
                            * More than one Marketing Products must exist in the system.
 
-**Overview:**              * A bundle is a set of multiple Marketing Products that are put together to form a bundle. It offers several products for sale as one combined product. The bundle may contain complementary products and is used for promotion and marketing of your business products.
-                             You can sell a set of products at a lower price compared to the total cost of all the included items. Bundling allows consumers to benefit from a single, value-oriented purchase of complementary offerings.
-                             Pursuing a bundle pricing strategy allows the supplier or retailer to increase the profit by giving customers a discount when buying the bundled products. Note that the customer cannot choose to buy only some of the items from the bundle.
-                             For example, a retailer offers a promotional bundle for women, and this bundle consists of a tunic wear, a bag, and a pair of shoes. A customer needs to purchase this bundle as a whole. A retailer can sell this bundle at a lower cost compared to the cost of buying the items separately.
-
 **Key Terms:**             * **Marketing Product:** the :doc:`Marketing Product </deployment/usingtheplatform/usingthefeatures/mxmguides/features/bundle/marketingproduct>` represents the marketing and promotional sales aspect of MDM product. It is virtually composed of MDM article along with the marketing and sales information.
 =====================      ======================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
 
+|
 |
 
 How-to: Use a Promotional Bundle
