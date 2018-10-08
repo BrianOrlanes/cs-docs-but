@@ -179,7 +179,7 @@ Even when the heap is comparatively small, extra memory can be given to the OS f
 </div>
 <ul>
 <li><p class="first">Extract <em>ElasticSearch</em>.</p>
-<div class="highlight-default"><div class="highlight"><pre><span></span><span class="n">tar</span> <span class="o">-</span><span class="n">zxvf</span> <span class="n">elasticsearch</span><span class="o">-</span><span class="mf">2.1</span><span class="o">.</span><span class="mf">1.</span><span class="n">tar</span><span class="o">.</span><span class="n">gz</span>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">tar</span> <span class="o">-</span><span class="n">zxvf</span> <span class="n">elasticsearch</span><span class="o">-</span><span class="mf">2.1</span><span class="o">.</span><span class="mf">1.</span><span class="n">tar</span><span class="o">.</span><span class="n">gz</span>
 </pre></div>
 </div>
 </li>
@@ -189,7 +189,7 @@ Even when the heap is comparatively small, extra memory can be given to the OS f
 </div>
 <ul>
 <li><p class="first">Change configuration.</p>
-<div class="highlight-default"><div class="highlight"><pre><span></span><span class="n">vim</span> <span class="o">/</span><span class="n">opt</span><span class="o">/</span><span class="n">cs</span><span class="o">/</span><span class="n">elastic</span><span class="o">/</span><span class="n">elasticsearch</span><span class="o">-</span><span class="mf">2.1</span><span class="o">.</span><span class="mi">1</span><span class="o">/</span><span class="nb">bin</span><span class="o">/</span><span class="n">elasticsearch</span>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">vim</span> <span class="o">/</span><span class="n">opt</span><span class="o">/</span><span class="n">cs</span><span class="o">/</span><span class="n">elastic</span><span class="o">/</span><span class="n">elasticsearch</span><span class="o">-</span><span class="mf">2.1</span><span class="o">.</span><span class="mi">1</span><span class="o">/</span><span class="nb">bin</span><span class="o">/</span><span class="n">elasticsearch</span>
 </pre></div>
 </div>
 </li>
@@ -199,7 +199,7 @@ Even when the heap is comparatively small, extra memory can be given to the OS f
 </div>
 <ul>
 <li><p class="first">Specify <strong>Memory</strong> as following at the top of the file.</p>
-<div class="highlight-default"><div class="highlight"><pre><span></span><span class="n">export</span> <span class="n">ES_HEAP_SIZE</span><span class="o">=</span><span class="mi">10</span><span class="n">g</span>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">export</span> <span class="n">ES_HEAP_SIZE</span><span class="o">=</span><span class="mi">10</span><span class="n">g</span>
 
 <span class="n">vim</span> <span class="o">/</span><span class="n">opt</span><span class="o">/</span><span class="n">cs</span><span class="o">/</span><span class="n">elastic</span><span class="o">/</span><span class="n">elasticsearch</span><span class="o">-</span><span class="mf">2.1</span><span class="o">.</span><span class="mi">1</span><span class="o">/</span><span class="n">config</span><span class="o">/</span><span class="n">elasticsearch</span><span class="o">.</span><span class="n">yml</span>
 </pre></div>
@@ -211,7 +211,7 @@ Even when the heap is comparatively small, extra memory can be given to the OS f
 </div>
 <ul>
 <li><p class="first">Specify <strong>IP</strong> as following by uncommenting the line and adding IP of the machine in front of it:</p>
-<div class="highlight-default"><div class="highlight"><pre><span></span><span class="n">network</span><span class="o">.</span><span class="n">host</span><span class="p">:</span> <span class="o">&lt;</span><span class="n">IP_OF_ELASTIC_SERVER</span><span class="o">&gt;</span>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">network</span><span class="o">.</span><span class="n">host</span><span class="p">:</span> <span class="o">&lt;</span><span class="n">IP_OF_ELASTIC_SERVER</span><span class="o">&gt;</span>
 </pre></div>
 </div>
 </li>
@@ -221,7 +221,7 @@ Even when the heap is comparatively small, extra memory can be given to the OS f
 </div>
 <ul>
 <li><p class="first">Also add following dependencies:</p>
-<div class="highlight-default"><div class="highlight"><pre><span></span><span class="n">script</span><span class="o">.</span><span class="n">inline</span><span class="p">:</span> <span class="n">true</span>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">script</span><span class="o">.</span><span class="n">inline</span><span class="p">:</span> <span class="n">true</span>
 <span class="n">script</span><span class="o">.</span><span class="n">indexed</span><span class="p">:</span> <span class="n">true</span>
 <span class="n">script</span><span class="o">.</span><span class="n">engine</span><span class="o">.</span><span class="n">groovy</span><span class="o">.</span><span class="n">file</span><span class="o">.</span><span class="n">aggs</span><span class="p">:</span> <span class="n">true</span>
 <span class="n">script</span><span class="o">.</span><span class="n">engine</span><span class="o">.</span><span class="n">groovy</span><span class="o">.</span><span class="n">file</span><span class="o">.</span><span class="n">mapping</span><span class="p">:</span> <span class="n">true</span>
@@ -249,7 +249,7 @@ Even when the heap is comparatively small, extra memory can be given to the OS f
 </div>
 <ul>
 <li><p class="first">Install plugins.</p>
-<div class="highlight-default"><div class="highlight"><pre><span></span><span class="n">cd</span> <span class="o">/</span><span class="n">opt</span><span class="o">/</span><span class="n">cs</span><span class="o">/</span><span class="n">elastic</span><span class="o">/</span><span class="n">elasticsearch</span><span class="o">-</span><span class="mf">2.1</span><span class="o">.</span><span class="mi">1</span><span class="o">/</span><span class="nb">bin</span><span class="o">/</span>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">cd</span> <span class="o">/</span><span class="n">opt</span><span class="o">/</span><span class="n">cs</span><span class="o">/</span><span class="n">elastic</span><span class="o">/</span><span class="n">elasticsearch</span><span class="o">-</span><span class="mf">2.1</span><span class="o">.</span><span class="mi">1</span><span class="o">/</span><span class="nb">bin</span><span class="o">/</span>
 
 <span class="o">./</span><span class="n">plugin</span> <span class="n">install</span> <span class="n">file</span><span class="p">:</span><span class="o">&lt;</span><span class="n">Path</span> <span class="n">of</span> <span class="n">CS</span><span class="o">-</span><span class="n">Refactored</span><span class="o">&gt;</span><span class="n">CS</span><span class="o">-</span><span class="n">Refactored</span><span class="o">/</span><span class="n">ServerPlugins</span><span class="o">/</span><span class="n">elasticsearch</span><span class="o">/</span><span class="n">build</span><span class="o">/</span><span class="n">distributions</span><span class="o">/</span><span class="n">contentserv</span><span class="o">-</span><span class="n">plugin</span><span class="o">-</span><span class="mf">1.0</span><span class="o">.</span><span class="mi">0</span><span class="o">-</span><span class="n">SNAPSHOT</span><span class="o">.</span><span class="n">zip</span>
 </pre></div>
@@ -261,7 +261,7 @@ Even when the heap is comparatively small, extra memory can be given to the OS f
 </div>
 <ul>
 <li><p class="first">Start <em>ElasticSearch</em>.</p>
-<div class="highlight-default"><div class="highlight"><pre><span></span><span class="o">./</span><span class="n">elasticsearch</span> <span class="o">-</span><span class="n">d</span>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="o">./</span><span class="n">elasticsearch</span> <span class="o">-</span><span class="n">d</span>
 </pre></div>
 </div>
 </li>
@@ -271,7 +271,7 @@ Even when the heap is comparatively small, extra memory can be given to the OS f
 </div>
 <ul>
 <li><p class="first">Check whether the service is running or not.</p>
-<div class="highlight-default"><div class="highlight"><pre><span></span><span class="n">netstat</span> <span class="o">-</span><span class="n">tulpn</span> <span class="o">|</span> <span class="n">grep</span> <span class="mi">9200</span>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">netstat</span> <span class="o">-</span><span class="n">tulpn</span> <span class="o">|</span> <span class="n">grep</span> <span class="mi">9200</span>
 </pre></div>
 </div>
 </li>
@@ -281,7 +281,7 @@ Even when the heap is comparatively small, extra memory can be given to the OS f
 </div>
 <ul>
 <li><p class="first">Start/Stop/Update Commands:</p>
-<div class="highlight-default"><div class="highlight"><pre><span></span><span class="n">Stop</span> <span class="n">Elastic</span>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">Stop</span> <span class="n">Elastic</span>
   <span class="n">ssh</span> <span class="n">elastic</span><span class="nd">@ELASTIC_IP</span>
   <span class="n">fuser</span> <span class="o">-</span><span class="n">k</span> <span class="mi">9200</span><span class="o">/</span><span class="n">tcp</span>
 
@@ -297,7 +297,7 @@ Even when the heap is comparatively small, extra memory can be given to the OS f
 </div>
 <ul>
 <li><p class="first">Remove plugins.</p>
-<div class="highlight-default"><div class="highlight"><pre><span></span><span class="n">cd</span> <span class="o">/</span><span class="n">opt</span><span class="o">/</span><span class="n">cs</span><span class="o">/</span><span class="n">elastic</span><span class="o">/</span><span class="n">elasticsearch</span><span class="o">-</span><span class="mf">2.1</span><span class="o">.</span><span class="mi">1</span><span class="o">/</span><span class="nb">bin</span><span class="o">/</span>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">cd</span> <span class="o">/</span><span class="n">opt</span><span class="o">/</span><span class="n">cs</span><span class="o">/</span><span class="n">elastic</span><span class="o">/</span><span class="n">elasticsearch</span><span class="o">-</span><span class="mf">2.1</span><span class="o">.</span><span class="mi">1</span><span class="o">/</span><span class="nb">bin</span><span class="o">/</span>
 
 <span class="o">./</span><span class="n">plugin</span> <span class="n">remove</span> <span class="n">contentserv</span><span class="o">-</span><span class="n">plugin</span>
 </pre></div>
@@ -309,7 +309,7 @@ Even when the heap is comparatively small, extra memory can be given to the OS f
 </div>
 <ul>
 <li><p class="first">Add plugins.</p>
-<div class="highlight-default"><div class="highlight"><pre><span></span><span class="n">cd</span> <span class="o">/</span><span class="n">opt</span><span class="o">/</span><span class="n">cs</span><span class="o">/</span><span class="n">elastic</span><span class="o">/</span><span class="n">elasticsearch</span><span class="o">-</span><span class="mf">2.1</span><span class="o">.</span><span class="mi">1</span><span class="o">/</span><span class="nb">bin</span><span class="o">/</span>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">cd</span> <span class="o">/</span><span class="n">opt</span><span class="o">/</span><span class="n">cs</span><span class="o">/</span><span class="n">elastic</span><span class="o">/</span><span class="n">elasticsearch</span><span class="o">-</span><span class="mf">2.1</span><span class="o">.</span><span class="mi">1</span><span class="o">/</span><span class="nb">bin</span><span class="o">/</span>
 
 <span class="o">./</span><span class="n">plugin</span> <span class="n">install</span> <span class="n">file</span><span class="p">:</span><span class="o">&lt;</span><span class="n">Path</span> <span class="n">of</span> <span class="n">plugin</span> <span class="n">file</span><span class="o">&gt;/</span><span class="n">contentserv</span><span class="o">-</span><span class="n">plugin</span><span class="o">-</span><span class="mf">1.0</span><span class="o">.</span><span class="mi">0</span><span class="o">-</span><span class="n">SNAPSHOT</span><span class="o">.</span><span class="n">zip</span>
 </pre></div>
@@ -335,7 +335,7 @@ Even when the heap is comparatively small, extra memory can be given to the OS f
   <div role="contentinfo">
     <p>
         &copy; Copyright CS Group.
-      Last updated on Oct 04, 2018.
+      Last updated on Oct 08, 2018.
 
     </p>
   </div>
