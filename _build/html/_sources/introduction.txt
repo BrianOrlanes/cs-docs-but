@@ -51,7 +51,7 @@ Learn about some other core functionalities of the :doc:`Contentserv Product Lin
 |
 
 
-New to Contentserv
+New to Contentserv?
 -------------------
 Are you new to Contentserv? This is the place to start:
 
