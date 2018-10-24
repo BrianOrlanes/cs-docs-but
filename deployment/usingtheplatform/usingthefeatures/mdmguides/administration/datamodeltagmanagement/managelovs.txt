@@ -27,65 +27,65 @@ To manage LOVs, follow these steps:
 
 * Log in and click on the **Administration** button.
 
-.. image:: /feature/_images/mdmimages/cs_managelovs_login.PNG
+.. image:: /feature/_images/mdmimages/pxp_managelovs_login.PNG
 |
 |
 
 
 * Click on **Properties** and select **LOV**.
 
-.. image:: /feature/_images/mdmimages/cs_managelovs_clickproperties.PNG
+.. image:: /feature/_images/mdmimages/pxp_managelovs_clickproperties.PNG
 |
-.. image:: /feature/_images/mdmimages/cs_managelovs_selectlov.PNG
+.. image:: /feature/_images/mdmimages/pxp_managelovs_selectlov.PNG
 |
 |
 
 
 * Click on the "+" icon to create a new tag (LOV).
 
-.. image:: /feature/_images/mdmimages/cs_managelovs_clickplusicon.PNG
+.. image:: /feature/_images/mdmimages/pxp_managelovs_clickplusicon.PNG
 |
 |
 
 
 * Enter the name of the tag and click on the **Create** button.
 
-.. image:: /feature/_images/mdmimages/cs_managelovs_entername.PNG
+.. image:: /feature/_images/mdmimages/pxp_managelovs_entername.PNG
 |
 |
 
 
 * Select the type of tag from the drop-down list.
 
-.. image:: /feature/_images/mdmimages/cs_managelovs_selecttype.PNG
+.. image:: /feature/_images/mdmimages/pxp_managelovs_selecttype.PNG
 |
 |
 
 
 * Enter the other values such as *Description* and *Color* then click **Save**.
 
-.. image:: /feature/_images/mdmimages/cs_managelovs_clicksave.PNG
+.. image:: /feature/_images/mdmimages/pxp_managelovs_clicksave.PNG
 |
 |
 
 
 * Click on the **Create Tag Value** button.
 
-.. image:: /feature/_images/mdmimages/cs_managelovs_clickcreatetagvalue.PNG
+.. image:: /feature/_images/mdmimages/pxp_managelovs_clickcreatetagvalue.PNG
 |
 |
 
 
 * Enter the name of the tag value and click on the **Create** button.
 
-.. image:: /feature/_images/mdmimages/cs_managelovs_entertagvalue.PNG
+.. image:: /feature/_images/mdmimages/pxp_managelovs_entertagvalue.PNG
 |
 |
 
 
 * Repeat the above steps for other tag values.
 
-.. image:: /feature/_images/mdmimages/cs_managelovs_repeat.PNG
+.. image:: /feature/_images/mdmimages/pxp_managelovs_repeat.PNG
 |
 |
 
