@@ -32,71 +32,71 @@ To do this admin feature, follow the steps below:
 
 * Log in and go to *Administration*.
 
-.. image:: /feature/_images/mdmimages/cs_manageconcatenatedattributes_login.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageconcatenatedattributes_login.PNG
 |
 |
 
 
 * Go to the *Data Model* tab.
 
-.. image:: /feature/_images/mdmimages/cs_manageconcatenatedattributes_gotodatamodel.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageconcatenatedattributes_gotodatamodel.PNG
 |
 |
 
 
 * Go to *Concatenated* under the *Properties* section.
 
-.. image:: /feature/_images/mdmimages/cs_manageconcatenatedattributes_clickonconcatenated.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageconcatenatedattributes_clickonconcatenated.PNG
 |
 |
 
 
-* Click the "+" icon to create an attribute.
+* Click the '+' icon to create an attribute.
 
-.. image:: /feature/_images/mdmimages/cs_manageconcatenatedattributes_clicktheicon.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageconcatenatedattributes_clicktheicon.PNG
 |
 |
 
 
 * Enter the name of the concatenated attribute and click on the **Create** button.
 
-.. image:: /feature/_images/mdmimages/cs_manageconcatenatedattributes_enterthename.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageconcatenatedattributes_enterthename.PNG
 |
 |
 
 
 * View that the attribute had been created successfully.
 
-.. image:: /feature/_images/mdmimages/cs_manageconcatenatedattributes_viewthattheattribute.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageconcatenatedattributes_viewthattheattribute.PNG
 |
 |
 
 
 * Scroll right and go to the *Concatenation Formula* section. Click on the empty field and wait for the pop-up window to appear.
 
-.. image:: /feature/_images/mdmimages/cs_manageconcatenatedattributes_scrollrighttoconcatenation.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageconcatenatedattributes_scrollrighttoconcatenation.PNG
 |
-.. image:: /feature/_images/mdmimages/cs_manageconcatenatedattributes_scrollrighttoconcatenation2.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageconcatenatedattributes_scrollrighttoconcatenation2.PNG
 |
 |
 
 
 * Select the attributes to be concatenated in the formula by (1) clicking on *Attribute* on the pop-up window and then (2) selecting the attributes that will be used.
 
-.. image:: /feature/_images/mdmimages/cs_manageconcatenatedattributes_selecttheattributes.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageconcatenatedattributes_selecttheattributes.PNG
 |
 |
-.. image:: /feature/_images/mdmimages/cs_manageconcatenatedattributes_selecttheattributes2.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageconcatenatedattributes_selecttheattributes2.PNG
 |
 |
-.. image:: /feature/_images/mdmimages/cs_manageconcatenatedattributes_selecttheattributes3.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageconcatenatedattributes_selecttheattributes3.PNG
 |
 |
 
 
 * Provide the values for the attributes that have been used in the previous step (e.g. *long description and short description*). Check that the new concatenated attribute will be automatically populated.
 
-.. image:: /feature/_images/mdmimages/cs_manageconcatenatedattributes_providethevalues.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageconcatenatedattributes_providethevalues.PNG
 |
 |
 
