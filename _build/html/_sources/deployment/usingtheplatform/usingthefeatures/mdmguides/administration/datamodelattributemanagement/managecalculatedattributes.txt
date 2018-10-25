@@ -45,12 +45,12 @@ To do this admin feature, follow the steps below:
 
 * Go to *Calculated* under the *Properties* section.
 
-.. image:: /feature/_images/mdmimages/pxp_managecalculatedattributes_clickoncalculated.PNG
+.. image:: /feature/_images/mdmimages/pxp_managecalculatedattributes_clickoncalculatedb.PNG
 |
 |
 
 
-* Click the "+" icon to create an attribute.
+* Click the '+' icon to create an attribute.
 
 .. image:: /feature/_images/mdmimages/pxp_managecalculatedattributes_clickicontocreatenewattribute.PNG
 |
