@@ -264,7 +264,7 @@ To set an attribute as a volume, follow these steps:
 
 * Go to *Administration*.
 
-.. image:: /feature/_images/mdmimages/pxp_manageattributevolume_gotoadmin.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageattributevolume_gotoadminB.PNG
 |
 |
 
@@ -278,14 +278,14 @@ To set an attribute as a volume, follow these steps:
 
 * Click on *Measurement* under the *Properties* section.
 
-.. image:: /feature/_images/mdmimages/pxp_manageattributevolume_clickonmeasurement.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageattributevolume_clickonmeasurementB.PNG
 |
 |
 
 
 * Click the '+' icon to create an attribute.
 
-.. image:: /feature/_images/mdmimages/pxp_manageattributevolume_clickoncreatebutton.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageattributevolume_clickoncreatebuttonB.PNG
 |
 |
 
@@ -371,7 +371,7 @@ To set an attribute as a weight/mass, follow these steps:
 
 * Go to *Administration*.
 
-.. image:: /feature/_images/mdmimages/pxp_manageattributeweight_gotoadmin.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageattributeweight_gotoadminB.PNG
 |
 |
 
@@ -385,14 +385,14 @@ To set an attribute as a weight/mass, follow these steps:
 
 * Click on *Measurement* under the *Properties* section.
 
-.. image:: /feature/_images/mdmimages/pxp_manageattributeweight_clickonmeasurement.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageattributeweight_clickonmeasurementB.PNG
 |
 |
 
 
 * Click the '+' icon to create an attribute.
 
-.. image:: /feature/_images/mdmimages/pxp_manageattributeweight_clickoncreatebutton.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageattributeweight_clickoncreatebuttonB.PNG
 |
 |
 
@@ -415,7 +415,7 @@ To set an attribute as a weight/mass, follow these steps:
 
 .. image:: /feature/_images/mdmimages/pxp_manageattributeweight_searchandselmass.PNG
 |
-.. image:: /feature/_images/mdmimages/pxp_manageattributeweight_searchandselmass2.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageattributeweight_searchandselmass2B.PNG
 |
 |
 
@@ -429,14 +429,14 @@ To set an attribute as a weight/mass, follow these steps:
 
 * Complete the other attribute fields: *Default Value, Precision, Placeholder, Description, Tooltip, Searchable, Filterable, Sortable, Availability, Grid Editable, and Read Only*.
 
-.. image:: /feature/_images/mdmimages/pxp_manageattributeweight_completetheotherattributes.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageattributeweight_completetheotherattributesB.PNG
 |
 |
 
 
 * Click on the **Save** button to save the settings.
 
-.. image:: /feature/_images/mdmimages/pxp_manageattributeweight_clickthesavebutton.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageattributeweight_clickthesavebuttonB.PNG
 |
 |
 
@@ -479,7 +479,7 @@ To set an attribute as a temperature, follow these steps:
 
 * Go to *Administration*.
 
-.. image:: /feature/_images/mdmimages/pxp_manageattributetemp_gotoadmin.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageattributetemp_gotoadminB.PNG
 |
 |
 
@@ -493,14 +493,14 @@ To set an attribute as a temperature, follow these steps:
 
 * Click on *Measurement* under the *Properties* section.
 
-.. image:: /feature/_images/mdmimages/pxp_manageattributetemp_clickonmeasurement.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageattributetemp_clickonmeasurementB.PNG
 |
 |
 
 
 * Click the '+' icon to create an attribute.
 
-.. image:: /feature/_images/mdmimages/pxp_manageattributetemp_clickoncreatebutton.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageattributetemp_clickoncreatebuttonB.PNG
 |
 |
 
@@ -514,7 +514,7 @@ To set an attribute as a temperature, follow these steps:
 
 * Check that the attribute has been added successfully.
 
-.. image:: /feature/_images/mdmimages/pxp_manageattributetemp_checktheattributeisadded.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageattributetemp_checktheattributeisaddedb.PNG
 |
 |
 
