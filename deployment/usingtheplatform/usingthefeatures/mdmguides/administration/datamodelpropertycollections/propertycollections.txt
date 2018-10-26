@@ -29,69 +29,76 @@ To create and add property collections, follow these steps:
 
 |
 
-* Log in and click on the **Administration** button.
+* Log in and click on the **Administration** icon.
 
-.. image:: /feature/_images/mdmimages/cs_propertycollections_login.PNG
+.. image:: /feature/_images/mdmimages/pxp_propertycollections_login.PNG
 |
 |
 
-* Click on the **Property Groups** drop-down list and select **Property Collections**.
+* In the *Data Model* tab, click on the **Property Groups** drop-down list and select **Property Collections**.
 
-.. image:: /feature/_images/mdmimages/cs_propertycollections_clickpropertygroups.PNG
+.. image:: /feature/_images/mdmimages/pxp_propertycollections_clickpropertygroups.PNG
 |
 |
 
-* Click on the "+" icon to create a property collection.
+* Click on the '+' icon to create a property collection.
 
-.. image:: /feature/_images/mdmimages/cs_propertycollections_clickplusicon.PNG
+.. image:: /feature/_images/mdmimages/pxp_propertycollections_clickplusicon.PNG
 |
 |
 
 * Enter the name of the property collection and click on the **Create** button.
 
-.. image:: /feature/_images/mdmimages/cs_propertycollections_entername.PNG
+.. image:: /feature/_images/mdmimages/pxp_propertycollections_entername.PNG
 |
 |
 
-* Increase or decrease the number of rows and columns to accommodate the attributes and tags into the property collection.
+* Enter the number of rows (maximum of 10) and columns (maximum of 6) to accommodate the attributes and tags into the property collection.
+  Click on the **Save** button.
 
-.. image:: /feature/_images/mdmimages/cs_propertycollections_rowscolumns.PNG
-|
-|
-
-* Add the attributes, tags and roles to the property collection.
-
-.. image:: /feature/_images/mdmimages/cs_propertycollections_canbeadded.PNG
+.. image:: /feature/_images/mdmimages/pxp_propertycollections_rowscolumns.PNG
 |
 |
 
 * Drag and drop the attributes and tags into the empty rows and columns.
 
-.. image:: /feature/_images/mdmimages/cs_propertycollections_dragdrop.PNG
+.. image:: /feature/_images/mdmimages/pxp_propertycollections_dragdrop.PNG
 |
 |
 
 * Click on the **Classes** drop-down list and select the class to which the property collection will be applied.
 
-.. image:: /feature/_images/mdmimages/cs_propertycollections_classesdropdownlist.PNG
+.. image:: /feature/_images/mdmimages/pxp_propertycollections_classesdropdownlist.PNG
 |
 |
 
-* Click the "+" icon in the class to add the property collection.
+* Scroll down to *Section* and click the '+' icon to add the property collection.
 
-.. image:: /feature/_images/mdmimages/cs_propertycollections_addpropertycollection.PNG
+.. image:: /feature/_images/mdmimages/pxp_propertycollections_addpropertycollection.PNG
 |
 |
 
 * Select the property collection to be added and click on the **Apply** button.
 
-.. image:: /feature/_images/mdmimages/cs_propertycollections_selectpropertycollection.PNG
+.. image:: /feature/_images/mdmimages/pxp_propertycollections_selectpropertycollection.PNG
 |
 |
 
-* View the added property collection.
+* Click on the **Explore** icon, then click on **Products**.
 
-.. image:: /feature/_images/mdmimages/cs_propertycollections_viewpropertycollection.PNG
+.. image:: /feature/_images/mdmimages/pxp_propertycollections_clickexplore.PNG
+|
+|
+
+* Click on the **Create** button and select the class to which the property collection was attached (in our example, Product).
+
+.. image:: /feature/_images/mdmimages/pxp_propertycollections_clickcreate.PNG
+|
+|
+
+* Click on the **Properties** tab then click on **Price** to view the added property collection.
+
+.. image:: /feature/_images/mdmimages/pxp_propertycollections_viewpropertycollection.PNG
 |
 |
 
