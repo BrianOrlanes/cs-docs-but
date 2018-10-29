@@ -29,56 +29,44 @@ To do this, follow these steps:
 
 * Click  the **Administration** icon.
 
-.. image:: /feature/_images/mdmimages/cs_managemasters_clickadministration.PNG
+.. image:: /feature/_images/mdmimages/pxp_managemasters_login.PNG
 |
 |
 
-* Click the **Data Model** tab.
+* In the *Data Model* tab, click on the **Properties** drop-down list and select **Master**.
 
-.. image:: /feature/_images/mdmimages/cs_managemasters_clickdatamodel.PNG
-|
-|
-
-* Click **Properties** to view the dropdown menu.
-
-.. image:: /feature/_images/mdmimages/cs_managemasters_clickproperties.PNG
-|
-|
-
-* Click **Master** on the dropdown menu.
-
-.. image:: /feature/_images/mdmimages/cs_managemasters_clickmaster.PNG
+.. image:: /feature/_images/mdmimages/pxp_managemasters_master.PNG
 |
 |
 
 * Click the "+" icon on the right of the window. A small details window appears.
 
-.. image:: /feature/_images/mdmimages/cs_managemasters_clickplus.PNG
+.. image:: /feature/_images/mdmimages/pxp_managemasters_clickplus.PNG
 |
 |
 
 
-* Enter a tag name i.e “Region” and click **Create**. Repeat the process to create other tags such as *Color, Material*, and *Brands* to create Master tags.
+* Enter a name for the master tag and click on the **Create** button. Repeat the process to create other master tags such as *Color, Material,* and *Brands*.
 
-.. image:: /feature/_images/mdmimages/cs_managemasters_entertagname.PNG
+.. image:: /feature/_images/mdmimages/pxp_managemasters_entertagname.PNG
 |
 |
 
-* Click **Create tag value** to create subtag value.
+* Click on the **Create tag value** icon.
 
-.. image:: /feature/_images/mdmimages/cs_managemasters_clickcreatetagvalue.PNG
+.. image:: /feature/_images/mdmimages/pxp_managemasters_clickcreatetagvalue.PNG
 |
 |
 
-* Enter a  name for the subtag and click **Create**.
+* Enter a name for the tag value and click on the **Create** button.
 
-.. image:: /feature/_images/mdmimages/cs_managemasters_entersubname.PNG
+.. image:: /feature/_images/mdmimages/pxp_managemasters_entersubname.PNG
 |
 |
 
 * View the created tags.
 
-.. image:: /feature/_images/mdmimages/cs_managemasters_viewcreatedtag.PNG
+.. image:: /feature/_images/mdmimages/pxp_managemasters_viewcreatedtag.PNG
 |
 |
 
