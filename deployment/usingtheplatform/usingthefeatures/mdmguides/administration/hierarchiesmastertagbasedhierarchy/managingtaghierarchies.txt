@@ -32,58 +32,39 @@ To manage/create tag hierarchies, follow this set of instructions:
 
 |
 
-* Log in and go to *Administration*.
+* Log in and click on the **Administration** icon.
 
-.. image:: /feature/_images/mdmimages/cs_managetagbasedhierarchies_login.PNG
+.. image:: /feature/_images/mdmimages/pxp_managetagbasedhierarchies_login.PNG
 |
 |
 
 
-* Go to the *Data Model* tab and then to *Taxonomies*.
+* In the *Data Model* tab, click on the **Taxonomies** drop-down list and select **Hierarchies**.
 
-.. image:: /feature/_images/mdmimages/cs_managetagbasedhierarchies_gotodatamodel.PNG
+.. image:: /feature/_images/mdmimages/pxp_managetagbasedhierarchies_clicktaxonomies.PNG
 |
 |
 
 
-* Under *Taxonomies*, click on **Hierarchies**.
+* Click on the '+' icon to create a new **Master Taxonomy**.
 
-.. image:: /feature/_images/mdmimages/cs_managetagbasedhierarchies_clickonhierarchies.PNG
+.. image:: /feature/_images/mdmimages/pxp_managetagbasedhierarchies_clickplusicon.PNG
 |
 |
 
 
-* Click on the "+" icon to create a new **Master Hierarchy**.
+* Fill out the required details. Also, enable the *Create Taxonomy as Major* option and click on the **Create** button.
 
-.. image:: /feature/_images/mdmimages/cs_managetagbasedhierarchies_clickonthecreate.PNG
+.. image:: /feature/_images/mdmimages/pxp_managetagbasedhierarchies_filloutthedetails.PNG
 |
 |
 
-
-* Fill out the required details. Also, slide the button to the right to enable the *Create Taxonomy as Major* option.
-
-.. image:: /feature/_images/mdmimages/cs_managetagbasedhierarchies_filloutthedetails.PNG
-|
-|
+*Note: A master taxonomy has been created. Further classification can now be done by adding sublevels.*
 
 
-* Click on the **Create** button.
+* To start adding a sublevel, click on the newly created master taxonomy and click on the **Add New Level** button found on the next column.
 
-.. image:: /feature/_images/mdmimages/cs_managetagbasedhierarchies_clickthecreatebutton.PNG
-|
-|
-
-
-*Note: A Master Hierarchy/Tag has been created.  Further classification can now be done by adding sublevels.*
-
-.. image:: /feature/_images/mdmimages/cs_managetagbasedhierarchies_noteamasterhierarchy.PNG
-|
-|
-
-
-* To start adding a sublevel, click on the newly created Master Hierarchy and click on the **Add New Level** button found on the next column.
-
-.. image:: /feature/_images/mdmimages/cs_managetagbasedhierarchies_toaddasublevel.PNG
+.. image:: /feature/_images/mdmimages/pxp_managetagbasedhierarchies_toaddasublevel.PNG
 |
 |
 
@@ -93,23 +74,23 @@ To manage/create tag hierarchies, follow this set of instructions:
 
 * Click the **Add** button. Once done, type the name of the sublevel and then, click on the **Create 'name'** button.
 
-.. image:: /feature/_images/mdmimages/cs_managetagbasedhierarchies_clicktheaddbutton.PNG
+.. image:: /feature/_images/mdmimages/pxp_managetagbasedhierarchies_clicktheaddbutton.PNG
 |
-.. image:: /feature/_images/mdmimages/cs_managetagbasedhierarchies_clicktheaddbutton2.PNG
+.. image:: /feature/_images/mdmimages/pxp_managetagbasedhierarchies_clicktheaddbutton2.PNG
 |
 |
 
 
 * Check the details on the pop-up window and click on the **Create** button to continue.
 
-.. image:: /feature/_images/mdmimages/cs_managetagbasedhierarchies_checkthedetails.PNG
+.. image:: /feature/_images/mdmimages/pxp_managetagbasedhierarchies_checkthedetails.PNG
 |
 |
 
 
 * Add more sublevels to the hierarchy, as desired.
 
-.. image:: /feature/_images/mdmimages/cs_managetagbasedhierarchies_addmoresublevels.PNG
+.. image:: /feature/_images/mdmimages/pxp_managetagbasedhierarchies_addmoresublevels.PNG
 |
 |
 
