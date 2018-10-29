@@ -32,49 +32,49 @@ To define relationships, follow these steps:
 
 * Log in and click on the **Administration** button.
 
-.. image:: /feature/_images/mdmimages/cs_definerelationships_login.PNG
+.. image:: /feature/_images/mdmimages/pxp_definerelationships_login.PNG
 |
 |
 
 * Click on **Relationships**.
 
-.. image:: /feature/_images/mdmimages/cs_definerelationships_relationshipconfiguration.PNG
+.. image:: /feature/_images/mdmimages/pxp_definerelationships_relationshipconfiguration.PNG
 |
 |
 
-* Click on the "+" icon to create a new relationship.
+* Click on the '+' icon to create a new relationship.
 
-.. image:: /feature/_images/mdmimages/cs_definerelationships_clickplusicon.PNG
+.. image:: /feature/_images/mdmimages/pxp_definerelationships_clickplusicon.PNG
 |
 |
 
 * Enter a name for the relationship and select the two desired entity classes to be linked in *Side1 and Side2* using the drop-down lists. In the example shown, a relationship is created for *Article* and the *Region* articles.
 
-.. image:: /feature/_images/mdmimages/cs_definerelationships_entername.PNG
+.. image:: /feature/_images/mdmimages/pxp_definerelationships_entername.PNG
 |
 |
 
 * Enter the information for the *Label* and select the *Cardinality* of the relationship. In cardinality, choose either *Many* or *One.*
 
-.. image:: /feature/_images/mdmimages/cs_definerelationships_enterinfo.PNG
+.. image:: /feature/_images/mdmimages/pxp_definerelationships_enterinfo.PNG
 |
 |
 
 * Tick on the **checkboxes** for the elements to be editable. Select either one or both sides.
 
-.. image:: /feature/_images/mdmimages/cs_definerelationships_tickcheckboxes.PNG
+.. image:: /feature/_images/mdmimages/pxp_definerelationships_tickcheckboxes.PNG
 |
 |
 
 * Once done, click on the **Save** button.
 
-.. image:: /feature/_images/mdmimages/cs_definerelationships_clicksave.PNG
+.. image:: /feature/_images/mdmimages/pxp_definerelationships_clicksave.PNG
 |
 |
 
 * View the applied relationship.
 
-.. image:: /feature/_images/mdmimages/cs_definerelationships_viewrelationship.PNG
+.. image:: /feature/_images/mdmimages/pxp_definerelationships_viewrelationship.PNG
 |
 
 *Note: The Class and Cardinality will not be editable once the relationship is saved.*
