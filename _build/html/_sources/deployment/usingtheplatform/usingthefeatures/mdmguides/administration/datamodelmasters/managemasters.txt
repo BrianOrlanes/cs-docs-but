@@ -27,7 +27,7 @@ To do this, follow these steps:
 
 |
 
-* Click  the **Administration** icon.
+* Log in and click on the **Administration** icon.
 
 .. image:: /feature/_images/mdmimages/pxp_managemasters_login.PNG
 |
@@ -39,7 +39,7 @@ To do this, follow these steps:
 |
 |
 
-* Click the "+" icon on the right of the window. A small details window appears.
+* Click the '+' icon to create a master tag.
 
 .. image:: /feature/_images/mdmimages/pxp_managemasters_clickplus.PNG
 |

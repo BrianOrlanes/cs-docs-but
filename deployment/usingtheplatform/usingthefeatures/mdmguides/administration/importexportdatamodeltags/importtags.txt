@@ -29,33 +29,33 @@ To import tags, follow these steps:
 
 |
 
-* Log in and click on the **Administration** button.
+* Log in and click on the **Administration** icon.
 
-.. image:: /feature/_images/mdmimages/cs_importtags_login.PNG
+.. image:: /feature/_images/mdmimages/pxp_importtags_login.PNG
 |
 |
 
-* Click on **Properties**.
+* In the *Data Model* tab, click on the **Properties** drop-down list and select **LOV**.
 
-.. image:: /feature/_images/mdmimages/cs_importtags_clickproperties.PNG
+.. image:: /feature/_images/mdmimages/pxp_importtags_clickproperties.PNG
 |
 |
 
-* Click on **LOV** then click on the **Import all Tags** button.
+* Click on the **Import all Tags** icon.
 
-.. image:: /feature/_images/mdmimages/cs_importtags_clicklov.PNG
+.. image:: /feature/_images/mdmimages/pxp_importtags_importalltags.PNG
 |
 |
 
 * Select the file to be imported.
 
-.. image:: /feature/_images/mdmimages/cs_importtags_selectfile.PNG
+.. image:: /feature/_images/mdmimages/pxp_importtags_selectfile.PNG
 |
 |
 
 * View the imported tags.
 
-.. image:: /feature/_images/mdmimages/cs_importtags_viewimportedtags.PNG
+.. image:: /feature/_images/mdmimages/pxp_importtags_viewimportedtags.PNG
 |
 |
 

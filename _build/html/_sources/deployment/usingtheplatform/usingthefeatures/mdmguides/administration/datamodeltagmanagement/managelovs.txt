@@ -25,14 +25,14 @@ To manage LOVs, follow these steps:
 
 |
 
-* Log in and click on the **Administration** button.
+* Log in and click on the **Administration** icon.
 
 .. image:: /feature/_images/mdmimages/pxp_managelovs_login.PNG
 |
 |
 
 
-* Click on **Properties** and select **LOV**.
+* In the *Data Model* tab, click on the **Properties** drop-down list and select **LOV**.
 
 .. image:: /feature/_images/mdmimages/pxp_managelovs_clickproperties.PNG
 |
