@@ -43,7 +43,7 @@ To import attributes, follow the steps provided below:
 |
 
 
-* Go to any attribute type (like *Date*) and click on the **Import all Attributes** button.
+* Go to any attribute type (i.e, *Date*) and click on the **Import all Attributes** button.
 
 .. image:: /feature/_images/mdmimages/pxp_importexportdatamodelattributes_clickimportallattributes.PNG
 |

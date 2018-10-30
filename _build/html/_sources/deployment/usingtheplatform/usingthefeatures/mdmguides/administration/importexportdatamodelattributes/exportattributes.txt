@@ -30,42 +30,42 @@ To export attributes, follow the steps provided below:
 
 * Log in and click on the **Administration** button.
 
-.. image:: /feature/_images/mdmimages/cs_importexportdatamodelattributes_login.PNG
+.. image:: /feature/_images/mdmimages/pxp_importexportdatamodelattributes_login.PNG
 |
 |
 
 
-* Click on the **Data Model** tab and go to *Properties*.
+* Go to the *Data Model* section and go to *Properties*.
 
-.. image:: /feature/_images/mdmimages/cs_importexportdatamodelattributes_clickondatamodel.PNG
+.. image:: /feature/_images/mdmimages/pxp_importexportdatamodelattributes_clickondatamodel.PNG
 |
 |
 
 
-* Go to any attribute type (like *Date*).
+* Go to any attribute type (i.e., *Date*).
 
-.. image:: /feature/_images/mdmimages/cs_importexportdatamodelattributes_selectanattribute.PNG
+.. image:: /feature/_images/mdmimages/pxp_importexportdatamodelattributes_selectanattribute.PNG
 |
 |
 
 
 * Click on the **Export all Attributes** button. This will export all the attributes that are in the system.
 
-.. image:: /feature/_images/mdmimages/cs_importexportdatamodelattributes_clickonexportallattributes.PNG
+.. image:: /feature/_images/mdmimages/pxp_importexportdatamodelattributes_clickonexportallattributes.PNG
 |
 |
 
 
 * Wait for the export of the attributes to be completed.
 
-.. image:: /feature/_images/mdmimages/cs_importexportdatamodelattributes_waitforthedownloadtocomplete.PNG
+.. image:: /feature/_images/mdmimages/pxp_importexportdatamodelattributes_waitforthedownloadtocomplete.PNG
 |
 |
 
 
 * Once downloaded, access the file and view the attribute data.
 
-.. image:: /feature/_images/mdmimages/cs_importexportdatamodelattributes_oncecompletedaccessthefile.PNG
+.. image:: /feature/_images/mdmimages/pxp_importexportdatamodelattributes_oncecompletedaccessthefile.PNG
 |
 |
 
