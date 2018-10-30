@@ -35,7 +35,7 @@ To import tags, follow these steps:
 |
 |
 
-* In the *Data Model* tab, click on the **Properties** drop-down list and select **LOV**.
+* In the *Data Model* section, click on the **Properties** drop-down list and select **LOV**.
 
 .. image:: /feature/_images/mdmimages/pxp_importtags_clickproperties.PNG
 |
