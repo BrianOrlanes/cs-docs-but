@@ -31,28 +31,28 @@ To import attributes, follow the steps provided below:
 
 * Log in and click on the **Administration** button.
 
-.. image:: /feature/_images/mdmimages/cs_importexportdatamodelattributes_login.PNG
+.. image:: /feature/_images/mdmimages/pxp_importexportdatamodelattributes_login.PNG
 |
 |
 
 
-* Click on the **Data Model** tab and go to *Properties*.
+* In the *Data Model* section, go to *Properties*.
 
-.. image:: /feature/_images/mdmimages/cs_importexportdatamodelattributes_clickondatamodel.PNG
+.. image:: /feature/_images/mdmimages/pxp_importexportdatamodelattributes_clickondatamodel.PNG
 |
 |
 
 
 * Go to any attribute type (like *Date*) and click on the **Import all Attributes** button.
 
-.. image:: /feature/_images/mdmimages/cs_importexportdatamodelattributes_clickimportallattributes.PNG
+.. image:: /feature/_images/mdmimages/pxp_importexportdatamodelattributes_clickimportallattributes.PNG
 |
 |
 
 
 * Select the file from your device.
 
-.. image:: /feature/_images/mdmimages/cs_importexportdatamodelattributes_selectthefile.PNG
+.. image:: /feature/_images/mdmimages/pxp_importexportdatamodelattributes_selectthefile.PNG
 |
 |
 
