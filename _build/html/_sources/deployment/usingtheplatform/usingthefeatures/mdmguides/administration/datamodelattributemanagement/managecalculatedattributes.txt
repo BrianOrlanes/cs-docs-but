@@ -36,7 +36,7 @@ To do this admin feature, follow the steps below:
 |
 
 
-* Go to the *Data Model* tab.
+* Go to the *Data Model* section.
 
 .. image:: /feature/_images/mdmimages/pxp_managecalculatedattributes_gotodatamodel.PNG
 |
