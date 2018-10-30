@@ -35,7 +35,7 @@ To do this admin feature, follow the steps below:
 |
 
 
-* Go to the *Data Model* tab and then to *Properties*.
+* Go to the *Data Model* section and then to *Properties*.
 
 .. image:: /feature/_images/mdmimages/pxp_managedifftypesofattributes_gotodatamodel.PNG
 |

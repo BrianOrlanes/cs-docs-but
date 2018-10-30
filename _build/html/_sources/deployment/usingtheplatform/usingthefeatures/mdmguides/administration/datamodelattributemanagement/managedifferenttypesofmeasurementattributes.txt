@@ -269,7 +269,7 @@ To set an attribute as a volume, follow these steps:
 |
 
 
-* Go to the *Data Model* tab.
+* Go to the *Data Model* section.
 
 .. image:: /feature/_images/mdmimages/pxp_manageattributevolume_gotodatamodel.PNG
 |
@@ -376,7 +376,7 @@ To set an attribute as a weight/mass, follow these steps:
 |
 
 
-* Go to the *Data Model* tab.
+* Go to the *Data Model* section.
 
 .. image:: /feature/_images/mdmimages/pxp_manageattributeweight_gotodatamodel.PNG
 |
@@ -484,7 +484,7 @@ To set an attribute as a temperature, follow these steps:
 |
 
 
-* Go to the *Data Model* tab.
+* Go to the *Data Model* section.
 
 .. image:: /feature/_images/mdmimages/pxp_manageattributetemp_gotodatamodel.PNG
 |
