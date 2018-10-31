@@ -39,7 +39,7 @@ To manage/create tag hierarchies, follow this set of instructions:
 |
 
 
-* In the *Data Model* tab, click on the **Taxonomies** drop-down list and select **Hierarchies**.
+* In *Data Model*, click on the **Taxonomies** drop-down list and select **Hierarchies**.
 
 .. image:: /feature/_images/mdmimages/pxp_managetagbasedhierarchies_clicktaxonomies.PNG
 |

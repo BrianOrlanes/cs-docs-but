@@ -33,7 +33,7 @@ To do this, follow these steps:
 |
 |
 
-* In the *Data Model* section, click on the **Properties** drop-down list and select **Master**.
+* In *Data Model*, click on the **Properties** drop-down list and select **Master**.
 
 .. image:: /feature/_images/mdmimages/pxp_managemasters_master.PNG
 |
