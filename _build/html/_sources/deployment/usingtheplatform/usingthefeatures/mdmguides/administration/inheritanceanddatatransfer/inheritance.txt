@@ -53,7 +53,7 @@ To allow a product to inherit the attributes from a taxonomy, follow these steps
 |
 
 
-* Scroll down to *Section* and click the '+' icon to add a property collection.
+* Scroll down to *Section* and click on the '+' icon to add a property collection.
   Select the applicable property collection and click on the **Apply** button.
 
 .. image:: /feature/_images/mdmimages/pxp_inheritance_propertycollection.PNG
@@ -61,14 +61,14 @@ To allow a product to inherit the attributes from a taxonomy, follow these steps
 |
 
 
-* Select the type of coupling, enter the default value, and click **Save**.
+* Select the type of coupling, enter the default values, and click on the **Save** button.
 
 .. image:: /feature/_images/mdmimages/pxp_inheritance_selecttypecoupling.PNG
 |
 |
 
 
-* Click **Explore** icon.
+* Click on the **Explore** icon.
 
 .. image:: /feature/_images/mdmimages/pxp_inheritance_clickexplore.PNG
 |
@@ -82,7 +82,7 @@ To allow a product to inherit the attributes from a taxonomy, follow these steps
 |
 
 
-* Click **Add Taxonomy** to add your created taxonomy. Go to the *Properties* tab.
+* Click on the **Add Taxonomy** button to add the created taxonomy. Go to the *Properties* tab.
 
 .. image:: /feature/_images/mdmimages/pxp_inheritance_clickaddtaxonomy.PNG
 |

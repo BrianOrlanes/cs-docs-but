@@ -29,33 +29,33 @@ The Manage Master Taxonomies is an admin feature that sets up Master Taxonomies 
 ====================    =======================================================================================================================================================================
 
 
-How-to: Create a Master Taxonomy
+How-to: Manage Master Taxonomies
 =================================
-To create a Master Taxonomy, follow these steps:
+To manage master taxonomies, follow these steps:
 
 |
 
-* Log in and click on the **Administration** button.
+* Log in and click on the **Administration** icon.
 
-.. image:: /feature/_images/mdmimages/cs_managemastertaxonomies_login.PNG
+.. image:: /feature/_images/mdmimages/pxp_managemastertaxonomies_login.PNG
 |
 |
 
-* Click on **Taxonomies** and select **Master Taxonomies**.
+* In *Data Model*, click on the **Taxonomies** drop-down list and select **Master Taxonomies**.
 
-.. image:: /feature/_images/mdmimages/cs_managemastertaxonomies_clicktaxonomies.PNG
+.. image:: /feature/_images/mdmimages/pxp_managemastertaxonomies_clicktaxonomies.PNG
 |
 |
 
-* Click on the "+" icon to create a new Master Taxonomy.
+* Click on the '+' icon to create a new Master Taxonomy.
 
-.. image:: /feature/_images/mdmimages/cs_managemastertaxonomies_clickplusicon.PNG
+.. image:: /feature/_images/mdmimages/pxp_managemastertaxonomies_clickplusicon.PNG
 |
 |
 
-* Enter the name and enable the slider to create a major taxonomy.
+* Enter a name for the taxonomy and enable the *Create Taxonomy as Major* option. Click on the **Create** button.
 
-.. image:: /feature/_images/mdmimages/cs_managemastertaxonomies_entername.PNG
+.. image:: /feature/_images/mdmimages/pxp_managemastertaxonomies_entername.PNG
 |
 |
 
@@ -65,15 +65,16 @@ To create a Master Taxonomy, follow these steps:
 |
 |
 
-* Click on the "+" sign in the *Section* tab to add a property collection.
+* Scroll down to *Section* and click on the '+' icon to add a property collection.
+  Select the applicable property collection and click on the **Apply** button.
 
-.. image:: /feature/_images/mdmimages/cs_managemastertaxonomies_clickplussign.PNG
+.. image:: /feature/_images/mdmimages/pxp_managemastertaxonomies_addpropertycollection.PNG
 |
 |
 
 * Select the created taxonomy and add sub-levels to it to create a sub-taxonomy.
 
-.. image:: /feature/_images/mdmimages/cs_managemastertaxonomies_selectcreatedtaxonomy.PNG
+.. image:: /feature/_images/mdmimages/pxp_managemastertaxonomies_selectcreatedtaxonomy1.PNG
 |
 |
 
@@ -104,9 +105,9 @@ To create a Master Taxonomy, follow these steps:
 
       * Enter the name for the sub-taxonomy.
 
-      .. image:: /feature/_images/mdmimages/cs_managemastertaxonomies_createsublevel.PNG
+      .. image:: /feature/_images/mdmimages/pxp_managemastertaxonomies_createsublevel.PNG
       |
-      .. image:: /feature/_images/mdmimages/cs_managemastertaxonomies_createsublevel2.PNG
+      .. image:: /feature/_images/mdmimages/pxp_managemastertaxonomies_createsublevel2.PNG
 |
 
 
