@@ -87,7 +87,7 @@ To manage master taxonomies, follow these steps:
 
       |
 
-      * Click on **Add New Level**.
+      * Click on the '+' icon to add new level.
 
       |
 
@@ -99,15 +99,12 @@ To manage master taxonomies, follow these steps:
 
       |
 
-      * Click on the "+" next to the parent taxonomy to add sub-taxonomies.
+      * Click on the '+' next to the parent taxonomy to add sub-taxonomies.
 
       |
 
       * Enter the name for the sub-taxonomy.
-
-      .. image:: /feature/_images/mdmimages/pxp_managemastertaxonomies_createsublevel.PNG
-      |
-      .. image:: /feature/_images/mdmimages/pxp_managemastertaxonomies_createsublevel2.PNG
+      
 |
 
 
