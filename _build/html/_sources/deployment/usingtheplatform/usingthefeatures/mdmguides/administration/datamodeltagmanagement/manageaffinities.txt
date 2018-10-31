@@ -31,7 +31,7 @@ To manage affinities, follow these steps:
 |
 
 
-* In the *Data Model* section, click on **Properties** and select **LOV**.
+* In *Data Model*, click on **Properties** and select **LOV**.
 
 .. image:: /feature/_images/mdmimages/pxp_manageaffinities_clickproperties.PNG
 |

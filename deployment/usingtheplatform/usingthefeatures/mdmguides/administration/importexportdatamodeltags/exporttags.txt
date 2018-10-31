@@ -36,7 +36,7 @@ To export tags, follow these steps:
 |
 |
 
-* In the *Data Model* section, click on the **Properties** drop-down list and select **LOV**.
+* In *Data Model*, click on the **Properties** drop-down list and select **LOV**.
 
 .. image:: /feature/_images/mdmimages/pxp_exporttags_clickproperties.PNG
 |

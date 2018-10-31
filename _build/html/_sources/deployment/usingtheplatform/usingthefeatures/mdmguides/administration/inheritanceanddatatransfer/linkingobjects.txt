@@ -20,42 +20,40 @@ Linking Objects allows an administrator to link an object to multiple taxonomies
 
 How-to: Linking Objects
 ==========================
-Classify with ease by linking objects, and here's how to do it.
+To link objects to multiple taxonomies, follow these steps:
 
 |
 
-* Go to *PIM* and hover on the "+" icon.
+* Log in and go to *Products*.
 
-.. image:: /feature/_images/mdmimages/cs_linkingobjects_gotopim.PNG
-|
-|
-
-.. image:: /feature/_images/mdmimages/cs_linkingobjects_gotopim2hover.PNG
+.. image:: /feature/_images/mdmimages/pxp_linkingobjects_login.PNG
 |
 |
 
 
-* Select your product.
+* Click on the **Create** button and select the type.
 
-.. image:: /feature/_images/mdmimages/cs_linkingobjects_selectproduct.PNG
+.. image:: /feature/_images/mdmimages/pxp_linkingobjects_create.PNG
 |
 |
 
 
-* On the *Overview* tab, click **Add Taxonomy**.
+* In the *Overview* tab, click on the **Add Taxonomy** button.
 
-.. image:: /feature/_images/mdmimages/cs_linkingobjects_clickaddtaxonomy.PNG
+.. image:: /feature/_images/mdmimages/pxp_linkingobjects_clickaddtaxonomy.PNG
 |
 |
 
-.. image:: /feature/_images/mdmimages/cs_linkingobjects_clickaddtaxonomy2.PNG
+* Select the applicable taxonomy.
+
+.. image:: /feature/_images/mdmimages/pxp_linkingobjects_selecttaxonomy.PNG
 |
 |
 
 
 * Property collection is added via Taxonomy. You can link more products if necessary.
 
-.. image:: /feature/_images/mdmimages/cs_linkingobjects_propertycollectionadded.PNG
+.. image:: /feature/_images/mdmimages/pxp_linkingobjects_propertycollectionadded.PNG
 |
 |
 
