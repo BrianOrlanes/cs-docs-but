@@ -28,39 +28,39 @@ To manage hierarchy via relationship, follow these steps.
 
 |
 
-* Log in and go to *PIM*.
+* Log in and go to *Products*.
 
-.. image:: /feature/_images/mdmimages/cs_managerelationshiphierarchy_login.PNG
+.. image:: /feature/_images/mdmimages/pxp_managerelationshiphierarchy_login.PNG
 |
 |
 
 
-* Click on the **Choose Taxonomies** button, then click on the **Create Relationship Hierarchy** button.
+* Click on the **Choose Taxonomies** button, then click on the '+' icon to create a Relationship Hierarchy.
 
-.. image:: /feature/_images/mdmimages/cs_managerelationshiphierarchy_choosetaxonomies.PNG
+.. image:: /feature/_images/mdmimages/pxp_managerelationshiphierarchy_choosetaxonomies.PNG
 |
 |
 
 
 * Enter the name for the relationship hierarchy.
 
-.. image:: /feature/_images/mdmimages/cs_managerelationshiphierarchy_entername.PNG
+.. image:: /feature/_images/mdmimages/pxp_managerelationshiphierarchy_entername.PNG
 |
 |
 
 
 * Click on the **Add Class** button and select the class.
 
-.. image:: /feature/_images/mdmimages/cs_managerelationshiphierarchy_clickaddclass.PNG
+.. image:: /feature/_images/mdmimages/pxp_managerelationshiphierarchy_clickaddclass.PNG
 |
-.. image:: /feature/_images/mdmimages/cs_managerelationshiphierarchy_clickaddclass2.PNG
+.. image:: /feature/_images/mdmimages/pxp_managerelationshiphierarchy_clickaddclass2.PNG
 |
 |
 
 
 * Once done adding the classes, click on the **Apply** button.
 
-.. image:: /feature/_images/mdmimages/cs_managerelationshiphierarchy_clickapply.PNG
+.. image:: /feature/_images/mdmimages/pxp_managerelationshiphierarchy_clickapply.PNG
 |
 |
 
