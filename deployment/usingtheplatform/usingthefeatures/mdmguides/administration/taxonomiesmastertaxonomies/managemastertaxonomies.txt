@@ -78,7 +78,6 @@ To manage master taxonomies, follow these steps:
 |
 |
 
-
 * To create sub-levels for a taxonomy, follow these steps.
 
       |
@@ -104,9 +103,8 @@ To manage master taxonomies, follow these steps:
       |
 
       * Enter the name for the sub-taxonomy.
-      
-|
 
+|
 
 * Repeat the previous step if you want to add more levels to the existing sub-taxonomies.
 
