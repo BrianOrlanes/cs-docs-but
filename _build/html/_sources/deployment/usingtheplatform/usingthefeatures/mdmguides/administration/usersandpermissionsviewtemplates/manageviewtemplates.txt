@@ -37,7 +37,7 @@ Easily manage who gets to see what, and here's how to do it.
 
 * Click on **Templates**.
 
-.. image:: /feature/_images/mdmimages/pxp_manageviewtemplates_clicktemplates.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageviewtemplates_clicktemplatesb.PNG
 |
 |
 
