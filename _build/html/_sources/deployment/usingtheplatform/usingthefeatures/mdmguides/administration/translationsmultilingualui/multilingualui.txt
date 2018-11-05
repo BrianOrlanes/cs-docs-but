@@ -27,39 +27,48 @@ To do this, follow these steps:
 
 |
 
-* Go to **Administration**.
+* Log in and click on the **Administration** icon.
 
-.. image:: /feature/_images/mdmimages/cs_multilingualui_clickadministration.PNG
+.. image:: /feature/_images/mdmimages/pxp_multilingualui_login.PNG
 |
 |
 
-* Click **Translations** tab.
+* Click on **Translations**.
 
-.. image:: /feature/_images/mdmimages/cs_multilingualui_clicktranslationtab.PNG
+.. image:: /feature/_images/mdmimages/pxp_multilingualui_clicktranslations.PNG
 |
 |
 
-* Click **Application Labels**.
+* Go to the *Application Labels* section.
 
-.. image:: /feature/_images/mdmimages/cs_multilingualui_clickapplicationlabels.PNG
+.. image:: /feature/_images/mdmimages/pxp_multilingualui_clickapplicationlabels.PNG
 |
 |
 
-* Based on the language required, enter the translations for the desired label (in this demo, we selected "Acceleration").
+* Based on the language required, enter the translations for the desired label (e.g., "Username").
 
-.. image:: /feature/_images/mdmimages/cs_multilingualui_basedlanguagerequiredentertranslation.PNG
+.. image:: /feature/_images/mdmimages/pxp_multilingualui_basedlanguagerequiredentertranslation.PNG
 |
 |
 
-* Logout and login again.
+* Click on the **Save** button to save the changes made in the translations.
 
-.. image:: /feature/_images/mdmimages/cs_multilingualui_logout.PNG
+.. image:: /feature/_images/mdmimages/pxp_multilingualui_save.PNG
 |
 |
 
-*  On the login page, select your desired language from the flyout on the lower right corner of the screen.
 
-.. image:: /feature/_images/mdmimages/cs_multilingualui_onthelogin.PNG
+* Click on the **user profile** icon and select **Log Out**.
+
+.. image:: /feature/_images/mdmimages/pxp_multilingualui_logout.PNG
+|
+|
+
+*  Select the desired language from the lower right corner of the login page. 
+
+.. image:: /feature/_images/mdmimages/pxp_multilingualui_selectlanguage.PNG
+|
+.. image:: /feature/_images/mdmimages/pxp_multilingualui_selectlanguage2.PNG
 |
 |
 

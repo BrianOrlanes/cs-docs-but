@@ -65,7 +65,6 @@ To manage the permissions of a user, refer to the instructions below:
 
 .. image:: /feature/_images/mdmimages/pxp_managepermissions_selectslass.PNG
 |
-|
 .. image:: /feature/_images/mdmimages/pxp_managepermissions_selectslass3.PNG
 |
 |
