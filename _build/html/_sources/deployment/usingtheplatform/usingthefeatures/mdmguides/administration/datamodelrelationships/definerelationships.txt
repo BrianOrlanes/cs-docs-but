@@ -30,7 +30,7 @@ To define relationships, follow these steps:
 
 |
 
-* Log in and click on the **Administration** button.
+* Login and click on the **Administration** icon.
 
 .. image:: /feature/_images/mdmimages/pxp_definerelationships_login.PNG
 |

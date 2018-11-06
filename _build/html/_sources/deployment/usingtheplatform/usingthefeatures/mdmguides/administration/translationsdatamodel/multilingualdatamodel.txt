@@ -41,7 +41,7 @@ To do this, follow these steps:
 |
 
 
-* Click the **Tags** icon to view all the tags in the system.
+* Click on the **Tags** icon to view all the tags in the system.
 
 .. image:: /feature/_images/mdmimages/pxp_multilingualdatamodel_clicktagsicon.PNG
 |
@@ -59,7 +59,7 @@ To do this, follow these steps:
 
 |
 
-* Login again with the desired language; you can see the translated data model items.
+* Log in again with the desired language; you can see the translated data model items.
 
 .. image:: /feature/_images/mdmimages/pxp_multilingualdatamodel_loginagain.PNG
 |

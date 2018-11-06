@@ -56,7 +56,7 @@ To do this admin feature, follow the steps below:
 **Type: Text**
 
 
-  * Click on **Text** and then click the "+" icon to create an attribute.
+  * Click on **Text** and then click the '+' icon to create an attribute.
 
   .. image:: /feature/_images/mdmimages/pxp_managedifftypesofattributes_text1.PNG
   |
@@ -79,7 +79,7 @@ To do this admin feature, follow the steps below:
 **Type: Number**
 
 
-  * Click on **Number** and then click the "+" icon to create an attribute.
+  * Click on **Number** and then click the '+' icon to create an attribute.
 
   .. image:: /feature/_images/mdmimages/pxp_managedifftypesofattributes_number1.PNG
   |
@@ -101,7 +101,7 @@ To do this admin feature, follow the steps below:
 
 **Type: Price**
 
-  * Click on **Price** and then click the "+" icon to create an attribute.
+  * Click on **Price** and then click the '+' icon to create an attribute.
 
   .. image:: /feature/_images/mdmimages/pxp_managedifftypesofattributes_price1.PNG
   |
@@ -135,7 +135,7 @@ To do this admin feature, follow the steps below:
 
 **Type: Date**
 
-  * Click on **Date** and then click the "+" icon to create an attribute.
+  * Click on **Date** and then click the '+' icon to create an attribute.
 
   .. image:: /feature/_images/mdmimages/pxp_managedifftypesofattributes_date1.PNG
   |

@@ -29,7 +29,7 @@ To define article links, follow these steps:
 
 |
 
-* Log in and click on the **Administration** button.
+* Log in and click on the **Administration** icon.
 
 .. image:: /feature/_images/mdmimages/pxp_definearticlelinks_login.PNG
 |
@@ -41,7 +41,7 @@ To define article links, follow these steps:
 |
 |
 
-* Click on the "+" icon to create a new relationship.
+* Click on the '+' icon to create a new relationship.
 
 .. image:: /feature/_images/mdmimages/pxp_definearticlelinks_clickplusicon.PNG
 |

@@ -283,7 +283,7 @@ To set an attribute as a volume, follow these steps:
 |
 
 
-* Click the '+' icon to create an attribute.
+* Click the "+" icon to create an attribute.
 
 .. image:: /feature/_images/mdmimages/pxp_manageattributevolume_clickoncreatebuttonB.PNG
 |
@@ -390,7 +390,7 @@ To set an attribute as a weight/mass, follow these steps:
 |
 
 
-* Click the '+' icon to create an attribute.
+* Click the "+" icon to create an attribute.
 
 .. image:: /feature/_images/mdmimages/pxp_manageattributeweight_clickoncreatebuttonB.PNG
 |
@@ -498,7 +498,7 @@ To set an attribute as a temperature, follow these steps:
 |
 
 
-* Click the '+' icon to create an attribute.
+* Click the "+" icon to create an attribute.
 
 .. image:: /feature/_images/mdmimages/pxp_manageattributetemp_clickoncreatebuttonB.PNG
 |

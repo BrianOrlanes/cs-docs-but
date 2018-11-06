@@ -42,7 +42,7 @@ To export attributes, follow the steps provided below:
 |
 
 
-* Go to any attribute type (i.e., *Date*).
+* Go to any attribute type (i.e. *Date*).
 
 .. image:: /feature/_images/mdmimages/pxp_importexportdatamodelattributes_selectanattribute.PNG
 |

@@ -63,7 +63,7 @@ To archive and restore products, follow these steps:
 |
 |
 
-* Select the ** Archival** option from the drop-down list to show the archived products.
+* Select the **Archival** from the drop-down list to show the archived products.
 
 .. image:: /feature/_images/mdmimages/pxp_archivalandrestoration_pimarchival.PNG
 |

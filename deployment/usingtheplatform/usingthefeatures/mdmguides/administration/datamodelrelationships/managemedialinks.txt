@@ -31,7 +31,7 @@ To manage media links follow these steps:
 
 |
 
-* Log in and click on the **Administration** button.
+* Log in and click on the **Administration** icon.
 
 .. image:: /feature/_images/mdmimages/pxp_managemedialinks_login.PNG
 |
