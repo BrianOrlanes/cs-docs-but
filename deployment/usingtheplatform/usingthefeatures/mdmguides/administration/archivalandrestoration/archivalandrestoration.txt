@@ -33,57 +33,57 @@ To archive and restore products, follow these steps:
 
 |
 
-* Log in and click on **PIM**.
+* Log in and click on **Products**.
 
-.. image:: /feature/_images/mdmimages/cs_archivalandrestoration_login.PNG
+.. image:: /feature/_images/mdmimages/pxp_archivalandrestoration_login.PNG
 |
 |
 
 * Select the products you want to archive.
 
-.. image:: /feature/_images/mdmimages/cs_archivalandrestoration_selectproductsdelete.PNG
+.. image:: /feature/_images/mdmimages/pxp_archivalandrestoration_selectproductsdelete.PNG
 |
 |
 
 * Click on the **Delete** icon.
 
-.. image:: /feature/_images/mdmimages/cs_archivalandrestoration_delete.PNG
+.. image:: /feature/_images/mdmimages/pxp_archivalandrestoration_delete.PNG
 |
 |
 
 * Click on the **OK** button.
 
-.. image:: /feature/_images/mdmimages/cs_archivalandrestoration_clickok.PNG
+.. image:: /feature/_images/mdmimages/pxp_archivalandrestoration_clickok.PNG
 |
 |
 
-* Click on the drop-down button at the top left section of the screen.
+* Click on the drop-down button at the top right section of the screen.
 
-.. image:: /feature/_images/mdmimages/cs_archivalandrestoration_dropdown.PNG
+.. image:: /feature/_images/mdmimages/pxp_archivalandrestoration_dropdown.PNG
 |
 |
 
-* Select the **PIM Archival** option from the drop-down list to show the archived products.
+* Select the ** Archival** option from the drop-down list to show the archived products.
 
-.. image:: /feature/_images/mdmimages/cs_archivalandrestoration_pimarchival.PNG
+.. image:: /feature/_images/mdmimages/pxp_archivalandrestoration_pimarchival.PNG
 |
 |
 
 * Select the products that you want to restore.
 
-.. image:: /feature/_images/mdmimages/cs_archivalandrestoration_selectproductsrestore.PNG
+.. image:: /feature/_images/mdmimages/pxp_archivalandrestoration_selectproductsrestore.PNG
 |
 |
 
 * Click on the **Restore** icon to restore the selected products to their previous location.
 
-.. image:: /feature/_images/mdmimages/cs_archivalandrestoration_restore.PNG
+.. image:: /feature/_images/mdmimages/pxp_archivalandrestoration_restore.PNG
 |
 |
 
 * View the restored products.
 
-.. image:: /feature/_images/mdmimages/cs_archivalandrestoration_viewrestoredproducts.PNG
+.. image:: /feature/_images/mdmimages/pxp_archivalandrestoration_viewrestoredproducts.PNG
 |
 |
 
