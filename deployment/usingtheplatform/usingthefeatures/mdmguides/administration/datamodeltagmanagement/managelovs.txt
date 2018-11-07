@@ -41,7 +41,7 @@ To manage LOVs, follow these steps:
 |
 
 
-* Click on the "+" icon to create a new tag (LOV).
+* Click on the '+' icon to create a new tag (LOV).
 
 .. image:: /feature/_images/mdmimages/pxp_managelovs_clickplusicon.PNG
 |
@@ -62,7 +62,7 @@ To manage LOVs, follow these steps:
 |
 
 
-* Enter the other values such as *Description* and *Color* then click **Save**.
+* Enter the other values such as *Description* and *Color* then click on the **Save** button.
 
 .. image:: /feature/_images/mdmimages/pxp_managelovs_clicksave.PNG
 |

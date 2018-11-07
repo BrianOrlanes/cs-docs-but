@@ -47,28 +47,28 @@ To manage affinities, follow these steps:
 |
 
 
-* Create a tag type "Yes Neutral". (Example: Gender > Male / Female)
+* Create a tag type 'Yes Neutral'. (Example: Gender > Male / Female)
 
 .. image:: /feature/_images/mdmimages/pxp_manageaffinities_gender.PNG
 |
 |
 
 
-* Create a tag type "Yes Neutral No". (Example: Hobbies > Football / Baseball / Basketball)
+* Create a tag type 'Yes Neutral No'. (Example: Hobbies > Football / Baseball / Basketball)
 
 .. image:: /feature/_images/mdmimages/pxp_manageaffinities_hobbies.PNG
 |
 |
 
 
-* Create a tag type "Range". (Example: Season > Summer / Winter / Spring)
+* Create a tag type 'Range'. (Example: Season > Summer / Winter / Spring)
 
 .. image:: /feature/_images/mdmimages/pxp_manageaffinities_season.PNG
 |
 |
 
 
-* Create a tag type "Ruler". (Example: Household Income > Low / Medium / High)
+* Create a tag type 'Ruler'. (Example: Household Income > Low / Medium / High)
 
 .. image:: /feature/_images/mdmimages/pxp_manageaffinities_income.PNG
 |
@@ -91,7 +91,7 @@ To manage affinities, follow these steps:
 |
 
 
-* Go to *Classes* and select the appropriate class, then click on the "+" icon to attach the property collection to the class.
+* Go to *Classes* and select the appropriate class, then click on the '+' icon to attach the property collection to the class.
 
 .. image:: /feature/_images/mdmimages/pxp_manageaffinities_gotoclasses.PNG
 |
