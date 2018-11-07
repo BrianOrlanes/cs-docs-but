@@ -17,7 +17,8 @@ The Import Attributes is a feature that allows importing of attribute definition
                           It also reduces manual work because a user does not have to create one attribute at a time.
                         * *Example:*
 
-                            *Supplier A* has *Products X, Y and Z* with 25 attributes each. Rather than inputting all these attributes one by one in the system,
+                            *Supplier A* has *Products X, Y and Z* with 25 attributes each.
+                            Rather than inputting all these attributes one by one in the system,
                             *Supplier A* can collate all information in one document and import it using this feature.
 
 ===================     =========================================================================================================================================================================
@@ -29,7 +30,7 @@ To import attributes, follow the steps provided below:
 
 |
 
-* Log in and click on the **Administration** button.
+* Log in and click on the **Administration** icon.
 
 .. image:: /feature/_images/mdmimages/pxp_importexportdatamodelattributes_login.PNG
 |

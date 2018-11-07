@@ -69,7 +69,7 @@ Easily manage who gets to see what, and here's how to do it.
 
 
 
-* Go to the *Partner Administration* tab, and select a partner from the list. In this demo, we selected 'Suppliers 101'.
+* Go to *Partner Administration*, and select a partner from the list. In this demo, we selected 'Suppliers 101'.
 
 .. image:: /feature/_images/mdmimages/pxp_manageviewtemplates_gotopartneradministration.PNG
 |

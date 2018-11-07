@@ -54,7 +54,7 @@ To manage the permissions of a user, refer to the instructions below:
 |
 
 
-* Click **Show Permissions**.
+* Click on the **Show Permissions** button.
 
 .. image:: /feature/_images/mdmimages/pxp_managepermissions_clickshowpermission.PNG
 |

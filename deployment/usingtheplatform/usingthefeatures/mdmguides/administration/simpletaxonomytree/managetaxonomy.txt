@@ -94,7 +94,7 @@ Here's how to do a simple taxonomy tree.
 |
 
 
-* Enter data and click **Add Taxonomy**.
+* Enter data and click the **Add Taxonomy** button.
 
 .. image:: /feature/_images/mdmimages/pxp_managetaxonomy_enternece_addtax.PNG
 |
