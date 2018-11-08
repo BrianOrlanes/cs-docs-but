@@ -94,13 +94,13 @@ To standardize product definitions, follow these steps:
 
 .. image:: /feature/_images/mdmimages/pxp_standardizeproductdefinitions_attributeeffect.PNG
 |
-.. image:: /feature/_images/mdmimages/pxp_standardizeproductdefinitions_attributeeffect2.PNG
+.. image:: /feature/_images/mdmimages/pxp_standardizeproductdefinitions_attributeeffect22.PNG
 |
 |
 
 * Click on the **Save** button to save the rule for the selected attributes and tags. For classes and taxonomies, the rule gets saved upon selection.
 
-.. image:: /feature/_images/mdmimages/pxp_standardizeproductdefinitions_clicksave.PNG
+.. image:: /feature/_images/mdmimages/pxp_standardizeproductdefinitions_clicksave1.PNG
 |
 |
 
