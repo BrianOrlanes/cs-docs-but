@@ -31,97 +31,90 @@ To do this, follow these steps:
 
 |
 
-* Go to *PIM*.
+* Go to *Products*.
 
-.. image:: /feature/_images/mdmimages/cs_rollback_gotopim.PNG
+.. image:: /feature/_images/mdmimages/pxp_rollback_gotopim.PNG
 |
 |
 
 * Click to select the desired product for which you want to perform rollback operation.
 
-.. image:: /feature/_images/mdmimages/cs_rollback_selectdesiredproduct.PNG
+.. image:: /feature/_images/mdmimages/pxp_rollback_selectdesiredproduct.PNG
 |
 |
 
 * Click on the **Relationships** tab.
 
-.. image:: /feature/_images/mdmimages/cs_rollback_clickrelationshiptab.PNG
+.. image:: /feature/_images/mdmimages/pxp_rollback_clickrelationshiptab.PNG
 |
 |
 
 * In this demo, we will remove the image and change an attribute.
 
-.. image:: /feature/_images/mdmimages/cs_rollback_inthisdemoremoveimage.PNG
+.. image:: /feature/_images/mdmimages/pxp_rollback_inthisdemoremoveimage.PNG
 |
 |
 
 * Click on the **OK** button to save the changes.
 
-.. image:: /feature/_images/mdmimages/cs_rollback_clickOKimage.PNG
+.. image:: /feature/_images/mdmimages/pxp_rollback_clickOKimage.PNG
 |
 |
 
-* In the *Property Collection* Tab, change the name (or any other attribute) of the product.
+* In the *Property* Tab, change the name (or any other attribute) of the product.
 
-.. image:: /feature/_images/mdmimages/cs_rollback_inthepropertycollection.PNG
+.. image:: /feature/_images/mdmimages/pxp_rollback_inthepropertycollection.PNG
 |
 |
 
-.. image:: /feature/_images/mdmimages/cs_rollback_changeattribute.PNG
+* Click the **Save** button to save the changes on the product.
+
+.. image:: /feature/_images/mdmimages/pxp_rollback_changeattribute.PNG
 |
-|
-
-
-* Click **Save** to save the changes on the product.
-
 |
 
 * Click the **Timeline** tab. The current version of the product would be with the latest version number on the top.
 
-.. image:: /feature/_images/mdmimages/cs_rollback_clicktimelinetab.PNG
+.. image:: /feature/_images/mdmimages/pxp_rollback_clicktimelinetab.PNG
 
 |
 |
 
 * Click on the **Zoom in** icon to preview the changes in the product versions.
 
-.. image:: /feature/_images/mdmimages/cs_rollback_clickzoomin.PNG
+.. image:: /feature/_images/mdmimages/pxp_rollback_clickzoomin.PNG
 |
 |
 
 * Select the versions (one or more) that you would like to compare the current version to.
 
-.. image:: /feature/_images/mdmimages/cs_rollback_selectversion.PNG
+.. image:: /feature/_images/mdmimages/pxp_rollback_selectversion.PNG
 |
 |
 
-*  Click on the **Compare with current version** icon.Then, click **OK** to close the window.
+*  Click on the **Compare with current version** icon.Then, click the **OK** button to close the window.
 
-.. image:: /feature/_images/mdmimages/cs_rollback_clickcomparecurrent.PNG
+.. image:: /feature/_images/mdmimages/pxp_rollback_clickcomparecurrent.PNG
 |
 |
 
-.. image:: /feature/_images/mdmimages/cs_rollback_clickcomparecurrent2.PNG
+.. image:: /feature/_images/mdmimages/pxp_rollback_clickcomparecurrent2.PNG
 |
 |
 
 * Click the **Rollback** icon of the selected version.
 
-.. image:: /feature/_images/mdmimages/cs_rollback_clickrollback.PNG
+.. image:: /feature/_images/mdmimages/pxp_rollback_clickrollback.PNG
 |
 |
 
-.. image:: /feature/_images/mdmimages/cs_rollback_clickrollback2.PNG
+.. image:: /feature/_images/mdmimages/pxp_rollback_clickrollback2.PNG
 |
 |
 
 * Once the rollback has been confirmed, go to  the *Properties* Tab, and the changes are restored. View the image (now reverted to the old version).
 
-.. image:: /feature/_images/mdmimages/cs_rollback_rollbackconfirmed.PNG
-|
-|
-
-.. image:: /feature/_images/mdmimages/cs_rollback_rollbackconfirmed2.PNG
+.. image:: /feature/_images/mdmimages/pxp_rollback_rollbackconfirmed.PNG
 |
 |
 
