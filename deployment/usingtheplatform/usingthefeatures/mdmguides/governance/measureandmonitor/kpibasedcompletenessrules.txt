@@ -107,7 +107,7 @@ To do this feature, follow these steps:
 
 *Note: A notification will confirm that the rule and the KPI have been created. Click on the OK button to continue.*
 
-.. image:: /feature/_images/mdmimages/pxp_kpibasedcompleteness_noteclickok.PNG
+.. image:: /feature/_images/mdmimages/pxp_kpibasedcompleteness_noteclickok2.PNG
 |
 |
 
