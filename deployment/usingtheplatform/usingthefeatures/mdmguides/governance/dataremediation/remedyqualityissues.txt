@@ -63,7 +63,7 @@ To remedy quality issues, follow these steps:
 
 
 * In the *Cause* section, select the attributes, tags, and classes to which the rule will be applied.
-*Note: leaving the configuration details empty will apply the rule to every attribute, tag, and class.*
+*Note: Leaving the configuration details empty will apply the rule to every attribute, tag, and class.*
 
 .. image:: /feature/_images/mdmimages/pxp_remedyqualityissues_selectattribute.PNG
 |

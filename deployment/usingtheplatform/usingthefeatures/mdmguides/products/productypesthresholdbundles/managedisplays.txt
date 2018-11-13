@@ -27,14 +27,14 @@ To do this, follow these steps:
 
 |
 
-* Go to *PIM*.
+* Go to *Products*.
 
-.. image:: /feature/_images/mdmimages/cs_managedisplays_gotopim.PNG
+.. image:: /feature/_images/mdmimages/cs_managedisplays_gotoproducts.PNG
 |
 |
 
 
-* Hover over the "+" icon.
+* Click on the **Create** button.
 
 .. image:: /feature/_images/mdmimages/cs_managedisplays_hoverplus.PNG
 |
