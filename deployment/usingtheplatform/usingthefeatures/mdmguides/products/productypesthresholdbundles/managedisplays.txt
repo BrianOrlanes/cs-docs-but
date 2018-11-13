@@ -29,89 +29,89 @@ To do this, follow these steps:
 
 * Go to *Products*.
 
-.. image:: /feature/_images/mdmimages/cs_managedisplays_gotoproducts.PNG
+.. image:: /feature/_images/mdmimages/pxp_managedisplays_gotoproducts.PNG
 |
 |
 
 
 * Click on the **Create** button.
 
-.. image:: /feature/_images/mdmimages/cs_managedisplays_hoverplus.PNG
+.. image:: /feature/_images/mdmimages/pxp_managedisplays_clickcreate.PNG
 |
 |
 
 
-* Click on **Loose Bundle** icon.
+* Click on **Loose Bundle**.
 
-.. image:: /feature/_images/mdmimages/cs_managedisplays_clickloose.PNG
+.. image:: /feature/_images/mdmimages/pxp_managedisplays_clickloose.PNG
 |
 |
 
 * Enter the necessary information.
 
-.. image:: /feature/_images/mdmimages/cs_managedisplays_enterinformation.PNG
+.. image:: /feature/_images/mdmimages/pxp_managedisplays_enterinformation.PNG
 |
 |
 
-.. image:: /feature/_images/mdmimages/cs_managedisplays_enterinformationsave.PNG
+.. image:: /feature/_images/mdmimages/pxp_managedisplays_enterinformationsave.PNG
 |
 |
 
 * Click **Add product(s)** under *Overview* tab.
 
-.. image:: /feature/_images/mdmimages/cs_managedisplays_clickaddproducts.PNG
+.. image:: /feature/_images/mdmimages/pxp_managedisplays_clickaddproducts.PNG
 |
 |
 
-.. image:: /feature/_images/mdmimages/cs_managedisplays_clickaddproducts2.PNG
+.. image:: /feature/_images/mdmimages/pxp_managedisplays_clickaddproducts2.PNG
 |
 |
 
 * Select one or more products (button turns to blue when selected). Then, click the **Add All** icon.
 
-.. image:: /feature/_images/mdmimages/cs_managedisplays_selectproductaddall.PNG
+.. image:: /feature/_images/mdmimages/pxp_managedisplays_selectproductaddall.PNG
 |
 |
 
-.. image:: /feature/_images/mdmimages/cs_managedisplays_selectproductaddall2.PNG
+.. image:: /feature/_images/mdmimages/pxp_managedisplays_selectproductaddall2.PNG
 |
 |
 
 
 * Click the **Back** icon to view the added products.
 
-.. image:: /feature/_images/mdmimages/cs_managedisplays_clickback.PNG
+.. image:: /feature/_images/mdmimages/pxp_managedisplays_clickback.PNG
 |
 
-*  To add an image, click  **Relationships** tab.
+*  To add an image, click  on the **Relationships** tab.
 
-.. image:: /feature/_images/mdmimages/cs_managedisplays_addimage.PNG
+.. image:: /feature/_images/mdmimages/pxp_managedisplays_addimage.PNG
 |
 |
 
-*  Hover over on the "+" icon and click  **Add Entity**.
+*  Hover over on the '+' icon and click the **Add Entity** button.
 
-.. image:: /feature/_images/mdmimages/cs_managedisplays_hoverplusaddentity.PNG
+.. image:: /feature/_images/mdmimages/pxp_managedisplays_hoverplusaddentity.PNG
 |
 |
 
 * Select the desired image and drag it to the right side pane.
 
-.. image:: /feature/_images/mdmimages/cs_managedisplays_hoverplusaddentity2.PNG
+.. image:: /feature/_images/mdmimages/pxp_managedisplays_hoverplusaddentity2.PNG
 |
 |
 
-.. image:: /feature/_images/mdmimages/cs_managedisplays_hoverplusaddentity3.PNG
+.. image:: /feature/_images/mdmimages/pxp_managedisplays_hoverplusaddentity3.PNG
 |
 |
 
 *   View the created bundle in the Bundle Section of the *Overview* tab.
 
-.. image:: /feature/_images/mdmimages/cs_managedisplays_seebundle.PNG
+.. image:: /feature/_images/mdmimages/pxp_managedisplays_seebundle.PNG
 |
 |
 
-.. image:: /feature/_images/mdmimages/cs_managedisplays_seebundle2.PNG
+.. image:: /feature/_images/mdmimages/pxp_managedisplays_seebundle2.PNG
 |
 |
 
