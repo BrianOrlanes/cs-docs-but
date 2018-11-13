@@ -29,7 +29,7 @@ How-to: KPI Based DQ Reports
 =============================
 To do this, follow these steps:
 
-* log in and click on the **Administration** icon.
+* Log in and click on the **Administration** icon.
 
 .. image:: /feature/_images/mdmimages/pxp_kpibaseddqreports_clickadministration.PNG
 |
@@ -121,7 +121,7 @@ To do this, follow these steps:
 |
 
 
-* Log out from the system and login with the user belonging to the role, to view the KPI for that role.
+* Log out from the system, then log in with the user belonging to the role and view the KPI for that role.
 
 .. image:: /feature/_images/mdmimages/pxp_kpibaseddqreports_logout.PNG
 |

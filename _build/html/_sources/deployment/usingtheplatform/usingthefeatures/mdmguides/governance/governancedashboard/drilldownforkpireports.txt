@@ -95,7 +95,7 @@ To do this, follow these steps:
 |
 
 
-* Click on the **Data Governance** tab.Click on the graph bar and the KPI is drilled down with the appropriate taxonomy and tag.
+* Click on the **Data Governance** tab. Click on the graph and the KPI is drilled down with the appropriate taxonomy and tag.
 
 .. image:: /feature/_images/mdmimages/pxp_drilldownforkpireports_clickdatagovernance.PNG
 |
