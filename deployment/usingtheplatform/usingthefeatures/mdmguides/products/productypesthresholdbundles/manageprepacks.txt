@@ -56,7 +56,7 @@ To do this, follow these steps:
 |
 
 
-* click **Type** to select from the dropdown list and select **Threshold**. Click on the **Create** button to continue.
+* click **Type** and select **Threshold** from the dropdown list and . Click on the **Create** button to continue.
 *Note: The 'loose bundle' is also known as 'Threshold Bundle'.*
 
 .. image:: /feature/_images/mdmimages/pxp_manageprepacks_clicktypeselectthreshold.PNG
@@ -96,7 +96,7 @@ To do this, follow these steps:
 |
 |
 
-* Next, click on the Explore tab. Hover to the "+" icon to see *Loose Bundle* type of class that was created earlier.
+* Next, click on the Explore tab. Click to the '+' icon to see *Loose Bundle* type of class that was created earlier.
 
 .. image:: /feature/_images/mdmimages/pxp_manageprepacks_clickexplore.PNG
 |
@@ -124,7 +124,7 @@ To do this, follow these steps:
 |
 |
 
-* Click "+" icon, which opens up to another window, where list of products you made are visible.
+* Click '+' icon, which opens up to another window, where list of products you made are visible.
 
 .. image:: /feature/_images/mdmimages/pxp_manageprepacks_nextclickplusaddproduct.PNG
 |
@@ -138,7 +138,7 @@ To do this, follow these steps:
 |
 
 
-* After selecting products, click on the **Add Product** icon.
+* After selecting the products, click on **Add Product** icon.
 
 .. image:: /feature/_images/mdmimages/pxp_manageprepacks_afterselectingaddproduct.PNG
 |

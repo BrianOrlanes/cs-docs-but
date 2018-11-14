@@ -89,7 +89,7 @@ To do this, follow these steps:
 |
 |
 
-*  Hover over on the '+' icon and click the **Add Entity** button.
+*  Click on the '+' icon and click the **Add Entity** button.
 
 .. image:: /feature/_images/mdmimages/pxp_managedisplays_hoverplusaddentity.PNG
 |
