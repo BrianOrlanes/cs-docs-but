@@ -25,57 +25,60 @@ To monitor exports, follow these steps:
 
 |
 
-* Log in and go to *PIM*.
+* Log in and go to *Products*.
 
-.. image:: /feature/_images/pepimages/cs_monitorexports_login.PNG
+.. image:: /feature/_images/pepimages/pxp_monitorexports_login.PNG
 |
 |
 
-.. image:: /feature/_images/pepimages/cs_monitorexports_logingotopim.PNG
+.. image:: /feature/_images/pepimages/pxp_monitorexports_gotoproducts.PNG
 |
 |
 
 
 * Select the products to be exported. *Note: To select all the products, click on the Select All button.*
 
-.. image:: /feature/_images/pepimages/cs_monitorexports_gotopimselectproducts2.PNG
+.. image:: /feature/_images/pepimages/pxp_monitorexports_selectproducts.PNG
 |
 |
 
 * Once selected, click on the **Transfer** button. This will transfer and get the products ready for offboarding and select *Self*.
 
-.. image:: /feature/_images/pepimages/cs_monitorexports_onceselectedclicktransfer.PNG
+.. image:: /feature/_images/pepimages/pxp_monitorexports_onceselectedclicktransfer.PNG
 |
 |
-.. image:: /feature/_images/pepimages/cs_monitorexports_onceselectedclicktransfer2.PNG
-|
-|
-
-
-* Once the notification says that the transfer is successful, click on the **PIM** menu on the upper left corner of the screen and go to *Offboarding*.
-
-.. image:: /feature/_images/pepimages/cs_monitorexports_oncetransfersuccesfulgotooffboarding.PNG
+.. image:: /feature/_images/pepimages/pxp_monitorexports_onceselectedclicktransfer2.PNG
 |
 |
 
-.. image:: /feature/_images/pepimages/cs_monitorexports_oncetransfersuccesfulgotooffboarding2.PNG
+
+* Once the notification says that the transfer is successful, click on the **PIM** menu and go to *Offboarding*.
+
+.. image:: /feature/_images/pepimages/pxp_monitorexports_oncetransfersuccesfulgotooffboarding.PNG
+|
+|
+
+.. image:: /feature/_images/pepimages/pxp_monitorexports_oncetransfersuccesfulgotooffboarding2.PNG
 |
 |
 
 * Check if the page shows the selected products.
 
-.. image:: /feature/_images/pepimages/cs_monitorexports_checkselectedproducts.PNG
+.. image:: /feature/_images/pepimages/pxp_monitorexports_checkselectedproducts.PNG
+|
+.. image:: /feature/_images/pepimages/pxp_monitorexports_checkselectedproducts2.PNG
 |
 |
 
 
-* Select the products and click on the **Export** button. Then, select the desired endpoint from the menu.Wait for the data to be exported. Once done, view the exported data.
+* Select the products and click on the **Export** button. Then, select the desired endpoint from the menu.
+  Wait for the data to be exported. Once done, view the exported data.
 
-.. image:: /feature/_images/pepimages/cs_monitorexports_clickproductsclickexport.PNG
+.. image:: /feature/_images/pepimages/pxp_monitorexports_clickproductsclickexport.PNG
 |
+.. image:: /feature/_images/pepimages/pxp_monitorexports_clickproductsclickexport2.PNG
 |
-
-.. image:: /feature/_images/pepimages/cs_monitorexports_clickproductsclickexport3.PNG
+.. image:: /feature/_images/pepimages/pxp_monitorexports_clickproductsclickexport3.PNG
 |
 |
 
