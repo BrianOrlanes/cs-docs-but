@@ -24,7 +24,7 @@ The Product Classification via Taxonomies feature provides the functionality to 
 
 
 How-to: Product Classification via Taxonomies
-=================================================
+================================================
 To classify a product to multiple taxonomies, follow these steps:
 
 |
