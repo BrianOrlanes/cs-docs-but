@@ -30,12 +30,12 @@ To do this, follow these steps:
 
 * Go to *Products*.
 
-.. image:: /feature/_images/mdmimages/pxp_embeddedvariants_gotoproducts.PNG
+.. image:: /feature/_images/mdmimages/pxp_embeddedvariants_gotoprod2.PNG
 |
 |
 
 
-* Click on the "+" icon and select *Single Article*.
+* Click on the '+' icon and select *Single Article*.
 
 .. image:: /feature/_images/mdmimages/pxp_embeddedvariants_clickplusicon.PNG
 |
