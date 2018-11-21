@@ -33,27 +33,27 @@ To do this, follow these steps:
 
 |
 
-* Go to *PIM*.
+* Go to *Products*.
 
-.. image:: /feature/_images/mdmimages/cs_completeclone_gotopim.PNG
+.. image:: /feature/_images/mdmimages/pxp_completeclone_gotoproducts.PNG
 |
 |
 
 * Select the product to clone.
 
-.. image:: /feature/_images/mdmimages/cs_completeclone_selectproduct.PNG
+.. image:: /feature/_images/mdmimages/pxp_completeclone_selectproduct.PNG
 |
 |
 
-* Then, click **Create Clone**
+* Then, click on the **Create Clone** icon.
 
-.. image:: /feature/_images/mdmimages/cs_completeclone_clickcreateclone.PNG
+.. image:: /feature/_images/mdmimages/pxp_completeclone_clickcreateclone.PNG
 |
 |
 
 * A duplicate product having exactly the same properties is created.
 
-.. image:: /feature/_images/mdmimages/cs_completeclone_duplicateproduct.PNG
+.. image:: /feature/_images/mdmimages/pxp_completeclone_duplicateproduct.PNG
 |
 |
 
