@@ -6,6 +6,5 @@ Deployment and Product Guides
    :maxdepth: 4
 
    gettingstarted/index
-   settingup/index
    leadingconcepts/index
    usingtheplatform/index
