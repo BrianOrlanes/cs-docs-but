@@ -124,7 +124,7 @@ To do a contextual data transfer, follow these steps:
 
 * Click on the **Tags** icon from the *Data Transfer Properties* field to view the list of tags.
 
-.. image:: /feature/_images/mdmimages/pxp_contextualdatatransfer_clicktagicon2.PNG
+.. image:: /feature/_images/mdmimages/pxp_contextualdatatransfer_clicktagicon2b.PNG
 |
 |
 
