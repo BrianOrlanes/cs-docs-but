@@ -31,49 +31,43 @@ To do this feature, follow these steps:
 
 |
 
-* Go to *PIM*.
+* Log in and go to *Products*.
 
-.. image:: /feature/_images/mdmimages/cs_compareproductrevision_gotopim.PNG
+.. image:: /feature/_images/mdmimages/pxp_compareproductrevision_login.PNG
 |
 |
 
 
-* Select a product and click on the **Timeline Tab**.
+* Select a product and click on the **Timeline** tab.
 
-.. image:: /feature/_images/mdmimages/cs_compareproductrevision_selectaproduct.PNG
+.. image:: /feature/_images/mdmimages/pxp_compareproductrevision_selectaproduct.PNG
 |
 |
-.. image:: /feature/_images/mdmimages/cs_compareproductrevision_selectaproductandclicktimeline.PNG
+.. image:: /feature/_images/mdmimages/pxp_compareproductrevision_selectaproductandclicktimeline.PNG
 |
 |
 
 
 * View the revision timeline.
 
-.. image:: /feature/_images/mdmimages/cs_compareproductrevision_viewtimeline.PNG
+.. image:: /feature/_images/mdmimages/pxp_compareproductrevision_viewtimeline.PNG
 |
 |
 
 
-*  On the selected version, click **Compare with current version** icon.
+*  On the selected version, click on the **Compare with current version** icon.
 
-.. image:: /feature/_images/mdmimages/cs_compareproductrevision_onselectedclickcompare.PNG
+.. image:: /feature/_images/mdmimages/pxp_compareproductrevision_onselectedclickcompare.PNG
 |
 |
 
 
-* View the comparing versions. The attributes of the latest version in the timeline will be compared to the selected version.
+* View the compared versions. The attributes of the latest version in the timeline will be compared to the selected version.
 
-.. image:: /feature/_images/mdmimages/cs_cs_compareproductrevision_viewcomparingversion.PNG
+.. image:: /feature/_images/mdmimages/pxp_compareproductrevision_viewcomparingversion.PNG
 |
 |
 
-
-* Click **OK**.
-
-.. image:: /feature/_images/mdmimages/cs_cs_compareproductrevision_clickok.PNG
-|
-|
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
    :alt: Contentserv line
