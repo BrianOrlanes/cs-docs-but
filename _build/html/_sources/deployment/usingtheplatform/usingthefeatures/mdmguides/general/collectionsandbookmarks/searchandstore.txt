@@ -58,7 +58,7 @@ Storing a Bookmark
 |
 
 
-* Click the **Bookmarks** icon.
+* Click on the **Bookmarks** icon.
 
 .. image:: /feature/_images/mdmimages/pxp_searchandstorebookmarks_clickbookmarksicon.PNG
 |
@@ -105,7 +105,7 @@ Searching for a Bookmark
 |
 
 
-* Click the **Open** button.
+* Click on the **Open** button.
 
 .. image:: /feature/_images/mdmimages/pxp_searchandstorebookmarks_clickopen.PNG
 |
