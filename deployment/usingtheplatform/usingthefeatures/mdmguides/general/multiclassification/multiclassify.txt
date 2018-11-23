@@ -55,7 +55,7 @@ To multi-classify objects, follow these steps:
 |
 
 
-* To add an *Attribution (Non-Nature) class*, refer to the *Classes* section and click **Add Class**.
+* To add an *Attribution (Non-Nature) class*, refer to the *Classes* section and click **Add Class** button.
 
 .. image:: /feature/_images/mdmimages/pxp_multiclassification_toaddanattributionclass.PNG
 |
@@ -73,7 +73,7 @@ To multi-classify objects, follow these steps:
 |
 
 
-* To add another attribution class, click **Add Class** and select a class from the list.
+* To add another attribution class, click on the  **Add Class** button and select a class from the list.
 
 .. image:: /feature/_images/mdmimages/pxp_multiclassification_toaddanotherattri.PNG
 |

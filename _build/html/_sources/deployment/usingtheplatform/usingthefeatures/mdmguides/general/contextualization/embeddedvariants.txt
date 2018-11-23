@@ -53,7 +53,7 @@ To do this, follow these steps:
 |
 
 
-* Click the **Contexts** tab.
+* Click on the **Contexts** tab.
 
 .. image:: /feature/_images/mdmimages/pxp_embeddedvariants_clickcontexticon.PNG
 |
