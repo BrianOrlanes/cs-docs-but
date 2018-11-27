@@ -179,7 +179,131 @@
             
   <div class="section" id="s-add-jms-consumer-component">
 <span id="add-jms-consumer-component"></span><h1>Add JMS Consumer Component<a class="headerlink" href="#add-jms-consumer-component" title="Permalink to this headline">¶</a></h1>
-<p>text</p>
+<p>To add a JMS Consumer Component, follow the steps below:</p>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Start adding the notations to define the JMS integration import workflow. The <strong>JMS Consumer</strong> component is used to establish the connection between PXP system and the messaging server.
+To add the JMS Consumer component, select the Start Event notation and click on Task notation symbol.</li>
+</ul>
+<img alt="../../../../../../_images/pxp_importprocessaddjmsconsumercomponent_addnotations.PNG" src="../../../../../../_images/pxp_importprocessaddjmsconsumercomponent_addnotations.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Once you click on the <strong>Task</strong> notation, it gets added in the flow.</li>
+</ul>
+<img alt="../../../../../../_images/pxp_importprocessaddjmsconsumercomponent_clicktasknotation.PNG" src="../../../../../../_images/pxp_importprocessaddjmsconsumercomponent_clicktasknotation.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Adding Task notation simply defines the task. Click on the <strong>Change type</strong> icon to define what kind of a component it is.</li>
+</ul>
+<img alt="../../../../../../_images/pxp_importprocessaddjmsconsumercomponent_clickchangetype.PNG" src="../../../../../../_images/pxp_importprocessaddjmsconsumercomponent_clickchangetype.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>As soon as you click on the <strong>Change type</strong> icon, a pop-up window appears containing types of component.</li>
+</ul>
+<img alt="../../../../../../_images/pxp_importprocessaddjmsconsumercomponent_popupwindow.PNG" src="../../../../../../_images/pxp_importprocessaddjmsconsumercomponent_popupwindow.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Select the component <strong>JMS Consumer</strong> from the list.</li>
+</ul>
+<img alt="../../../../../../_images/pxp_importprocessaddjmsconsumercomponent_selectjmsconsumer.PNG" src="../../../../../../_images/pxp_importprocessaddjmsconsumercomponent_selectjmsconsumer.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Enter the name for the component.</li>
+</ul>
+<img alt="../../../../../../_images/pxp_importprocessaddjmsconsumercomponent_entername.PNG" src="../../../../../../_images/pxp_importprocessaddjmsconsumercomponent_entername.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Select the <strong>JMS Consumer</strong> component and enter the details of the <strong>JMS Consumer</strong> component in the third vertical section (as described in the following table).</li>
+</ul>
+<img alt="../../../../../../_images/pxp_importprocessaddjmsconsumercomponent_enterdetails.PNG" src="../../../../../../_images/pxp_importprocessaddjmsconsumercomponent_enterdetails.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<div class="section" id="s-jms-consumer-component-configuration">
+<span id="jms-consumer-component-configuration"></span><h2>JMS Consumer Component - Configuration<a class="headerlink" href="#jms-consumer-component-configuration" title="Permalink to this headline">¶</a></h2>
+<table class="docutils">
+<colgroup>
+<col width="4%" />
+<col width="10%" />
+<col width="85%" />
+</colgroup>
+<thead valign="bottom">
+<tr class="row-odd"><th class="head"><strong>Sr. No.</strong></th>
+<th class="head"><strong>Screen Element</strong></th>
+<th class="head"><strong>Description</strong></th>
+</tr>
+</thead>
+<tbody valign="top">
+<tr class="row-even"><td><ol class="first last arabic simple">
+<li></li>
+</ol>
+</td>
+<td>Consumer IP</td>
+<td>Provide the consumer IP address from where the PXP system will receive the message, which will contain the details in form of a JSON object.
+You need to prepend the protocol of the respective MQ server.
+For example, if you are using ActiveMQ, then use the tcp protocol in the beginning.
+Example of Consumer IP: <a class="reference external" href="tcp://0.0.0.0">tcp://0.0.0.0</a></td>
+</tr>
+<tr class="row-odd"><td><ol class="first last arabic simple" start="2">
+<li></li>
+</ol>
+</td>
+<td>Consumer Port</td>
+<td>Provide the consumer port number from where the PXP system will receive the message, which will contain the details in form of a JSON object.</td>
+</tr>
+<tr class="row-even"><td><ol class="first last arabic simple" start="3">
+<li></li>
+</ol>
+</td>
+<td>Consumer Queue Name</td>
+<td>Enter the consumer queue name, from where the PXP system will receive the message, which will contain the details in form of a JSON object.</td>
+</tr>
+<tr class="row-odd"><td><ol class="first last arabic simple" start="4">
+<li></li>
+</ol>
+</td>
+<td>Consumer Acknowledgement
+Queue</td>
+<td><p class="first">Once the PXP system receives the message from the consumer system, it will send the acknowledgment of the process.
+Consumer Acknowledgement Queue contains the queue name where the PXP system will send the acknowledgment of the completion of the process.
+There are following two types of acknowledgments:</p>
+<ul class="last simple">
+<li>Successful Completion: When the PXP system receives the message successfully, it will send the success message to the Consumer Acknowledgement Queue.</li>
+<li>Unsuccessful Completion: When the PXP system does not receive a proper message, or it receives the erroneous message, then it will send the acknowledgment with an error message.</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<img alt="Contentserv line" src="../../../../../../_images/line-png-32.PNG" />
+</div>
 </div>
 
 

@@ -1,5 +1,78 @@
 ====================================
 Add JMS Consumer Component
 ====================================
+To add a JMS Consumer Component, follow the steps below:
 
-text
+|
+
+* Start adding the notations to define the JMS integration import workflow. The **JMS Consumer** component is used to establish the connection between PXP system and the messaging server.
+  To add the JMS Consumer component, select the Start Event notation and click on Task notation symbol.
+
+.. image:: /tutorials/_images/pxp_importprocessaddjmsconsumercomponent_addnotations.PNG
+|
+|
+
+* Once you click on the **Task** notation, it gets added in the flow.
+
+.. image:: /tutorials/_images/pxp_importprocessaddjmsconsumercomponent_clicktasknotation.PNG
+|
+|
+
+* Adding Task notation simply defines the task. Click on the **Change type** icon to define what kind of a component it is.
+
+.. image:: /tutorials/_images/pxp_importprocessaddjmsconsumercomponent_clickchangetype.PNG
+|
+|
+
+* As soon as you click on the **Change type** icon, a pop-up window appears containing types of component.
+
+.. image:: /tutorials/_images/pxp_importprocessaddjmsconsumercomponent_popupwindow.PNG
+|
+|
+
+* Select the component **JMS Consumer** from the list.
+
+.. image:: /tutorials/_images/pxp_importprocessaddjmsconsumercomponent_selectjmsconsumer.PNG
+|
+|
+
+* Enter the name for the component.
+
+.. image:: /tutorials/_images/pxp_importprocessaddjmsconsumercomponent_entername.PNG
+|
+|
+
+* Select the **JMS Consumer** component and enter the details of the **JMS Consumer** component in the third vertical section (as described in the following table).
+
+.. image:: /tutorials/_images/pxp_importprocessaddjmsconsumercomponent_enterdetails.PNG
+|
+|
+
+JMS Consumer Component - Configuration
+==========================================
+
+===========   ==========================   ====================================================================================================================================================================================================================
+**Sr. No.**   **Screen Element**           **Description**
+===========   ==========================   ====================================================================================================================================================================================================================
+1.            Consumer IP                  Provide the consumer IP address from where the PXP system will receive the message, which will contain the details in form of a JSON object.
+                                           You need to prepend the protocol of the respective MQ server.
+                                           For example, if you are using ActiveMQ, then use the tcp protocol in the beginning.
+                                           Example of Consumer IP: tcp://0.0.0.0
+2.            Consumer Port                Provide the consumer port number from where the PXP system will receive the message, which will contain the details in form of a JSON object.
+3.            Consumer Queue Name          Enter the consumer queue name, from where the PXP system will receive the message, which will contain the details in form of a JSON object.
+4.            Consumer Acknowledgement     Once the PXP system receives the message from the consumer system, it will send the acknowledgment of the process.
+              Queue                        Consumer Acknowledgement Queue contains the queue name where the PXP system will send the acknowledgment of the completion of the process.
+                                           There are following two types of acknowledgments:
+
+                                           * Successful Completion: When the PXP system receives the message successfully, it will send the success message to the Consumer Acknowledgement Queue.
+                                           * Unsuccessful Completion: When the PXP system does not receive a proper message, or it receives the erroneous message, then it will send the acknowledgment with an error message.
+===========   ==========================   ====================================================================================================================================================================================================================
+
+|
+
+
+|
+
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line

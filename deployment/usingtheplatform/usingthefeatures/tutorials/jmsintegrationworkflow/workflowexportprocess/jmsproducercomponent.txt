@@ -1,5 +1,5 @@
 ====================================
-Add JMS Producer Component
+JMS Producer Component
 ====================================
 
 text
