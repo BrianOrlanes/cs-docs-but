@@ -52,5 +52,3 @@ select the last notation in the workflow and click on the   **Task** notation sy
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
    :alt: Contentserv line
-
- 

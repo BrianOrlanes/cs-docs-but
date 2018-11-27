@@ -8,7 +8,7 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
-  <title>Add JMS Producer Component &mdash; Contentserv  documentation</title>
+  <title>JMS Producer Component &mdash; Contentserv  documentation</title>
   
 
   
@@ -160,7 +160,7 @@
         
           <li><a href="index.html">Step-By-Step Guide for Configuring JMS Integration Workflow Export Process</a> &raquo;</li>
         
-      <li>Add JMS Producer Component</li>
+      <li>JMS Producer Component</li>
     
     
       <li class="wy-breadcrumbs-aside">
@@ -177,9 +177,131 @@
           <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
            <div itemprop="articleBody">
             
-  <div class="section" id="s-add-jms-producer-component">
-<span id="add-jms-producer-component"></span><h1>Add JMS Producer Component<a class="headerlink" href="#add-jms-producer-component" title="Permalink to this headline">¶</a></h1>
-<p>text</p>
+  <div class="section" id="s-jms-producer-component">
+<span id="jms-producer-component"></span><h1>JMS Producer Component<a class="headerlink" href="#jms-producer-component" title="Permalink to this headline">¶</a></h1>
+<ul class="simple">
+<li>The <strong>JMS Producer</strong> component is used to establish the connection between PXP system and the producer’s messaging server. PXP system will send the data to the producer’s messaging server. To add the <strong>JMS Producer</strong> component, select the last notation in the workflow and click on the   <strong>Task</strong> notation symbol.</li>
+</ul>
+<img alt="../../../../../../_images/pxp_jmsproducercomponent_jmsproducercomponentestablish.PNG" src="../../../../../../_images/pxp_jmsproducercomponent_jmsproducercomponentestablish.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Once you click on the <strong>Task</strong> notation, it gets added in the flow.</li>
+</ul>
+<img alt="../../../../../../_images/pxp_jmsproducercomponent_clicktasnotation.PNG" src="../../../../../../_images/pxp_jmsproducercomponent_clicktasnotation.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Define the type of component by clicking on the <strong>Change type</strong> icon.</li>
+</ul>
+<img alt="../../../../../../_images/pxp_jmsproducercomponent_definetypecomponent.PNG" src="../../../../../../_images/pxp_jmsproducercomponent_definetypecomponent.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>As soon as you click on the  <strong>Change type</strong> icon, a pop window appears containing types of component.</li>
+</ul>
+<img alt="../../../../../../_images/pxp_jmsproducercomponent_assoon.PNG" src="../../../../../../_images/pxp_jmsproducercomponent_assoon.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Select the component <strong>JMS Producer</strong> from the list.</li>
+</ul>
+<img alt="../../../../../../_images/pxp_jmsproducercomponent_selectjmsproducer.PNG" src="../../../../../../_images/pxp_jmsproducercomponent_selectjmsproducer.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Enter a name to the component.</li>
+</ul>
+<img alt="../../../../../../_images/pxp_jmsproducercomponent_entername.PNG" src="../../../../../../_images/pxp_jmsproducercomponent_entername.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Select the <strong>JMS Producer</strong> component and enter the details of the <strong>JMS Producer</strong> component as described in the following table in the third vertical section.</li>
+</ul>
+<img alt="../../../../../../_images/pxp_jmsproducercomponent_selectjmsproducerenterdetails.PNG" src="../../../../../../_images/pxp_jmsproducercomponent_selectjmsproducerenterdetails.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<div class="section" id="s-jms-producer-component-configuration">
+<span id="jms-producer-component-configuration"></span><h2>JMS Producer Component - Configuration<a class="headerlink" href="#jms-producer-component-configuration" title="Permalink to this headline">¶</a></h2>
+<table class="docutils">
+<colgroup>
+<col width="4%" />
+<col width="10%" />
+<col width="85%" />
+</colgroup>
+<thead valign="bottom">
+<tr class="row-odd"><th class="head"><strong>Sr. No.</strong></th>
+<th class="head"><strong>Screen Element</strong></th>
+<th class="head"><strong>Description</strong></th>
+</tr>
+</thead>
+<tbody valign="top">
+<tr class="row-even"><td><ol class="first last arabic simple">
+<li></li>
+</ol>
+</td>
+<td>Consumer IP</td>
+<td>Provide the consumer IP address from where the PXP system will receive the message,
+which will contain the details in form of a JSON object.
+You need to prepend the protocol of the respective MQ server.
+For example, if you are using ActiveMQ,
+then use the tcp protocol in the beginning.
+<strong>Example of Consumer IP</strong>: <a class="reference external" href="tcp://0.0.0.0">tcp://0.0.0.0</a></td>
+</tr>
+<tr class="row-odd"><td><ol class="first last arabic simple" start="2">
+<li></li>
+</ol>
+</td>
+<td>Consumer Port</td>
+<td>Provide the consumer port number from where the PXP system will receive the message,
+which will contain the details in form of a JSON object.</td>
+</tr>
+<tr class="row-even"><td><ol class="first last arabic simple" start="3">
+<li></li>
+</ol>
+</td>
+<td>Consumer Queue Name</td>
+<td>Enter the consumer queue name, from where the PXP system will receive the message,
+which will contain the details in form of a JSON object.</td>
+</tr>
+<tr class="row-odd"><td><ol class="first last arabic simple" start="4">
+<li></li>
+</ol>
+</td>
+<td>Consumer Acknowledgement
+Queue</td>
+<td>Once the PXP system sends the message to the producer system,
+then the PXP system will wait for the acknowledgement from the producer system.
+The producer system will send the acknowledgment of the process to the PXP system.
+<strong>Producer Acknowledgement Queue</strong> contains the queue name from where the PXP system will receive
+the acknowledgment of the completion of the process.
+There are following two types of acknowledgments:
+*    <strong>Successful Completion</strong>: When the producer system receives the message successfully,
+it will send the success message to the PXP system.
+*    <strong>Unsuccessful Completion</strong>: When the producer system does not receive a proper message,
+or it receives the erroneous message, then it will send the acknowledgment with an error message.</td>
+</tr>
+</tbody>
+</table>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<img alt="Contentserv line" src="../../../../../../_images/line-png-32.PNG" />
+</div>
 </div>
 
 
