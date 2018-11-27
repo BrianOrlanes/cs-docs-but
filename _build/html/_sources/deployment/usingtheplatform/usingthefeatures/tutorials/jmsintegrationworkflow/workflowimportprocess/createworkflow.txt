@@ -1,0 +1,26 @@
+====================================
+Create Workflow
+====================================
+To create a workflow, follow the steps below:
+
+|
+
+* Log in and click on the **Administration** icon.
+
+.. image:: /tutorials/_images/pxp_jmsintegrationworflow_login.PNG
+|
+|
+
+* Navigate to **Data Integration** -> **Workflow** menu.
+
+.. image:: /tutorials/_images/pxp_jmsintegrationworflow_navigate.PNG
+|
+|
+
+
+
+|
+
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line

@@ -1,0 +1,21 @@
+===========================================================================
+Step-By-Step Guide for Configuring JMS Integration Workflow Import Process
+===========================================================================
+
+
+.. toctree::
+   :maxdepth: 1
+
+   createworkflow
+   addjmsconsumercomponent
+   addjmsarticleimportcomponent
+   addjmsassetimportcomponent
+   addtransfercomponent
+   addacknowledgementcomponent
+   addendevent
+
+
+
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line

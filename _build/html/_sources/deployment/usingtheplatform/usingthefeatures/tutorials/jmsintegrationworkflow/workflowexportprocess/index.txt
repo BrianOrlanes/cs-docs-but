@@ -1,0 +1,18 @@
+===========================================================================
+Step-By-Step Guide for Configuring JMS Integration Workflow Export Process
+===========================================================================
+
+
+.. toctree::
+   :maxdepth: 1
+
+   createworkflow
+   addjmsarticleexportcomponent
+   jmsproducercomponent
+   addendevent
+
+
+
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line

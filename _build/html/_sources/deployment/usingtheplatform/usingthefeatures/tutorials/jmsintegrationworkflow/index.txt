@@ -1,0 +1,20 @@
+=============================
+JMS Integration Workflow
+=============================
+
+JMS (Java Message Service) mechanism is used to communicate with various systems in an enterprise.
+JMS is mainly used to send and receive messages from one application to another.
+A system sends the message containing the JSON object to another system.
+The JSON object will contain all the details of the entities.
+
+
+
+.. toctree::
+   :maxdepth: 1
+
+   workflowimportprocess/index
+   workflowexportprocess/index
+
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line
