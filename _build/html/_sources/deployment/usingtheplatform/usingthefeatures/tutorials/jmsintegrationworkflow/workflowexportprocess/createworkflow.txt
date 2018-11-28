@@ -1,5 +1,81 @@
 ====================================
 Create Workflow
 ====================================
+To create a workflow, follow the steps below:
 
-text
+|
+
+* Log into the application and click on the   **Administration** icon.
+
+.. image:: /tutorials/_images/pxp_exportprocesscreateworkflow_clickadministrationa.PNG
+
+|
+|
+
+* Navigate to **Data Integration** then **Workflow**  menu.
+
+.. image:: /tutorials/_images/pxp_exportprocesscreateworkflow_navigatedatainteg.PNG
+
+|
+|
+
+Click the ‘+’ icon to create the workflow.
+
+.. image:: /tutorials/_images/pxp_exportprocesscreateworkflow_clickplus.PNG
+
+|
+|
+
+* Enter name and code from the Create pop-up window. Select **JMS integration Workflow** from Event Type.
+  Click on the  **Create** button.
+
+.. image:: /tutorials/_images/pxp_exportprocesscreateworkflow_enternamecode.PNG
+
+|
+|
+
+*	A pop-up window appears, where you can define the workflow for JMS integration export process.
+
+.. image:: /tutorials/_images/pxp_exportprocesscreateworkflow_popupwindow.PNG
+
+|
+|
+
+* The *Graph* section in a pop-up window is divided into three vertical sections.
+  First two vertical sections are called Workflow Modeler.
+  It allows to configure workflows using BPMN 2.0 modeling notation.
+  This will allow users to model the complex process using universally known and standardized BPMN 2.0 notation.
+  The third vertical section contains the details of each component of JMS integration.
+
+.. image:: /tutorials/_images/pxp_exportprocesscreateworkflow_thegraphsection.PNG
+
+|
+|
+ 
+* Drag and drop the notations in *Workflow Modeler* to define JMS integration export process.
+  The workflow starts with the *Start Event*. It acts as a process trigger.
+  So, the first element in the workflow will be the *Start Event*.
+
+ .. image:: /tutorials/_images/pxp_exportprocesscreateworkflow_dragdropnotations.PNG
+
+|
+|
+
+* You will see the notation for *Start Event*.
+  Click on the  notation and then click on the **Change type** icon and you will see the list of component types.
+
+.. image:: /tutorials/_images/pxp_exportprocesscreateworkflow_whenyouclickchangetype.PNG
+
+|
+|
+
+* When you click on the **Change type** icon you will see the list of component types.
+  Select the **Process Start** component type from the list.
+
+.. image:: /tutorials/_images/pxp_exportprocesscreateworkflow_navigateb.PNG
+
+|
+|
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line
