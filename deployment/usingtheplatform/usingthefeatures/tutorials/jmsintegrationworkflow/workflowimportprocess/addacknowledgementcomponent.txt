@@ -1,5 +1,47 @@
 ====================================
 Add Acknowledgement Component
 ====================================
+To add an Acknowledgement Component, follow the steps below:
 
-text
+|
+
+* The Acknowledgement component is used to acknowledge to the consumer after receiving the message from the consumer.
+  To add the Acknowledgement component, select the last notation in the workflow and click on Task notation symbol.
+
+.. image:: /tutorials/_images/pxp_importprocessaddacknowledgement_selectlastnotation.PNG
+|
+|
+
+* When you click on the **Task** notation, it gets added in the flow.
+
+.. image:: /tutorials/_images/pxp_importprocessaddacknowledgement_clicktasknotation.PNG
+|
+|
+
+* Click on the **Change type** icon and select the component.
+
+.. image:: /tutorials/_images/pxp_importprocessaddacknowledgement_clickchangetype.PNG
+|
+|
+
+* As soon as you click on the **Change type** icon, a pop-up window appears containing types of component.
+
+.. image:: /tutorials/_images/pxp_importprocessaddacknowledgement_popupwindow.PNG
+|
+|
+
+* Select the **JMS Consumer Acknowledgement** component from the list.
+
+.. image:: /tutorials/_images/pxp_importprocessaddacknowledgement_selecttransfer.PNG
+|
+|
+
+* Enter the name for the component.
+
+.. image:: /tutorials/_images/pxp_importprocessaddacknowledgement_entername.PNG
+|
+|
+
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line

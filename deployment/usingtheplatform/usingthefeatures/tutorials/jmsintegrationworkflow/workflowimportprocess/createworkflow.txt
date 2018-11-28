@@ -1,6 +1,6 @@
-====================================
+================
 Create Workflow
-====================================
+================
 To create a workflow, follow the steps below:
 
 |
@@ -61,9 +61,6 @@ To create a workflow, follow the steps below:
 
 .. image:: /tutorials/_images/pxp_importprocesscreateworkflow_selectprocessstart.PNG
 |
-|
-
-
 |
 
 

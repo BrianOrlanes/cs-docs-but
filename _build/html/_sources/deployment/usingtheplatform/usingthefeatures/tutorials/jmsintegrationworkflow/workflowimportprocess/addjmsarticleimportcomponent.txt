@@ -1,7 +1,7 @@
 ====================================
 Add JMS Article Import Component
 ====================================
-To add a JMS Article Component, follow the steps below:
+To add a JMS Article Import Component, follow the steps below:
 
 |
 
@@ -41,3 +41,8 @@ To add a JMS Article Component, follow the steps below:
 .. image:: /tutorials/_images/pxp_importprocessaddjmsarticlecomponent_entername.PNG
 |
 |
+
+
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line

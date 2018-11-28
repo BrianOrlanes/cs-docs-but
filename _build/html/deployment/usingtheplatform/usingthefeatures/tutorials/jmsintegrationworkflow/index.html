@@ -175,10 +175,29 @@
             
   <div class="section" id="s-jms-integration-workflow">
 <span id="jms-integration-workflow"></span><h1>JMS Integration Workflow<a class="headerlink" href="#jms-integration-workflow" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="s-purpose">
+<span id="purpose"></span><h2>Purpose<a class="headerlink" href="#purpose" title="Permalink to this headline">¶</a></h2>
+<p>The purpose of this document is to explain the details of the JMS integration workflow.
+It narrates what is the JMS integration workflow. It also helps the user in a step-by-step process to configure the JMS integration workflow for onboarding and offboarding.</p>
+</div>
+<div class="section" id="s-prerequisites">
+<span id="prerequisites"></span><h2>Prerequisites<a class="headerlink" href="#prerequisites" title="Permalink to this headline">¶</a></h2>
+<p>The purpose of this document is to explain the details of the JMS integration workflow.
+It</p>
+</div>
+<div class="section" id="s-overview-of-jms-integration-workflow">
+<span id="overview-of-jms-integration-workflow"></span><h2>Overview of JMS Integration Workflow<a class="headerlink" href="#overview-of-jms-integration-workflow" title="Permalink to this headline">¶</a></h2>
 <p>JMS (Java Message Service) mechanism is used to communicate with various systems in an enterprise.
 JMS is mainly used to send and receive messages from one application to another.
 A system sends the message containing the JSON object to another system.
 The JSON object will contain all the details of the entities.</p>
+<p><strong>JMS Integration Workflow for Onboarding (Import)</strong>: The PXP system will receive the message from the consumer messaging server while onboarding.
+The message contains the JSON object, which contains the details of different entities of the system like an article, assets, relationships, and so on.
+The PXP system will fetch all the product details from the JSON object, and it will onboard all the products and other details into the system.
+Once the PXP system receives the message from the consumer system, it will send the acknowledgment to the consumer system for the completion of the process.</p>
+<p><strong>JMS Integration Workflow for Offboarding (Export)</strong>: In case of offboarding, the PXP system will send the message to the producer’s messaging server.
+The message contains the JSON object, which contains the details of different entities of the PXP system like an article, assets, relationships, and so on.
+Once the producer system receives the message from the PXP system, it will send the acknowledgment to the PXP system for the completion of the process.</p>
 <div class="toctree-wrapper compound">
 <ul>
 <li class="toctree-l1"><a class="reference internal" href="workflowimportprocess/index.html">Step-By-Step Guide for Configuring JMS Integration Workflow Import Process</a></li>
@@ -186,6 +205,7 @@ The JSON object will contain all the details of the entities.</p>
 </ul>
 </div>
 <img alt="Contentserv line" src="../../../../../_images/line-png-32.PNG" />
+</div>
 </div>
 
 
@@ -209,7 +229,7 @@ The JSON object will contain all the details of the entities.</p>
   <div role="contentinfo">
     <p>
         &copy; Copyright CS Group.
-      Last updated on Nov 27, 2018.
+      Last updated on Nov 28, 2018.
 
     </p>
   </div>

@@ -2,10 +2,31 @@
 JMS Integration Workflow
 =============================
 
+Purpose
+========
+The purpose of this document is to explain the details of the JMS integration workflow.
+It narrates what is the JMS integration workflow. It also helps the user in a step-by-step process to configure the JMS integration workflow for onboarding and offboarding.
+
+Prerequisites
+==============
+The purpose of this document is to explain the details of the JMS integration workflow.
+It
+
+Overview of JMS Integration Workflow
+=====================================
 JMS (Java Message Service) mechanism is used to communicate with various systems in an enterprise.
 JMS is mainly used to send and receive messages from one application to another.
 A system sends the message containing the JSON object to another system.
 The JSON object will contain all the details of the entities.
+
+**JMS Integration Workflow for Onboarding (Import)**: The PXP system will receive the message from the consumer messaging server while onboarding.
+The message contains the JSON object, which contains the details of different entities of the system like an article, assets, relationships, and so on.
+The PXP system will fetch all the product details from the JSON object, and it will onboard all the products and other details into the system.
+Once the PXP system receives the message from the consumer system, it will send the acknowledgment to the consumer system for the completion of the process.
+
+**JMS Integration Workflow for Offboarding (Export)**: In case of offboarding, the PXP system will send the message to the producer’s messaging server.
+The message contains the JSON object, which contains the details of different entities of the PXP system like an article, assets, relationships, and so on.
+Once the producer system receives the message from the PXP system, it will send the acknowledgment to the PXP system for the completion of the process.
 
 
 
