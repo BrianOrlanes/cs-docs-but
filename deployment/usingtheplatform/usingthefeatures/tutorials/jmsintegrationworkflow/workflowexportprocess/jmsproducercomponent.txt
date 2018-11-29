@@ -5,7 +5,7 @@ JMS Producer Component
 
 * The **JMS Producer** component is used to establish the connection between PXP system and the producer’s messaging server. PXP system will send the data to the producer’s messaging server. To add the **JMS Producer** component, select the last notation in the workflow and click on the   **Task** notation symbol.
 
-.. image:: /tutorials/_images/pxp_jmsproducercomponent_jmsproducercomponentestablish.PNG
+.. image:: /tutorials/_images/pxp_exportprocessjmsproducercomponent_jmsproducercomponentestablish.PNG
 
 |
 |
@@ -13,7 +13,7 @@ JMS Producer Component
 
 * Once you click on the **Task** notation, it gets added in the flow.
 
-.. image:: /tutorials/_images/pxp_jmsproducercomponent_clicktasnotation.PNG
+.. image:: /tutorials/_images/pxp_exportprocessjmsproducercomponent_clicktasknotation.PNG
 
 |
 |
@@ -21,36 +21,36 @@ JMS Producer Component
 * Define the type of component by clicking on the **Change type** icon.
 
 
-.. image:: /tutorials/_images/pxp_jmsproducercomponent_definetypecomponent.PNG
+.. image:: /tutorials/_images/pxp_exportprocessjmsproducercomponent_definetypecomponent.PNG
 
 |
 |
 
-*  As soon as you click on the  **Change type** icon, a pop window appears containing types of component.
+*  A pop up window appears containing different types of the component.
 
 
-.. image:: /tutorials/_images/pxp_jmsproducercomponent_assoon.PNG
+.. image:: /tutorials/_images/exportprocessjmsproducercomponent_componentwindow.PNG
 
 |
 |
 
 * Select the component **JMS Producer** from the list.
 
-.. image:: /tutorials/_images/pxp_jmsproducercomponent_selectjmsproducer.PNG
+.. image:: /tutorials/_images/pxp_exportprocessjmsproducercomponent_selectjmsproducer.PNG
 
 |
 |
 
 * Enter a name to the component.
 
-.. image:: /tutorials/_images/pxp_jmsproducercomponent_entername.PNG
+.. image:: /tutorials/_images/pxp_exportprocessjmsproducercomponent_entername.PNG
 
 |
 |
 
 * Select the **JMS Producer** component and enter the details of the **JMS Producer** component as described in the following table in the third vertical section.
 
-.. image:: /tutorials/_images/pxp_jmsproducercomponent_selectjmsproducerenterdetails.PNG
+.. image:: /tutorials/_images/pxp_exportprocessjmsproducercomponent_selectjmsproducerenterdetails.PNG
 
 |
 |
