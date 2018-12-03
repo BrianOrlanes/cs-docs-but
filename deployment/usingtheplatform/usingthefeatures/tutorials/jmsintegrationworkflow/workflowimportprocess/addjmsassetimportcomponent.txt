@@ -6,7 +6,7 @@ To add a JMS Asset Import Component, follow the steps below:
 |
 
 * The JMS Asset Import component is used to import the assets via JMS.
-  To add the JMS Asset Import component, select the last notation in the workflow and click on Task notation symbol.
+  To add the JMS Asset Import component, select the last notation in the workflow and click on the **Task** notation.
 
 .. image:: /tutorials/_images/pxp_importprocessaddjmsassetcomponent_selectlastnotation.PNG
 |
@@ -24,7 +24,7 @@ To add a JMS Asset Import Component, follow the steps below:
 |
 |
 
-* As soon as you click on the **Change type** icon, a pop-up window appears containing types of component.
+* As soon as you click on the **Change type** icon, a pop-up window appears containing the types of components.
 
 .. image:: /tutorials/_images/pxp_importprocessaddjmsassetcomponent_popupwindow.PNG
 |

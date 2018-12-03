@@ -6,7 +6,7 @@ To add a Transfer Component, follow the steps below:
 |
 
 * The Transfer component is used to transfer the products to PIM, Onboarding portal, Offboarding portal, or to the Data Integration portal.
-  To add the Transfer component, select the last notation in the workflow and click on Task notation symbol.
+  To add the Transfer component, select the last notation in the workflow and click on the **Task** notation.
 
 .. image:: /tutorials/_images/pxp_importprocessaddtransfercomponent_selectlastnotation.PNG
 |
@@ -24,7 +24,7 @@ To add a Transfer Component, follow the steps below:
 |
 |
 
-* As soon as you click on the **Change type** icon, a pop-up window appears containing types of component.
+* As soon as you click on the **Change type** icon, a pop-up window appears containing the types of components.
 
 .. image:: /tutorials/_images/pxp_importprocessaddtransfercomponent_popupwindow.PNG
 |

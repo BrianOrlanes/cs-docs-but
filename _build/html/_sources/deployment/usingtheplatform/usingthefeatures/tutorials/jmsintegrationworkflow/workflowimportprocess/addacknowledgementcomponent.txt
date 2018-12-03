@@ -6,7 +6,7 @@ To add an Acknowledgement Component, follow the steps below:
 |
 
 * The Acknowledgement component is used to acknowledge to the consumer after receiving the message from the consumer.
-  To add the Acknowledgement component, select the last notation in the workflow and click on Task notation symbol.
+  To add the Acknowledgement component, select the last notation in the workflow and click on **Task** notation.
 
 .. image:: /tutorials/_images/pxp_importprocessaddacknowledgement_selectlastnotation.PNG
 |
@@ -24,7 +24,7 @@ To add an Acknowledgement Component, follow the steps below:
 |
 |
 
-* As soon as you click on the **Change type** icon, a pop-up window appears containing types of component.
+* As soon as you click on the **Change type** icon, a pop-up window appears containing the types of components.
 
 .. image:: /tutorials/_images/pxp_importprocessaddacknowledgement_popupwindow.PNG
 |

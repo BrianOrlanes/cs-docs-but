@@ -6,7 +6,7 @@ To add an End Event and Mark Executable, follow the steps below:
 |
 
 * Once you add all the components in the workflow, you need to end the workflow using the **End Event**.
-  For this, select the last component and click on **End Event** notation.
+  For this, select the last component and click on the **End Event** notation.
 
 .. image:: /tutorials/_images/pxp_importprocessaddendevent_selectlastnotation.PNG
 |
@@ -18,14 +18,14 @@ To add an End Event and Mark Executable, follow the steps below:
 |
 |
 
-* Once you add all the components ad define the workflow, select the **Executable** option. It is necessary to trigger the process.
+* Once you added all the components and defined the workflow, select the **Executable** option. It is necessary to trigger the process.
 
 .. image:: /tutorials/_images/pxp_importprocessaddendevent_selectexecutable.PNG
 |
 |
 
-*Note: You can add different components like JMS Supplier Import, JMS Relationship Import, JMS Variant as per your requirements.
-The workflow for these components will be same as JMS Article Import and JMS Asset Import as described in sections Add JMS Article Import and Add JMS Asset Import.*
+*Note: You can add different components like JMS Supplier Import, JMS Relationship Import, JMS Variant depending on your requirements.
+The workflow for these components will be the same as that of JMS Article Import and JMS Asset Import as described in the sections Add JMS Article Import and Add JMS Asset Import.*
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
    :alt: Contentserv line

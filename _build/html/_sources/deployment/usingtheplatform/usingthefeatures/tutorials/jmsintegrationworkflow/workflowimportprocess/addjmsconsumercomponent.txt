@@ -6,7 +6,7 @@ To add a JMS Consumer Component, follow the steps below:
 |
 
 * Start adding the notations to define the JMS integration import workflow. The **JMS Consumer** component is used to establish the connection between PXP system and the messaging server.
-  To add the JMS Consumer component, select the Start Event notation and click on Task notation symbol.
+  To add the JMS Consumer component, select the **Start Event** notation and click on the **Task** notation.
 
 .. image:: /tutorials/_images/pxp_importprocessaddjmsconsumercomponent_addnotations.PNG
 |
@@ -18,13 +18,13 @@ To add a JMS Consumer Component, follow the steps below:
 |
 |
 
-* Adding Task notation simply defines the task. Click on the **Change type** icon to define what kind of a component it is.
+* Adding the **Task** notation simply defines the task. Click on the **Change type** icon to define what kind of a component it is.
 
 .. image:: /tutorials/_images/pxp_importprocessaddjmsconsumercomponent_clickchangetype.PNG
 |
 |
 
-* As soon as you click on the **Change type** icon, a pop-up window appears containing types of component.
+* As soon as you click on the **Change type** icon, a pop-up window appears containing the types of components.
 
 .. image:: /tutorials/_images/pxp_importprocessaddjmsconsumercomponent_popupwindow.PNG
 |
@@ -42,7 +42,7 @@ To add a JMS Consumer Component, follow the steps below:
 |
 |
 
-* Select the **JMS Consumer** component and enter the details of the **JMS Consumer** component in the third vertical section (as described in the following table).
+* Select the **JMS Consumer** component and enter the details of the **JMS Consumer** component in the third vertical section (as described in the table below).
 
 .. image:: /tutorials/_images/pxp_importprocessaddjmsconsumercomponent_enterdetails.PNG
 |

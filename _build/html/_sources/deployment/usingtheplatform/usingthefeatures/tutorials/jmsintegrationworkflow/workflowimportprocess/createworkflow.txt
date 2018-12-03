@@ -57,7 +57,7 @@ To create a workflow, follow the steps below:
 |
 |
 
-* When you click on the Change type icon you will see the list of component types. Select the **Process Start** component type from the list.
+* When you click on the **Change type** icon you will see the list of component types. Select the **Process Start** component type from the list.
 
 .. image:: /tutorials/_images/pxp_importprocesscreateworkflow_selectprocessstart.PNG
 |
