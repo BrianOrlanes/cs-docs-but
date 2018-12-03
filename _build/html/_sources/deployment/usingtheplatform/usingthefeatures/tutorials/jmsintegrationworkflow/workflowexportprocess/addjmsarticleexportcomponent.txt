@@ -3,8 +3,9 @@ Add JMS Article Export Component
 ====================================
 
 * Start adding the notations to define the JMS integration export workflow.
-  The **JMS Article Export** component is used to export the articles via JMS. To add the **JMS Article Export** component,
-  select the last notation in the workflow and click on the   **Task** notation symbol.
+  The **JMS Article Export** component is used to export the articles via JMS.
+  To add the **JMS Article Export** component,   select the last notation in the
+  workflow and click on the   **Task** notation symbol.
 
 .. image:: /tutorials/_images/pxp_exportprocessaddjmsarticleexportcomponent_navigatestartaddingb.PNG
 
@@ -18,7 +19,7 @@ Add JMS Article Export Component
 |
 |
 
-*  Click on the **Change type** icon and select the component.
+* Click on the **Change type** icon and select the component.
 
 .. image:: /tutorials/_images/pxp_exportprocessaddjmsarticleexportcomponent_clickchangetypeb.PNG
 

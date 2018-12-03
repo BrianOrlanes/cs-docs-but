@@ -180,10 +180,8 @@
   <div class="section" id="s-add-end-event-and-mark-executable">
 <span id="add-end-event-and-mark-executable"></span><h1>Add End Event and Mark Executable<a class="headerlink" href="#add-end-event-and-mark-executable" title="Permalink to this headline">¶</a></h1>
 <ul class="simple">
-<li>Once you add all the components in the workflow, you need to end the workflow using the <strong>End Event</strong>.</li>
+<li>Once you add all the components in the workflow, you need to end the workflow using the <strong>End Event</strong>. For this, select the last component and click on the <strong>End Event</strong> notation.</li>
 </ul>
-<blockquote>
-<div>For this, select the last component and click on the  <strong>End Event</strong> notation.</div></blockquote>
 <img alt="../../../../../../_images/pxp_exportprocessaddendevent_addallcomponents.PNG" src="../../../../../../_images/pxp_exportprocessaddendevent_addallcomponents.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
@@ -207,7 +205,161 @@
 <div class="line"><br /></div>
 <div class="line"><br /></div>
 </div>
+<div class="section" id="s-jms-article-export-property-configuration">
+<span id="jms-article-export-property-configuration"></span><h2>JMS Article Export – Property Configuration<a class="headerlink" href="#jms-article-export-property-configuration" title="Permalink to this headline">¶</a></h2>
+<table class="docutils">
+<colgroup>
+<col width="4%" />
+<col width="10%" />
+<col width="85%" />
+</colgroup>
+<thead valign="bottom">
+<tr class="row-odd"><th class="head"><strong>Sr. No.</strong></th>
+<th class="head"><strong>Screen Element</strong></th>
+<th class="head"><strong>Description</strong></th>
+</tr>
+</thead>
+<tbody valign="top">
+<tr class="row-even"><td><ol class="first last arabic simple">
+<li></li>
+</ol>
+</td>
+<td>Sheet Name</td>
+<td><dl class="first last docutils">
+<dt>The offboarding file is the Excel file. Excel file may contain different sheets in it.</dt>
+<dd>Here, we need to mention the sheet name which contains the articles details.</dd>
+</dl>
+</td>
+</tr>
+<tr class="row-odd"><td><ol class="first last arabic simple" start="2">
+<li></li>
+</ol>
+</td>
+<td><dl class="first last docutils">
+<dt>Primary</dt>
+<dd>Key Column</dd>
+</dl>
+</td>
+<td><blockquote class="first">
+<div>All the articles in an offboarding file have unique identification or IDs.</div></blockquote>
+<dl class="last docutils">
+<dt>Whithin the <strong>Primary Key Column</strong>, we need to define the column name of a sheet</dt>
+<dd>which contains the unique IDs of the products.
+Therefore, a system will fetch all the IDs of the articles from the defined column of the sheet.</dd>
+</dl>
+</td>
+</tr>
+<tr class="row-even"><td><ol class="first last arabic simple" start="3">
+<li></li>
+</ol>
+</td>
+<td>Type</td>
+<td><blockquote class="first">
+<div><blockquote>
+<div><dl class="docutils">
+<dt>Here we need to select one of the following options:</dt>
+<dd><ul class="first simple">
+<li><strong>Single Class</strong>: Select this option, if all the articles in an offboarding</li>
+</ul>
+<blockquote class="last">
+<div>file use the same class of the system. For example,</div></blockquote>
+</dd>
+</dl>
+</div></blockquote>
+<dl class="docutils">
+<dt>if all the articles are <strong>Individual Article</strong> or all the products are <strong>PID</strong>.</dt>
+<dd><ul class="first simple">
+<li><strong>Column Class</strong>: Select this option, if articles in an offboarding file</li>
+</ul>
+<blockquote class="last">
+<div>use different types of classes of the system. For example, there are two products in a sheet;
+one is the Individual Article and the other one is the <strong>PID</strong>.</div></blockquote>
+</dd>
+</dl>
+<p>The value of this field is based on the selection of <strong>Type</strong> field:</p>
+</div></blockquote>
+<ul class="simple">
+<li><strong>Class ID</strong>: When all the articles in an offboarding file use the same class of the system,</li>
+</ul>
+<blockquote class="last">
+<div>we select the <strong>Single Class</strong> option from the <strong>Type</strong> field.</div></blockquote>
+</td>
+</tr>
+<tr class="row-odd"><td><ol class="first last arabic simple" start="4">
+<li></li>
+</ol>
+</td>
+<td>Class ID/
+Class Column</td>
+<td><ul class="first last simple">
+<li><strong>Class Column</strong>: When articles in an offboarding file use different classes of the system,
+we select the <strong>Column Class</strong> option from the Type field. In this case,
+we need to enter the column name of the sheet,
+which contains the IDs of all the classes in a <strong>Class Column</strong> field.</li>
+</ul>
+</td>
+</tr>
+<tr class="row-even"><td><ol class="first last arabic simple" start="5">
+<li></li>
+</ol>
+</td>
+<td>Multiclassification</td>
+<td>Select this option, if defined articles in a sheet use non-nature classes.</td>
+</tr>
+<tr class="row-odd"><td><ol class="first last arabic simple" start="6">
+<li></li>
+</ol>
+</td>
+<td>Type</td>
+<td><p class="first">As soon as you select <strong>MultiClassification</strong> option, this option will be visible.
+Here, we need to select one of the options from below mentioned options:
+*   <strong>Multiple Class</strong>: Select this option, if articles in an offboarding file</p>
+<blockquote>
+<div>use multiple system generated non-nature classes.</div></blockquote>
+<ul class="simple">
+<li><strong>Column Class</strong>: Select this option, if articles in an offboarding file</li>
+</ul>
+<blockquote class="last">
+<div>use multiple non-nature classes which are yet to be created.</div></blockquote>
+</td>
+</tr>
+<tr class="row-even"><td><ol class="first last arabic simple" start="7">
+<li></li>
+</ol>
+</td>
+<td>Select Classes/
+Column Name</td>
+<td><p class="first">The value of this field is based on the selection of Type field:
+*   <strong>Select Classes</strong>: When all the articles in an offboarding file</p>
+<blockquote>
+<div>use multiple system generated non-nature classes,
+we select the <strong>Multiple Class</strong> option from the <strong>Type</strong> field.
+In this case, we need to select that system generated classes from the list.</div></blockquote>
+<ul class="last simple">
+<li><strong>Class Column Name</strong>: When articles in an offboarding file
+use multiple non-nature classes which are yet to be created,
+we select the Column Class option from the <strong>Type</strong> field.
+In this case, we need to enter the column name of a sheet,
+which contains the IDs of all the non-nature classes in the <strong>Class Column Name</strong> field
+This option is used to select the image source. Select from the following options from where you want to import the image:</li>
+</ul>
+</td>
+</tr>
+<tr class="row-odd"><td><ol class="first last arabic simple" start="8">
+<li></li>
+</ol>
+</td>
+<td>Taxonomies</td>
+<td>Here we need to enter the column name of a sheet of an offboarding file
+which contains the taxonomy details.</td>
+</tr>
+</tbody>
+</table>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
 <img alt="Contentserv line" src="../../../../../../_images/line-png-32.PNG" />
+</div>
 </div>
 
 
@@ -231,7 +383,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright CS Group.
-      Last updated on Nov 29, 2018.
+      Last updated on Dec 03, 2018.
 
     </p>
   </div>

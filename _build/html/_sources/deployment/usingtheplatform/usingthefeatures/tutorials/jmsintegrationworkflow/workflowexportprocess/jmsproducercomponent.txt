@@ -3,7 +3,9 @@ JMS Producer Component
 ====================================
 
 
-* The **JMS Producer** component is used to establish the connection between PXP system and the producer’s messaging server. PXP system will send the data to the producer’s messaging server. To add the **JMS Producer** component, select the last notation in the workflow and click on the   **Task** notation symbol.
+* The **JMS Producer** component is used to establish the connection between PXP system and the producer’s messaging server.
+  PXP system will send the data to the producer’s messaging server. To add the **JMS Producer** component,
+  select the last notation in the workflow and click on the   **Task** notation symbol.
 
 .. image:: /tutorials/_images/pxp_exportprocessjmsproducercomponent_jmsproducercomponentestablish.PNG
 
@@ -87,5 +89,57 @@ JMS Producer Component - Configuration
 
 |
 
+
+JMS Article Export – Property Configuration
+============================================
+
+===========   ==========================   ====================================================================================================================================================================================================================
+**Sr. No.**   **Screen Element**           **Description**
+===========   ==========================   ====================================================================================================================================================================================================================
+1.            Sheet Name                   The offboarding file is the Excel file. Excel file may contain different sheets in it.
+					   Here, we need to mention the sheet name which contains the articles details.
+2.            Primary 			   All the articles in an offboarding file have unique identification or IDs.
+	      Key Column            	   Here, in **Primary Key Column**, we need to define the column name of a sheet
+					   which contains the unique IDs of the products.
+					   Therefore, a system will fetch all the IDs of the articles from the defined column of the sheet.
+3.            Type          		   Here we need to select one of the following options:
+					   ●	**Single Class**: Select this option, if all the articles in an offboarding
+					   file use the same class of the system. For example,
+					   if all the articles are **Individual Article** or all the products are **PID**.
+
+					   ●	Column Class: Select this option, if articles in an offboarding file
+					   use different types of classes of the system. For example,
+					   there are two products in a sheet;
+					   one is the Individual Article and the other one is the PID.
+
+4.            Select Classes/ 		   The value of this field is based on the selection of Type field:
+	      Column Name  		   ●	**Select Classes**: When all the articles in an offboarding file
+					   use multiple system generated non-nature classes, we select the **Multiple Class**
+					   option from the **Type** field.
+					   In this case, we need to select that system generated classes from the list.
+5.	Multiclassification		   Select this option, if defined articles in a sheet use non-nature classes.
+              Queue                        then the PXP system will wait for the acknowledgement from the producer system.
+
+6. 	Type				   As soon as you select **MultiClassification** option, this option will be visible.
+					   Here, we need to select one of the options from below mentioned options:
+					   ●	**Multiple Class**: Select this option, if articles in an offboarding file u
+					   use multiple system generated non-nature classes.
+
+					   ●	**Column Class**: Select this option, if articles in an offboarding file
+					   use multiple non-nature classes which are yet to be created.
+
+                                           The producer system will send the acknowledgment of the process to the PXP system.
+                                           **Producer Acknowledgement Queue** contains the queue name from where the PXP system will receive
+                                           the acknowledgment of the completion of the process.
+                                           There are following two types of acknowledgments:
+                                           *	**Successful Completion**: When the producer system receives the message successfully,
+                                           it will send the success message to the PXP system.
+                                           *	**Unsuccessful Completion**: When the producer system does not receive a proper message,
+                                           or it receives the erroneous message, then it will send the acknowledgment with an error message.
+
+
+===========   ==========================   ====================================================================================================================================================================================================================
+
+|
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
    :alt: Contentserv line
