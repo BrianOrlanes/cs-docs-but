@@ -8,7 +8,7 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
-  <title>Workflow Components &mdash; Contentserv  documentation</title>
+  <title>JMS Export Components &mdash; Contentserv  documentation</title>
   
 
   
@@ -28,8 +28,8 @@
   <link rel="stylesheet" href="../../../../../../_static/pygments.css" type="text/css" />
     <link rel="index" title="Index" href="../../../../../../genindex.html" />
     <link rel="search" title="Search" href="../../../../../../search.html" />
-    <link rel="next" title="&lt;no title&gt;" href="jmsproducer.html" />
-    <link rel="prev" title="&lt;no title&gt;" href="../exportcomponents/marketingarticleexport.html" /> 
+    <link rel="next" title="JMS Producer" href="jmsproducer.html" />
+    <link rel="prev" title="JMS Consumer Acknowledgement" href="../jmsimportcomponents/jmsconsumeracknowledgement.html" /> 
 
   
   <script src="../../../../../../_static/js/modernizr.min.js"></script>
@@ -158,7 +158,7 @@
         
           <li><a href="../index.html">Workflow Components</a> &raquo;</li>
         
-      <li>Workflow Components</li>
+      <li>JMS Export Components</li>
     
     
       <li class="wy-breadcrumbs-aside">
@@ -175,10 +175,18 @@
           <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
            <div itemprop="articleBody">
             
-  <div class="section" id="s-workflow-components">
-<span id="workflow-components"></span><h1>Workflow Components<a class="headerlink" href="#workflow-components" title="Permalink to this headline">¶</a></h1>
+  <div class="section" id="s-jms-export-components">
+<span id="jms-export-components"></span><h1>JMS Export Components<a class="headerlink" href="#jms-export-components" title="Permalink to this headline">¶</a></h1>
+<p>The PXP system will send the message to the producer’s messaging server for offboarding.
+The message contains the JSON object, which contains the details of different entities of the PXP system like an article, assets, relationships, and so on.
+Once the producer system receives the message from the PXP system, it will send the acknowledgment to the PXP system for the completion of the process.</p>
 <div class="toctree-wrapper compound">
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="jmsproducer.html">JMS Producer</a></li>
+<li class="toctree-l1"><a class="reference internal" href="jmsarticleexport.html">JMS Article Export</a></li>
+</ul>
 </div>
+<img alt="Contentserv line" src="../../../../../../_images/line-png-32.PNG" />
 </div>
 
 
@@ -189,10 +197,10 @@
   
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
       
-        <a href="jmsproducer.html" class="btn btn-neutral float-right" title="&lt;no title&gt;" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+        <a href="jmsproducer.html" class="btn btn-neutral float-right" title="JMS Producer" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
       
       
-        <a href="../exportcomponents/marketingarticleexport.html" class="btn btn-neutral" title="&lt;no title&gt;" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+        <a href="../jmsimportcomponents/jmsconsumeracknowledgement.html" class="btn btn-neutral" title="JMS Consumer Acknowledgement" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
       
     </div>
   
@@ -202,7 +210,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright CS Group.
-      Last updated on Nov 28, 2018.
+      Last updated on Dec 03, 2018.
 
     </p>
   </div>

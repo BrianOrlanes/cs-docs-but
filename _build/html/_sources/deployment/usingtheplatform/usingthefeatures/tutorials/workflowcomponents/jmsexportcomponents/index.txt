@@ -1,10 +1,18 @@
-===================
-Workflow Components
-===================
+======================
+JMS Export Components
+======================
+The PXP system will send the message to the producer’s messaging server for offboarding.
+The message contains the JSON object, which contains the details of different entities of the PXP system like an article, assets, relationships, and so on.
+Once the producer system receives the message from the PXP system, it will send the acknowledgment to the PXP system for the completion of the process.
+
 
 .. toctree::
    :maxdepth: 1
 
    jmsproducer
    jmsarticleexport
-   
+
+
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line

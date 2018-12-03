@@ -1,6 +1,8 @@
 ===================
-Workflow Components
+Export Components
 ===================
+The components which are involved in the export or offboarding process are called export components.
+
 
 .. toctree::
    :maxdepth: 1
@@ -17,3 +19,8 @@ Workflow Components
    extendedarticleexport
    extendedtextassetexport
    marketingarticleexport
+   extendedmarketingbundleexport
+
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line

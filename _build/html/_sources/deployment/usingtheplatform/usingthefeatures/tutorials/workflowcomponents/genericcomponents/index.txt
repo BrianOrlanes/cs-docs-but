@@ -1,0 +1,20 @@
+===================
+Generic Components
+===================
+Generic components do not belong to specific categories. You can use them as per your need.
+
+
+.. toctree::
+   :maxdepth: 1
+
+   transfer
+   sendemail
+   settaxonomies
+   setattributesandtags
+   getattributesandtagsvalue
+   talendcomponent
+
+
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line
