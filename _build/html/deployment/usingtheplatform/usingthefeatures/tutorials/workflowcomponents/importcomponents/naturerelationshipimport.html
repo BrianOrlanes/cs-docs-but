@@ -179,6 +179,110 @@
             
   <div class="section" id="s-nature-relationship-import">
 <span id="nature-relationship-import"></span><h1>Nature Relationship Import<a class="headerlink" href="#nature-relationship-import" title="Permalink to this headline">¶</a></h1>
+<p>Nature Relationship Import component is used to import the nature relationships to the system.</p>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<img alt="../../../../../../_images/pxp_importcomponents_naturerelationshipimport.PNG" src="../../../../../../_images/pxp_importcomponents_naturerelationshipimport.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="../../../../../../_images/pxp_importcomponents_naturerelationshipimport2.PNG" src="../../../../../../_images/pxp_importcomponents_naturerelationshipimport2.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="../../../../../../_images/pxp_importcomponents_naturerelationshipimport3.PNG" src="../../../../../../_images/pxp_importcomponents_naturerelationshipimport3.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<div class="section" id="s-nature-relationship-import-property-configuration">
+<span id="nature-relationship-import-property-configuration"></span><h2>Nature Relationship Import - Property Configuration<a class="headerlink" href="#nature-relationship-import-property-configuration" title="Permalink to this headline">¶</a></h2>
+<table class="docutils">
+<colgroup>
+<col width="4%" />
+<col width="10%" />
+<col width="85%" />
+</colgroup>
+<thead valign="bottom">
+<tr class="row-odd"><th class="head"><strong>Sr. No.</strong></th>
+<th class="head"><strong>Screen Element</strong></th>
+<th class="head"><strong>Description</strong></th>
+</tr>
+</thead>
+<tbody valign="top">
+<tr class="row-even"><td><ol class="first last arabic simple">
+<li></li>
+</ol>
+</td>
+<td>Sheet Name</td>
+<td>The onboarding file is the Excel file. Excel file may contain different sheets in it.
+Here, we need to mention the sheet name which contains the nature relationship details.</td>
+</tr>
+<tr class="row-odd"><td><ol class="first last arabic simple" start="2">
+<li></li>
+</ol>
+</td>
+<td>Relationship Column Name</td>
+<td>This field is enabled when multiple nature relationships must be imported into the system. All the nature relationships in an onboarding file have unique identification or IDs.
+Here, in Relationship Column Name, you need to define the column name of a sheet which contains the unique IDs of the nature relationships.
+So, system will fetch all the IDs of the nature relationships from the defined column of the sheet.</td>
+</tr>
+<tr class="row-even"><td><ol class="first last arabic simple" start="3">
+<li></li>
+</ol>
+</td>
+<td>sourceIDColumnName</td>
+<td>It contains the column name of a sheet, which contains the ID of the class which is selected in Side1 while forming the relationship.</td>
+</tr>
+<tr class="row-odd"><td><ol class="first last arabic simple" start="4">
+<li></li>
+</ol>
+</td>
+<td>targetIDColumnName</td>
+<td>It contains the column name of a sheet, which contains the ID of the class which is selected in Side2 while forming the relationship.</td>
+</tr>
+<tr class="row-even"><td><ol class="first last arabic simple" start="5">
+<li></li>
+</ol>
+</td>
+<td>contextIDColumn</td>
+<td>Enter the column name of a sheet, which contains the ids of the context associated with the relationships.
+You need to enter the value here only when you have the context associated with the relationship.</td>
+</tr>
+<tr class="row-odd"><td><ol class="first last arabic simple" start="6">
+<li></li>
+</ol>
+</td>
+<td>contextTagsColumn</td>
+<td>Enter the column name of a sheet, which contains the value of the context associated with the relationships.
+You need to enter the value here only when you have the context associated with the relationship.</td>
+</tr>
+<tr class="row-even"><td><ol class="first last arabic simple" start="7">
+<li></li>
+</ol>
+</td>
+<td>From Date Column Name</td>
+<td>This option is present for time enabled relationships. Enter the column name of a sheet, which contains the effective date of a relationship.
+It contains the starting date from where the relationship will be effective.</td>
+</tr>
+<tr class="row-odd"><td><ol class="first last arabic simple" start="8">
+<li></li>
+</ol>
+</td>
+<td>To Date Column Name</td>
+<td>This option is present for time enabled relationships. Enter the column name of a sheet, which contains the end date till which the relationship will be effective.</td>
+</tr>
+</tbody>
+</table>
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="Contentserv line" src="../../../../../../_images/line-png-32.PNG" />
+</div>
 </div>
 
 
@@ -202,7 +306,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright CS Group.
-      Last updated on Dec 03, 2018.
+      Last updated on Dec 04, 2018.
 
     </p>
   </div>
