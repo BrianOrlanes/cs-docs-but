@@ -179,6 +179,152 @@
             
   <div class="section" id="s-asset-import">
 <span id="asset-import"></span><h1>Asset Import<a class="headerlink" href="#asset-import" title="Permalink to this headline">¶</a></h1>
+<p>Asset Import component is used to import one or more assets to the system.</p>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<img alt="../../../../../../_images/pxp_importcomponents_assetimport.PNG" src="../../../../../../_images/pxp_importcomponents_assetimport.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="../../../../../../_images/pxp_importcomponents_assetimport2.PNG" src="../../../../../../_images/pxp_importcomponents_assetimport2.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="../../../../../../_images/pxp_importcomponents_assetimport3.PNG" src="../../../../../../_images/pxp_importcomponents_assetimport3.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<div class="section" id="s-asset-import-property-configuration">
+<span id="asset-import-property-configuration"></span><h2>Asset Import - Property Configuration<a class="headerlink" href="#asset-import-property-configuration" title="Permalink to this headline">¶</a></h2>
+<table class="docutils">
+<colgroup>
+<col width="4%" />
+<col width="10%" />
+<col width="85%" />
+</colgroup>
+<thead valign="bottom">
+<tr class="row-odd"><th class="head"><strong>Sr. No.</strong></th>
+<th class="head"><strong>Screen Element</strong></th>
+<th class="head"><strong>Description</strong></th>
+</tr>
+</thead>
+<tbody valign="top">
+<tr class="row-even"><td><ol class="first last arabic simple">
+<li></li>
+</ol>
+</td>
+<td>Sheet Name</td>
+<td>The onboarding file is the Excel file. Excel file may contain different sheets in it.
+Here, we need to mention the sheet name which contains the articles details.</td>
+</tr>
+<tr class="row-odd"><td><ol class="first last arabic simple" start="2">
+<li></li>
+</ol>
+</td>
+<td>Primary Key Column</td>
+<td>All the articles in an onboarding file have unique identification or IDs.
+Here, in Primary Key Column, we need to define the column name of the sheet which contains the unique IDs of the articles.
+So, a system will fetch all the IDs of the product from the defined column of the sheet.</td>
+</tr>
+<tr class="row-even"><td><ol class="first last arabic simple" start="3">
+<li></li>
+</ol>
+</td>
+<td>Type</td>
+<td><p class="first">Here we need to select one of following options:</p>
+<ul class="last simple">
+<li>Single Class: Select this option, if all the assets in an onboarding file use the same class of the system.
+For example, if all the assets are Document or all the products are Video.</li>
+<li>Column Class: Select this option, if assets in an onboarding file use different types of classes of the system.
+For example, there are two assets in a sheet; one is the Document and the other one is the PID.</li>
+</ul>
+</td>
+</tr>
+<tr class="row-odd"><td><ol class="first last arabic simple" start="4">
+<li></li>
+</ol>
+</td>
+<td>Class ID/Class Column</td>
+<td><p class="first">The value of this field is based on the selection of Type field.</p>
+<ul class="last simple">
+<li>Class ID: When all the articles in an onboarding file use the same class of the system, we select the Single Class option from the Type field.
+In this case, we need to select that system generated class from the list as Class ID.</li>
+<li>Class Column: When articles in an onboarding file use different classes of the system, we select the Column Class option from the Type field.
+In this case, we need to enter the column name of a sheet, which contains the IDs of all the classes in a Class Column field.</li>
+</ul>
+</td>
+</tr>
+<tr class="row-even"><td><ol class="first last arabic simple" start="5">
+<li></li>
+</ol>
+</td>
+<td>Multiclassification</td>
+<td>Select this option, if all articles in a sheet use non-nature classes.</td>
+</tr>
+<tr class="row-odd"><td><ol class="first last arabic simple" start="6">
+<li></li>
+</ol>
+</td>
+<td>Type</td>
+<td><p class="first">As soon as you select MultiClassification option, this option will be visible. Here, we need to select one of the following options:</p>
+<ul class="last simple">
+<li>Multiple Class: Select this option, if articles in an onboarding file use multiple system generated non-nature classes.</li>
+<li>Column Class: Select this option, if articles in an onboarding file use multiple non-nature classes which are yet to be created.</li>
+</ul>
+</td>
+</tr>
+<tr class="row-even"><td><ol class="first last arabic simple" start="7">
+<li></li>
+</ol>
+</td>
+<td>Select Classes/Column Name</td>
+<td><p class="first">The value of this field is based on the selection of Type field:</p>
+<ul class="last simple">
+<li>Select Classes: When all the assets in an onboarding file use multiple system generated non-nature classes, we select the Multiple Class option from the Type field.
+In this case, we need to select that system generated non-nature classes from the Select Classes list.</li>
+<li>Class Column Name: When assets in an onboarding file use multiple non-nature classes which are yet to be created, we select the Column Class option from the Type field.
+In this case, we need to enter the column name of a sheet, which contains the IDs of all the non-nature classes in a Class Column Name field.</li>
+</ul>
+</td>
+</tr>
+<tr class="row-odd"><td><ol class="first last arabic simple" start="8">
+<li></li>
+</ol>
+</td>
+<td>File Source</td>
+<td><p class="first">This option is used to select the image source. Select from the following options from where you want to import the image:</p>
+<ul class="last simple">
+<li>From Folder: Enter the path of the folder containing images.</li>
+<li>From URL: the http link of the image is given which will be downloaded and imported to the PXP application.</li>
+</ul>
+</td>
+</tr>
+<tr class="row-even"><td><ol class="first last arabic simple" start="9">
+<li></li>
+</ol>
+</td>
+<td>Image Folder Path</td>
+<td>This option is available only when you select the From Folder option from the File Source field. It contains the path of a folder containing images.</td>
+</tr>
+<tr class="row-odd"><td><ol class="first last arabic simple" start="10">
+<li></li>
+</ol>
+</td>
+<td>File Path Column Name</td>
+<td>Enter the name of an image that you want to import into the PXP system.</td>
+</tr>
+</tbody>
+</table>
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="Contentserv line" src="../../../../../../_images/line-png-32.PNG" />
+</div>
 </div>
 
 
@@ -202,7 +348,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright CS Group.
-      Last updated on Dec 03, 2018.
+      Last updated on Dec 04, 2018.
 
     </p>
   </div>
