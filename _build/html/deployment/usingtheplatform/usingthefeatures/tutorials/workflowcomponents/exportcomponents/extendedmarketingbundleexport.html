@@ -179,6 +179,101 @@
             
   <div class="section" id="s-extended-marketing-bundle-export">
 <span id="extended-marketing-bundle-export"></span><h1>Extended Marketing Bundle Export<a class="headerlink" href="#extended-marketing-bundle-export" title="Permalink to this headline">¶</a></h1>
+<p>You can use this component when you create a separate sheet of non-nature marketing bundles classes in an offboarding file.
+This sheet will contain the details of only non-nature marketing bundles classes.
+Extended Marketing Bundle Export component is used to import the non-nature marketing bundle classes to the system.</p>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<img alt="../../../../../../_images/pxp_exportcomponents_extendedmarketingbundleexport.PNG" src="../../../../../../_images/pxp_exportcomponents_extendedmarketingbundleexport.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="../../../../../../_images/pxp_exportcomponents_extendedmarketingbundleexport2.PNG" src="../../../../../../_images/pxp_exportcomponents_extendedmarketingbundleexport2.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="../../../../../../_images/pxp_exportcomponents_extendedmarketingbundleexport3.PNG" src="../../../../../../_images/pxp_exportcomponents_extendedmarketingbundleexport3.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<div class="section" id="s-extended-marketing-bundle-export-property-configuration">
+<span id="extended-marketing-bundle-export-property-configuration"></span><h2>Extended Marketing Bundle Export – Property Configuration<a class="headerlink" href="#extended-marketing-bundle-export-property-configuration" title="Permalink to this headline">¶</a></h2>
+<table class="docutils">
+<colgroup>
+<col width="4%" />
+<col width="10%" />
+<col width="85%" />
+</colgroup>
+<thead valign="bottom">
+<tr class="row-odd"><th class="head"><strong>Sr. No.</strong></th>
+<th class="head"><strong>Screen Element</strong></th>
+<th class="head"><strong>Description</strong></th>
+</tr>
+</thead>
+<tbody valign="top">
+<tr class="row-even"><td><ol class="first last arabic simple">
+<li></li>
+</ol>
+</td>
+<td>Sheet Name</td>
+<td>The offboarding file is the Excel file. Excel file may contain different sheets in it.
+Here, we need to mention the sheet name which contains the extended marketing bundles details.
+This sheet will contain all non-nature marketing bundle classes.</td>
+</tr>
+<tr class="row-odd"><td><ol class="first last arabic simple" start="2">
+<li></li>
+</ol>
+</td>
+<td>Primary Key Column</td>
+<td>All the extended marketing bundles in an offboarding file have unique identification or IDs.
+Here, in Primary Key Column, we need to define the column name of the sheet which contains the unique IDs of the extended marketing bundles.
+So, a system will fetch all the IDs of the extended marketing bundles from the defined column of the sheet..</td>
+</tr>
+<tr class="row-even"><td><ol class="first last arabic simple" start="3">
+<li></li>
+</ol>
+</td>
+<td>Type</td>
+<td><p class="first">Here we need to select one of the following options:</p>
+<ul class="last simple">
+<li>Column Class: Select this option, if all the extended marketing bundles in an offboarding file use the same non-nature class.</li>
+<li>Multiple Classes: Select this option, if extended marketing bundles in an offboarding file use different types of non-nature classes of the system.</li>
+</ul>
+</td>
+</tr>
+<tr class="row-odd"><td><ol class="first last arabic simple" start="4">
+<li></li>
+</ol>
+</td>
+<td>Column Name/Select Classes</td>
+<td><p class="first">The value of this field is based on the selection of Type field.</p>
+<ul class="last simple">
+<li>Column Name: When all the extended marketing bundles in an offboarding file use the same non-nature class, we select the Column Class option from the Type field.
+In this case, we need to enter the column name of the sheet which contains the name of a non-nature class associated with all the extended marketing bundles.</li>
+<li>Select Classes: When extended marketing bundles in an offboarding file use different non-nature classes, we select the Multiple Classes option from the Type field.
+In this case, we need to select the non-nature classes associated with different extended marketing bundles from the list provided in Select Classes field.</li>
+</ul>
+</td>
+</tr>
+<tr class="row-even"><td><ol class="first last arabic simple" start="5">
+<li></li>
+</ol>
+</td>
+<td>Taxonomies</td>
+<td>Here we need to enter the column name of the sheet of an offboarding file which contains the taxonomy details.</td>
+</tr>
+</tbody>
+</table>
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="Contentserv line" src="../../../../../../_images/line-png-32.PNG" />
+</div>
 </div>
 
 
@@ -202,7 +297,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright CS Group.
-      Last updated on Dec 03, 2018.
+      Last updated on Dec 05, 2018.
 
     </p>
   </div>

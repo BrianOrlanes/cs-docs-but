@@ -1,3 +1,62 @@
 ==========================
 Marketing Article Export
 ==========================
+Marketing Article Export component is used to export the marketing articles to the system.
+
+|
+
+.. image:: /tutorials/_images/pxp_exportcomponents_marketingarticleexport.PNG
+|
+|
+
+.. image:: /tutorials/_images/pxp_exportcomponents_marketingarticleexport2.PNG
+|
+|
+
+.. image:: /tutorials/_images/pxp_exportcomponents_marketingarticleexport3.PNG
+|
+|
+
+
+Marketing Article Export - Property Configuration
+====================================================
+
+===========   ==========================   ====================================================================================================================================================================================================================
+**Sr. No.**   **Screen Element**           **Description**
+===========   ==========================   ====================================================================================================================================================================================================================
+1.            Sheet Name                   The offboarding file is the Excel file. Excel file may contain different sheets in it.
+                                           Here, we need to mention the sheet name which contains the marketing articles details.
+2.            Primary Key Column           All the marketing articles in an offboarding file have unique identification or IDs.
+                                           Here, in Primary Key Column, we need to define the column name of the sheet which contains the unique IDs of the marketing articles.
+                                           So, a system will fetch all the IDs of the marketing articles from the defined column of the sheet.
+3.            Type                         Here we need to select one of the following options:
+
+                                           * Single Class: Select this option, if all the marketing articles in an offboarding file use the same class of the system.
+                                             For example, if all the marketing articles are the Marketing Content or all the products are the Fixed Bundle.
+                                           * Column Class: Select this option, if marketing articles in an offboarding file use different types of classes of the system.
+                                             For example, there are two marketing articles in a sheet; one is the Marketing Content and the other one is the Fixed Bundle.
+4.            Class ID/Class Column        The value of this field is based on the selection of Type field.
+
+                                           * Class ID: When all the marketing articles in an offboarding file use the same class of the system, we select the Single Class option from the Type field.
+                                             In this case, we need to select that system generated class from the list as Class ID.
+                                           * Class Column: When marketing articles in an offboarding file use different classes of the system, we select the Column Class option from the Type field.
+                                             In this case, we need to enter the column name of the sheet, which contains the IDs of all the classes in a Class Column field.
+5.            Multiclassification          Select this option, if defined marketing articles in a sheet use non-nature classes.
+6.            Type                         As soon as you select MultiClassification option, this option will be visible. Here, we need to select one of the following options:
+
+                                           * Multiple Class: Select this option, if marketing articles in an offboarding file use multiple system generated non-nature classes.
+                                           * Column Class: Select this option, if marketing articles in an offboarding file use multiple non-nature classes which are yet to be created.
+7.            Column Name/Select Classes   The value of this field is based on the selection of Type field:
+
+                                           * Select Classes: When all the marketing articles in an offboarding file use multiple system generated non-nature classes, we select the Multiple Class option from the Type field.
+                                             In this case, we need to select that system generated classes from the list.
+                                           * Class Column Name: When marketing articles in an offboarding file use multiple non-nature classes which are yet to be created, we select the Column Class option from the Type field.
+                                             In this case, we need to enter the column name of the sheet, which contains the IDs of all the yet to be created non-nature classes in a Class Column Name field.
+8.            Taxonomies                   Here we need to enter the column name of a sheet of an offboarding file which contains the taxonomy details.
+===========   ==========================   ====================================================================================================================================================================================================================
+
+|
+|
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line

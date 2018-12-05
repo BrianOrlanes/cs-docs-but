@@ -44,15 +44,15 @@ Article Export - Property Configuration
 5.            Multiclassification          Select this option, if all articles in a sheet use non-nature classes.
 6.            Type                         As soon as you select MultiClassification option, this option will be visible. Here, we need to select one of the following options:
 
-                                           * Multiple Class: Select this option, if articles in an onboarding file use multiple system generated non-nature classes.
-                                           * Column Class: Select this option, if articles in an onboarding file use multiple non-nature classes which are yet to be created.
+                                           * Multiple Class: Select this option, if articles in an offboarding file use multiple system generated non-nature classes.
+                                           * Column Class: Select this option, if articles in an offboarding file use multiple non-nature classes which are yet to be created.
 7.            Select Classes/Column Name   The value of this field is based on the selection of Type field:
 
-                                           * Select Classes: When all the articles in an onboarding file use multiple system generated non-nature classes, we select the Multiple Class option from the Type field.
+                                           * Select Classes: When all the articles in an offboarding file use multiple system generated non-nature classes, we select the Multiple Class option from the Type field.
                                              In this case, we need to select that system generated classes from the list.
-                                           * Class Column Name: When articles in an onboarding file use multiple non-nature classes which are yet to be created, we select the Column Class option from the Type field.
+                                           * Class Column Name: When articles in an offboarding file use multiple non-nature classes which are yet to be created, we select the Column Class option from the Type field.
                                              In this case, we need to enter the column name of a sheet, which contains the IDs of all the non-nature classes in a Class Column Name field.
-8.            Taxonomies                   Here we need to enter the column name of a sheet of an onboarding file which contains the taxonomy details.
+8.            Taxonomies                   Here we need to enter the column name of a sheet of an offboarding file which contains the taxonomy details.
 ===========   ==========================   ====================================================================================================================================================================================================================
 
 |

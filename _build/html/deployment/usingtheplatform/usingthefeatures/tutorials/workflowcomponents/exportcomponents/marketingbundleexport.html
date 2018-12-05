@@ -179,6 +179,133 @@
             
   <div class="section" id="s-marketing-bundle-export">
 <span id="marketing-bundle-export"></span><h1>Marketing Bundle Export<a class="headerlink" href="#marketing-bundle-export" title="Permalink to this headline">¶</a></h1>
+<p>Marketing Bundle Export component is used to export marketing bundles to the system.</p>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<img alt="../../../../../../_images/pxp_exportcomponents_marketingbundleexport.PNG" src="../../../../../../_images/pxp_exportcomponents_marketingbundleexport.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="../../../../../../_images/pxp_exportcomponents_marketingbundleexport2.PNG" src="../../../../../../_images/pxp_exportcomponents_marketingbundleexport2.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="../../../../../../_images/pxp_exportcomponents_marketingbundleexport3.PNG" src="../../../../../../_images/pxp_exportcomponents_marketingbundleexport3.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<div class="section" id="s-marketing-bundle-export-property-configuration">
+<span id="marketing-bundle-export-property-configuration"></span><h2>Marketing Bundle Export - Property Configuration<a class="headerlink" href="#marketing-bundle-export-property-configuration" title="Permalink to this headline">¶</a></h2>
+<table class="docutils">
+<colgroup>
+<col width="4%" />
+<col width="10%" />
+<col width="85%" />
+</colgroup>
+<thead valign="bottom">
+<tr class="row-odd"><th class="head"><strong>Sr. No.</strong></th>
+<th class="head"><strong>Screen Element</strong></th>
+<th class="head"><strong>Description</strong></th>
+</tr>
+</thead>
+<tbody valign="top">
+<tr class="row-even"><td><ol class="first last arabic simple">
+<li></li>
+</ol>
+</td>
+<td>Sheet Name</td>
+<td>The offboarding file is the Excel file. Excel file may contain different sheets in it.
+Here, we need to mention the sheet name which contains the marketing bundles details.</td>
+</tr>
+<tr class="row-odd"><td><ol class="first last arabic simple" start="2">
+<li></li>
+</ol>
+</td>
+<td>Primary Key Column</td>
+<td>All the marketing bundles in an offboarding file have unique identification or IDs.
+Here, in Primary Key Column, we need to define the column name of a sheet which contains the unique IDs of the marketing bundles.
+So, a system will fetch all the IDs of the marketing bundles from the defined column of the sheet.</td>
+</tr>
+<tr class="row-even"><td><ol class="first last arabic simple" start="3">
+<li></li>
+</ol>
+</td>
+<td>Type</td>
+<td><p class="first">Here we need to select one of the following options:</p>
+<ul class="last simple">
+<li>Single Class: Select this option, if all the marketing bundles in an offboarding file use the same class of the system.
+For example, if all the marketing bundles are the Promotional Bundle or all the products are the Promotional Set.</li>
+<li>Column Class: Select this option, if marketing bundles in an offboarding file use different types of classes of the system.
+For example, there are two products in a sheet; one is the Promotional Bundle and the other one is the Promotional Set.</li>
+</ul>
+</td>
+</tr>
+<tr class="row-odd"><td><ol class="first last arabic simple" start="4">
+<li></li>
+</ol>
+</td>
+<td>Class ID/Class Column</td>
+<td><p class="first">The value of this field is based on the selection of Type field.</p>
+<ul class="last simple">
+<li>Class ID: When all the marketing bundles in an offboarding file use the same class of the system, we select the Single Class option from the Type field.
+In this case, we need to select that system generated class from the list as Class ID.</li>
+<li>Class Column: When marketing bundles in an offboarding file use different classes of the system, we select the Column Class option from the Type field.
+In this case, we need to enter the column name of the sheet, which contains the IDs of all the classes in a Class Column field.</li>
+</ul>
+</td>
+</tr>
+<tr class="row-even"><td><ol class="first last arabic simple" start="5">
+<li></li>
+</ol>
+</td>
+<td>Multiclassification</td>
+<td>Select this option, if defined marketing bundles in a sheet use non-nature classes.</td>
+</tr>
+<tr class="row-odd"><td><ol class="first last arabic simple" start="6">
+<li></li>
+</ol>
+</td>
+<td>Type</td>
+<td><p class="first">As soon as you select MultiClassification option, this option will be visible. Here, we need to select one of the following options:</p>
+<ul class="last simple">
+<li>Multiple Class: Select this option, if marketing bundles in an offboarding file use multiple system generated non-nature classes.</li>
+<li>Column Class: Select this option, if marketing bundles in an offboarding file use multiple non-nature classes which are yet to be created.</li>
+</ul>
+</td>
+</tr>
+<tr class="row-even"><td><ol class="first last arabic simple" start="7">
+<li></li>
+</ol>
+</td>
+<td>Select Classes/Column Name</td>
+<td><p class="first">The value of this field is based on the selection of Type field:</p>
+<ul class="last simple">
+<li>Select Classes: When all the marketing bundles in an offboarding file use multiple system generated non-nature classes, we select the Multiple Class option from the Type field.
+In this case, we need to select that system generated classes from the list.</li>
+<li>Class Column Name: When marketing bundles in an offboarding file use multiple non-nature classes which are yet to be created, we select the Column Class option from the Type field.
+In this case, we need to enter the column name of the sheet, which contains the IDs of all the yet to be created non-nature classes in a Class Column Name field.</li>
+</ul>
+</td>
+</tr>
+<tr class="row-odd"><td><ol class="first last arabic simple" start="8">
+<li></li>
+</ol>
+</td>
+<td>Taxonomies</td>
+<td>Here we need to enter the column name of a sheet of an offboarding file which contains the taxonomy details.</td>
+</tr>
+</tbody>
+</table>
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="Contentserv line" src="../../../../../../_images/line-png-32.PNG" />
+</div>
 </div>
 
 
@@ -202,7 +329,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright CS Group.
-      Last updated on Dec 03, 2018.
+      Last updated on Dec 05, 2018.
 
     </p>
   </div>
