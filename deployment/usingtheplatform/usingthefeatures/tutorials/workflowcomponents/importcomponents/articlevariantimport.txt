@@ -18,7 +18,7 @@ Article Variant Import component is used to import the article variants to the s
 |
 
 
-Nature Relationship Import - Property Configuration
+Article Variant Import - Property Configuration
 =====================================================
 
 ===========   ==========================   ====================================================================================================================================================================================================================
@@ -59,7 +59,7 @@ Nature Relationship Import - Property Configuration
                                            Now, you want to differentiate different colors of cushions, then you can select the Color tag from the Tag Column Name to differentiate different cushions.
 12.           From Date Column Name        This option is present for time enabled article variant. Enter the column name of a sheet, which contains the effective date of an article variant.
                                            It contains the starting date from where the article variant will be effective.
-13.           To Date Column Name          This option is present for time enabled article variants. Enter the column name of a sheet, which contains the end date till which the article variant will be effective. 
+13.           To Date Column Name          This option is present for time enabled article variants. Enter the column name of a sheet, which contains the end date till which the article variant will be effective.
 
 ===========   ==========================   ====================================================================================================================================================================================================================
 

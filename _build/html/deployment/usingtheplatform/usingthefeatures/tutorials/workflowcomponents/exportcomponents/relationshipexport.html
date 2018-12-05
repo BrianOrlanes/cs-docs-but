@@ -179,6 +179,128 @@
             
   <div class="section" id="s-relationship-export">
 <span id="relationship-export"></span><h1>Relationship Export<a class="headerlink" href="#relationship-export" title="Permalink to this headline">¶</a></h1>
+<p>Relationship Export component is used to export relationships to the system.</p>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<img alt="../../../../../../_images/pxp_exportcomponents_relationshipexport.PNG" src="../../../../../../_images/pxp_exportcomponents_relationshipexport.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="../../../../../../_images/pxp_exportcomponents_relationshipexport2.PNG" src="../../../../../../_images/pxp_exportcomponents_relationshipexport2.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="../../../../../../_images/pxp_exportcomponents_relationshipexport3.PNG" src="../../../../../../_images/pxp_exportcomponents_relationshipexport3.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<div class="section" id="s-relationship-export-property-configuration">
+<span id="relationship-export-property-configuration"></span><h2>Relationship Export - Property Configuration<a class="headerlink" href="#relationship-export-property-configuration" title="Permalink to this headline">¶</a></h2>
+<table class="docutils">
+<colgroup>
+<col width="4%" />
+<col width="10%" />
+<col width="85%" />
+</colgroup>
+<thead valign="bottom">
+<tr class="row-odd"><th class="head"><strong>Sr. No.</strong></th>
+<th class="head"><strong>Screen Element</strong></th>
+<th class="head"><strong>Description</strong></th>
+</tr>
+</thead>
+<tbody valign="top">
+<tr class="row-even"><td><ol class="first last arabic simple">
+<li></li>
+</ol>
+</td>
+<td>Sheet Name</td>
+<td>The onboarding file is the Excel file. Excel file may contain different sheets in it.
+Here, we need to mention the sheet name which contains the relationship details.</td>
+</tr>
+<tr class="row-odd"><td><ol class="first last arabic simple" start="2">
+<li></li>
+</ol>
+</td>
+<td>Type</td>
+<td><p class="first">Here we need to select one of the following options:</p>
+<ul class="last simple">
+<li>Single Relationship: Select this option, if only single relationship is defined in an offboarding file.</li>
+<li>Relationship Column: Select this option, if different types of multiple relationships exist in an offboarding file.</li>
+</ul>
+</td>
+</tr>
+<tr class="row-even"><td><ol class="first last arabic simple" start="3">
+<li></li>
+</ol>
+</td>
+<td>Relationship ID/
+Relationship Column name</td>
+<td><p class="first">The value of this field is based on the selection of Type field.</p>
+<ul class="last simple">
+<li>Relationship ID: if only single relationship is defined in an offboarding file, select the Single Relationship option from the Type field.
+In this case, we need to select that relationship from the Relationship ID list.</li>
+<li>Relationship Column Name: When different types of multiple relationships exist in an offboarding file, then you select the Relationship Column option from the Type field.
+In this case, we need to enter the column name of a sheet, which contains the relationship IDs.</li>
+</ul>
+</td>
+</tr>
+<tr class="row-odd"><td><ol class="first last arabic simple" start="4">
+<li></li>
+</ol>
+</td>
+<td>sourceIDColumnName</td>
+<td>It contains the column name of a sheet, which contains the ID of the class which is selected in Side1 while forming the relationship.</td>
+</tr>
+<tr class="row-even"><td><ol class="first last arabic simple" start="5">
+<li></li>
+</ol>
+</td>
+<td>targetIDColumnName</td>
+<td>It contains the column name of a sheet, which contains the ID of the class which is selected in Side2 while forming the relationship.</td>
+</tr>
+<tr class="row-odd"><td><ol class="first last arabic simple" start="6">
+<li></li>
+</ol>
+</td>
+<td>contextIDColumn</td>
+<td>Enter the column name of a sheet, which contains the ids of the context associated with the relationships.
+You need to enter the value here only when you have the context associated with the relationship.</td>
+</tr>
+<tr class="row-even"><td><ol class="first last arabic simple" start="7">
+<li></li>
+</ol>
+</td>
+<td>contextTagsColumn</td>
+<td>Enter the column name of a sheet, which contains the value of the context associated with the relationships.
+You need to enter the value here only when you have the context associated with the relationship.</td>
+</tr>
+<tr class="row-odd"><td><ol class="first last arabic simple" start="8">
+<li></li>
+</ol>
+</td>
+<td>From Date Column Name</td>
+<td>This option is present for time enabled relationships. Enter the column name of a sheet, which contains the effective date of a relationship.
+It contains the starting date from where the relationship will be effective.</td>
+</tr>
+<tr class="row-even"><td><ol class="first last arabic simple" start="9">
+<li></li>
+</ol>
+</td>
+<td>To Date Column Name</td>
+<td>This option is present for time enabled relationships. Enter the column name of a sheet, which contains the end date till which the relationship will be effective.</td>
+</tr>
+</tbody>
+</table>
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="Contentserv line" src="../../../../../../_images/line-png-32.PNG" />
+</div>
 </div>
 
 
@@ -202,7 +324,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright CS Group.
-      Last updated on Dec 03, 2018.
+      Last updated on Dec 05, 2018.
 
     </p>
   </div>
