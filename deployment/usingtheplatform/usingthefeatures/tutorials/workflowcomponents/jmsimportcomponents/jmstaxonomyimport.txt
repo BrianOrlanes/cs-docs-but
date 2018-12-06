@@ -1,3 +1,25 @@
 ====================
 JMS Taxonomy Import
 ====================
+JMS Taxonomy Import component is used to import the JMS taxonomies to the system.
+
+|
+
+.. image:: /tutorials/_images/pxp_jmsimportcomponents_jmstaxonomyimport.PNG
+|
+|
+
+.. image:: /tutorials/_images/pxp_jmsimportcomponents_jmstaxonomyimport2.PNG
+|
+|
+
+.. image:: /tutorials/_images/pxp_jmsimportcomponents_jmstaxonomyimport3.PNG
+|
+
+*Note: Property configuration is not needed for JMS Taxonomy Import component.*
+
+|
+|
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line

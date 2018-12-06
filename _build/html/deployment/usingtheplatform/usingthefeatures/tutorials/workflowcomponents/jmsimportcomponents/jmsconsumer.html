@@ -179,6 +179,89 @@
             
   <div class="section" id="s-jms-consumer">
 <span id="jms-consumer"></span><h1>JMS Consumer<a class="headerlink" href="#jms-consumer" title="Permalink to this headline">¶</a></h1>
+<p>JMS Consumer component is used to establish the connection between two systems to communicate.</p>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<img alt="../../../../../../_images/pxp_jmsimportcomponents_jmsconsumer.PNG" src="../../../../../../_images/pxp_jmsimportcomponents_jmsconsumer.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="../../../../../../_images/pxp_jmsimportcomponents_jmsconsumer2.PNG" src="../../../../../../_images/pxp_jmsimportcomponents_jmsconsumer2.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="../../../../../../_images/pxp_jmsimportcomponents_jmsconsumer3.PNG" src="../../../../../../_images/pxp_jmsimportcomponents_jmsconsumer3.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<div class="section" id="s-extended-asset-export-property-configuration">
+<span id="extended-asset-export-property-configuration"></span><h2>Extended Asset Export – Property Configuration<a class="headerlink" href="#extended-asset-export-property-configuration" title="Permalink to this headline">¶</a></h2>
+<table class="docutils">
+<colgroup>
+<col width="4%" />
+<col width="10%" />
+<col width="85%" />
+</colgroup>
+<thead valign="bottom">
+<tr class="row-odd"><th class="head"><strong>Sr. No.</strong></th>
+<th class="head"><strong>Screen Element</strong></th>
+<th class="head"><strong>Description</strong></th>
+</tr>
+</thead>
+<tbody valign="top">
+<tr class="row-even"><td><ol class="first last arabic simple">
+<li></li>
+</ol>
+</td>
+<td>Consumer IP</td>
+<td><p class="first">Provide the consumer IP address from where the PXP system will receive the message, which will contain the details in form of a JSON object.
+You need to prepend the protocol of the respective MQ server. For example, if you are using ActiveMQ, then use the tcp protocol in the beginning.</p>
+<ul class="last simple">
+<li>Example of Consumer IP: <a class="reference external" href="tcp://0.0.0.0">tcp://0.0.0.0</a></li>
+</ul>
+</td>
+</tr>
+<tr class="row-odd"><td><ol class="first last arabic simple" start="2">
+<li></li>
+</ol>
+</td>
+<td>Consumer Port</td>
+<td>Provide the consumer port number from where the PXP system will receive the message, which will contain the details in form of a JSON object.</td>
+</tr>
+<tr class="row-even"><td><ol class="first last arabic simple" start="3">
+<li></li>
+</ol>
+</td>
+<td>Consumer Queue Name</td>
+<td>Enter the consumer queue name, from where the PXP system will receive the message, which will contain the details in form of a JSON object.</td>
+</tr>
+<tr class="row-odd"><td><ol class="first last arabic simple" start="4">
+<li></li>
+</ol>
+</td>
+<td>Consumer Acknowledgement
+Queue</td>
+<td><p class="first">Once the PXP system receives the message from the consumer system, it will send the acknowledgment of the process.
+Consumer Acknowledgement Queue contains the queue name where the PXP system will send the acknowledgment of the completion of the process.
+There are following two types of acknowledgments:</p>
+<ul class="last simple">
+<li>Successful Completion: When the PXP system receives the message successfully, it will send the success message to the Consumer Acknowledgement Queue.</li>
+<li>Unsuccessful Completion: When the PXP system does not receive a proper message, or it receives the erroneous message, then it will send the acknowledgment with an error message.</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="Contentserv line" src="../../../../../../_images/line-png-32.PNG" />
+</div>
 </div>
 
 
@@ -202,7 +285,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright CS Group.
-      Last updated on Dec 03, 2018.
+      Last updated on Dec 06, 2018.
 
     </p>
   </div>

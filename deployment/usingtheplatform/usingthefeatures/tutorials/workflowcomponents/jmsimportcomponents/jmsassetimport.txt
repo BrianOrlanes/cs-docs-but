@@ -1,3 +1,25 @@
 ==================
 JMS Asset Import
 ==================
+JMS Asset Import component is used to import the JMS assets to the system.
+
+|
+
+.. image:: /tutorials/_images/pxp_jmsimportcomponents_jmsassetimport.PNG
+|
+|
+
+.. image:: /tutorials/_images/pxp_jmsimportcomponents_jmsassetimport2.PNG
+|
+|
+
+.. image:: /tutorials/_images/pxp_jmsimportcomponents_jmsassetimport3.PNG
+|
+
+*Note: Property configuration is not needed for JMS Asset Import component.*
+
+|
+|
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line

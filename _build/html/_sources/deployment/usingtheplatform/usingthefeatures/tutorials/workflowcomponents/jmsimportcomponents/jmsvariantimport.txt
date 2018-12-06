@@ -1,3 +1,25 @@
 ===================
 JMS Variant Import
 ===================
+JMS Variant Import component is used to import the JMS variants to the system.
+
+|
+
+.. image:: /tutorials/_images/pxp_jmsimportcomponents_jmsvariantimport.PNG
+|
+|
+
+.. image:: /tutorials/_images/pxp_jmsimportcomponents_jmsvariantimport2.PNG
+|
+|
+
+.. image:: /tutorials/_images/pxp_jmsimportcomponents_jmsvariantimport3.PNG
+|
+
+*Note: Property configuration is not needed for JMS Variant Import component.*
+
+|
+|
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line
