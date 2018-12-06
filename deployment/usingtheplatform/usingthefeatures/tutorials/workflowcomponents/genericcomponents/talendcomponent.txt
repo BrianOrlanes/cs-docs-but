@@ -1,3 +1,36 @@
 ==================
 Talend Component
 ==================
+A customer sends the JSON message to the PXP system via JVM.
+The PXP system may not understand the received message as it may not be in the standard format, which is recognized by PXP system.
+The Talend component converts the format of the received message, which is then understood by the PXP system.
+
+|
+
+.. image:: /tutorials/_images/pxp_genericcomponents_talendcomponent.PNG
+|
+|
+
+.. image:: /tutorials/_images/pxp_genericcomponents_talendcomponent2.PNG
+|
+|
+
+.. image:: /tutorials/_images/pxp_genericcomponents_talendcomponent3.PNG
+|
+|
+
+
+Talend Components – Property Configuration
+=========================================================
+
+===========   ==========================   ====================================================================================================================================================================================================================
+**Sr. No.**   **Screen Element**           **Description**
+===========   ==========================   ====================================================================================================================================================================================================================
+1.            Talend Jobs                  Select the talend job from the list to execute it. You can select only one talend job at a time.
+===========   ==========================   ====================================================================================================================================================================================================================
+
+|
+|
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line

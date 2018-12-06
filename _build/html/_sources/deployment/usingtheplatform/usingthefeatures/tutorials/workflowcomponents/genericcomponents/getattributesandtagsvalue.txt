@@ -1,3 +1,35 @@
 ====================================
 Get Attributes and Tags Value
 ====================================
+This component is used to get the attributes and tags values.
+
+|
+
+.. image:: /tutorials/_images/pxp_genericcomponents_getattributesandtagsvalue.PNG
+|
+|
+
+.. image:: /tutorials/_images/pxp_genericcomponents_getattributesandtagsvalue2.PNG
+|
+|
+
+.. image:: /tutorials/_images/pxp_genericcomponents_getattributesandtagsvalue3.PNG
+|
+|
+
+
+Get Attributes and Tags Value – Property Configuration
+=========================================================
+
+===========   ==========================   ====================================================================================================================================================================================================================
+**Sr. No.**   **Screen Element**           **Description**
+===========   ==========================   ====================================================================================================================================================================================================================
+1.            Attribute Values to Fetch    Select the attributes from the list for which you want to fetch the values.
+2.            Tag Values to Fetch          Select the tags from the list for which you want to fetch the values.
+===========   ==========================   ====================================================================================================================================================================================================================
+
+|
+|
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line

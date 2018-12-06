@@ -1,3 +1,41 @@
 ================
 Transfer
 ================
+The Transfer component is used to transfer the products to PIM, Onboarding portal, Offboarding portal, or to the Data Integration portal.
+
+|
+
+.. image:: /tutorials/_images/pxp_genericcomponents_transfer.PNG
+|
+|
+
+.. image:: /tutorials/_images/pxp_genericcomponents_transfer2.PNG
+|
+|
+
+.. image:: /tutorials/_images/pxp_genericcomponents_transfer3.PNG
+|
+|
+
+
+Transfer – Property Configuration
+=====================================================
+
+===========   ==========================   ====================================================================================================================================================================================================================
+**Sr. No.**   **Screen Element**           **Description**
+===========   ==========================   ====================================================================================================================================================================================================================
+1.            Destination Catalog ID       Select the catalog where you want to transfer the products. Select one of the following options:
+
+                                           * PIM
+                                           * Onboarding
+                                           * Offboarding
+                                           * Data Integration
+2.            Destination Organization     Select the organization from the list where you want to transfer the product details.
+              ID
+===========   ==========================   ====================================================================================================================================================================================================================
+
+|
+|
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line
