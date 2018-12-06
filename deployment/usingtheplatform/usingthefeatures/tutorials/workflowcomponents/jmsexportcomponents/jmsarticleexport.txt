@@ -1,3 +1,25 @@
 ====================
 JMS Article Export
 ====================
+JMS Article Export component is used to export the JMS articles
+
+|
+
+.. image:: /tutorials/_images/pxp_jmsexportcomponents_jmsarticleexport.PNG
+|
+|
+
+.. image:: /tutorials/_images/pxp_jmsexportcomponents_jmsarticleexport2.PNG
+|
+|
+
+.. image:: /tutorials/_images/pxp_jmsexportcomponents_jmsarticleexport3.PNG
+|
+
+*Note: Property configuration is not needed for JMS Article Export component.*
+
+|
+|
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line
