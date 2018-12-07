@@ -30,7 +30,7 @@ To assign a single object to multiple different taxonomies or to multiple nodes 
 
 |
 
-* Log in and go to *PIM*.
+* Log in and go to *Products*.
 
 .. image:: /feature/_images/mdmimages/pxp_multitaxonomyassignment_login.PNG
 |

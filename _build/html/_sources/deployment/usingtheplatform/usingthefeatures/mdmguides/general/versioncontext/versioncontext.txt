@@ -60,7 +60,7 @@ To do this feature, follow these steps:
 |
 
 
-* Click the **Save** button once done. And then, click **OK**.
+* Click the **Save** button once done. And then, click on the **OK** button.
 
 .. image:: /feature/_images/mdmimages/pxp_versioncontext_clickthesavebutton.PNG
 |
@@ -128,6 +128,8 @@ To do this feature, follow these steps:
 
 .. image:: /feature/_images/mdmimages/pxp_versioncontext_viewvariant.PNG
 |
+|
+
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
    :alt: Contentserv line

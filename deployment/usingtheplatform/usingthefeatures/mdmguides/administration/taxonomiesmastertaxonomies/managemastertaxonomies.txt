@@ -94,7 +94,7 @@ To manage master taxonomies, follow these steps:
 
       |
 
-      * If the name exists, it will appear in the search results. Otherwise, click on "Create <name>" to create a new one.
+      * If the name exists, it will appear in the search results. Otherwise, click on 'Create <name>' to create a new one.
 
       |
 

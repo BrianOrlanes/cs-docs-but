@@ -45,7 +45,7 @@ To do this, follow these steps:
 |
 |
 
-* Based on the language required, enter the translations for the desired label (e.g., "Username").
+* Based on the language required, enter the translations for the desired label (e.g., 'Username').
 
 .. image:: /feature/_images/mdmimages/pxp_multilingualui_basedlanguagerequiredentertranslation.PNG
 |
@@ -64,7 +64,7 @@ To do this, follow these steps:
 |
 |
 
-*  Select the desired language from the lower right corner of the login page. 
+*  Select the desired language from the lower right corner of the login page.
 
 .. image:: /feature/_images/mdmimages/pxp_multilingualui_selectlanguage.PNG
 |

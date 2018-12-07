@@ -36,7 +36,7 @@ To multi-classify objects, follow these steps:
 
 * Go to *Products* and click on the **Create** button.
 
-.. image:: /feature/_images/mdmimages/pxp_multiclassification_gotoproducts.PNG
+.. image:: /feature/_images/mdmimages/pxp_multiclassification_gotoproductsb.PNG
 |
 |
 
