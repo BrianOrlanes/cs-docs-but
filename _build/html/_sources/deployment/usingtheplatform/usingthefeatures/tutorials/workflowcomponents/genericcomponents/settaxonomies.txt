@@ -1,7 +1,7 @@
 ================
 Set Taxonomies
 ================
-This component is used to set the taxonomies values manually.
+This component is used to set the taxonomy values manually.
 
 |
 
