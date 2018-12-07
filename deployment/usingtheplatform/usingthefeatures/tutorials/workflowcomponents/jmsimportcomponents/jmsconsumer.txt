@@ -24,15 +24,15 @@ Extended Asset Export – Property Configuration
 ===========   ==========================   ====================================================================================================================================================================================================================
 **Sr. No.**   **Screen Element**           **Description**
 ===========   ==========================   ====================================================================================================================================================================================================================
-1.            Consumer IP                  Provide the consumer IP address from where the PXP system will receive the message, which will contain the details in form of a JSON object.
+1.            Consumer IP                  Provide the consumer IP address from where the PXP system will receive the message, which will contain the details in the form of a JSON object.
                                            You need to prepend the protocol of the respective MQ server. For example, if you are using ActiveMQ, then use the tcp protocol in the beginning.
 
                                            * Example of Consumer IP: tcp://0.0.0.0
-2.            Consumer Port                Provide the consumer port number from where the PXP system will receive the message, which will contain the details in form of a JSON object.
-3.            Consumer Queue Name          Enter the consumer queue name, from where the PXP system will receive the message, which will contain the details in form of a JSON object.
+2.            Consumer Port                Provide the consumer port number from where the PXP system will receive the message, which will contain the details in the form of a JSON object.
+3.            Consumer Queue Name          Enter the consumer queue name, from where the PXP system will receive the message, which will contain the details in the form of a JSON object.
 4.            Consumer Acknowledgement     Once the PXP system receives the message from the consumer system, it will send the acknowledgment of the process.
               Queue                        Consumer Acknowledgement Queue contains the queue name where the PXP system will send the acknowledgment of the completion of the process.
-                                           There are following two types of acknowledgments:
+                                           There are the two types of acknowledgments:
 
                                            * Successful Completion: When the PXP system receives the message successfully, it will send the success message to the Consumer Acknowledgement Queue.
                                            * Unsuccessful Completion: When the PXP system does not receive a proper message, or it receives the erroneous message, then it will send the acknowledgment with an error message.

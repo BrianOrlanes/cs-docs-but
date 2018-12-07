@@ -31,7 +31,7 @@ Extended Marketing Bundle Export – Property Configuration
                                            This sheet will contain all non-nature marketing bundle classes.
 2.            Primary Key Column           All the extended marketing bundles in an offboarding file have unique identification or IDs.
                                            Here, in Primary Key Column, we need to define the column name of the sheet which contains the unique IDs of the extended marketing bundles.
-                                           So, a system will fetch all the IDs of the extended marketing bundles from the defined column of the sheet..
+                                           So, a system will fetch all the IDs of the extended marketing bundles from the defined column of the sheet.
 3.            Type                         Here we need to select one of the following options:
 
                                            * Column Class: Select this option, if all the extended marketing bundles in an offboarding file use the same non-nature class.

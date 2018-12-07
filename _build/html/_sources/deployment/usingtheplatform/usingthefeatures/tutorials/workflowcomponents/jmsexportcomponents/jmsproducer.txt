@@ -24,15 +24,16 @@ JMS Producer – Property Configuration
 ===========   ==========================   ====================================================================================================================================================================================================================
 **Sr. No.**   **Screen Element**           **Description**
 ===========   ==========================   ====================================================================================================================================================================================================================
-1.            Producer IP                  Provide the producer IP address where the PXP system will send the message, which will contain the details in form of a JSON object.
+1.            Producer IP                  Provide the producer IP address where the PXP system will send the message, which will contain the details in the form of a JSON object.
                                            You need to prepend the protocol of the respective MQ server. For example, if you are using ActiveMQ, then use the tcp protocol in the beginning.
 
                                            * Example of Producer IP: tcp://0.0.0.0
-2.            Producer Port                Provide the producer port number where the PXP system will send the message, which will contain the details in form of a JSON object.
-3.            Producer Queue Name          Enter the producer queue name, where the PXP system will send the message, which will contain the details in form of a JSON object.
+2.            Producer Port                Provide the producer port number where the PXP system will send the message, which will contain the details in the form of a JSON object.
+3.            Producer Queue Name          Enter the producer queue name, where the PXP system will send the message, which will contain the details in the form of a JSON object.
 4.            Producer Acknowledgement     Once the PXP system sends the message to the producer system, then the PXP system will wait for the acknowledgement from the producer system.
               Queue                        The producer system will send the acknowledgment of the process to the PXP system.
-                                           Producer Acknowledgement Queue contains the queue name from where the PXP system will receive the acknowledgment of the completion of the process. There are following two types of acknowledgments:
+                                           Producer Acknowledgement Queue contains the queue name from where the PXP system will receive the acknowledgment of the completion of the process.
+                                           There are the two types of acknowledgments:
 
                                            * Successful Completion: When the producer system receives the message successfully, it will send the success message to the PXP system.
                                            * Unsuccessful Completion: When the producer system does not receive a proper message, or it receives the erroneous message, then it will send the acknowledgment with an error message.

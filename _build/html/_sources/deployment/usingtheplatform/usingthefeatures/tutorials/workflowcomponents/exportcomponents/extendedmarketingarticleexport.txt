@@ -27,7 +27,7 @@ Extended Marketing Article Export – Property Configuration
 ===========   ==========================   ====================================================================================================================================================================================================================
 1.            Sheet Name                   The offboarding file is the Excel file. Excel file may contain different sheets in it.
                                            Here, we need to mention the sheet name which contains the extended marketing articles details.
-                                           This sheet will contain all non-nature marketing articles classes.
+                                           This sheet will contain all non-nature marketing article classes.
 2.            Primary Key Column           All the extended marketing articles in an offboarding file have unique identification or IDs.
                                            Here, in Primary Key Column, we need to define the column name of a sheet which contains the unique IDs of the extended marketing articles.
                                            So, a system will fetch all the IDs of the extended marketing articles from the defined column of the sheet.

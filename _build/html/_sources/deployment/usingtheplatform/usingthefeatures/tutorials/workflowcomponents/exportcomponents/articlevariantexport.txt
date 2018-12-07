@@ -24,22 +24,22 @@ Article Variant Export - Property Configuration
 ===========   ==========================   ====================================================================================================================================================================================================================
 **Sr. No.**   **Screen Element**           **Description**
 ===========   ==========================   ====================================================================================================================================================================================================================
-1.            Sheet Name                   The onboarding file is the Excel file. Excel file may contain different sheets in it.
+1.            Sheet Name                   The offboarding file is the Excel file. Excel file may contain different sheets in it.
                                            Here, we need to mention the sheet name which contains the article variants details.
-2.            Primary Key Column Name      All the article variants in an onboarding file have unique identification or IDs.
+2.            Primary Key Column Name      All the article variants in an offboarding file have unique identification or IDs.
                                            Here, in Primary Key Column Name, you need to define the column name of a sheet which contains the unique IDs of the article variants.
                                            So, a system will fetch all the IDs of the nature relationships from the defined column of the sheet.
 3.            Master Instance ID           Enter the ID of the embedded variant, for which you want to create the nested variant.
 4.            IsVariantAttribute           This is for the attribute variant. Enable it to import the attribute variant.
 
 5.            Type                         This defines if you want to create the Variant or the Nested Variant.
-                                           It contains the starting date from where the relationship will be effective.
+                                           It contains the starting date from when the relationship will be effective.
 6.            Master Variant Instance      This field is visible when you select the Nested Variant option from the Type field.
               column                       Enter the column name from a sheet, which contains the master variant instance. For example, you have a product called a table.
                                            A table is composed of different components. One of the components is a table leg. You are creating one of its variants called a table leg.
                                            Now, a table leg is also composed of different components. One of the components is a wheel. So, you will create a nested variant called a wheel.
                                            Here, the table is the master product. So, in this field, you need to enter the column name of a file which contains the ID of the master variant i.e. the table in our example
-7.            Parent Context IDs           This field is visible when you select the Nested Variant option from the Type field. Enter the column name from a sheet, which contains the parent context ID.
+7.            Parent Context ID            This field is visible when you select the Nested Variant option from the Type field. Enter the column name from a sheet, which contains the parent context ID.
                                            For example, you have a product called table. A table is composed of different components. One of the components is a table leg.
                                            You are creating one of its variants called a table leg. Now, a table leg is also composed of different components.
                                            One of the components is a wheel. So, you will create a nested variant called a wheel. Here, the table leg is the parent of a wheel.
@@ -53,10 +53,10 @@ Article Variant Export - Property Configuration
                                            So, in this field, you need to enter the column name of a file which contains the name of the context i.e. the wheel in our example.
 9.            Tag Column Name              Enter the column name which contains the tag, for which the context has been created. A tag associated with the context is selected in this column, and then that value is imported into the system.
                                            For example, you have a product called sofa. You are creating its variant called cushions.
-                                           Now, you want to differentiate different colors of cushions, then you can select the Color tag from the Tag Column Name to differentiate different cushions.
-10.           From Date Column Name        This option is present for time enabled article variant. Enter the column name of a sheet, which contains the effective date of an article variant.
-                                           It contains the starting date from where the article variant will be effective.
-11.           To Date Column Name          This option is present for time enabled article variants. Enter the column name of a sheet, which contains the end date till which the article variant will be effective.
+                                           Now, you want to differentiate various colors of cushions, then you can select the Color tag from the Tag Column Name to differentiate different cushions.
+10.           From Date Column Name        This option is present for time-enabled article variant. Enter the column name of a sheet, which contains the effective date of an article variant.
+                                           It contains the starting date from when the article variant will be effective.
+11.           To Date Column Name          This option is present for time-enabled article variants. Enter the column name of a sheet, which contains the end date till which the article variant will be effective.
 
 ===========   ==========================   ====================================================================================================================================================================================================================
 

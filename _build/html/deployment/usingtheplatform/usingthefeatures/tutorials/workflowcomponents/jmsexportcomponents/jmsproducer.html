@@ -218,7 +218,7 @@
 </ol>
 </td>
 <td>Producer IP</td>
-<td><p class="first">Provide the producer IP address where the PXP system will send the message, which will contain the details in form of a JSON object.
+<td><p class="first">Provide the producer IP address where the PXP system will send the message, which will contain the details in the form of a JSON object.
 You need to prepend the protocol of the respective MQ server. For example, if you are using ActiveMQ, then use the tcp protocol in the beginning.</p>
 <ul class="last simple">
 <li>Example of Producer IP: <a class="reference external" href="tcp://0.0.0.0">tcp://0.0.0.0</a></li>
@@ -230,14 +230,14 @@ You need to prepend the protocol of the respective MQ server. For example, if yo
 </ol>
 </td>
 <td>Producer Port</td>
-<td>Provide the producer port number where the PXP system will send the message, which will contain the details in form of a JSON object.</td>
+<td>Provide the producer port number where the PXP system will send the message, which will contain the details in the form of a JSON object.</td>
 </tr>
 <tr class="row-even"><td><ol class="first last arabic simple" start="3">
 <li></li>
 </ol>
 </td>
 <td>Producer Queue Name</td>
-<td>Enter the producer queue name, where the PXP system will send the message, which will contain the details in form of a JSON object.</td>
+<td>Enter the producer queue name, where the PXP system will send the message, which will contain the details in the form of a JSON object.</td>
 </tr>
 <tr class="row-odd"><td><ol class="first last arabic simple" start="4">
 <li></li>
@@ -247,7 +247,8 @@ You need to prepend the protocol of the respective MQ server. For example, if yo
 Queue</td>
 <td><p class="first">Once the PXP system sends the message to the producer system, then the PXP system will wait for the acknowledgement from the producer system.
 The producer system will send the acknowledgment of the process to the PXP system.
-Producer Acknowledgement Queue contains the queue name from where the PXP system will receive the acknowledgment of the completion of the process. There are following two types of acknowledgments:</p>
+Producer Acknowledgement Queue contains the queue name from where the PXP system will receive the acknowledgment of the completion of the process.
+There are the two types of acknowledgments:</p>
 <ul class="last simple">
 <li>Successful Completion: When the producer system receives the message successfully, it will send the success message to the PXP system.</li>
 <li>Unsuccessful Completion: When the producer system does not receive a proper message, or it receives the erroneous message, then it will send the acknowledgment with an error message.</li>
@@ -285,7 +286,7 @@ Producer Acknowledgement Queue contains the queue name from where the PXP system
   <div role="contentinfo">
     <p>
         &copy; Copyright CS Group.
-      Last updated on Dec 06, 2018.
+      Last updated on Dec 07, 2018.
 
     </p>
   </div>
