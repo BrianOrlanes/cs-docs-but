@@ -1,7 +1,7 @@
 ==========================
 Extended TextAsset Export
 ==========================
-You can use this component when you create a separate sheet of non-nature text assets classes in an offboarding file.
+You can use this component when you create a separate sheet of non-nature text asset classes in an offboarding file.
 This sheet will contain the details of only non-nature text assets classes.
 Extended TextAsset Export component is used to import the extended text assets to the system.
 

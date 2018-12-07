@@ -34,16 +34,16 @@ Relationship Export - Property Configuration
               Relationship Column name
                                            * Relationship ID: if only single relationship is defined in an offboarding file, select the Single Relationship option from the Type field.
                                              In this case, we need to select that relationship from the Relationship ID list.
-                                           * Relationship Column Name: When different types of multiple relationships exist in an offboarding file, then you select the Relationship Column option from the Type field.
+                                           * Relationship Column Name: When different types of multiple relationships exist in an offboarding file, you select the Relationship Column option from the Type field.
                                              In this case, we need to enter the column name of a sheet, which contains the relationship IDs.
-4.            sourceIDColumnName           It contains the column name of a sheet, which contains the ID of the class which is selected in Side1 while forming the relationship.
-5.            targetIDColumnName           It contains the column name of a sheet, which contains the ID of the class which is selected in Side2 while forming the relationship.
-6.            contextIDColumn              Enter the column name of a sheet, which contains the ids of the context associated with the relationships.
-                                           You need to enter the value here only when you have the context associated with the relationship.
+4.            sourceIDColumnName           It contains the column name of a sheet, which contains the ID of the class that is selected in Side1 while forming the relationship.
+5.            targetIDColumnName           It contains the column name of a sheet, which contains the ID of the class that is selected in Side2 while forming the relationship.
+6.            contextIDColumn              Enter the column name of a sheet, which contains the IDs of the context associated with the relationships.
+                                           You only need to enter the value here when you have the context associated with the relationship.
 7.            contextTagsColumn            Enter the column name of a sheet, which contains the value of the context associated with the relationships.
-                                           You need to enter the value here only when you have the context associated with the relationship.
-8.            From Date Column Name        This option is present for time enabled relationships. Enter the column name of a sheet, which contains the effective date of a relationship.
-                                           It contains the starting date from where the relationship will be effective.
+                                           You only need to enter the value here when you have the context associated with the relationship.
+8.            From Date Column Name        This option is present for time-enabled relationships. Enter the column name of a sheet, which contains the effective date of a relationship.
+                                           It contains the starting date from when the relationship will be effective.
 9.            To Date Column Name          This option is present for time enabled relationships. Enter the column name of a sheet, which contains the end date till which the relationship will be effective.
 ===========   ==========================   ====================================================================================================================================================================================================================
 

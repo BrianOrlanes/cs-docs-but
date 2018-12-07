@@ -38,18 +38,18 @@ Marketing Bundle Export - Property Configuration
 4.            Class ID/Class Column        The value of this field is based on the selection of Type field.
 
                                            * Class ID: When all the marketing bundles in an offboarding file use the same class of the system, we select the Single Class option from the Type field.
-                                             In this case, we need to select that system generated class from the list as Class ID.
+                                             In this case, we need to select that system-generated class from the list as Class ID.
                                            * Class Column: When marketing bundles in an offboarding file use different classes of the system, we select the Column Class option from the Type field.
                                              In this case, we need to enter the column name of the sheet, which contains the IDs of all the classes in a Class Column field.
 5.            Multiclassification          Select this option, if defined marketing bundles in a sheet use non-nature classes.
 6.            Type                         As soon as you select MultiClassification option, this option will be visible. Here, we need to select one of the following options:
 
-                                           * Multiple Class: Select this option, if marketing bundles in an offboarding file use multiple system generated non-nature classes.
+                                           * Multiple Class: Select this option, if marketing bundles in an offboarding file use multiple system-generated non-nature classes.
                                            * Column Class: Select this option, if marketing bundles in an offboarding file use multiple non-nature classes which are yet to be created.
 7.            Select Classes/Column Name   The value of this field is based on the selection of Type field:
 
-                                           * Select Classes: When all the marketing bundles in an offboarding file use multiple system generated non-nature classes, we select the Multiple Class option from the Type field.
-                                             In this case, we need to select that system generated classes from the list.
+                                           * Select Classes: When all the marketing bundles in an offboarding file use multiple system-generated non-nature classes, we select the Multiple Class option from the Type field.
+                                             In this case, we need to select those system-generated classes from the list.
                                            * Class Column Name: When marketing bundles in an offboarding file use multiple non-nature classes which are yet to be created, we select the Column Class option from the Type field.
                                              In this case, we need to enter the column name of the sheet, which contains the IDs of all the yet to be created non-nature classes in a Class Column Name field.
 8.            Taxonomies                   Here we need to enter the column name of a sheet of an offboarding file which contains the taxonomy details.

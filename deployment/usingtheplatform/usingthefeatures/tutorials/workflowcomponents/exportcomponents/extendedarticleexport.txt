@@ -2,7 +2,7 @@
 Extended Article Export
 ====================================
 You can use this component when you create a separate sheet of non-nature articles classes in an offboarding file. This sheet will contain the details of only non-nature articles classes.
-Extended Article Export component is used to export the non-nature articles classes to the system.
+Extended Article Export component is used to export the non-nature article classes to the system.
 
 |
 
