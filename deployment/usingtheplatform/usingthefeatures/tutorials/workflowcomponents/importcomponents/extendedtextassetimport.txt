@@ -2,7 +2,7 @@
 Extended TextAsset Import
 ==========================
 You can use this component when you create a separate sheet of non-nature text assets classes in an onboarding file.
-This sheet will contain the details of only non-nature text assets classes.
+This sheet will contain the details of only non-nature text asset classes.
 Extended TextAsset Import component is used to import the non-nature text asset classes defined in a separate sheet of an onboarding file.
 
 |
@@ -20,7 +20,7 @@ Extended TextAsset Import component is used to import the non-nature text asset 
 |
 
 
-Extended TextAssets Import – Property Configuration
+Extended TextAsset Import – Property Configuration
 =====================================================
 
 ===========   ==========================   ====================================================================================================================================================================================================================

@@ -1,7 +1,7 @@
 =========================
 Extended Article Import
 =========================
-You can use this component when you create a separate sheet of non-nature article classes in an onboarding file. This sheet will contain the details of only non-nature article classes.
+You can use this component when you create a separate sheet of non-nature article classes in an onboarding file. This sheet will contain the details of non-nature article classes only.
 This component allows you to import all non-nature article classes from the separate sheet of an onboarding file.
 
 |

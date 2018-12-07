@@ -20,7 +20,7 @@ ExtendedAsset Import component is used to import the non-nature asset classes de
 |
 
 
-Extended Asset Import – Property Configuration
+ExtendedAsset Import – Property Configuration
 =====================================================
 
 ===========   ==========================   ====================================================================================================================================================================================================================
