@@ -41,7 +41,7 @@ To manage units for individual articles, follow these steps:
 |
 
 
-* Click on the "+" icon.
+* Click on the '+' icon.
 
 .. image:: /feature/_images/mdmimages/cs_individualarticles_clickplusicon.PNG
 |
