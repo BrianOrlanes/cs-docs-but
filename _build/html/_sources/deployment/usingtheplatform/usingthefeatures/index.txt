@@ -8,4 +8,5 @@ Using the Features
    mdmguides/index
    damguides/index
    pepguides/index
+   mxmguides/index
    tutorials/index

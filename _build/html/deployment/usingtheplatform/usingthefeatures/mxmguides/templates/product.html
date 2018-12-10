@@ -1,0 +1,560 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Product Template &mdash; Contentserv  documentation</title>
+  
+
+  
+  
+  
+  
+
+  
+
+  
+  
+    
+
+  
+
+  <link rel="stylesheet" href="../../../../../_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="../../../../../_static/pygments.css" type="text/css" />
+    <link rel="index" title="Index" href="../../../../../genindex.html" />
+    <link rel="search" title="Search" href="../../../../../search.html" />
+    <link rel="next" title="Publication Template" href="publication.html" />
+    <link rel="prev" title="Prepare Document Template in Whiteboard" href="preparedoc.html" /> 
+
+  
+  <script src="../../../../../_static/js/modernizr.min.js"></script>
+
+</head>
+
+<body class="wy-body-for-nav">
+
+   
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search">
+          
+
+          
+            <a href="../../../../../contents.html" class="icon icon-home"> Contentserv
+          
+
+          
+          </a>
+
+          
+            
+            
+              <div class="version">
+                17.3
+              </div>
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../../../../../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <ul class="current">
+<li class="toctree-l1 current"><a class="reference internal" href="../../../../../index.html">Overview</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../../../../../introduction.html">Contentserv</a></li>
+<li class="toctree-l2 current"><a class="reference internal" href="../../../../index.html">Deployment and Product Guides</a><ul class="current">
+<li class="toctree-l3"><a class="reference internal" href="../../../../gettingstarted/index.html">Getting Started</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../../../leadingconcepts/index.html">Leading Concepts</a></li>
+<li class="toctree-l3 current"><a class="reference internal" href="../../../index.html">Using the Platform</a><ul class="current">
+<li class="toctree-l4 current"><a class="reference internal" href="../../index.html">Using the Features</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../references.html">References</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../../../../tutorials/index.html">Tutorials</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../../glossary.html">Glossary</a></li>
+</ul>
+
+            
+          
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../../../../../contents.html">Contentserv</a>
+        
+      </nav>
+
+
+      <div class="wy-nav-content">
+        
+        <div class="rst-content">
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="../../../../../contents.html">Docs</a> &raquo;</li>
+        
+          <li><a href="../../../../../index.html">Overview</a> &raquo;</li>
+        
+          <li><a href="../../../../index.html">Deployment and Product Guides</a> &raquo;</li>
+        
+          <li><a href="../../../index.html">Using the Platform</a> &raquo;</li>
+        
+          <li><a href="../../index.html">Using the Features</a> &raquo;</li>
+        
+          <li><a href="../index.html">Marketing Experience Management (MxM)</a> &raquo;</li>
+        
+          <li><a href="index.html">Publication Templates</a> &raquo;</li>
+        
+      <li>Product Template</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+            
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="s-product-template">
+<span id="product-template"></span><h1>Product Template<a class="headerlink" href="#product-template" title="Permalink to this headline">¶</a></h1>
+<p>A product template may consist of one or more Adobe © InDesign © frames that can be directly associated with attribute placeholders within the frame or on the frame (e.g., text, image, table).
+Placement options (e.g., Fit content to frames, Fit frames to content), and paragraph styles (including GREP styles) are assigned to the frame via Adobe © InDesign © functionality.
+The frames of a product template can be placed on different levels. By saving and naming a product template, it is read into the PXP system.
+The value for the entire length and width of the elements of the basic template is determined (size of the rectangle enclosing all frames).
+When enriching the template in the PXP system (outside of Adobe © InDesign ©), the following information is collected:</p>
+<p><strong>Size</strong> (length, width)
+<strong>Initially filled Distribution Channels (VTS)</strong>: defines as to which distribution channels the template can be used (see distinction/tagging)
+<strong>Assortment Validity</strong>: defines as to which assortment ranges the template can be used (see distinction/tagging)</p>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<table class="docutils">
+<colgroup>
+<col width="4%" />
+<col width="96%" />
+</colgroup>
+<tbody valign="top">
+<tr class="row-odd"><td><strong>Purpose:</strong></td>
+<td><ul class="first last simple">
+<li>This document will help you create ‘Product Template’ in Adobe © InDesign ©.</li>
+</ul>
+</td>
+</tr>
+<tr class="row-even"><td><strong>Target Audience:</strong></td>
+<td><ul class="first last simple">
+<li>Template Planners</li>
+<li>Managers</li>
+<li>Product Owners</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<div class="section" id="s-dtp-functions">
+<span id="dtp-functions"></span><h2>DTP Functions<a class="headerlink" href="#dtp-functions" title="Permalink to this headline">¶</a></h2>
+<table class="docutils">
+<colgroup>
+<col width="5%" />
+<col width="33%" />
+<col width="11%" />
+<col width="50%" />
+</colgroup>
+<thead valign="bottom">
+<tr class="row-odd"><th class="head"><strong>Sr. No.</strong></th>
+<th class="head"><strong>Icon</strong></th>
+<th class="head"><strong>Name</strong></th>
+<th class="head"><strong>Details</strong></th>
+</tr>
+</thead>
+<tbody valign="top">
+<tr class="row-even"><td><ol class="first last arabic simple">
+<li></li>
+</ol>
+</td>
+<td><img alt="../../../../../_images/91.PNG" class="first last" src="../../../../../_images/91.PNG" />
+</td>
+<td>Create template</td>
+<td>Creates a product, document or a publication template.</td>
+</tr>
+<tr class="row-odd"><td><ol class="first last arabic simple" start="2">
+<li></li>
+</ol>
+</td>
+<td><img alt="../../../../../_images/link.PNG" class="first last" src="../../../../../_images/link.PNG" />
+</td>
+<td>Link</td>
+<td>Links the attribute or images in the system and the placeholder in the template.</td>
+</tr>
+<tr class="row-even"><td><ol class="first last arabic simple" start="3">
+<li></li>
+</ol>
+</td>
+<td><img alt="../../../../../_images/images.PNG" class="first last" src="../../../../../_images/images.PNG" />
+</td>
+<td>Images</td>
+<td>Enlists the existing images in the system.</td>
+</tr>
+<tr class="row-odd"><td><ol class="first last arabic simple" start="4">
+<li></li>
+</ol>
+</td>
+<td><img alt="../../../../../_images/attributes.PNG" class="first last" src="../../../../../_images/attributes.PNG" />
+</td>
+<td>Attributes</td>
+<td>Enlists the attributes in the system.</td>
+</tr>
+<tr class="row-even"><td><ol class="first last arabic simple" start="5">
+<li></li>
+</ol>
+</td>
+<td><img alt="../../../../../_images/save.PNG" class="first last" src="../../../../../_images/save.PNG" />
+</td>
+<td>Save/Upload</td>
+<td>Saves and uploads.</td>
+</tr>
+<tr class="row-odd"><td><ol class="first last arabic simple" start="6">
+<li></li>
+</ol>
+</td>
+<td><img alt="../../../../../_images/sync.PNG" class="first last" src="../../../../../_images/sync.PNG" />
+</td>
+<td>Check content status</td>
+<td>Refresh.</td>
+</tr>
+<tr class="row-even"><td><ol class="first last arabic simple" start="7">
+<li></li>
+</ol>
+</td>
+<td><img alt="../../../../../_images/update.PNG" class="first last" src="../../../../../_images/update.PNG" />
+</td>
+<td>Update content</td>
+<td>Updates the content status if the content (e.g., Price, Quantity) are updated in the system.</td>
+</tr>
+<tr class="row-odd"><td><ol class="first last arabic simple" start="8">
+<li></li>
+</ol>
+</td>
+<td><img alt="../../../../../_images/hide.PNG" class="first last" src="../../../../../_images/hide.PNG" />
+</td>
+<td>Hide content status</td>
+<td>Hides content status.</td>
+</tr>
+<tr class="row-even"><td><ol class="first last arabic simple" start="9">
+<li></li>
+</ol>
+</td>
+<td><img alt="../../../../../_images/logout.PNG" class="first last" src="../../../../../_images/logout.PNG" />
+</td>
+<td>Logout</td>
+<td>Logs out.</td>
+</tr>
+</tbody>
+</table>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+</div>
+<div class="section" id="s-how-to-create-product-templates-in-adobe-indesign">
+<span id="how-to-create-product-templates-in-adobe-indesign"></span><h2>How-to: Create Product Templates in Adobe © InDesign ©<a class="headerlink" href="#how-to-create-product-templates-in-adobe-indesign" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li>Open the Adobe © InDesign © application.</li>
+</ul>
+<img alt="../../../../../_images/12.PNG" src="../../../../../_images/12.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Navigate to the <strong>Window</strong>, scroll down to <strong>Extensions</strong> and click on <strong>CS Desktop Publisher</strong>.</li>
+</ul>
+<img alt="../../../../../_images/21.PNG" src="../../../../../_images/21.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>On the pop-up window, fill in the details like Configuration Presets, Server URL, User Name, and Password.</li>
+</ul>
+<img alt="../../../../../_images/kuch.PNG" src="../../../../../_images/kuch.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Append the server URL with extension <em>dtp</em>.</li>
+</ul>
+<img alt="../../../../../_images/31.PNG" src="../../../../../_images/31.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Click on the <strong>Save</strong> button to save the information or simply proceed to <strong>Login</strong>.</li>
+</ul>
+<img alt="../../../../../_images/41.PNG" src="../../../../../_images/41.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Click on <strong>PT</strong> to create a new product template.</li>
+</ul>
+<img alt="../../../../../_images/51.PNG" src="../../../../../_images/51.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Click on the <strong>Create template</strong> icon.</li>
+</ul>
+<img alt="../../../../../_images/66.PNG" src="../../../../../_images/66.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<div class="section" id="s-how-to-add-placeholder-frames-for-images">
+<span id="how-to-add-placeholder-frames-for-images"></span><h3>How-to: Add Placeholder Frames for Images<a class="headerlink" href="#how-to-add-placeholder-frames-for-images" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>Click on the <strong>Rectangular Tool</strong> to place frames on the sheet. The frames serve as placeholders for the text and images in the template.</li>
+</ul>
+<img alt="../../../../../_images/103.PNG" src="../../../../../_images/103.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>To place graphic images, click on the <strong>Rectangular Frame tool</strong> icon then click and drag a frame on the template.</li>
+</ul>
+<img alt="../../../../../_images/MAx1.PNG" src="../../../../../_images/MAx1.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+</div>
+<div class="section" id="s-how-to-add-placeholder-frames-for-attributes">
+<span id="how-to-add-placeholder-frames-for-attributes"></span><h3>How-to: Add Placeholder Frames for Attributes<a class="headerlink" href="#how-to-add-placeholder-frames-for-attributes" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>Similarly, place text frames as a placeholder for attributes.</li>
+</ul>
+<img alt="../../../../../_images/x2.PNG" src="../../../../../_images/x2.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+</div>
+<div class="section" id="s-how-to-link-attributes-assets-to-a-placeholder-in-indesign">
+<span id="how-to-link-attributes-assets-to-a-placeholder-in-indesign"></span><h3>How-to: Link Attributes/Assets to a Placeholder in InDesign<a class="headerlink" href="#how-to-link-attributes-assets-to-a-placeholder-in-indesign" title="Permalink to this headline">¶</a></h3>
+<p>To link the attributes of the CS system, select the frame (or text) then click on the <strong>Attributes</strong>.
+Search and select the respective attribute then click on the <strong>Link</strong> button at the bottom of the screen.</p>
+<img alt="../../../../../_images/1110.PNG" src="../../../../../_images/1110.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<p>You can also link images to the template by doing the following steps:</p>
+<ul class="simple">
+<li>Select the frame that you want to use as placeholder of the image.</li>
+</ul>
+<img alt="../../../../../_images/122.PNG" src="../../../../../_images/122.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Click on the <strong>Images</strong> icon in the CS Desktop Publisher window to see the list of available images in the system.</li>
+</ul>
+<img alt="../../../../../_images/122.PNG" src="../../../../../_images/122.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Select a suitable image and click on <strong>Link</strong>.</li>
+</ul>
+<img alt="../../../../../_images/13.PNG" src="../../../../../_images/13.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>The image appears in the selected frame. To fit an image based on the frame size, right-click on the image and select the appropriate option.</li>
+</ul>
+<img alt="../../../../../_images/13.PNG" src="../../../../../_images/13.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Click on the <strong>Save</strong> icon to save the template. Please make sure you are in the product template section while saving.</li>
+</ul>
+<img alt="../../../../../_images/14.PNG" src="../../../../../_images/14.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+</div>
+<div class="section" id="s-how-to-update-save-product-templates-in-adobe-indesign">
+<span id="how-to-update-save-product-templates-in-adobe-indesign"></span><h3>How-to: Update/Save Product Templates in Adobe © InDesign ©<a class="headerlink" href="#how-to-update-save-product-templates-in-adobe-indesign" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>Click on the <strong>Save</strong> icon and on the pop-up window, enter a name for the template and click on the <strong>Save</strong> button.</li>
+</ul>
+<img alt="../../../../../_images/15.PNG" src="../../../../../_images/15.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+</div>
+</div>
+<div class="section" id="s-how-to-manage-product-templates-in-contentserv-pxp-application">
+<span id="how-to-manage-product-templates-in-contentserv-pxp-application"></span><h2>How-to: Manage Product Templates in Contentserv PXP application<a class="headerlink" href="#how-to-manage-product-templates-in-contentserv-pxp-application" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li>After saving the product template, switch to the Contentserv PXP application. Click on the user profile and select <strong>MxM</strong>.</li>
+</ul>
+<img alt="../../../../../_images/x3.PNG" src="../../../../../_images/x3.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Click on the <strong>Templates</strong> menu to see the product template you have just created.</li>
+</ul>
+<img alt="../../../../../_images/x4.PNG" src="../../../../../_images/x4.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Add content to the product template.</li>
+</ul>
+<img alt="../../../../../_images/x5.PNG" src="../../../../../_images/x5.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Click on the <strong>Save</strong> button.</li>
+</ul>
+<img alt="../../../../../_images/x6.PNG" src="../../../../../_images/x6.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="Contentserv line" src="../../../../../_images/line-png-324.PNG" />
+</div>
+</div>
+
+
+           </div>
+           
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="publication.html" class="btn btn-neutral float-right" title="Publication Template" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+      
+      
+        <a href="preparedoc.html" class="btn btn-neutral" title="Prepare Document Template in Whiteboard" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &copy; Copyright CS Group.
+      Last updated on Dec 10, 2018.
+
+    </p>
+  </div>
+  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/rtfd/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+
+  
+
+    <script type="text/javascript">
+        var DOCUMENTATION_OPTIONS = {
+            URL_ROOT:'../../../../../',
+            VERSION:'',
+            LANGUAGE:'None',
+            COLLAPSE_INDEX:false,
+            FILE_SUFFIX:'.html',
+            HAS_SOURCE:  true,
+            SOURCELINK_SUFFIX: '.txt'
+        };
+    </script>
+      <script type="text/javascript" src="../../../../../_static/jquery.js"></script>
+      <script type="text/javascript" src="../../../../../_static/underscore.js"></script>
+      <script type="text/javascript" src="../../../../../_static/doctools.js"></script>
+
+  
+
+  <script type="text/javascript" src="../../../../../_static/js/theme.js"></script>
+
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>

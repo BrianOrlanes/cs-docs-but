@@ -1,0 +1,55 @@
+=============================
+CS Desktop Publisher Manual
+=============================
+
+
+CS Desktop Publisher and Adobe InDesign ©
+===========================================
+
+The CS DTP is implemented based on the standard Adobe InDesign © functionality.
+The following InDesign features and functions are supported:
+
+* Formatting
+* Character and paragraph styles
+* Text frame options: Placing an image will adjust the frame to the context (image placement behavior in order to Adobe © InDesign © graphic frame settings).
+* GREP-Style
+* Adobe © InDesign © Library
+
+
+How-to: Start CS Desktop Publisher
+====================================
+
+* Open Adobe © InDesign © software from your system.
+
+.. image:: /feature/_images/mxmimages/manual/cs_manual_openadobeindesign.PNG
+|
+
+* Navigate to Windows → Extension → CS Desktop Publisher.
+
+.. image:: /feature/_images/mxmimages/manual/cs_manual_browsetowindows.PNG
+|
+
+* A new pop-up window appears on the screen.
+
+.. image:: /feature/_images/mxmimages/manual/cs_manual_anewpopupwindow.PNG
+|
+
+* On the pop-up window, enter the Server URL. It is the URL of your Contentserv application.
+
+.. image:: /feature/_images/mxmimages/manual/cs_manual_enterserverurl.PNG
+|
+
+* Enter the username and password that you use to log in to the Contentserv application.
+
+.. image:: /feature/_images/mxmimages/manual/cs_manual_enterusernamepassword.PNG
+|
+
+* Click on the **Save** button to save the configuration details and then click on the **Login** button.
+
+.. image:: /feature/_images/mxmimages/manual/cs_manual_clicksavelogin.PNG
+
+|
+|
+
+.. image:: /feature/_images/pepimages/line-png-32.PNG
+   :alt: Contentserv line

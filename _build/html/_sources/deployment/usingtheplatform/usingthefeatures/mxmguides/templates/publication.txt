@@ -1,0 +1,81 @@
+======================
+Publication Template
+======================
+
+A publication template describes the structure of a publication, such as a handout, as a sequence of Adobe © InDesign © document templates and is assigned to a sales channel.
+The publication template references document templates (thus, changes to document templates are automatically effective for the publication template used).
+The page extent of a publication template results from the sum of the pages of the referenced document templates.
+A publication template can refer to the same document template multiple times.
+
+|
+
+=====================      ======================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
+**Purpose:**               * This document will help you create a Publication Template in Contentserv PXP application.
+
+**Target Audience:**       * Template Planners
+                           * Managers
+                           * Product Owners
+
+**Prerequisites:**         * Document Templates
+=====================      ======================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
+
+|
+|
+
+How-to: Create a Publication Template in Contentserv PXP Application
+======================================================================
+
+
+* Log in to the Contentserv PXP system.
+
+.. image:: /feature/_images/mxmimages/publicationtemplate/1.PNG
+|
+
+* Click on **MxM** from the drop-down menu in the header.
+
+.. image:: /feature/_images/mxmimages/publicationtemplate/2.PNG
+|
+
+* Scroll down to the **Template** menu and click on the **Create** button to create a new Publication Template.
+
+.. image:: /feature/_images/mxmimages/publicationtemplate/2.PNG
+|
+
+* Click on the **Planner** icon to add the document templates to the new Publication Template.
+
+.. image:: /feature/_images/mxmimages/publicationtemplate/3.PNG
+|
+
+* Add document templates to the Publication Template Planner.
+
+.. image:: /feature/_images/mxmimages/publicationtemplate/4.PNG
+|
+
+* Select the document templates to be added to your Publication Template and click on the **Add** icon. *Note: You may add a document template more than once.*
+
+.. image:: /feature/_images/mxmimages/publicationtemplate/5.PNG
+|
+
+* Click on the **Save** button.
+
+.. image:: /feature/_images/mxmimages/publicationtemplate/6.PNG
+|
+
+* You may rearrange the document templates before clicking on the **Save** button and then the **Back** button.
+
+.. image:: /feature/_images/mxmimages/publicationtemplate/7.PNG
+|
+
+* Click on the **Properties** tab to view the properties of the Publication Template.
+
+.. image:: /feature/_images/mxmimages/publicationtemplate/prop.PNG
+|
+
+* Click on the *Relationship* tab of Publication Template to show the document templates. *(Even if you have selected a document template multiple times, you will only see its single representation in this space)*
+
+.. image:: /feature/_images/mxmimages/publicationtemplate/8.PNG
+|
+|
+
+.. image:: /feature/_images/pepimages/line-png-32.PNG
+   :alt: Contentserv line
