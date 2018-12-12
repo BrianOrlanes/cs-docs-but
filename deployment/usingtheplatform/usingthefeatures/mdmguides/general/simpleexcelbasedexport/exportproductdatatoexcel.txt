@@ -53,7 +53,6 @@ To export product data to an Excel file, follow these steps:
 |
 |
 
---------------------------------------------------------------------------------------------
 
 * Wait for the Excel file to be downloaded. The exported file will contain all the data of the selected products.
 
