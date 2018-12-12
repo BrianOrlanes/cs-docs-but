@@ -33,49 +33,49 @@ To manage Sales and Order units, follow these steps:
 
 |
 
-* Log in and go to *PIM*.
+* Log in and go to *Products*.
 
-.. image:: /feature/_images/mdmimages/cs_managesalesandorderunits_login.PNG
+.. image:: /feature/_images/mdmimages/pxp_managesalesandorderunits_login.PNG
 |
 |
 
 
 * Select a product.
 
-.. image:: /feature/_images/mdmimages/cs_managesalesandorderunits_selectproduct.PNG
+.. image:: /feature/_images/mdmimages/pxp_managesalesandorderunits_selectproduct.PNG
 |
 |
 
 
-* Click on the **Property Collection** tab and click on **Unit**.
+* Click on the **Properties**  tab  and click on **Unit**.
 
-.. image:: /feature/_images/mdmimages/cs_managesalesandorderunits_propertycollectiontab.PNG
+.. image:: /feature/_images/mdmimages/pxp_managesalesandorderunits_propertycollectiontab.PNG
 |
 |
 
 
 * Click on **Unit Types** and select **ST**. ST is the smallest measurement unit that cannot be divided further. ST can be a Base unit or a Sales unit.
 
-.. image:: /feature/_images/mdmimages/cs_managesalesandorderunits_clickst.PNG
+.. image:: /feature/_images/mdmimages/pxp_managesalesandorderunits_clickst.PNG
 |
 |
 
 
 * Enable as **Base Unit**.
 
-.. image:: /feature/_images/mdmimages/cs_managesalesandorderunits_baseunit.PNG
+.. image:: /feature/_images/mdmimages/pxp_managesalesandorderunits_baseunit.PNG
 |
 |
 
 * Enter the number of Base units *(e.g. 1 Base unit)*.
 
-.. image:: /feature/_images/mdmimages/cs_managesalesandorderunits_numberofbaseunits.PNG
+.. image:: /feature/_images/mdmimages/pxp_managesalesandorderunits_numberofbaseunits.PNG
 |
 |
 
 * Click on the **Save** button.
 
-.. image:: /feature/_images/mdmimages/cs_managesalesandorderunits_savebaseunit.PNG
+.. image:: /feature/_images/mdmimages/pxp_managesalesandorderunits_savebaseunit.PNG
 |
 |
 
@@ -85,44 +85,44 @@ Sales and Order Unit
 
 |
 
-* Go to *PIM* and select a product.
+* Go to *Products* and select a product.
 
-.. image:: /feature/_images/mdmimages/cs_managesalesandorderunits_gotopim.PNG
+.. image:: /feature/_images/mdmimages/pxp_managesalesandorderunits_gotoproducts.PNG
 |
 |
 
-* Click on the **Property Collection** tab and click on **Unit**.
+* Click on the **Properties** tab and click on **Unit**.
 
-.. image:: /feature/_images/mdmimages/cs_managesalesandorderunits_propertycollectiontab2.PNG
+.. image:: /feature/_images/mdmimages/pxp_managesalesandorderunits_propertycollectiontab2.PNG
 |
 |
 
 
 * Click on **Unit Types** and select **KOA**.
 
-.. image:: /feature/_images/mdmimages/cs_managesalesandorderunits_clickkoa.PNG
+.. image:: /feature/_images/mdmimages/pxp_managesalesandorderunits_clickkoa.PNG
 |
 |
 
 
 * Enter the number of Base units *(e.g. 9 Base units, which can be classified as Sales units or Order units)*.
 
-.. image:: /feature/_images/mdmimages/cs_managesalesandorderunits_numberofbaseunits2.PNG
+.. image:: /feature/_images/mdmimages/pxp_managesalesandorderunits_numberofbaseunits2.PNG
 |
 |
 
 
 * Enable as **Order Unit** and **Sales Unit**.
 
-.. image:: /feature/_images/mdmimages/cs_managesalesandorderunits_orderunit.PNG
+.. image:: /feature/_images/mdmimages/pxp_managesalesandorderunits_orderunit.PNG
 |
-.. image:: /feature/_images/mdmimages/cs_managesalesandorderunits_salesunit.PNG
+.. image:: /feature/_images/mdmimages/pxp_managesalesandorderunits_salesunit.PNG
 |
 |
 
 * Click on the **Save** button.
 
-.. image:: /feature/_images/mdmimages/cs_managesalesandorderunits_savesalesorderunit.PNG
+.. image:: /feature/_images/mdmimages/pxp_managesalesandorderunits_savesalesorderunit.PNG
 |
 
 
@@ -131,41 +131,41 @@ Order Unit (Bulk Order)
 
 |
 
-* Go to *PIM* and select a product.
+* Go to *Pproducts* and select a product.
 
-.. image:: /feature/_images/mdmimages/cs_managesalesandorderunits_gotopim2.PNG
+.. image:: /feature/_images/mdmimages/pxp_managesalesandorderunits_gotoproducts2.PNG
 |
 |
 
 
-* Click on the **Property Collection** tab and click on **Unit**.
+* Click on the **Properties** tab and click on **Unit**.
 
-.. image:: /feature/_images/mdmimages/cs_managesalesandorderunits_propertycollectiontab3.PNG
+.. image:: /feature/_images/mdmimages/pxp_managesalesandorderunits_propertycollectiontab3.PNG
 |
 |
 
 
 * Click on **Unit Types** and select **KOB**.
 
-.. image:: /feature/_images/mdmimages/cs_managesalesandorderunits_clickkob.PNG
+.. image:: /feature/_images/mdmimages/pxp_managesalesandorderunits_clickkob.PNG
 |
 |
 
 * Enter the number of Base units *(e.g. 40 Base units, which can be classified as Order units)*.
 
-.. image:: /feature/_images/mdmimages/cs_managesalesandorderunits_numberofbaseunits3.PNG
+.. image:: /feature/_images/mdmimages/pxp_managesalesandorderunits_numberofbaseunits3.PNG
 |
 |
 
 * Enable as **Order Unit**.
 
-.. image:: /feature/_images/mdmimages/cs_managesalesandorderunits_orderunit.PNG
+.. image:: /feature/_images/mdmimages/pxp_managesalesandorderunits_orderunit.PNG
 |
 |
 
 * Click on the **Save** button.
 
-.. image:: /feature/_images/mdmimages/cs_managesalesandorderunits_saveorderunit.PNG
+.. image:: /feature/_images/mdmimages/pxp_managesalesandorderunits_saveorderunit.PNG
 |
 
 
