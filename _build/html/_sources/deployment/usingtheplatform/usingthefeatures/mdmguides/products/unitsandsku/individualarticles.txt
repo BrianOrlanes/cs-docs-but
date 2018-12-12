@@ -36,7 +36,7 @@ To manage units for individual articles, follow these steps:
 
 * Click on **Properties** and select **Unit**.
 
-.. image:: /feature/_images/mdmimages/pxp_individualarticles_clickproperties.PNG
+.. image:: /feature/_images/mdmimages/pxp_individualarticles_clickpropertiesb.PNG
 |
 |
 
