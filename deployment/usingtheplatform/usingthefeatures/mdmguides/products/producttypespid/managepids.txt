@@ -87,6 +87,10 @@ Easily group related products by defining PIDs, and here's how to do it.
 |
 |
 
+.. image:: /feature/_images/mdmimages/pxp_managepids_clickplusimages3.PNG
+|
+|
+
 
 * Add Market to the Relationship. The steps are the same as with adding images except that you click the '+' icon under Market
 
