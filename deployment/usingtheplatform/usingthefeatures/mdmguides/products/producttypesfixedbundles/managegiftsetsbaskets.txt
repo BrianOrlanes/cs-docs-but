@@ -28,14 +28,14 @@ To do manage gift sets/baskets, follow these steps:
 
 |
 
-* Go to *PIM*.
+* Go to *Products*.
 
-.. image:: /feature/_images/mdmimages/cs_managegiftsetsbaskets_gotopim.PNG
+.. image:: /feature/_images/mdmimages/cs_managegiftsetsbaskets_gotoproducts.PNG
 |
 |
 
 
-* Hover on "+" icon.
+* Hover on '+' icon.
 
 .. image:: /feature/_images/mdmimages/cs_managegiftsetsbaskets_hoverplus.PNG
 |
@@ -85,7 +85,7 @@ To do manage gift sets/baskets, follow these steps:
 |
 |
 
-* Click the "+" icon.
+* Click the '+' icon.
 
 .. image:: /feature/_images/mdmimages/cs_managegiftsetsbaskets_clickplusimage.PNG
 |
