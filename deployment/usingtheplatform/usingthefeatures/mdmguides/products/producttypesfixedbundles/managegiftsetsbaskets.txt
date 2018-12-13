@@ -35,13 +35,13 @@ To do manage gift sets/baskets, follow these steps:
 |
 
 
-* Hover on '+' icon.
+* click on the **Create** button.
 
-.. image:: /feature/_images/mdmimages/cs_managegiftsetsbaskets_hoverplus.PNG
+.. image:: /feature/_images/mdmimages/cs_managegiftsetsbaskets_clickcreate.PNG
 |
 |
 
-* Click on **Fixed Bundle** icon.
+* Click on **Fixed Bundle**.
 
 .. image:: /feature/_images/mdmimages/cs_managegiftsetsbaskets_clickfixed.PNG
 |
