@@ -112,7 +112,7 @@ Management of information between PIDs and their variants has never been this ea
 
 * Notice the transfer of data to the product.
 
-.. image:: /feature/_images/mdmimages/pxp_managedatatransfer_noticetransfer.PNG
+.. image:: /feature/_images/mdmimages/PXP_managedatatransfer_noticetransfer.PNG
 |
 |
 
