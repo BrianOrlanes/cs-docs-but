@@ -59,7 +59,7 @@ To do manage gift sets/baskets, follow these steps:
 |
 |
 
-* Click to select one or more products check box turns to Blue when selected), and click the **Add All** icon.
+* Click to select one or more products check box turns to Blue when selected), and click the **Add ** icon.
 
 .. image:: /feature/_images/mdmimages/pxp_managegiftsetsbaskets_clickdesiredproduct.PNG
 |
