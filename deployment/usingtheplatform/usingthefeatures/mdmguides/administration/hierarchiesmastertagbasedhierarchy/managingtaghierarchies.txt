@@ -48,7 +48,7 @@ To manage/create tag hierarchies, follow this set of instructions:
 
 * Click on the '+' icon to create a new **Master Taxonomy**.
 
-.. image:: /feature/_images/mdmimages/pxp_managetagbasedhierarchies_clickplusicon.PNG
+.. image:: /feature/_images/mdmimages/pxp_managetagbasedhierarchies_clickplusiconb.PNG
 |
 |
 
