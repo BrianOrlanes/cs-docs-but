@@ -315,7 +315,7 @@ To set an attribute as a volume, follow these steps:
 
 * Select the appropriate unit for the volume attribute in the *Default Unit* column (e.g. *Gallon, Cubic meter, Liter*).
 
-.. image:: /feature/_images/mdmimages/pxp_manageattributevolume_selecttheunitb.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageattributevolume_selecttheunitc.PNG
 |
 |
 
