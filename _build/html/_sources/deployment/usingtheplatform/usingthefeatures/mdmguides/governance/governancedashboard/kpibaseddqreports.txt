@@ -126,13 +126,7 @@ To do this, follow these steps:
 .. image:: /feature/_images/mdmimages/pxp_kpibaseddqreports_logout.PNG
 |
 |
-.. image:: /feature/_images/mdmimages/cs_pibaseddqreports_logout2.PNG
-|
-|
 
-.. image:: /feature/_images/mdmimages/cs_pibaseddqreports_logout3.PNG
-|
-|
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
    :alt: Contentserv line

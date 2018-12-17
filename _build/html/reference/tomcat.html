@@ -183,7 +183,7 @@
 </div>
 <ul>
 <li><p class="first">Extract tar.gz.</p>
-<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">cd</span> <span class="o">/</span><span class="n">opt</span><span class="o">/</span><span class="n">cs</span><span class="o">/</span><span class="n">tomcat</span>
+<div class="highlight-default"><div class="highlight"><pre><span></span><span class="n">cd</span> <span class="o">/</span><span class="n">opt</span><span class="o">/</span><span class="n">cs</span><span class="o">/</span><span class="n">tomcat</span>
 
 <span class="n">tar</span> <span class="o">-</span><span class="n">zxvf</span> <span class="n">apache</span><span class="o">-</span><span class="n">tomcat</span><span class="o">-</span><span class="mf">9.0</span><span class="o">.</span><span class="mf">0.</span><span class="n">M9</span><span class="o">.</span><span class="n">tar</span><span class="o">.</span><span class="n">gz</span>
 </pre></div>
@@ -200,7 +200,7 @@
 <li><p class="first">You will find a block of code for <em>Connector port</em>. Replace that code with the one mentioned below:</p>
 <blockquote>
 <div><p>vim /opt/cs/tomcat/apache-tomcat-9.0.0.M9/conf/server.xml</p>
-<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="o">&lt;</span><span class="n">Connector</span> <span class="n">port</span><span class="o">=</span><span class="s2">&quot;8080&quot;</span> <span class="n">maxHttpHeaderSize</span><span class="o">=</span><span class="s2">&quot;8192&quot;</span>
+<div class="highlight-default"><div class="highlight"><pre><span></span><span class="o">&lt;</span><span class="n">Connector</span> <span class="n">port</span><span class="o">=</span><span class="s2">&quot;8080&quot;</span> <span class="n">maxHttpHeaderSize</span><span class="o">=</span><span class="s2">&quot;8192&quot;</span>
 <span class="n">maxThreads</span><span class="o">=</span><span class="s2">&quot;150&quot;</span> <span class="n">minSpareThreads</span><span class="o">=</span><span class="s2">&quot;25&quot;</span> <span class="n">maxSpareThreads</span><span class="o">=</span><span class="s2">&quot;75&quot;</span>
 <span class="n">enableLookups</span><span class="o">=</span><span class="s2">&quot;false&quot;</span> <span class="n">redirectPort</span><span class="o">=</span><span class="s2">&quot;8443&quot;</span> <span class="n">acceptCount</span><span class="o">=</span><span class="s2">&quot;100&quot;</span>
 <span class="n">connectionTimeout</span><span class="o">=</span><span class="s2">&quot;20000&quot;</span> <span class="n">disableUploadTimeout</span><span class="o">=</span><span class="s2">&quot;true&quot;</span>
@@ -215,7 +215,7 @@
 <li><p class="first">Also add <strong>IP</strong>. You will find this at the end of the file.</p>
 </li>
 <li><p class="first">Create a file <em>bin/setenv.sh</em> and specify the memory configuration.</p>
-<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">touch</span> <span class="o">/</span><span class="n">opt</span><span class="o">/</span><span class="n">cs</span><span class="o">/</span><span class="n">tomcat</span><span class="o">/</span><span class="n">apache</span><span class="o">-</span><span class="n">tomcat</span><span class="o">-</span><span class="mf">9.0</span><span class="o">.</span><span class="mf">0.</span><span class="n">M9</span><span class="o">/</span><span class="nb">bin</span><span class="o">/</span><span class="n">setenv</span><span class="o">.</span><span class="n">sh</span>
+<div class="highlight-default"><div class="highlight"><pre><span></span><span class="n">touch</span> <span class="o">/</span><span class="n">opt</span><span class="o">/</span><span class="n">cs</span><span class="o">/</span><span class="n">tomcat</span><span class="o">/</span><span class="n">apache</span><span class="o">-</span><span class="n">tomcat</span><span class="o">-</span><span class="mf">9.0</span><span class="o">.</span><span class="mf">0.</span><span class="n">M9</span><span class="o">/</span><span class="nb">bin</span><span class="o">/</span><span class="n">setenv</span><span class="o">.</span><span class="n">sh</span>
 <span class="n">vim</span>  <span class="o">/</span><span class="n">opt</span><span class="o">/</span><span class="n">cs</span><span class="o">/</span><span class="n">tomcat</span><span class="o">/</span><span class="n">apache</span><span class="o">-</span><span class="n">tomcat</span><span class="o">-</span><span class="mf">9.0</span><span class="o">.</span><span class="mf">0.</span><span class="n">M9</span><span class="o">/</span><span class="nb">bin</span><span class="o">/</span><span class="n">setenv</span><span class="o">.</span><span class="n">sh</span>  <span class="ow">and</span> <span class="n">add</span> <span class="n">the</span> <span class="n">following</span> <span class="n">line</span><span class="p">:</span>
 <span class="n">export</span> <span class="n">JAVA_OPTS</span><span class="o">=</span><span class="s2">&quot;-Dfile.encoding=UTF-8 -Xms4216m -Xmx13312m&quot;</span>
 </pre></div>
@@ -230,7 +230,7 @@
 </div>
 <ul>
 <li><p class="first">Start up the application.</p>
-<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">Stop</span> <span class="n">Tomcat</span>
+<div class="highlight-default"><div class="highlight"><pre><span></span><span class="n">Stop</span> <span class="n">Tomcat</span>
     <span class="o">/</span><span class="n">opt</span><span class="o">/</span><span class="n">cs</span><span class="o">/</span><span class="n">tomcat</span><span class="o">/</span><span class="n">apache</span><span class="o">-</span><span class="n">tomcat</span><span class="o">-</span><span class="mf">9.0</span><span class="o">.</span><span class="mf">0.</span><span class="n">M9</span><span class="o">/</span><span class="nb">bin</span><span class="o">/</span><span class="n">shutdown</span><span class="o">.</span><span class="n">shORfuser</span> <span class="o">-</span><span class="n">k</span> <span class="mi">8080</span><span class="o">/</span><span class="n">tcp</span>
 
 <span class="n">Note</span><span class="p">:</span> <span class="n">fuser</span> <span class="ow">is</span> <span class="n">used</span> <span class="n">just</span> <span class="n">to</span> <span class="n">kill</span> <span class="n">the</span> <span class="n">process</span> <span class="k">if</span> <span class="n">it</span> <span class="ow">is</span>  <span class="n">running</span> <span class="n">even</span> <span class="n">after</span> <span class="n">using</span> <span class="s1">&#39;shutdown.sh&#39;</span><span class="o">.</span>
@@ -249,7 +249,7 @@
 </div>
 <ul>
 <li><p class="first">Remove/Add war.</p>
-<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">Remove</span> <span class="n">war</span>
+<div class="highlight-default"><div class="highlight"><pre><span></span><span class="n">Remove</span> <span class="n">war</span>
   <span class="n">cd</span> <span class="o">/</span><span class="n">opt</span><span class="o">/</span><span class="n">cs</span><span class="o">/</span><span class="n">tomcat</span><span class="o">/</span><span class="n">apache</span><span class="o">-</span><span class="n">tomcat</span><span class="o">-</span><span class="mf">9.0</span><span class="o">.</span><span class="mf">0.</span><span class="n">M9</span><span class="o">/</span><span class="n">webapps</span><span class="o">/</span>
   <span class="n">rm</span> <span class="n">edeka</span><span class="o">.</span><span class="n">war</span>
   <span class="n">rm</span> <span class="o">-</span><span class="n">r</span> <span class="n">edeka</span>
@@ -283,7 +283,7 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright CS Group.
-      Last updated on Dec 12, 2018.
+      Last updated on Dec 17, 2018.
 
     </p>
   </div>
