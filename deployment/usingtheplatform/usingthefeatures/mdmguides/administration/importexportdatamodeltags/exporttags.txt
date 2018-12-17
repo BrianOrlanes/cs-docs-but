@@ -44,7 +44,7 @@ To export tags, follow these steps:
 
 * Click on the **Export all Tags** icon.
 
-.. image:: /feature/_images/mdmimages/pxp_exporttags_exportalltags.PNG
+.. image:: /feature/_images/mdmimages/pxp_exporttags_exportalltagsb.PNG
 |
 |
 
