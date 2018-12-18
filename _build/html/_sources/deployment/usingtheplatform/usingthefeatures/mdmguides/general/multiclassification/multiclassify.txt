@@ -34,61 +34,61 @@ To multi-classify objects, follow these steps:
 
 |
 
-* Go to *PIM* and hover over the "+" icon.
+* Go to *Products* and click on the **Create** button.
 
-.. image:: /feature/_images/mdmimages/cs_multiclassification_gotopim.PNG
+.. image:: /feature/_images/mdmimages/pxp_multiclassification_gotoproductsb.PNG
 |
 |
 
 
 * Click **Single Article**.
 
-.. image:: /feature/_images/mdmimages/cs_multiclassification_clicksinglearticle.PNG
+.. image:: /feature/_images/mdmimages/pxp_multiclassification_clicksinglearticle.PNG
 |
 |
 
 
 * Once clicked, a new window will appear. Enter the name of the single article.
 
-.. image:: /feature/_images/mdmimages/cs_multiclassification_enterthenameofarticle.PNG
+.. image:: /feature/_images/mdmimages/pxp_multiclassification_enterthenameofarticle.PNG
 |
 |
 
 
-* To add an *Attribution (Non-Nature) class*, refer to the *Classes* section and click **Add Class**.
+* To add an *Attribution (Non-Nature) class*, refer to the *Classes* section and click **Add Class** button.
 
-.. image:: /feature/_images/mdmimages/cs_multiclassification_toaddanattributionclass.PNG
+.. image:: /feature/_images/mdmimages/pxp_multiclassification_toaddanattributionclass.PNG
 |
-.. image:: /feature/_images/mdmimages/cs_multiclassification_toaddanattributionclass2.PNG
+.. image:: /feature/_images/mdmimages/pxp_multiclassification_toaddanattributionclass2.PNG
 |
 |
 
 
 * Select a relevant class from the drop-down list.
 
-.. image:: /feature/_images/mdmimages/cs_multiclassification_selectarelevantclass.PNG
+.. image:: /feature/_images/mdmimages/pxp_multiclassification_selectarelevantclass.PNG
 |
-.. image:: /feature/_images/mdmimages/cs_multiclassification_selectarelevantclass2.PNG
+.. image:: /feature/_images/mdmimages/pxp_multiclassification_selectarelevantclass2.PNG
 |
 |
 
 
-* To add another attribution class, click **Add Class** and select a class from the list.
+* To add another attribution class, click on the  **Add Class** button and select a class from the list.
 
-.. image:: /feature/_images/mdmimages/cs_multiclassification_toaddanotherattri.PNG
+.. image:: /feature/_images/mdmimages/pxp_multiclassification_toaddanotherattri.PNG
 |
-.. image:: /feature/_images/mdmimages/cs_multiclassification_toaddanotherattri2.PNG
+.. image:: /feature/_images/mdmimages/pxp_multiclassification_toaddanotherattri2.PNG
 |
 |
 
 
 * To switch templates from Nature class to Non-nature class, click on the drop-down list and select an option, for example, *Beverages*.
 
-.. image:: /feature/_images/mdmimages/cs_multiclassification_toswitchtemplates.PNG
+.. image:: /feature/_images/mdmimages/pxp_multiclassification_toswitchtemplates.PNG
 |
-.. image:: /feature/_images/mdmimages/cs_multiclassification_toswitchtemplates2.PNG
+.. image:: /feature/_images/mdmimages/pxp_multiclassification_toswitchtemplates2.PNG
 |
-.. image:: /feature/_images/mdmimages/cs_multiclassification_toswitchtemplates3.PNG
+.. image:: /feature/_images/mdmimages/pxp_multiclassification_toswitchtemplates3.PNG
 |
 |
 

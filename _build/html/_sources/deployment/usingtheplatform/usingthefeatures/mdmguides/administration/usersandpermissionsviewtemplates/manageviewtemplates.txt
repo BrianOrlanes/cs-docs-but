@@ -29,100 +29,106 @@ Easily manage who gets to see what, and here's how to do it.
 
 |
 
-* Click **Administration**.
+* Log in and go to *Administration*.
 
-.. image:: /feature/_images/mdmimages/cs_manageviewtemplates_clickadministration.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageviewtemplates_clickadministration.PNG
 |
 |
 
-* Click the **Templates** button.
+* Click on **Templates**.
 
-.. image:: /feature/_images/mdmimages/cs_manageviewtemplates_clicktemplates.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageviewtemplates_clicktemplatesb.PNG
 |
 |
 
-* Click the "+" icon to create a new template. The left pane shows the default templates.
+* Click the '+' icon to create a new template. The left pane shows the default templates.
 
-.. image:: /feature/_images/mdmimages/cs_manageviewtemplates_clickplus.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageviewtemplates_clickplus.PNG
 |
 |
 
-* Enter the name for the template and click **Create**.
+* Enter the name for the template and click the **Create** button.
 
-.. image:: /feature/_images/mdmimages/cs_manageviewtemplates_entername.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageviewtemplates_entername.PNG
 |
 |
 
-* Click the "+" icon  and select the desired property collection.
+* Click to select the desired property collection and click the **Save** button.
 
-.. image:: /feature/_images/mdmimages/cs_manageviewtemplates_clickplusaddproperty.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageviewtemplates_clickaddproperty.PNG
 |
 |
 
-.. image:: /feature/_images/mdmimages/cs_manageviewtemplates_clickplusaddproperty2.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageviewtemplates_clickaddproperty2.PNG
+|
+|
+
+.. image:: /feature/_images/mdmimages/pxp_manageviewtemplates_clickaddproperty3.PNG
 |
 |
 
 
-* Go to the *Partner Administration* tab, and select a partner from the list. In this demo, we selected "Suppliers".
 
-.. image:: /feature/_images/mdmimages/cs_manageviewtemplates_gotopartneradministration.PNG
+* Go to *Partner Administration*, and select a partner from the list. In this demo, we selected 'Suppliers 101'.
+
+.. image:: /feature/_images/mdmimages/pxp_manageviewtemplates_gotopartneradministration.PNG
 |
 |
 
 * Click the **Roles** tab and select a role from the list to which the template is to be assigned.
 
-.. image:: /feature/_images/mdmimages/cs_manageviewtemplates_clickrolestab.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageviewtemplates_clickrolestab.PNG
 |
 |
 
 * Click the **Show Permissions** button.
 
-.. image:: /feature/_images/mdmimages/cs_manageviewtemplates_clickshowpermissions.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageviewtemplates_clickshowpermissions.PNG
 |
 |
 
-*  Click the **Eye** icon to make the tab visible or hidden. In the image below, the default image is kept visible and the taxonomy is kept hidden.
+*  Click the **Visible** icon to make the tab visible or hidden. In the image below, the default image is kept visible and the taxonomy is kept hidden.
 
-.. image:: /feature/_images/mdmimages/cs_manageviewtemplates_clickeyeicon.PNG
-|
-|
-
-* Select the appropriate class from the list of classes then click the "+" icon to add a template.
-
-.. image:: /feature/_images/mdmimages/cs_manageviewtemplates_selectappropriateclass.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageviewtemplates_clickeyeicon.PNG
 |
 |
 
-.. image:: /feature/_images/mdmimages/cs_manageviewtemplates_selectappropriateclass2.PNG
+* Select the appropriate class from the list of classes.
+
+.. image:: /feature/_images/mdmimages/pxp_manageviewtemplates_selectappropriateclass.PNG
 |
 |
 
-* Select the created template and click **Apply**.
-
-.. image:: /feature/_images/mdmimages/cs_manageviewtemplates_selectcreatedtemplateapply.PNG
+* Then, scroll down and  click the '+' icon to add a template.
+.. image:: /feature/_images/mdmimages/pxp_manageviewtemplates_selectappropriateclass2.PNG
 |
 |
 
-* To toggle the visibility of the property, click the **Eye** icon. To edit the rights for the property, click the **Pencil** icon.
+* Select the created template and click on the **Apply** button.
 
-.. image:: /feature/_images/mdmimages/cs_manageviewtemplates_totoggle.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageviewtemplates_selectcreatedtemplateapply.PNG
 |
 |
 
-* Select the properties to be non-editable (for example, *PID*) and hidden (for example, *Taxonomy*).
+* To toggle the visibility of the property, click the **Visible** icon. To edit the rights for the property, click the **Editable** icon.
 
-.. image:: /feature/_images/mdmimages/cs_manageviewtemplates_totoselectpropertiesexamplepid.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageviewtemplates_totoggle.PNG
 |
 |
 
-.. image:: /feature/_images/mdmimages/cs_manageviewtemplates_totoselectpropertiesexampletaxonomy.PNG
+* Select the properties to be non-editable (for example, *General Information*) and hidden (for example, *Unit Definition*).
+
+.. image:: /feature/_images/mdmimages/cs_manageviewtemplates_totoselectpropertiesexample1.PNG
 |
 |
 
-* Click **Save** to save the changes.
+.. image:: /feature/_images/mdmimages/cs_manageviewtemplates_totoselectpropertiesexample2.PNG
+|
+|
 
-.. image:: /feature/_images/mdmimages/cs_manageviewtemplates_clicksave.PNG
+* Click the **Save** button to save the changes.
+
+.. image:: /feature/_images/mdmimages/pxp_manageviewtemplates_clicksave.PNG
 |
 |
 

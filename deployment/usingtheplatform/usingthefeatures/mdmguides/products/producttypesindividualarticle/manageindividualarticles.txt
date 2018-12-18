@@ -28,69 +28,69 @@ To manage individual articles, follow these steps:
 
 |
 
-* Log in and go to *PIM*.
+* Log in and go to *Products*.
 
-.. image:: /feature/_images/mdmimages/cs_manageindividualarticles_login.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageindividualarticles_loginb.PNG
 |
 |
 
-* Hover over the "+" icon.
+* Click on the **Create** button.
 
-.. image:: /feature/_images/mdmimages/cs_manageindividualarticles_hover.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageindividualarticles_clickcreate.PNG
 |
 |
 
 * Select **Single Article**.
 
-.. image:: /feature/_images/mdmimages/cs_manageindividualarticles_selectsinglearticle.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageindividualarticles_selectsinglearticle.PNG
 |
 |
 
 * Enter the name for the Single Article.
 
-.. image:: /feature/_images/mdmimages/cs_manageindividualarticles_entername.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageindividualarticles_entername.PNG
 |
 |
 
-* Go to the *Property Collection* tab.
+* Go to the *Properties* tab.
 
-.. image:: /feature/_images/mdmimages/cs_manageindividualarticles_gotopropertycollectiontab.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageindividualarticles_gotopropertytab.PNG
 |
 |
 
 * Enter relevant information about the Single Article.
 
-.. image:: /feature/_images/mdmimages/cs_manageindividualarticles_enterinfo.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageindividualarticles_enterinfo.PNG
 |
 |
 
-* Go to the *Relationships* tab and click on the "+" icon under *Images*.
+* Go to the *Relationships* tab and click on the '+' icon under *Images*.
 
-.. image:: /feature/_images/mdmimages/cs_manageindividualarticles_gotorelationshipstab.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageindividualarticles_gotorelationshipstab.PNG
 |
 |
 
 * Select the image for the Single Article and click on the **Add** button.
 
-.. image:: /feature/_images/mdmimages/cs_manageindividualarticles_selectimage.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageindividualarticles_selectimage.PNG
 |
 |
 
 * Click on the **Back** button.
 
-.. image:: /feature/_images/mdmimages/cs_manageindividualarticles_clickback.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageindividualarticles_clickback.PNG
 |
 |
 
-* Add markets. The steps are the same as with adding an image except that you click on the "+" icon under *Market*.
+* Add markets. The steps are the same as with adding an image except that you click on the '+' icon under *Market*.
 
-.. image:: /feature/_images/mdmimages/cs_manageindividualarticles_addmarket.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageindividualarticles_addmarket.PNG
 |
 |
 
 * View your Single Article.
 
-.. image:: /feature/_images/mdmimages/cs_manageindividualarticles_viewsinglearticle.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageindividualarticles_viewsinglearticle.PNG
 |
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG

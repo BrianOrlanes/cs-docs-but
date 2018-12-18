@@ -26,53 +26,50 @@ To do this search, follow these steps:
 
 |
 
-* Log in and go to *PIM*.
+* Log in and go to *Products*.
 
-.. image:: /feature/_images/mdmimages/cs_parametricsearch_login.PNG
+.. image:: /feature/_images/mdmimages/pxp_facetedsearch_login.PNG
 |
 |
 
 
-*  Click on the **Choose Taxonomies** box next to the Search Bar.
+*  Click on **Sort & Filter** button. Once clicked, it will expand the selection.
 
-.. image:: /feature/_images/mdmimages/cs_facetedsearch_clickonchoosetaxonomies.PNG
+.. image:: /feature/_images/mdmimages/pxp_facetedsearch_clicksortandfilter.PNG
+|
+|
+
+*  Click on the **Choose Taxonomies** drop-down list.
+
+.. image:: /feature/_images/mdmimages/pxp_facetedsearch_clickonchoosetaxonomies.PNG
 |
 |
 
 
-*  Select a Taxonomy (e.g. *Category > Fashion*).  Click **Apply**.
+*  Select the taxonomies from which you want to search, then click on the **Apply** button.
 
-.. image:: /feature/_images/mdmimages/cs_facetedsearch_selectataxonomy.PNG
+.. image:: /feature/_images/mdmimages/pxp_facetedsearch_selectataxonomy.PNG
 |
 |
 
 
-* Apply filter(s) by clicking on **Sort & Filter** to expand the selection. Then, select from the applicable filters such as *Brand*.
+* Click on the applicable filters.
 
-.. image:: /feature/_images/mdmimages/cs_facetedsearch_applyfilters.PNG
-|
-.. image:: /feature/_images/mdmimages/cs_facetedsearch_applyfilters2.PNG
+.. image:: /feature/_images/mdmimages/pxp_facetedsearch_selectfilters.PNG
 |
 |
 
 
-* Choose one from the selection and click the **Apply** button.
+* Select the filters and click on the **Apply** button.
 
-.. image:: /feature/_images/mdmimages/cs_facetedsearch_chooseone.PNG
+.. image:: /feature/_images/mdmimages/pxp_facetedsearch_clickapply.PNG
 |
 |
 
 
-* Sort the *Name* of the products. An example of sorting in descending order is shown below.
+* You can sort the products in ascending or descending order based on any attribute. An example of sorting by *Name* in descending order is shown below.
 
-.. image:: /feature/_images/mdmimages/cs_facetedsearch_sortthename.PNG
-|
-|
-
-
-* Perform a final search on the results based on the above criteria.
-
-.. image:: /feature/_images/mdmimages/cs_facetedsearch_performafinalsearch.PNG
+.. image:: /feature/_images/mdmimages/pxp_facetedsearch_sortthename.PNG
 |
 |
 

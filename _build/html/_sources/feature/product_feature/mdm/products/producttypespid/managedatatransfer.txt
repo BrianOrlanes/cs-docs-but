@@ -10,7 +10,7 @@ Manage Data Transfer lets you define the inheritance of properties from PIDs to 
 **Description:**        * There are properties that are common to a PID and its variants.
                           Data transfer uses a coupling to push these common properties to the variants directly.
 
-**Related topics:**     * :doc:`Manage PIDs </feature/product_feature/mdm/products/producttypespid/managepids>`
+**Related topipxp:**     * :doc:`Manage PIDs </feature/product_feature/mdm/products/producttypespid/managepids>`
 
 **Application:**        * Manage the information that is common between the PID and its variants, and have such information applied to all variants.
 
@@ -26,72 +26,93 @@ Management of information between PIDs and their variants has never been this ea
 
 * Click the  **Administration** icon.
 
-.. image:: /feature/_images/mdmimages/cs_managedatatransfer_gotoadministration.PNG
+.. image:: /feature/_images/mdmimages/pxp_managedatatransfer_gotoadministration.PNG
 |
 |
 
-* Click  **Classes**. Then, **Article**.
+* In the Data Model, Click  **Classes**. Then, **Article**.
 
+.. image:: /feature/_images/mdmimages/pxp_managedatatransfer_clickclasses.PNG
+|
 |
 
-* Select a class under *Single Article*.
+* Select a class under *Article*.
 
 
-.. image:: /feature/_images/mdmimages/cs_managedatatransfer_selectclassarticle.PNG
+.. image:: /feature/_images/mdmimages/pxp_managedatatransfer_selectclassarticle.PNG
 |
 |
 
 * Select the attributes and tags for data transfer.
 
-.. image:: /feature/_images/mdmimages/cs_managedatatransfer_selectattributestags.PNG
+.. image:: /feature/_images/mdmimages/pxp_managedatatransfer_selectattributestags.PNG
 |
 |
 
-* Go to *PIM*.
+* Go to *Products*.
 
-.. image:: /feature/_images/mdmimages/cs_managedatatransfer_gotopim.PNG
+.. image:: /feature/_images/mdmimages/pxp_managedatatransfer_gotoproducts.PNG
 |
 |
 
-* Hover on the "+" icon.
-
-.. image:: /feature/_images/mdmimages/cs_managedatatransfer_hoverplus.PNG
+.. image:: /feature/_images/mdmimages/pxp_managedatatransfer_gotoproducts2.PNG
 |
 |
 
-* Select **Product**.
 
-.. image:: /feature/_images/mdmimages/cs_managedatatransfer_selectproduct.PNG
+* Click on the **Create** button.
+
+.. image:: /feature/_images/mdmimages/pxp_managedatatransfer_clickcreate.PNG
+|
+|
+
+* Select **Single Article**.
+
+.. image:: /feature/_images/mdmimages/pxp_managedatatransfer_selectsinglearticle.PNG
 |
 |
 
 * Enter the properties for the product.
 
-.. image:: /feature/_images/mdmimages/cs_managedatatransfer_enterproperties.PNG
+.. image:: /feature/_images/mdmimages/pxp_managedatatransfer_enterproperties.PNG
 |
 |
 
 * Click the "+" icon to add a Link Variant. Select the tag and click **Next**.
 
-.. image:: /feature/_images/mdmimages/cs_managedatatransfer_clickpluslinkvariant.PNG
+
+.. image:: /feature/_images/mdmimages/pxp_managedatatransfer_clickpluslinkvariant.PNG
+|
+|
+
+.. image:: /feature/_images/mdmimages/pxp_managedatatransfer_clickpluslinkvariant2.PNG
 |
 |
 
 * Select the variant and click **Add**.
 
-.. image:: /feature/_images/mdmimages/cs_managedatatransfer_selectvariantclickadd.PNG
+.. image:: /feature/_images/mdmimages/pxp_managedatatransfer_selectvariantclickadd.PNG
 |
 |
+
+.. image:: /feature/_images/mdmimages/pxp_managedatatransfer_selectvariantclickadd2.PNG
+|
+|
+
+.. image:: /feature/_images/mdmimages/pxp_managedatatransfer_selectvariantclickadd3.PNG
+|
+|
+
 
 * Check if the product is added and click to transfer.
 
-.. image:: /feature/_images/mdmimages/cs_managedatatransfer_checkkproduct.PNG
+.. image:: /feature/_images/mdmimages/pxp_managedatatransfer_checkkproduct.PNG
 |
 |
 
 * Notice the transfer of data to the product.
 
-.. image:: /feature/_images/mdmimages/cs_managedatatransfer_noticetransfer.PNG
+.. image:: /feature/_images/mdmimages/PXP_managedatatransfer_noticetransferb.PNG
 |
 |
 

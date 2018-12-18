@@ -26,16 +26,16 @@ The feature ensures that the user works directly with the articles they are inte
 ===================     =======================================================================================================================================================================
 
 
-How-to: Restrict a Role's Access to Class and Taxonomy
+How-to: Manage Role Access to Class and Taxonomy
 =======================================================
-To restrict a role's access to class and taxonomy, follow these steps:
+To manage role access, follow these steps:
 
 |
 
 
-* Log in and click on the **Administration** button.
+* Log in and click on the **Administration** icon.
 
-.. image:: /feature/_images/mdmimages/cs_manageroleaccesstoclassandtaxonomies_login.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageroleaccesstoclassandtaxonomies_login.PNG
 |
 |
 
@@ -43,58 +43,41 @@ To restrict a role's access to class and taxonomy, follow these steps:
 * Create a user.
 
 
-      * Go to *Partner Administration* tab.
+      * Go to *Partner Administration* section.
 
-      .. image:: /feature/_images/mdmimages/cs_manageroleaccesstoclassandtaxonomies_gotopartneradmin.PNG
-      |
-      |
-
-      * Click on **Users** then click on the "+" icon on the right side of the window.
-
-      .. image:: /feature/_images/mdmimages/cs_manageroleaccesstoclassandtaxonomies_clickusers.PNG
+      .. image:: /feature/_images/mdmimages/pxp_manageroleaccesstoclassandtaxonomies_gotopartneradmin.PNG
       |
       |
 
-      .. image:: /feature/_images/mdmimages/cs_manageroleaccesstoclassandtaxonomies_clickplus.PNG
+      * Click on **Users** then click on the '+' icon to create a new user.
+
+      .. image:: /feature/_images/mdmimages/pxp_manageroleaccesstoclassandtaxonomies_clickusers.PNG
       |
       |
 
-      * Enter the login details.
+      * Enter the login details and click on the **Create** button.
 
-      .. image:: /feature/_images/mdmimages/cs_manageroleaccesstoclassandtaxonomies_enterlogindetails.PNG
-      |
+      .. image:: /feature/_images/mdmimages/pxp_manageroleaccesstoclassandtaxonomies_enterlogindetails.PNG
       |
 
-      * Click on the **Create** button and a user is created.
-
-      .. image:: /feature/_images/mdmimages/cs_manageroleaccesstoclassandtaxonomies_clickcreate.PNG
-      |
-      .. image:: /feature/_images/mdmimages/cs_manageroleaccesstoclassandtaxonomies_clickcreate2.PNG
+      .. image:: /feature/_images/mdmimages/pxp_manageroleaccesstoclassandtaxonomies_enterlogindetails2.PNG
       |
       |
 
 * Create Partners (Organization).
 
 
-      * Click on **Partners** then click on the "+" icon on the right side of the window.
+      * Click on **Partners** then click on the '+' icon on the right side of the window.
 
-      .. image:: /feature/_images/mdmimages/cs_manageroleaccesstoclassandtaxonomies_clickpartners.PNG
-      |
-      .. image:: /feature/_images/mdmimages/cs_manageroleaccesstoclassandtaxonomies_clickpartners2.PNG
+      .. image:: /feature/_images/mdmimages/pxp_manageroleaccesstoclassandtaxonomies_clickpartners1.PNG
       |
       |
 
       * Enter the name and click on the **Create** button.
 
-      .. image:: /feature/_images/mdmimages/cs_manageroleaccesstoclassandtaxonomies_entername.PNG
+      .. image:: /feature/_images/mdmimages/pxp_manageroleaccesstoclassandtaxonomies_entername.PNG
       |
-      .. image:: /feature/_images/mdmimages/cs_manageroleaccesstoclassandtaxonomies_clickcreate3.PNG
-      |
-      |
-
-      * View the created organization.
-
-      .. image:: /feature/_images/mdmimages/cs_manageroleaccesstoclassandtaxonomies_viewcreatedorganization.PNG
+      .. image:: /feature/_images/mdmimages/pxp_manageroleaccesstoclassandtaxonomies_entername2.PNG
       |
       |
 
@@ -102,46 +85,44 @@ To restrict a role's access to class and taxonomy, follow these steps:
 * Add roles to the users in the organization.
 
 
-      * Click on the **Roles** tab.
+      * Click on the **Roles** tab
 
-      .. image:: /feature/_images/mdmimages/cs_manageroleaccesstoclassandtaxonomies_clickroles.PNG
+      .. image:: /feature/_images/mdmimages/pxp_manageroleaccesstoclassandtaxonomies_clickroles.PNG
       |
       |
 
 
       * Click on the "+" icon just below the *Roles* tab to assign roles.
 
-      .. image:: /feature/_images/mdmimages/cs_manageroleaccesstoclassandtaxonomies_clickplusicon.PNG
+      .. image:: /feature/_images/mdmimages/pxp_manageroleaccesstoclassandtaxonomies_clickplusicon.PNG
       |
       |
 
 
       * Enter the name and select the role type then click on the **Create** button.
 
-      .. image:: /feature/_images/mdmimages/cs_manageroleaccesstoclassandtaxonomies_selectroletype.PNG
-      |
-      .. image:: /feature/_images/mdmimages/cs_manageroleaccesstoclassandtaxonomies_clickcreate4.PNG
+      .. image:: /feature/_images/mdmimages/pxp_manageroleaccesstoclassandtaxonomies_selectroletype.PNG
       |
       |
 
 
       * Select the user to which the role will be assigned.
 
-      .. image:: /feature/_images/mdmimages/cs_manageroleaccesstoclassandtaxonomies_selectuser.PNG
+      .. image:: /feature/_images/mdmimages/pxp_manageroleaccesstoclassandtaxonomies_selectuser.PNG
       |
       |
 
 
       * Select the target class that you want the user to have access to.
 
-      .. image:: /feature/_images/mdmimages/cs_manageroleaccesstoclassandtaxonomies_selecttargetclass.PNG
+      .. image:: /feature/_images/mdmimages/pxp_manageroleaccesstoclassandtaxonomies_selecttargetclass.PNG
       |
       |
 
 
-      * Select the taxonomy to further categorize the products.
+      * Select the taxonomy that you want the user to have access to.
 
-      .. image:: /feature/_images/mdmimages/cs_manageroleaccesstoclassandtaxonomies_selecttaxonomy.PNG
+      .. image:: /feature/_images/mdmimages/pxp_manageroleaccesstoclassandtaxonomies_selecttaxonomy.PNG
       |
       |
 
@@ -151,15 +132,17 @@ To restrict a role's access to class and taxonomy, follow these steps:
 |
 
 
-* Log in as the user to view the products assigned to you.
+* Log in as the user.
 
-.. image:: /feature/_images/mdmimages/cs_manageroleaccesstoclassandtaxonomies_loginasuser.PNG
-|
-
-.. image:: /feature/_images/mdmimages/cs_manageroleaccesstoclassandtaxonomies_loginasuser2.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageroleaccesstoclassandtaxonomies_loginasuser.PNG
 |
 |
 
+* Go to *Products* to view the products assigned to you.
+
+.. image:: /feature/_images/mdmimages/pxp_manageroleaccesstoclassandtaxonomies_loginasuser2.PNG
+|
+|
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
    :alt: Contentserv line

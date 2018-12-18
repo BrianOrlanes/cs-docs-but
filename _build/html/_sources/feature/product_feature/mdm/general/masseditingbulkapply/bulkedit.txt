@@ -33,23 +33,30 @@ To do editing in bulk, follow these steps:
 
 |
 
+* Log in and go to *Products*.
+
+.. image:: /feature/_images/mdmimages/pxp_masseditbulkapply_login.PNG
+|
+|
+
+
 * Select the items to be edited by clicking on the thumbnail checkbox.
 
-.. image:: /feature/_images/mdmimages/cs_masseditbulkapply_selecttheitems.PNG
+.. image:: /feature/_images/mdmimages/pxp_masseditbulkapply_selecttheitems.PNG
 |
 |
 
 
 * Click on the **Bulk Edit** button.
 
-.. image:: /feature/_images/mdmimages/cs_masseditbulkapply_clickthebulkeditbutton.PNG
+.. image:: /feature/_images/mdmimages/pxp_masseditbulkapply_clickthebulkeditbutton.PNG
 |
 |
 
 
 * View the pop-up menu that will appear with a list of attributes and tags.
 
-.. image:: /feature/_images/mdmimages/cs_masseditbulkapply_viewthepopupmenu.PNG
+.. image:: /feature/_images/mdmimages/pxp_masseditbulkapply_viewthepopupmenu.PNG
 |
 |
 
@@ -59,14 +66,14 @@ To do editing in bulk, follow these steps:
 
   * Selecting tags/attributes from the list:
 
-  .. image:: /feature/_images/mdmimages/cs_masseditbulkapply_selectthetags.PNG
+  .. image:: /feature/_images/mdmimages/pxp_masseditbulkapply_selectthetags.PNG
   |
   |
 
 
   * Searching for tags/attributes in the search bar:
 
-  .. image:: /feature/_images/mdmimages/cs_masseditbulkapply_searchthetags.PNG
+  .. image:: /feature/_images/mdmimages/pxp_masseditbulkapply_searchthetags.PNG
   |
   |
 
@@ -75,24 +82,19 @@ To do editing in bulk, follow these steps:
 
 * Edit the tag/attribute then click on the **Apply** button to do the bulk edit for the selected products.
 
-.. image:: /feature/_images/mdmimages/cs_masseditbulkapply_clickontheapply.PNG
+.. image:: /feature/_images/mdmimages/pxp_masseditbulkapply_clickontheapply.PNG
 |
-.. image:: /feature/_images/mdmimages/cs_masseditbulkapply_clickontheapply2.PNG
-|
-.. image:: /feature/_images/mdmimages/cs_masseditbulkapply_clickontheapply3.PNG
+.. image:: /feature/_images/mdmimages/pxp_masseditbulkapply_clickontheapply2.PNG
 |
 |
 
 
 * View the applied changes of the bulk edit.
 
-.. image:: /feature/_images/mdmimages/cs_masseditbulkapply_viewtheappliedchange.PNG
+.. image:: /feature/_images/mdmimages/pxp_masseditbulkapply_viewtheappliedchange.PNG
 |
 |
-.. image:: /feature/_images/mdmimages/cs_masseditbulkapply_viewtheappliedchange2.PNG
-|
-|
-.. image:: /feature/_images/mdmimages/cs_masseditbulkapply_viewtheappliedchange3.PNG
+.. image:: /feature/_images/mdmimages/pxp_masseditbulkapply_viewtheappliedchange2.PNG
 |
 |
 

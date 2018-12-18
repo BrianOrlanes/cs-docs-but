@@ -29,118 +29,104 @@ How-to: KPI Based DQ Reports
 =============================
 To do this, follow these steps:
 
-* Click the **Administration** icon.
+* Log in and click on the **Administration** icon.
 
-.. image:: /feature/_images/mdmimages/cs_pibaseddqreports_clickadministration.PNG
+.. image:: /feature/_images/mdmimages/pxp_kpibaseddqreports_clickadministration.PNG
 |
 |
 
-* Click the **Data Governance** tab from the top.
+* Click on **Data Governance**.
 
-.. image:: /feature/_images/mdmimages/cs_pibaseddqreports_clickdatagovernancetab.PNG
+.. image:: /feature/_images/mdmimages/pxp_kpibaseddqreports_clickgovernance.PNG
 |
 |
 
-* Click **KPIs**.
+* Click on **KPIs**.
 
-.. image:: /feature/_images/mdmimages/cs_pibaseddqreports_clickkpi.PNG
+.. image:: /feature/_images/mdmimages/pxp_kpibaseddqreports_clickkpi.PNG
 |
 |
 
-* Click the "+" icon at the top right to create a new KPI.
+* Click on the '+' icon to create a new KPI.
 
-.. image:: /feature/_images/mdmimages/cs_pibaseddqreports_clickplus.PNG
+.. image:: /feature/_images/mdmimages/pxp_kpibaseddqreports_clickplus.PNG
 |
 |
 
-* Enter a name and code (optional). Then, click **Create** to create the KPI.
+* Enter a name for the KPI, then click on the **Create** button.
 
-.. image:: /feature/_images/mdmimages/cs_pibaseddqreports_fillnamecode.PNG
-|
-|
-
-* Once the KPI is created, it will appear in the list of KPI, click the **Edit** icon.
-
-.. image:: /feature/_images/mdmimages/cs_pibaseddqreports_oncekpicreatedclickedit.PNG
-|
-|
-
-* On the *KPI Information* tab, click to select **Class**. then, **Taxonomy**.
-
-
-.. image:: /feature/_images/mdmimages/cs_pibaseddqreports_selectclasstax.PNG
-|
-|
-
-.. image:: /feature/_images/mdmimages/cs_pibaseddqreports_selectclasstax2.PNG
-|
-|
-
-.. image:: /feature/_images/mdmimages/cs_pibaseddqreports_selectclasstax3.PNG
+.. image:: /feature/_images/mdmimages/pxp_kpibaseddqreports_entername.PNG
 |
 |
 
 
-* Click the *Completeness* tab. Then, click to select **Attributes** and **Tags**.
 
-.. image:: /feature/_images/mdmimages/cs_pibaseddqreports_incompletenesstab.PNG
-|
-|
+* On the *KPI Information* tab, click on **Classes** and select the class.
+  Click on **Taxonomies** and select the taxonomy.
 
-.. image:: /feature/_images/mdmimages/cs_pibaseddqreports_incompletenesstab2b.PNG
-|
-|
 
-.. image:: /feature/_images/mdmimages/cs_pibaseddqreports_incompletenesstab3b.PNG
+.. image:: /feature/_images/mdmimages/pxp_kpibaseddqreports_selectclass.PNG
 |
 |
 
-* Click **Apply**.  Click **Save** to save the changes.
-
+.. image:: /feature/_images/mdmimages/pxp_kpibaseddqreports_selectclass2.PNG
 |
 |
 
-* Repeat the similars teps for *Conformity*, *Uniqueness* and  *Accuracy* tab. Click to select the attributes and tags.
-
-.. image:: /feature/_images/mdmimages/cs_pibaseddqreports_repeatsimilarsteps.PNG
-|
-|
-
-* To assign the KPI to a role, click  *Partner Administration* tab and  select the Organization where the role is present (in this demo, we selected "Fashionista").
-
-
-.. image:: /feature/_images/mdmimages/cs_pibaseddqreports_assignkpirole.PNG
-|
-|
-
-.. image:: /feature/_images/mdmimages/cs_pibaseddqreports_assignkpirole2.PNG
-|
-|
-
-.. image:: /feature/_images/mdmimages/cs_pibaseddqreports_assignkpirole3.PNG
+.. image:: /feature/_images/mdmimages/pxp_kpibaseddqreports_selectclass3.PNG
 |
 |
 
 
-* Click *Roles* tab and select a role (in this demo, we selected " Garment Supplier"). Then, select a KPI and click **Apply**.
+* Click on the **Completeness** tab, then click on the **Add Rule** button.
 
-.. image:: /feature/_images/mdmimages/cs_pibaseddqreports_assignkpiroleall.PNG
+.. image:: /feature/_images/mdmimages/pxp_kpibaseddqreports_clickompletenesstab.PNG
 |
-|
-
-
-* Logout from the system and login with the user belonging to the role, to view the KPI for that role.
-
-.. image:: /feature/_images/mdmimages/cs_pibaseddqreports_logout.PNG
-|
-|
-.. image:: /feature/_images/mdmimages/cs_pibaseddqreports_logout2.PNG
+.. image:: /feature/_images/mdmimages/pxp_kpibaseddqreports_clickompletenesstab2.PNG
 |
 |
 
-.. image:: /feature/_images/mdmimages/cs_pibaseddqreports_logout3.PNG
+* Enter a name for the rule. Click on **Attributes** and select the attributes,
+  then click on **Tags** and select the tags.
+
+.. image:: /feature/_images/mdmimages/pxp_kpibaseddqreports_enternameforrule.PNG
 |
 |
+
+* Click on the **Save** button.
+
+.. image:: /feature/_images/mdmimages/pxp_kpibaseddqreports_clicksave.PNG
+|
+|
+
+
+* Perform the similar steps for *Conformity*, *Uniqueness* and *Accuracy* tab.
+
+.. image:: /feature/_images/mdmimages/pxp_kpibaseddqreports_performsimilarsteps.PNG
+|
+|
+
+* Click on **Partner Administration** and select the Organization where the role is present.
+
+
+.. image:: /feature/_images/mdmimages/pxp_kpibaseddqreports_clickpartneradmin.PNG
+|
+|
+
+
+* Click on the **Roles** tab and select a role. Then, select a KPI and click on the **Apply** button.
+
+.. image:: /feature/_images/mdmimages/pxp_kpibaseddqreports_clickrole.PNG
+|
+|
+
+
+* Log out from the system, then log in with the user belonging to the role and view the KPI for that role.
+
+.. image:: /feature/_images/mdmimages/pxp_kpibaseddqreports_logout.PNG
+|
+|
+
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
    :alt: Contentserv line

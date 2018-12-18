@@ -22,74 +22,81 @@ Inheritance via Taxonomy is a feature that allows an article or product to recei
 
 How-to: Inheritance via Taxonomy
 ===================================
-
-Inheriting a subset of attributes from a taxonomy is easy, and here's how to do it.
+To allow a product to inherit the attributes from a taxonomy, follow these steps:
 
 |
 
-* On the home page, click the **Administration** icon.
+* Log in and click on the **Administration** icon.
 
-.. image:: /feature/_images/mdmimages/cs_inheritance_clickadministration.PNG
-|
-|
-
-
-* On the *Data Model* tab, click **Taxonomies**. Then, **Master Taxonomies**.
-
-.. image:: /feature/_images/mdmimages/cs_inheritance_ondatamodeltab.PNG
+.. image:: /feature/_images/mdmimages/pxp_inheritance_login.PNG
 |
 |
 
 
-* Click on the "+" icon to create a new taxonomy and click the **Create** button.
+* In *Data Model*, click on the **Taxonomies** drop-down list and select **Master Taxonomies**.
 
-.. image:: /feature/_images/mdmimages/cs_inheritance_clickplus.PNG
+.. image:: /feature/_images/mdmimages/pxp_inheritance_clicktaxonomies.PNG
 |
 |
 
 
-* Enter a name for the taxonomy then add property collection. Click **Apply** button to save the added property collection.
+* Click on the '+' icon to create a new taxonomy.
 
-.. image:: /feature/_images/mdmimages/cs_inheritance_enternameaddproperty.PNG
-|
-.. image:: /feature/_images/mdmimages/cs_inheritance_enternameaddproperty2.PNG
+.. image:: /feature/_images/mdmimages/pxp_inheritance_clickplus.PNG
 |
 |
 
+* Enter a name for the taxonomy and click on the **Create** button.
 
-* Select the type of coupling, enter the default value, and click **Save**.
-
-.. image:: /feature/_images/mdmimages/cs_inheritance_selecttypecoupling.PNG
+.. image:: /feature/_images/mdmimages/pxp_inheritance_entername.PNG
 |
 |
 
 
-* Click **Explore** icon.
+* Scroll down to *Section* and click on the '+' icon to add a property collection.
+  Select the applicable property collection and click on the **Apply** button.
 
-.. image:: /feature/_images/mdmimages/cs_inheritance_clickexplore.PNG
-|
-|
-
-
-* Go to **PIM** and select your product.
-
-.. image:: /feature/_images/mdmimages/cs_inheritance_gotopimselectproduct.PNG
+.. image:: /feature/_images/mdmimages/pxp_inheritance_propertycollection.PNG
 |
 |
 
 
-* Click **Add Taxonomy** to add your created taxonomy. Go to *Property Collection* tab.
+* Select the type of coupling, enter the default values, and click on the **Save** button.
 
-.. image:: /feature/_images/mdmimages/cs_inheritance_clickaddtaxonomy.PNG
-|
-|
-.. image:: /feature/_images/mdmimages/cs_inheritance_clickaddtaxonomy2.PNG
-|
-|
-.. image:: /feature/_images/mdmimages/cs_inheritance_clickaddtaxonomy3.PNG
+.. image:: /feature/_images/mdmimages/pxp_inheritance_selecttypecoupling.PNG
 |
 |
 
+
+* Click on the **Explore** icon.
+
+.. image:: /feature/_images/mdmimages/pxp_inheritance_clickexplore.PNG
+|
+|
+
+
+* Go to *Products* and select your product.
+
+.. image:: /feature/_images/mdmimages/pxp_inheritance_selectproduct.PNG
+|
+|
+
+
+* Click on the **Add Taxonomy** button to add the created taxonomy. Go to the *Properties* tab.
+
+.. image:: /feature/_images/mdmimages/pxp_inheritance_clickaddtaxonomy.PNG
+|
+|
+.. image:: /feature/_images/mdmimages/pxp_inheritance_clickaddtaxonomy2.PNG
+|
+|
+
+
+* View the attributes in the property collection inherited via taxonomy.
+
+.. image:: /feature/_images/mdmimages/pxp_inheritance_viewattributes.PNG
+|
+|
 
 *Note: Attributes under "Dynamic Coupling" are not editable as these values are inherited. Attributes under "Tight Coupling" can be updated.*
 

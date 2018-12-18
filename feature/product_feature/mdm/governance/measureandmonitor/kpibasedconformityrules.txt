@@ -34,78 +34,83 @@ To do this feature, follow these steps:
 
 * Log in and go to *Administration*.
 
-.. image:: /feature/_images/mdmimages/cs_monitordataquality_login.PNG
+.. image:: /feature/_images/mdmimages/pxp_monitordataquality_login.PNG
 |
 |
 
 
-* Click on the **Data Governance** tab.
+* Click on **Data Governance**.
 
-.. image:: /feature/_images/mdmimages/cs_monitordataquality_clickondatagovernance.PNG
+.. image:: /feature/_images/mdmimages/pxp_monitordataquality_clickondatagovernance.PNG
 |
 |
 
 
 * Click on **KPIs**.
 
-.. image:: /feature/_images/mdmimages/cs_monitordataquality_clickonkpis.PNG
+.. image:: /feature/_images/mdmimages/pxp_monitordataquality_clickonkpis.PNG
 |
 |
 
 
-* Click on the "+" icon to create a new KPI.
+* Click on the '+' icon to create a new KPI.
 
-.. image:: /feature/_images/mdmimages/cs_monitordataquality_clickontheicontocreatenewkpi.PNG
+.. image:: /feature/_images/mdmimages/pxp_monitordataquality_clickontheicontocreatenewkpi.PNG
 |
 |
 
 
 * Fill out the name and click on the **Create** button.
 
-.. image:: /feature/_images/mdmimages/cs_kpibasedconformity_filloutthename.PNG
+.. image:: /feature/_images/mdmimages/pxp_kpibasedconformity_filloutthename.PNG
 |
 |
 
 
 * On the *KPI Details* page, select a *Class* and *Taxonomy*, which will use the KPI.  Click the **Apply** button.
 
-.. image:: /feature/_images/mdmimages/cs_kpibasedconformity_selectclassandtaxonomy.PNG
+.. image:: /feature/_images/mdmimages/pxp_kpibasedconformity_selectclassandtaxonomy.PNG
 |
-.. image:: /feature/_images/mdmimages/cs_kpibasedconformity_selectclassandtaxonomy2.PNG
+.. image:: /feature/_images/mdmimages/pxp_kpibasedconformity_selectclassandtaxonomy2.PNG
 |
 |
 
 
 * For the Drill down levels, add *Tags* or *Taxonomies*, where the KPI is to be categorized into.
 
-.. image:: /feature/_images/mdmimages/cs_kpibasedconformity_forthedrilldownlevels.PNG
+.. image:: /feature/_images/mdmimages/pxp_kpibasedconformity_forthedrilldownlevels.PNG
 |
 |
 
 
 * Click on the **Conformity** tab and click on the **+ Add Rule** button to create a new rule.
 
-.. image:: /feature/_images/mdmimages/cs_kpibasedconformity_clickontheconformity.PNG
+.. image:: /feature/_images/mdmimages/pxp_kpibasedconformity_clickontheconformity.PNG
 |
 |
 
 
 * Provide the details for the *Label, Attributes, and Tags* to which the rule will be applied. Select the rules according to the requirements and standards.
 
-.. image:: /feature/_images/mdmimages/cs_kpibasedconformity_providethedetails.PNG
+.. image:: /feature/_images/mdmimages/pxp_kpibasedconformity_providethedetails.PNG
 |
-.. image:: /feature/_images/mdmimages/cs_kpibasedconformity_providethedetails2.PNG
+.. image:: /feature/_images/mdmimages/pxp_kpibasedconformity_providethedetails2.PNG
 |
 |
 
 
 * Click the **Save** button.
 
-.. image:: /feature/_images/mdmimages/cs_kpibasedconformity_clickthesave.PNG
+.. image:: /feature/_images/mdmimages/pxp_kpibasedconformity_clickthesave.PNG
 |
 |
 
-*Note: A notification will confirm that the rule and the KPI have been created. Click OK to continue.*
+*Note: A notification will confirm that the rule and the KPI have been created. Click the OK button to continue.*
+
+.. image:: /feature/_images/mdmimages/pxp_kpibasedconformity_noteclickok.PNG
+|
+|
+
 
 |
 |

@@ -28,86 +28,87 @@ Easily group related products by defining PIDs, and here's how to do it.
 
 |
 
-* Go to *PIM*.
+* Go to *Products*.
 
-.. image:: /feature/_images/mdmimages/cs_managepids_gotopim.PNG
+.. image:: /feature/_images/mdmimages/pxp_managepids_selectproduct.PNG
 |
 |
 
-* Hover on the "+" icon.
+* Click on the **Create** button.
 
-.. image:: /feature/_images/mdmimages/cs_managepids_hoverplus.PNG
+.. image:: /feature/_images/mdmimages/pxp_managepids_clickcreate.PNG
 |
 |
 
 * Select **Product**.
 
-.. image:: /feature/_images/mdmimages/cs_managepids_selectproduct.PNG
+.. image:: /feature/_images/mdmimages/pxp_managepids_selectproduct.PNG
 |
 |
 
 * Enter the properties and go to the *Relationships* tab of the product.
 
-.. image:: /feature/_images/mdmimages/cs_managepids_enterpropertiesgotorelationship.PNG
+.. image:: /feature/_images/mdmimages/pxp_managepids_enterpropertiesgotorelationship.PNG
 |
 |
 
-* Click the "+" icon to add the link variants.
+* Click the '+' icon to add the link variants.
 
-.. image:: /feature/_images/mdmimages/cs_managepids_clickpluslinkvariant.PNG
+.. image:: /feature/_images/mdmimages/pxp_managepids_clickpluslinkvariant.PNG
 |
 |
 
 * Select the variant and click the **Add all** button (or drag and drop the products to the right side).
 
-.. image:: /feature/_images/mdmimages/cs_managepids_selectvariant.PNG
+.. image:: /feature/_images/mdmimages/pxp_managepids_selectvariant.PNG
 |
 |
 
-.. image:: /feature/_images/mdmimages/cs_managepids_selectvariant2.PNG
+.. image:: /feature/_images/mdmimages/pxp_managepids_selectvariant2.PNG
 |
 |
 
 
 * Click the **Back** button found on the right side.
 
-.. image:: /feature/_images/mdmimages/cs_managepids_clickback.PNG
+.. image:: /feature/_images/mdmimages/pxp_managepids_clickback.PNG
 |
 |
 
-* Click the "+" icon under Images.
+* Click the '+' icon under Images.
 
-.. image:: /feature/_images/mdmimages/cs_managepids_clickplusimages.PNG
+.. image:: /feature/_images/mdmimages/pxp_managepids_clickplusimages.PNG
 |
 |
 
 * Select the image and click **Add All** (or drag and drop the image to the right side).
 
-.. image:: /feature/_images/mdmimages/cs_managepids_clickplusimages2.PNG
+.. image:: /feature/_images/mdmimages/pxp_managepids_clickplusimages2.PNG
 |
 |
 
-.. image:: /feature/_images/mdmimages/cs_managepids_clickplusimages3.PNG
+.. image:: /feature/_images/mdmimages/pxp_managepids_clickplusimages3.PNG
 |
 |
 
-* Add Market to the Relationship. The steps are the same as with adding images except that you click the "+" icon under Market
 
-.. image:: /feature/_images/mdmimages/cs_managepids_clickplusmarket.PNG
-|
-|
+* Add Market to the Relationship. The steps are the same as with adding images except that you click the '+' icon under Market
 
-.. image:: /feature/_images/mdmimages/cs_managepids_clickplusmarket2.PNG
+.. image:: /feature/_images/mdmimages/pxp_managepids_clickplusmarket.PNG
 |
 |
 
-.. image:: /feature/_images/mdmimages/cs_managepids_clickplusmarket3.PNG
+.. image:: /feature/_images/mdmimages/pxp_managepids_clickplusmarket2.PNG
+|
+|
+
+.. image:: /feature/_images/mdmimages/pxp_managepids_clickplusmarket3.PNG
 |
 |
 
 * See the final product.
 
-.. image:: /feature/_images/mdmimages/cs_managepids_seefinal.PNG
+.. image:: /feature/_images/mdmimages/pxp_managepids_seefinal.PNG
 |
 |
 

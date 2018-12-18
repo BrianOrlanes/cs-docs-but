@@ -29,79 +29,79 @@ To do this, follow these steps:
 
 |
 
-* Click the **Administration** icon.
+* Click on the **Administration** icon.
 
-.. image:: /feature/_images/mdmimages/cs_drilldownforkpireports_clickadministration.PNG
+.. image:: /feature/_images/mdmimages/pxp_drilldownforkpireports_clickadministration.PNG
 |
 |
 
 
-* Click the *Data Governance* tab from the top.
+* Click on **Data Governance**.
 
-.. image:: /feature/_images/mdmimages/cs_drilldownforkpireports_clicgovernancetab.PNG
+.. image:: /feature/_images/mdmimages/pxp_drilldownforkpireports_clickgovernance.PNG
 |
 |
 
 
-* Click **KPIs**.
+* Click on **KPIs**.
 
-.. image:: /feature/_images/mdmimages/cs_drilldownforkpireports_clickkpi.PNG
+.. image:: /feature/_images/mdmimages/pxp_drilldownforkpireports_clickkpi.PNG
 |
 |
 
 
-* Click the "+" icon at the top right to create a new KPI.
+* Click on the '+' icon to create a new KPI.
 
-.. image:: /feature/_images/mdmimages/cs_drilldownforkpireports_clickplus.PNG
+.. image:: /feature/_images/mdmimages/pxp_drilldownforkpireports_clickplus.PNG
 |
 |
 
 
-* Enter a name and code (optional).Then, click **Create** to continue.
+* Enter a name for the KPI, then click on the **Create** button.
 
-.. image:: /feature/_images/mdmimages/cs_drilldownforkpireports_enternamecreate.PNG
+.. image:: /feature/_images/mdmimages/pxp_drilldownforkpireports_entername.PNG
 |
 |
 
-* Once the KPI is created, it appears in the list of KPI. It automatically opens the created KPI.
 
-|
+* On the *KPI Information* tab, click on **Classes** and select the class.
+  Click on **Taxonomies** and select the taxonomy.
 
-* On the *KPI Information* tab, click to select **Class** and **Taxonomy**.
-
-
-.. image:: /feature/_images/mdmimages/cs_drilldownforkpireports_informationtab.PNG
+.. image:: /feature/_images/mdmimages/pxp_drilldownforkpireports_informationtab.PNG
 |
 |
 
 
 * Add the tags or taxonomies in the selected KPI drilled down levels.
 
-.. image:: /feature/_images/mdmimages/cs_drilldownforkpireports_addtagstaxonomy.PNG
+.. image:: /feature/_images/mdmimages/pxp_drilldownforkpireports_addtagstaxonomy.PNG
 |
 |
 
 
 * Click **Save** to save the changes.
 
-.. image:: /feature/_images/mdmimages/cs_drilldownforkpireports_clicksave.PNG
+.. image:: /feature/_images/mdmimages/pxp_drilldownforkpireports_clicksave.PNG
 |
 |
 
 
-* Click **Explore** to go back to the dashboard.
+* Click on the **OK** button, then click on the **Explore** icon to go back to the dashboard.
 
-.. image:: /feature/_images/mdmimages/cs_drilldownforkpireports_clickexplore.PNG
+.. image:: /feature/_images/mdmimages/pxp_drilldownforkpireports_clickexplore.PNG
+|
+.. image:: /feature/_images/mdmimages/pxp_drilldownforkpireports_clickexplore2.PNG
 |
 |
 
 
-*View the created dashboard. It drills down in the KPI, click on the graph bar and the KPI is drilled down with the appropriate taxonomy and tag.
+* Click on the **Data Governance** tab. Click on the graph and the KPI is drilled down with the appropriate taxonomy and tag.
 
-.. image:: /feature/_images/mdmimages/cs_drilldownforkpireports_viewcreateddashboard.PNG
+.. image:: /feature/_images/mdmimages/pxp_drilldownforkpireports_clickdatagovernance.PNG
+|
+.. image:: /feature/_images/mdmimages/pxp_drilldownforkpireports_clickdatagovernance2.PNG
 |
 |
-
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
    :alt: Contentserv line
