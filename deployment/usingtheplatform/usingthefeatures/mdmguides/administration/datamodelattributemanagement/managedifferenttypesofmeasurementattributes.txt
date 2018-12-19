@@ -283,7 +283,7 @@ To set an attribute as a volume, follow these steps:
 |
 
 
-* Click the "+" icon to create an attribute.
+* Click the '+' icon to create an attribute.
 
 .. image:: /feature/_images/mdmimages/pxp_manageattributevolume_clickoncreatebuttonB.PNG
 |

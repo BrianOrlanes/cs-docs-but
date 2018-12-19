@@ -40,7 +40,7 @@ To manage affinities, follow these steps:
 |
 
 
-* Click on the "+" icon to create a new tag (LOV).
+* Click on the '+' icon to create a new tag (LOV).
 
 .. image:: /feature/_images/mdmimages/pxp_manageaffinities_clickplusicon.PNG
 |

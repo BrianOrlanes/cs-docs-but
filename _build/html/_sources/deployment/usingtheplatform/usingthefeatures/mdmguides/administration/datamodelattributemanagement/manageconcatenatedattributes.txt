@@ -46,7 +46,7 @@ To do this admin feature, follow the steps below:
 
 * Go to *Concatenated* under the *Properties* section.
 
-.. image:: /feature/_images/mdmimages/pxp_manageconcatenatedattributes_clickonconcatenated.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageconcatenatedattributes_clickonconcatenated2.PNG
 |
 |
 

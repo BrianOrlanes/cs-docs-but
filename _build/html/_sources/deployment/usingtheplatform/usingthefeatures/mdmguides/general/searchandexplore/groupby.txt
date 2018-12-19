@@ -63,7 +63,7 @@ To do this feature, follow these steps:
 
 .. image:: /feature/_images/mdmimages/pxp_groupby_selecttheproperty.PNG
 |
-.. image:: /feature/_images/mdmimages/pxp_groupby_selecttheproperty2.PNG
+.. image:: /feature/_images/mdmimages/pxp_groupby_selecttheproperty22.PNG
 |
 |
 
@@ -77,7 +77,7 @@ To do this feature, follow these steps:
 
 * Similarly, on the list that will appear, select the appropriate property. Select a subtag to have a more refined grouping.
 
-.. image:: /feature/_images/mdmimages/pxp_groupby_similarlyonthelist.PNG
+.. image:: /feature/_images/mdmimages/pxp_groupby_similarlyonthelist1.PNG
 |
 |
 
