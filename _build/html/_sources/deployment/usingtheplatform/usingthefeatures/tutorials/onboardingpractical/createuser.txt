@@ -19,7 +19,7 @@ To create a new user, follow the steps below:
 |
 
 
-*	Click the "+" icon to create a new user.
+*	Click the '+' icon to create a new user.
 
 .. image:: /tutorials/_images/pxp_createuser_clicktheicon.PNG
 |
