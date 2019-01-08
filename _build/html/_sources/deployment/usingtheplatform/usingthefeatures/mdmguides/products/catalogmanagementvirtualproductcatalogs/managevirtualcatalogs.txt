@@ -65,7 +65,7 @@ To do this feature, follow these steps:
 |
 
 
-* Add a *Property Collection* by clicking the "+" icon in *Section*. Select a *Property Collection* and then click the **Apply** button.
+* Add a *Property Collection* by clicking the '+' icon in *Section*. Select a *Property Collection* and then click the **Apply** button.
 
 .. image:: /feature/_images/mdmimages/pxp_managevirtualcatalog_addapropertycollection.PNG
 |

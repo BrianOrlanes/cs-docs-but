@@ -46,7 +46,7 @@ To create a *Golden Record*, follow these steps:
 
 * Log in and then go to *Administration*.
 
-.. image:: /feature/_images/mdmimages/pxp_goldenrecord_login.PNG
+.. image:: /feature/_images/mdmimages/pxp_goldenrecord_loginb.PNG
 |
 |
 
@@ -199,7 +199,7 @@ To create a *Golden Record*, follow these steps:
 |
 
 
-*Note that there is a symbol beside each value.  An equal sign means that this value is equal to the value in the merged record. Make sure that all values you want to include in the Golden Record have this symbol.*
+*Note:* There is a symbol beside each value.  An equal sign means that this value is equal to the value in the merged record. Make sure that all values you want to include in the Golden Record have this symbol.*
 
 .. image:: /feature/_images/mdmimages/pxp_goldenrecord_notethattherearesymbols.PNG
 |

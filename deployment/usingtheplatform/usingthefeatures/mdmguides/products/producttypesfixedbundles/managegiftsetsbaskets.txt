@@ -30,7 +30,7 @@ To do manage gift sets/baskets, follow these steps:
 
 * Go to *Products*.
 
-.. image:: /feature/_images/mdmimages/pxp_managegiftsetsbaskets_gotoproducts.PNG
+.. image:: /feature/_images/mdmimages/pxp_managegiftsetsbaskets_gotoproductsb.PNG
 |
 |
 
