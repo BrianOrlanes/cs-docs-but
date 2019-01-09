@@ -56,7 +56,7 @@ To create a Partner, a Role, and also to assign a user to a specific role; follo
 
 *	Select the created role and click on the **Users** field.
 
-.. image:: /tutorials/_images/123456
+.. image:: /tutorials/_images/pxp_createpartnerrole_selectcreatedrole.PNG
 |
 |
 
