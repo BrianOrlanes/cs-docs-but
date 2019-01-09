@@ -20,7 +20,7 @@ To configure a workflow, follow the detailed steps listed below:
 |
 
 
-*	Click the "+" icon to create a new workflow.
+*	Click the '+' icon to create a new workflow.
 
 .. image:: /tutorials/_images/pxp_configureworkflow_clicktheicon.PNG
 |
@@ -208,7 +208,7 @@ Sr No     Screen Element                        Description
 
 |
 
-.. image:: /tutorials/_images/pxp_graphicalnotations.PNG
+.. image:: /tutorials/_images/cs_graphicalnotations.PNG
    :alt: Graphical Notations
 
 |
