@@ -5,30 +5,37 @@ To configure an endpoint, follow these steps:
 
 |
 
+*	Log in to the application and click on the **Administration** button.
+
+.. image:: /tutorials/_images/pxp_configureendpoint_logintotheapp.PNG
+|
+|
+
 * Navigate to **Data Integration** -> **Endpoints** menu.
 
-.. image:: /tutorials/_images/cs_configureendpoint_navigate.PNG
+.. image:: /tutorials/_images/pxp_configureendpoint_navigate.PNG
+|
+|
+
+.0
+
+*	Click the '+' icon to create the endpoint.
+
+.. image:: /tutorials/_images/pxp_configureendpoint_clickplusicon.PNG
 |
 |
 
 
-*	Click the "+" icon to create the endpoint.
+*	Provide the following details: *Name, Type*, and click on the **Create** button.
 
-.. image:: /tutorials/_images/cs_configureendpoint_clickplusicon.PNG
+.. image:: /tutorials/_images/pxp_configureendpoint_providethedetails.PNG
 |
 |
 
 
-*	Provide the following details: *Name, Type, and Code*. Click on the **Create** button.
+*	Drag the scroll bar on the bottom to navigate and select the values for: *Realtime Mapping, System, Workflow, Mapping, Dashboard Tab, and Physical Catalog*. Click on the **Save** button.
 
-.. image:: /tutorials/_images/cs_configureendpoint_providethedetails.PNG
-|
-|
-
-
-*	Select the values for: *Realtime Mapping, System, Workflow, Mapping, Dashboard Tab, and Physical Catalog*. Click on the **Save** button.
-
-.. image:: /tutorials/_images/cs_configureendpoint_selectvalues.PNG
+.. image:: /tutorials/_images/pxp_configureendpoint_dragselectvalues.PNG
 |
 |
 
