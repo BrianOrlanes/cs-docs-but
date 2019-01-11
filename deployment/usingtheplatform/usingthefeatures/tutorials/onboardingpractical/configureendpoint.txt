@@ -5,12 +5,6 @@ To configure an endpoint, follow these steps:
 
 |
 
-*	Log in to the application and click on the **Administration** button.
-
-.. image:: /tutorials/_images/pxp_configureendpoint_logintotheapp.PNG
-|
-|
-
 * Navigate to **Data Integration** -> **Endpoints** menu.
 
 .. image:: /tutorials/_images/pxp_configureendpoint_navigate.PNG

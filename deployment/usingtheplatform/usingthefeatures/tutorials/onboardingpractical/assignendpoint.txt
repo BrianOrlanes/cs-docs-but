@@ -7,28 +7,26 @@ To assign an endpoint to partners and roles, follow these steps:
 
 * Navigate to **Partner Administration** -> **Partners** menu and click on the created partner to whom you want to assign the endpoint.
 
-.. image:: /tutorials/_images/cs_assignendpoint_navigate.PNG
+.. image:: /tutorials/_images/pxp_assignendpoint_navigate.PNG
 |
 |
-
 
 * Click on the created endpoint from the *Systems* section.
 
-.. image:: /tutorials/_images/cs_assignendpoint_clickcreatedendpoint.PNG
+.. image:: /tutorials/_images/pxp_assignendpoint_clickcreatedendpoint.PNG
 |
 |
-
 
 *	Click on the **Roles** tab and click on the created endpoint from the *Systems* section.
 
-.. image:: /tutorials/_images/cs_assignendpoint_clickroles.PNG
+.. image:: /tutorials/_images/pxp_assignendpoint_clickroles.PNG
 |
 |
 
 
 *	Click on the **Save** button.
 
-.. image:: /tutorials/_images/cs_assignendpoint_clicksave.PNG
+.. image:: /tutorials/_images/pxp_assignendpoint_clicksave.PNG
 |
 |
 
