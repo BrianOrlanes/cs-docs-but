@@ -63,7 +63,7 @@ To do this feature, follow these steps:
 
 .. image:: /feature/_images/mdmimages/pxp_groupby_selecttheproperty.PNG
 |
-.. image:: /feature/_images/mdmimages/pxp_groupby_selecttheproperty22.PNG
+.. image:: /feature/_images/mdmimages/pxp_groupby_selecttheproperty2.PNG
 |
 |
 
