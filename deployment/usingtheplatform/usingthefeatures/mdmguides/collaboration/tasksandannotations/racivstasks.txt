@@ -75,7 +75,7 @@ To do this feature, follow these steps:
 |
 
 
-  * The user who created the task, by default, is the **Accountable** user. The **Accountable** user can change the task from *Planned* to the *Ready* state.
+* The user who created the task, by default, is the **Accountable** user. The **Accountable** user can change the task from *Planned* to the *Ready* state.
 
   .. image:: /feature/_images/mdmimages/pxp_racivstasks_plannedtoready.PNG
 |

@@ -56,7 +56,7 @@ To do this, follow these steps:
 |
 
 
-* click **Type** and select **Threshold** from the dropdown list and . Click on the **Create** button to continue.
+* Click **Type** and select **Threshold** from the drop-down list. Click on the **Create** button to continue.
 *Note: The 'loose bundle' is also known as 'Threshold Bundle'.*
 
 .. image:: /feature/_images/mdmimages/pxp_manageprepacks_clicktypeselectthreshold.PNG
@@ -64,7 +64,7 @@ To do this, follow these steps:
 |
 
 
-* In the content window of the class, enable Default. Remember to mention Maximum Number of products you would like to add. Save the changes.
+* In the content window of the class, enable **Default**. Remember to mention Maximum Number of products you would like to add. Save the changes.
 
 .. image:: /feature/_images/mdmimages/pxp_manageprepacks_inthecontentwindowclass.PNG
 |
@@ -80,7 +80,7 @@ To do this, follow these steps:
 |
 |
 
-* Add property collection in the Section tab by clicking on ''+' icon and click **Apply**.
+* Add property collection in the Section tab by clicking on '+' icon and click **Apply**.
 
 .. image:: /feature/_images/mdmimages/pxp_manageprepacks_addpropertycollection.PNG
 |
@@ -90,13 +90,13 @@ To do this, follow these steps:
 |
 |
 
-* In the Relationship section, select the class by clicking on Other Side (in this demo, we selected   *'article'*). The type of class you choose here will decide what kind of products you can add to threshold bundles.
+* In the Relationship section, select the class by clicking on Other Side (in this demo, we selected  'article'). The type of class you choose here will decide what kind of products you can add to threshold bundles.
 
 .. image:: /feature/_images/mdmimages/pxp_manageprepacks_inrelationshipsection.PNG
 |
 |
 
-* Next, click on the Explore tab. Click to the '+' icon to see *Loose Bundle* type of class that was created earlier.
+* Next, click on the **Explore** tab. Click on the '+' icon to see *Loose Bundle* type of class that was created earlier.
 
 .. image:: /feature/_images/mdmimages/pxp_manageprepacks_clickexplore.PNG
 |
@@ -118,7 +118,7 @@ To do this, follow these steps:
 |
 
 
-* Click on *Overview* tab to find a sub-tab Bundle Section.
+* Click on the **Overview** tab to find a sub-tab Bundle Section.
 
 .. image:: /feature/_images/mdmimages/pxp_manageprepacks_nextclickoverviewtab.PNG
 |

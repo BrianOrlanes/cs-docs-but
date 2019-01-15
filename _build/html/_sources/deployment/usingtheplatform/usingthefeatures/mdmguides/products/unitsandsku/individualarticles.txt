@@ -27,7 +27,7 @@ To manage units for individual articles, follow these steps:
 
 |
 
-* Log in and click on the *Administration* button.
+* Log in and click on the **Administration** icon.
 
 .. image:: /feature/_images/mdmimages/pxp_individualarticles_login.PNG
 |

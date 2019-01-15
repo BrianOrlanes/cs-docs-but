@@ -35,7 +35,7 @@ To do manage gift sets/baskets, follow these steps:
 |
 
 
-* click on the **Create** button.
+* Click on the **Create** button.
 
 .. image:: /feature/_images/mdmimages/pxp_managegiftsetsbaskets_clickcreate.PNG
 |
@@ -59,7 +59,7 @@ To do manage gift sets/baskets, follow these steps:
 |
 |
 
-* Click to select one or more products (checkbox turns to Blue when selected), and click the **Add ** icon.
+* Click to select one or more products (checkbox turns to Blue when selected), and click the **Add** icon.
 
 .. image:: /feature/_images/mdmimages/pxp_managegiftsetsbaskets_clickdesiredproduct.PNG
 |

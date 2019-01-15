@@ -31,7 +31,7 @@ To do this data governance feature, follow these steps:
 
 |
 
-* On the home page, click on the **Administration** button.
+* Log in and click on the **Administration** icon.
 
 .. image:: /feature/_images/mdmimages/pxp_mustshouldattributes_clickadministration.PNG
 |

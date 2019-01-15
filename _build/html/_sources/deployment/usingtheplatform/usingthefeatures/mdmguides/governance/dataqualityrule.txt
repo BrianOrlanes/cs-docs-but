@@ -47,7 +47,7 @@ To do this data governance feature, follow these steps:
 |
 |
 
-* Click on the "+" icon to create a new rule.
+* Click on the '+' icon to create a new rule.
 
 .. image:: /feature/_images/mdmimages/pxp_dataqualityrule_clickplus.PNG
 |
