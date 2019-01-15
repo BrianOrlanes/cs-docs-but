@@ -84,14 +84,14 @@ To do this feature, follow these steps:
 
 * Once in the *Ready* state, the **Responsible** user acknowledges the task and sets it to either *Declined* or *In Progress*.
 
-.. image:: /feature/_images/mdmimages/racivstasks_oncethereadystate.PNG
+.. image:: /feature/_images/mdmimages/pxp_racivstasks_oncethereadystateb.PNG
 |
 |
 
 
 * When the task is completed by the **Accountable** user, the **Responsible** user acknowledges and sets the status to *Done*.
 
-.. image:: /feature/_images/mdmimages/racivstasks_whenthetaskiscompleted.PNG
+.. image:: /feature/_images/mdmimages/pxp_racivstasks_whenthetaskiscompleted.PNG
 |
 |
 
