@@ -41,80 +41,76 @@ Here's how to do a simple taxonomy tree.
 
 * Click the **Administration** icon.
 
-.. image:: /feature/_images/mdmimages/cs_managetaxonomy_clickadministration.PNG
+.. image:: /feature/_images/mdmimages/pxp_managetaxonomy_clickadministration.PNG
 |
 |
 
-* Click the **Master Taxonomies** button.
+* Go to *Data Model*. Then, under *Taxonomies*, click **Master Taxonomies**.
 
-.. image:: /feature/_images/mdmimages/cs_managetaxonomy_clickmastertaxonomies.PNG
-|
-|
-
-* Click on the "+" icon to create a new taxonomy.
-
-.. image:: /feature/_images/mdmimages/cs_managetaxonomy_clickplus.PNG
+.. image:: /feature/_images/mdmimages/pxp_managetaxonomy_clickmastertaxonomies.PNG
 |
 |
 
-* Enter the necessary data, click the **Create** button, and click **Save**.
+* Click on the '+' icon to create a new taxonomy.
 
-.. image:: /feature/_images/mdmimages/cs_managetaxonomy_enternecessary.PNG
-|
-|
-
-.. image:: /feature/_images/mdmimages/cs_managetaxonomy_enternecessary2.PNG
+.. image:: /feature/_images/mdmimages/pxp_managetaxonomy_clickplus.PNG
 |
 |
 
-* To make a hierarchy, click on the created taxonomy then click on **Add New Level +** button.
+* Enter the necessary data and click the **Create** button.
 
-.. image:: /feature/_images/mdmimages/cs_managetaxonomy_tomakeheirarchy.PNG
-|
-|
-
-.. image:: /feature/_images/mdmimages/cs_managetaxonomy_tomakeheirarchy2.PNG
+.. image:: /feature/_images/mdmimages/pxp_managetaxonomy_enternecessary.PNG
 |
 |
 
-* Click on the "+" icon to add a Property Collection, select from the dropdown list, and click **Apply**.
+* To make a hierarchy, click on the created taxonomy and click on the **Add New Level** button.
 
-.. image:: /feature/_images/mdmimages/cs_managetaxonomy_clickplusproperty.PNG
-|
-|
-
-.. image:: /feature/_images/mdmimages/cs_managetaxonomy_clickplusproperty2.PNG
+.. image:: /feature/_images/mdmimages/pxp_managetaxonomy_tomakeheirarchy.PNG
 |
 |
 
-.. image:: /feature/_images/mdmimages/cs_managetaxonomy_clickplusproperty3.PNG
+.. image:: /feature/_images/mdmimages/pxp_managetaxonomy_tomakeheirarchy2.PNG
 |
 |
 
-* Go to *PIM*. Hover on the "+" icon and select the product.
+* Click on the '+' icon to add a Property Collection, select from the dropdown list, and click the **Apply** button.
 
-.. image:: /feature/_images/mdmimages/cs_managetaxonomy_gotopim.PNG
+.. image:: /feature/_images/mdmimages/pxp_managetaxonomy_clickplusproperty.PNG
+|
+|
+
+.. image:: /feature/_images/mdmimages/pxp_managetaxonomy_clickplusproperty2.PNG
+|
+|
+
+.. image:: /feature/_images/mdmimages/pxp_managetaxonomy_clickplusproperty3.PNG
+|
+|
+
+* Go to *Products*, click on the **Create** button, and select a type of product.
+
+.. image:: /feature/_images/mdmimages/pxp_managetaxonomy_gotoproducts.PNG
 |
 |
 
 
-* Enter data and click **Add Taxonomy**.
+* Enter data and click the **Add Taxonomy** button.
 
-.. image:: /feature/_images/mdmimages/cs_managetaxonomy_enternece_addtax.PNG
-|
-|
-
-.. image:: /feature/_images/mdmimages/cs_managetaxonomy_enternece_addtax2.PNG
+.. image:: /feature/_images/mdmimages/pxp_managetaxonomy_enternece_addtax.PNG
 |
 |
 
-* For additional classification, click **Classify further**.
+.. image:: /feature/_images/mdmimages/pxp_managetaxonomy_enternece_addtax2.PNG
+|
+|
 
-.. image:: /feature/_images/mdmimages/cs_managetaxonomy_additionalclass.PNG
+* For additional classification, click **Classify further** button.
+
+.. image:: /feature/_images/mdmimages/pxp_managetaxonomy_additionalclass.PNG
 |
-.. image:: /feature/_images/mdmimages/cs_managetaxonomy_additionalclass2.PNG
+.. image:: /feature/_images/mdmimages/pxp_managetaxonomy_additionalclass2.PNG
 |
-.. image:: /feature/_images/mdmimages/cs_managetaxonomy_additionalclass3.PNG
+.. image:: /feature/_images/mdmimages/pxp_managetaxonomy_additionalclass3.PNG
 |
 
 

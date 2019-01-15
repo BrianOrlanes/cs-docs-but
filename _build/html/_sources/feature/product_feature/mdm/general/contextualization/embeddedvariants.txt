@@ -28,85 +28,85 @@ To do this, follow these steps:
 
 |
 
-* Go to *PIM*.
+* Go to *Products*.
 
-.. image:: /feature/_images/mdmimages/cs_embeddedvariants_gotopim.PNG
+.. image:: /feature/_images/mdmimages/pxp_embeddedvariants_gotoprod2.PNG
 |
 |
 
 
-* Click on the "+" icon and select *Single Article*.
+* Click on the '+' icon and select *Single Article*.
 
-.. image:: /feature/_images/mdmimages/cs_embeddedvariants_clickplusicon.PNG
+.. image:: /feature/_images/mdmimages/pxp_embeddedvariants_clickplusicon.PNG
 |
 |
 
-.. image:: /feature/_images/mdmimages/cs_embeddedvariants_clickplusicon2.PNG
+.. image:: /feature/_images/mdmimages/pxp_embeddedvariants_clickplusicon2.PNG
 |
 |
 
 
 * Fill in the appropriate data and add images for the product and its variants.
 
-.. image:: /feature/_images/mdmimages/cs_embeddedvariants_fillinappropriateproductdata.PNG
+.. image:: /feature/_images/mdmimages/pxp_embeddedvariants_fillinappropriateproductdata.PNG
 |
 |
 
 
-* Click the **Contexts** tab.
+* Click on the **Contexts** tab.
 
-.. image:: /feature/_images/mdmimages/cs_embeddedvariants_clickcontexticon.PNG
+.. image:: /feature/_images/mdmimages/pxp_embeddedvariants_clickcontexticon.PNG
 |
 |
 
 
 * Click on the **Create** button to create a variant.
 
-.. image:: /feature/_images/mdmimages/cs_embeddedvariants_clickcreate.PNG
+.. image:: /feature/_images/mdmimages/pxp_embeddedvariants_clickcreate.PNG
 |
 |
 
 
-* Select the appropriate tags, select a variant, and click **Save**.
+* Select the appropriate tags, select a variant, and click.
 
-.. image:: /feature/_images/mdmimages/cs_embeddedvariants_selectappropriatetags.PNG
+.. image:: /feature/_images/mdmimages/pxp_embeddedvariants_selectappropriatetags.PNG
 |
 |
 
 
-* Fill in the data for the variant and click **Save**.
+* Fill in the data for the variant and click.
 
-.. image:: /feature/_images/mdmimages/cs_embeddedvariants_fillindata.PNG
+.. image:: /feature/_images/mdmimages/pxp_embeddedvariants_fillindata.PNG
 |
 |
 
 
 * Add image to the created variant.
 
-.. image:: /feature/_images/mdmimages/cs_embeddedvariants_addvariantimage.PNG
+.. image:: /feature/_images/mdmimages/pxp_embeddedvariants_addvariantimage.PNG
 |
 |
 
-.. image:: /feature/_images/mdmimages/cs_embeddedvariants_addvariantimage2.PNG
+.. image:: /feature/_images/mdmimages/pxp_embeddedvariants_addvariantimage2.PNG
 |
 |
-.. image:: /feature/_images/mdmimages/cs_embeddedvariants_addvariantimage3.PNG
+.. image:: /feature/_images/mdmimages/pxp_embeddedvariants_addvariantimage3.PNG
 |
 |
-.. image:: /feature/_images/mdmimages/cs_embeddedvariants_addvariantimage4.PNG
+.. image:: /feature/_images/mdmimages/pxp_embeddedvariants_addvariantimage4.PNG
 |
 |
 
 * Go back to the created *Single Article* at the top left corner.
 
-.. image:: /feature/_images/mdmimages/cs_embeddedvariants_clickcreatedsinglearticle.PNG
+.. image:: /feature/_images/mdmimages/pxp_embeddedvariants_clickcreatedsinglearticle.PNG
 |
 |
 
 
 * The variant looks similar to the image below. Take note that users can create several embedded variants.
 
-.. image:: /feature/_images/mdmimages/cs_embeddedvariants_variantlookssimilar.PNG
+.. image:: /feature/_images/mdmimages/pxp_embeddedvariants_variantlookssimilar.PNG
 |
 |
 

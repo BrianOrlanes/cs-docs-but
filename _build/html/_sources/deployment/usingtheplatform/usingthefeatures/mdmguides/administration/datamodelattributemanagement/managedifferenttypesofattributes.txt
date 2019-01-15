@@ -28,23 +28,23 @@ To do this admin feature, follow the steps below:
 
 |
 
-* Log in and go to *Administration*.
+* Log in and click on the **Administration** icon.
 
-.. image:: /feature/_images/mdmimages/cs_managedifftypesofattributes_login.PNG
+.. image:: /feature/_images/mdmimages/pxp_managedifftypesofattributes_login.PNG
 |
 |
 
 
-* Go to the *Data Model* tab and then to *Properties*.
+* Go to the *Data Model* section and then to *Properties*.
 
-.. image:: /feature/_images/mdmimages/cs_managedifftypesofattributes_gotodatamodel.PNG
+.. image:: /feature/_images/mdmimages/pxp_managedifftypesofattributes_gotodatamodel.PNG
 |
 |
 
 
 * Select a specific type of attribute from the selection.
 
-.. image:: /feature/_images/mdmimages/cs_managedifftypesofattributes_selectaspecifictype.PNG
+.. image:: /feature/_images/mdmimages/pxp_managedifftypesofattributes_selectaspecifictype.PNG
 |
 |
 
@@ -56,21 +56,21 @@ To do this admin feature, follow the steps below:
 **Type: Text**
 
 
-  * Click on **Text** and then click the "+" icon to create an attribute.
+  * Click on **Text** and then click the '+' icon to create an attribute.
 
-  .. image:: /feature/_images/mdmimages/cs_managedifftypesofattributes_text1.PNG
+  .. image:: /feature/_images/mdmimages/pxp_managedifftypesofattributes_text1.PNG
   |
   |
 
   * Enter the attribute name and then click on the **Create** button.
 
-  .. image:: /feature/_images/mdmimages/cs_managedifftypesofattributes_text2.PNG
+  .. image:: /feature/_images/mdmimages/pxp_managedifftypesofattributes_text2.PNG
   |
   |
 
   * View the text attribute in runtime.
 
-  .. image:: /feature/_images/mdmimages/cs_managedifftypesofattributes_text3.PNG
+  .. image:: /feature/_images/mdmimages/pxp_managedifftypesofattributes_text3.PNG
   |
   |
 
@@ -79,21 +79,21 @@ To do this admin feature, follow the steps below:
 **Type: Number**
 
 
-  * Click on **Number** and then click the "+" icon to create an attribute.
+  * Click on **Number** and then click the '+' icon to create an attribute.
 
-  .. image:: /feature/_images/mdmimages/cs_managedifftypesofattributes_number1.PNG
+  .. image:: /feature/_images/mdmimages/pxp_managedifftypesofattributes_number1.PNG
   |
   |
 
   * Enter the attribute name and then click on the **Create** button.
 
-  .. image:: /feature/_images/mdmimages/cs_managedifftypesofattributes_number2.PNG
+  .. image:: /feature/_images/mdmimages/pxp_managedifftypesofattributes_number2.PNG
   |
   |
 
   * View the number attribute in runtime.
 
-  .. image:: /feature/_images/mdmimages/cs_managedifftypesofattributes_number3.PNG
+  .. image:: /feature/_images/mdmimages/pxp_managedifftypesofattributes_number3.PNG
   |
   |
 
@@ -101,33 +101,33 @@ To do this admin feature, follow the steps below:
 
 **Type: Price**
 
-  * Click on **Price** and then click the "+" icon to create an attribute.
+  * Click on **Price** and then click the '+' icon to create an attribute.
 
-  .. image:: /feature/_images/mdmimages/cs_managedifftypesofattributes_price1.PNG
+  .. image:: /feature/_images/mdmimages/pxp_managedifftypesofattributes_price1.PNG
   |
   |
 
   * Enter the attribute name and then click on the **Create** button.
 
-  .. image:: /feature/_images/mdmimages/cs_managedifftypesofattributes_price2.PNG
+  .. image:: /feature/_images/mdmimages/pxp_managedifftypesofattributes_price2.PNG
   |
   |
 
   * Set the *Default Unit*.
 
-  .. image:: /feature/_images/mdmimages/cs_managedifftypesofattributes_price3.PNG
+  .. image:: /feature/_images/mdmimages/pxp_managedifftypesofattributes_price3.PNG
   |
   |
 
   * Provide the *Default Value, Precision, Placeholder, Description, and Tooltip* and then set the options for the attribute.
 
-  .. image:: /feature/_images/mdmimages/cs_managedifftypesofattributes_price4.PNG
+  .. image:: /feature/_images/mdmimages/pxp_managedifftypesofattributes_price4.PNG
   |
   |
 
   * View the price attribute in runtime.
 
-  .. image:: /feature/_images/mdmimages/cs_managedifftypesofattributes_price5.PNG
+  .. image:: /feature/_images/mdmimages/pxp_managedifftypesofattributes_price5.PNG
   |
   |
 
@@ -135,29 +135,29 @@ To do this admin feature, follow the steps below:
 
 **Type: Date**
 
-  * Click on **Date** and then click the "+" icon to create an attribute.
+  * Click on **Date** and then click the '+' icon to create an attribute.
 
-  .. image:: /feature/_images/mdmimages/cs_managedifftypesofattributes_date1.PNG
+  .. image:: /feature/_images/mdmimages/pxp_managedifftypesofattributes_date1.PNG
   |
   |
 
   * Enter the attribute name and then click on the **Create** button.
 
-  .. image:: /feature/_images/mdmimages/cs_managedifftypesofattributes_date2.PNG
+  .. image:: /feature/_images/mdmimages/pxp_managedifftypesofattributes_date2.PNG
   |
   |
 
   * Set also the values for *Default Value, Placeholder, and Description*, if available.
 
-  .. image:: /feature/_images/mdmimages/cs_managedifftypesofattributes_date3.PNG
+  .. image:: /feature/_images/mdmimages/pxp_managedifftypesofattributes_date3.PNG
   |
   |
 
   * View the date attribute in runtime.
 
-  .. image:: /feature/_images/mdmimages/cs_managedifftypesofattributes_date4.PNG
+  .. image:: /feature/_images/mdmimages/pxp_managedifftypesofattributes_date4.PNG
   |
-  .. image:: /feature/_images/mdmimages/cs_managedifftypesofattributes_date5.PNG
+  .. image:: /feature/_images/mdmimages/pxp_managedifftypesofattributes_date5.PNG
   |
   |
 

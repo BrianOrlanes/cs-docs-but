@@ -256,7 +256,7 @@ This feature example allows an administrator to set an attribute as *Volume*.
 ===================     ===============================================================================================================================================================
 
 
-How-to: Measurement Type: Volume
+How to do: Measurement Type: Volume
 -------------------------------------
 To set an attribute as a volume, follow these steps:
 
@@ -264,72 +264,72 @@ To set an attribute as a volume, follow these steps:
 
 * Go to *Administration*.
 
-.. image:: /feature/_images/mdmimages/cs_manageattributevolume_gotoadmin.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageattributevolume_gotoadminB.PNG
 |
 |
 
 
-* Go to the *Data Model* tab.
+* Go to the *Data Model* section.
 
-.. image:: /feature/_images/mdmimages/cs_manageattributevolume_gotodatamodel.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageattributevolume_gotodatamodel.PNG
 |
 |
 
 
 * Click on *Measurement* under the *Properties* section.
 
-.. image:: /feature/_images/mdmimages/cs_manageattributevolume_clickonmeasurement.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageattributevolume_clickonmeasurementB.PNG
 |
 |
 
 
 * Click the '+' icon to create an attribute.
 
-.. image:: /feature/_images/mdmimages/cs_manageattributevolume_clickoncreatebutton.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageattributevolume_clickoncreatebuttonB.PNG
 |
 |
 
 
 * Enter the name of the volume attribute and click on the **Create** button.
 
-.. image:: /feature/_images/mdmimages/cs_manageattributevolume_enterthename.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageattributevolume_enterthename.PNG
 |
 |
 
 
 * Check that the attribute has been added successfully.
 
-.. image:: /feature/_images/mdmimages/cs_manageattributevolume_checkthattheattribute.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageattributevolume_checkthattheattribute.PNG
 |
 |
 
 
 * Under the measurement type, search and select *Volume* in the drop-down menu.
 
-.. image:: /feature/_images/mdmimages/cs_manageattributevolume_searchandselectvol.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageattributevolume_searchandselectvol.PNG
 |
-.. image:: /feature/_images/mdmimages/cs_manageattributevolume_searchandselectvol2.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageattributevolume_searchandselectvol2.PNG
 |
 |
 
 
 * Select the appropriate unit for the volume attribute in the *Default Unit* column (e.g. *Gallon, Cubic meter, Liter*).
 
-.. image:: /feature/_images/mdmimages/cs_manageattributevolume_selecttheunit.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageattributevolume_selecttheunitc.PNG
 |
 |
 
 
 * Complete the other attribute fields: *Default Value, Precision, Placeholder, Description, Tooltip, Searchable, Filterable, Sortable, Availability, Grid Editable, and Read Only*.
 
-.. image:: /feature/_images/mdmimages/cs_manageattributevolume_completetheattributes.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageattributevolume_completetheattributes.PNG
 |
 |
 
 
 * Click on the **Save** button to save the settings.
 
-.. image:: /feature/_images/mdmimages/cs_manageattributevolume_clickonsave.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageattributevolume_clickonsave.PNG
 |
 |
 
@@ -363,7 +363,7 @@ This feature example allows an administrator to set an attribute as *Weight (Mas
 ===================     ===============================================================================================================================================================
 
 
-How-to: Measurement Type: Weight (Mass)
+How to do: Measurement Type: Weight (Mass)
 -------------------------------------------
 To set an attribute as a weight/mass, follow these steps:
 
@@ -371,72 +371,72 @@ To set an attribute as a weight/mass, follow these steps:
 
 * Go to *Administration*.
 
-.. image:: /feature/_images/mdmimages/cs_manageattributeweight_gotoadmin.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageattributeweight_gotoadminB.PNG
 |
 |
 
 
-* Go to the *Data Model* tab.
+* Go to the *Data Model* section.
 
-.. image:: /feature/_images/mdmimages/cs_manageattributeweight_gotodatamodel.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageattributeweight_gotodatamodel.PNG
 |
 |
 
 
 * Click on *Measurement* under the *Properties* section.
 
-.. image:: /feature/_images/mdmimages/cs_manageattributeweight_clickonmeasurement.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageattributeweight_clickonmeasurementB.PNG
 |
 |
 
 
 * Click the "+" icon to create an attribute.
 
-.. image:: /feature/_images/mdmimages/cs_manageattributeweight_clickoncreatebutton.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageattributeweight_clickoncreatebuttonB.PNG
 |
 |
 
 
 * Enter the name of the weight (mass) attribute and click on the **Create** button.
 
-.. image:: /feature/_images/mdmimages/cs_manageattributeweight_enterthename.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageattributeweight_enterthename.PNG
 |
 |
 
 
 * Check that the attribute has been added successfully.
 
-.. image:: /feature/_images/mdmimages/cs_manageattributeweight_checkthattheattribute.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageattributeweight_checkthattheattribute.PNG
 |
 |
 
 
 * Under the measurement type, search and select *Mass* in the drop-down menu.
 
-.. image:: /feature/_images/mdmimages/cs_manageattributeweight_searchandselmass.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageattributeweight_searchandselmass.PNG
 |
-.. image:: /feature/_images/mdmimages/cs_manageattributeweight_searchandselmass2.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageattributeweight_searchandselmass2B.PNG
 |
 |
 
 
 * Select the appropriate unit for the weight (mass) attribute in the *Default Unit* column (e.g. *Tonne, Kilogram, Gram*).
 
-.. image:: /feature/_images/mdmimages/cs_manageattributeweight_selecttheunit.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageattributeweight_selecttheunit.PNG
 |
 |
 
 
 * Complete the other attribute fields: *Default Value, Precision, Placeholder, Description, Tooltip, Searchable, Filterable, Sortable, Availability, Grid Editable, and Read Only*.
 
-.. image:: /feature/_images/mdmimages/cs_manageattributeweight_completetheotherattributes.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageattributeweight_completetheotherattributesB.PNG
 |
 |
 
 
 * Click on the **Save** button to save the settings.
 
-.. image:: /feature/_images/mdmimages/cs_manageattributeweight_clickthesavebutton.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageattributeweight_clickthesavebuttonB.PNG
 |
 |
 
@@ -471,7 +471,7 @@ This feature example allows an administrator to set an attribute as *Temperature
 ===================     ===============================================================================================================================================================
 
 
-How-to: Measurement Type: Temperature
+How to do: Measurement Type: Temperature
 -----------------------------------------
 To set an attribute as a temperature, follow these steps:
 
@@ -479,72 +479,72 @@ To set an attribute as a temperature, follow these steps:
 
 * Go to *Administration*.
 
-.. image:: /feature/_images/mdmimages/cs_manageattributetemp_gotoadmin.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageattributetemp_gotoadminB.PNG
 |
 |
 
 
-* Go to the *Data Model* tab.
+* Go to the *Data Model* section.
 
-.. image:: /feature/_images/mdmimages/cs_manageattributetemp_gotodatamodel.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageattributetemp_gotodatamodel.PNG
 |
 |
 
 
 * Click on *Measurement* under the *Properties* section.
 
-.. image:: /feature/_images/mdmimages/cs_manageattributetemp_clickonmeasurement.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageattributetemp_clickonmeasurementB.PNG
 |
 |
 
 
-* Click the '+' icon to create an attribute.
+* Click the "+" icon to create an attribute.
 
-.. image:: /feature/_images/mdmimages/cs_manageattributetemp_clickoncreatebutton.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageattributetemp_clickoncreatebuttonB.PNG
 |
 |
 
 
 * Enter the name of the temperature attribute and click on the **Create** button.
 
-.. image:: /feature/_images/mdmimages/cs_manageattributetemp_enterthename.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageattributetemp_enterthename.PNG
 |
 |
 
 
 * Check that the attribute has been added successfully.
 
-.. image:: /feature/_images/mdmimages/cs_manageattributetemp_checktheattributeisadded.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageattributetemp_checktheattributeisaddedb.PNG
 |
 |
 
 
 * Under the measurement type, search and select *Temperature* in the drop-down menu.
 
-.. image:: /feature/_images/mdmimages/cs_manageattributetemp_searchandselecttemp.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageattributetemp_searchandselecttemp.PNG
 |
-.. image:: /feature/_images/mdmimages/cs_manageattributetemp_searchandselecttemp2.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageattributetemp_searchandselecttemp2.PNG
 |
 |
 
 
 * Select the appropriate unit for the temperature attribute in the *Default Unit* column (e.g. *Celsius, Fahrenheit, Kelvin*).
 
-.. image:: /feature/_images/mdmimages/cs_manageattributetemp_selecttheunit.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageattributetemp_selecttheunit.PNG
 |
 |
 
 
 * Complete the other attribute fields: *Default Value, Precision, Placeholder, Description, Tooltip, Searchable, Filterable, Sortable, Availability, Grid Editable, and Read Only*.
 
-.. image:: /feature/_images/mdmimages/cs_manageattributetemp_completetheattributes.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageattributetemp_completetheattributes.PNG
 |
 |
 
 
 * Click on the **Save** button to save the settings.
 
-.. image:: /feature/_images/mdmimages/cs_manageattributetemp_clickthesavebutton.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageattributetemp_clickthesavebutton.PNG
 |
 |
 

@@ -30,24 +30,23 @@ To export tags, follow these steps:
 
 |
 
-* Log in and click on the **Administration** button.
+* Log in and click on the **Administration** icon.
 
-.. image:: /feature/_images/mdmimages/cs_exporttags_login.PNG
+.. image:: /feature/_images/mdmimages/pxp_exporttags_login.PNG
 |
 |
 
-* Click on **Properties**.
+* In *Data Model*, click on the **Properties** drop-down list and select **LOV**.
 
-.. image:: /feature/_images/mdmimages/cs_exporttags_clickproperties.PNG
+.. image:: /feature/_images/mdmimages/pxp_exporttags_clickproperties.PNG
 |
 |
 
-* Click on **LOV** then click on the **Export all Tags** button.
+* Click on the **Export all Tags** icon.
 
-.. image:: /feature/_images/mdmimages/cs_exporttags_clicklov.PNG
+.. image:: /feature/_images/mdmimages/pxp_exporttags_exportalltagsb.PNG
 |
 |
-
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
    :alt: Contentserv line

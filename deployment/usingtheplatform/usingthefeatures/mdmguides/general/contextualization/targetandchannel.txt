@@ -27,107 +27,104 @@ To do this, follow these steps:
 
 |
 
-* Go to the *Administration* tab.
+* Go to *Administration*.
 
-.. image:: /feature/_images/mdmimages/cs_targetandchannel_gotoadministration.PNG
+.. image:: /feature/_images/mdmimages/pxp_targetandchannel_gotoadministration.PNG
 |
 |
 
-* Select **Context Configuration**.
+* Select **Context**.
 
-.. image:: /feature/_images/mdmimages/cs_targetandchannel_selectcontextconfiguration.PNG
+.. image:: /feature/_images/mdmimages/pxp_targetandchannel_selectcontextconfiguration.PNG
 |
 |
 
 * Create a new context.
 
-.. image:: /feature/_images/mdmimages/cs_targetandchannel_createnewcontext.PNG
+.. image:: /feature/_images/mdmimages/pxp_targetandchannel_createnewcontext.PNG
 |
 |
 
 * Fill in the name and click to select **Attribute Context** as the feature type.
 
-.. image:: /feature/_images/mdmimages/cs_targetandchannel_fillinnameselectattributecontext.PNG
+.. image:: /feature/_images/mdmimages/pxp_targetandchannel_fillinnameselectattributecontext.PNG
 |
 |
 
-* Select tag group to be added in the context and click **Save**.
+* Select tag group to be added in the context and click on the **Save** button.
 
-.. image:: /feature/_images/mdmimages/cs_targetandchannel_fillinnameselecttaggroup.PNG
+.. image:: /feature/_images/mdmimages/pxp_targetandchannel_fillinnameselecttaggroup.PNG
 |
 |
 
-.. image:: /feature/_images/mdmimages/cs_targetandchannel_fillinnameselecttaggroup2.PNG
+.. image:: /feature/_images/mdmimages/pxp_targetandchannel_fillinnameselecttaggroup2.PNG
 |
 |
 
 
 * In the class configuration, select the class.
 
-.. image:: /feature/_images/mdmimages/cs_targetandchannel_intheclassconfiguration.PNG
+.. image:: /feature/_images/mdmimages/pxp_targetandchannel_intheclassconfiguration.PNG
 |
 |
 
 * Select the desired attribute then select the context from the list.
 
-.. image:: /feature/_images/mdmimages/cs_targetandchannel_selectdesiredattribute.PNG
+.. image:: /feature/_images/mdmimages/pxp_targetandchannel_selectdesiredattribute.PNG
 |
 |
 
-.. image:: /feature/_images/mdmimages/cs_targetandchannel_selectdesiredattribute2.PNG
+.. image:: /feature/_images/mdmimages/pxp_targetandchannel_selectdesiredattribute2.PNG
 |
 |
 
-.. image:: /feature/_images/mdmimages/cs_targetandchannel_selectdesiredattribute3.PNG
+.. image:: /feature/_images/mdmimages/pxp_targetandchannel_selectdesiredattribute3.PNG
 |
 |
 
 
 
-* Click **Save** and try the changes in runtime.
+* Click on the **Save** button and try the changes in runtime.
 
-.. image:: /feature/_images/mdmimages/cs_targetandchannel_clicksave.PNG
-|
-|
-
-.. image:: /feature/_images/mdmimages/cs_targetandchannel_clicksave2.PNG
+.. image:: /feature/_images/mdmimages/pxp_targetandchannel_clicksave.PNG
 |
 |
 
-.. image:: /feature/_images/mdmimages/cs_targetandchannel_clicksave3.PNG
+.. image:: /feature/_images/mdmimages/pxp_targetandchannel_clicksave2.PNG
+|
+|
+
+.. image:: /feature/_images/mdmimages/pxp_targetandchannel_clicksave3.PNG
 |
 |
 
 * Select the product.
 
-.. image:: /feature/_images/mdmimages/cs_targetandchannel_selectproduct.PNG
+.. image:: /feature/_images/mdmimages/pxp_targetandchannel_selectproduct.PNG
 |
 |
 
 * Create Attribute Variant for price.
 
-.. image:: /feature/_images/mdmimages/cs_targetandchannel_createattributevariant.PNG
+.. image:: /feature/_images/mdmimages/pxp_targetandchannel_createattributevariant.PNG
 |
 |
 
-.. image:: /feature/_images/mdmimages/cs_targetandchannel_createattributevariant2.PNG
+.. image:: /feature/_images/mdmimages/pxp_targetandchannel_createattributevariant2.PNG
 |
 |
 
 
-* Select the tag group, enter the value for the attribute, and click **Save**.
+* Select the tag group, enter the value for the attribute, and click on the **Save** button.
 
-.. image:: /feature/_images/mdmimages/cs_targetandchannel_selecttaggroup.PNG
+.. image:: /feature/_images/mdmimages/pxp_targetandchannel_selecttaggroup.PNG
 |
 |
 
 * The screen should display something like the image below.
 
-.. image:: /feature/_images/mdmimages/cs_targetandchannel_screendisplay.PNG
-|
-|
 
-.. image:: /feature/_images/mdmimages/cs_targetandchannel_screendisplay2.PNG
+.. image:: /feature/_images/mdmimages/pxp_targetandchannel_screendisplay.PNG
 |
 |
 

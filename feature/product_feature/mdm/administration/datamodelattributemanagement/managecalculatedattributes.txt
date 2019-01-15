@@ -31,55 +31,55 @@ To do this admin feature, follow the steps below:
 
 * Log in and go to *Administration*.
 
-.. image:: /feature/_images/mdmimages/cs_managecalculatedattributes_login.PNG
+.. image:: /feature/_images/mdmimages/pxp_managecalculatedattributes_login.PNG
 |
 |
 
 
-* Go to the *Data Model* tab.
+* Go to the *Data Model* section.
 
-.. image:: /feature/_images/mdmimages/cs_managecalculatedattributes_gotodatamodel.PNG
+.. image:: /feature/_images/mdmimages/pxp_managecalculatedattributes_gotodatamodel.PNG
 |
 |
 
 
 * Go to *Calculated* under the *Properties* section.
 
-.. image:: /feature/_images/mdmimages/cs_managecalculatedattributes_clickoncalculated.PNG
+.. image:: /feature/_images/mdmimages/pxp_managecalculatedattributes_clickoncalculatedb.PNG
 |
 |
 
 
-* Click the "+" icon to create an attribute.
+* Click the '+' icon to create an attribute.
 
-.. image:: /feature/_images/mdmimages/cs_managecalculatedattributes_clickicontocreatenewattribute.PNG
+.. image:: /feature/_images/mdmimages/pxp_managecalculatedattributes_clickicontocreatenewattribute.PNG
 |
 |
 
 
 * Enter the name of the calculated attribute and click on the **Create** button.
 
-.. image:: /feature/_images/mdmimages/cs_managecalculatedattributes_enterthename.PNG
+.. image:: /feature/_images/mdmimages/pxp_managecalculatedattributes_enterthename.PNG
 |
 |
 
 
 * Enter a formula in the *Calculated Formula* section. Click on the field and a pop-up window will appear.
 
-.. image:: /feature/_images/mdmimages/cs_managecalculatedattributes_enteraformula.PNG
+.. image:: /feature/_images/mdmimages/pxp_managecalculatedattributes_enteraformula.PNG
 |
-.. image:: /feature/_images/mdmimages/cs_managecalculatedattributes_enteraformula2.PNG
+.. image:: /feature/_images/mdmimages/pxp_managecalculatedattributes_enteraformula2.PNG
 |
 |
 
 
 * Define the formula by selecting the *Attributes* **(A)**, *Operators* and *Values* **(V)**, shown respectively.
 
-.. image:: /feature/_images/mdmimages/cs_managecalculatedattributes_definetheformula.PNG
+.. image:: /feature/_images/mdmimages/pxp_managecalculatedattributes_definetheformula.PNG
 |
-.. image:: /feature/_images/mdmimages/cs_managecalculatedattributes_definetheformula2.PNG
+.. image:: /feature/_images/mdmimages/pxp_managecalculatedattributes_definetheformula2.PNG
 |
-.. image:: /feature/_images/mdmimages/cs_managecalculatedattributes_definetheformula3.PNG
+.. image:: /feature/_images/mdmimages/pxp_managecalculatedattributes_definetheformula3.PNG
 |
 
 

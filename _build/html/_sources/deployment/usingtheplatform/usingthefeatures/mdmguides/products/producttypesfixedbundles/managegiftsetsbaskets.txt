@@ -28,94 +28,90 @@ To do manage gift sets/baskets, follow these steps:
 
 |
 
-* Go to *PIM*.
+* Go to *Products*.
 
-.. image:: /feature/_images/mdmimages/cs_managegiftsetsbaskets_gotopim.PNG
+.. image:: /feature/_images/mdmimages/pxp_managegiftsetsbaskets_gotoproducts.PNG
 |
 |
 
 
-* Hover on "+" icon.
+* Click on the **Create** button.
 
-.. image:: /feature/_images/mdmimages/cs_managegiftsetsbaskets_hoverplus.PNG
+.. image:: /feature/_images/mdmimages/pxp_managegiftsetsbaskets_clickcreate.PNG
 |
 |
 
-* Click on **Fixed Bundle** icon.
+* Click on **Fixed Bundle**.
 
-.. image:: /feature/_images/mdmimages/cs_managegiftsetsbaskets_clickfixed.PNG
+.. image:: /feature/_images/mdmimages/pxp_managegiftsetsbaskets_clickfixed.PNG
 |
 |
 
 * Enter the required information.
 
-.. image:: /feature/_images/mdmimages/cs_managegiftsetsbaskets_enterinformation.PNG
+.. image:: /feature/_images/mdmimages/pxp_managegiftsetsbaskets_enterinformation.PNG
 |
 |
 
-* Click **Add products(s)** to add the required products.
+* Click **Add product(s)** to add the required products.
 
-.. image:: /feature/_images/mdmimages/cs_managegiftsetsbaskets_clickaddproducts.PNG
-|
-|
-
-* Click to select one or more products check box turns to Blue when selected), and click the **Add All** icon.
-
-.. image:: /feature/_images/mdmimages/cs_managegiftsetsbaskets_clickdesiredproduct.PNG
+.. image:: /feature/_images/mdmimages/pxp_managegiftsetsbaskets_clickaddproducts.PNG
 |
 |
 
-.. image:: /feature/_images/mdmimages/cs_managegiftsetsbaskets_clickdesiredproduct2.PNG
+* Click to select one or more products (checkbox turns to Blue when selected), and click the **Add** icon.
+
+.. image:: /feature/_images/mdmimages/pxp_managegiftsetsbaskets_clickdesiredproduct.PNG
 |
 |
 
-.. image:: /feature/_images/mdmimages/cs_managegiftsetsbaskets_clickdesiredproduct3.PNG
+.. image:: /feature/_images/mdmimages/pxp_managegiftsetsbaskets_clickdesiredproduct2.PNG
+|
+|
+
+.. image:: /feature/_images/mdmimages/pxp_managegiftsetsbaskets_clickdesiredproduct3.PNG
 |
 |
 
 * Product added successfully. To add more products, click **Add product(s)**.
 
-.. image:: /feature/_images/mdmimages/cs_managegiftsetsbaskets_toviewaddedproduct.PNG
+.. image:: /feature/_images/mdmimages/pxp_managegiftsetsbaskets_toviewaddedproduct.PNG
 |
 |
 
 * To add an image, click the **Relationships** tab.
 
-.. image:: /feature/_images/mdmimages/cs_managegiftsetsbaskets_clickrelationship.PNG
+.. image:: /feature/_images/mdmimages/pxp_managegiftsetsbaskets_clickrelationship.PNG
 |
 |
 
-* Click the "+" icon.
+* Click the '+' icon.
 
-.. image:: /feature/_images/mdmimages/cs_managegiftsetsbaskets_clickplusimage.PNG
-|
-|
-
-.. image:: /feature/_images/mdmimages/cs_managegiftsetsbaskets_clickplusimage2.PNG
+.. image:: /feature/_images/mdmimages/pxp_managegiftsetsbaskets_clickplusimage.PNG
 |
 |
 
-.. image:: /feature/_images/mdmimages/cs_managegiftsetsbaskets_clickplusimage3.PNG
+.. image:: /feature/_images/mdmimages/pxp_managegiftsetsbaskets_clickplusimage2.PNG
 |
 |
 
-* Click the **Add image** icon.
+* Click the **Add** icon.
 
-.. image:: /feature/_images/mdmimages/cs_managegiftsetsbaskets_clickaddimageicon.PNG
+.. image:: /feature/_images/mdmimages/pxp_managegiftsetsbaskets_clickaddicon.PNG
 |
 |
 
-.. image:: /feature/_images/mdmimages/cs_managegiftsetsbaskets_clickaddimageicon2.PNG
+.. image:: /feature/_images/mdmimages/pxp_managegiftsetsbaskets_clickaddimageicon2.PNG
 |
 |
 
 * To view the added product, click the added bundle under the *Relationships* tab.
 
-.. image:: /feature/_images/mdmimages/cs_managegiftsetsbaskets_toview.PNG
+.. image:: /feature/_images/mdmimages/pxp_managegiftsetsbaskets_toview.PNG
 |
 |
 
-.. image:: /feature/_images/mdmimages/cs_managegiftsetsbaskets_toview2.PNG
+.. image:: /feature/_images/mdmimages/pxp_managegiftsetsbaskets_toview2.PNG
 |
 |
 

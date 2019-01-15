@@ -30,121 +30,117 @@ To do this, follow these steps:
 
 * Click the **Administration** icon.
 
-.. image:: /feature/_images/mdmimages/cs_manageprepacks_clickadministration.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageprepacks_clickadministration.PNG
 |
 |
 
 
 * Click the **Data Model** tab. Then, click **Article**.
 
-.. image:: /feature/_images/mdmimages/cs_manageprepacks_clickdatamodel.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageprepacks_clickdatamodel.PNG
 |
 |
 
 
-* Click on the "+" icon to create the type of product.
+* Click on the '+' icon to create the type of product.
 
-.. image:: /feature/_images/mdmimages/cs_manageprepacks_clickdatamodel.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageprepacks_clickplus.PNG
 |
 |
 
 
 * Fill in the required details and enable the tab for nature class type.
 
-.. image:: /feature/_images/mdmimages/cs_manageprepacks_enterdetails.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageprepacks_enterdetails.PNG
 |
 |
 
 
-* click **Type** to select from the dropdown list and select **Threshold**. Click **Create** to continue.
+* Click **Type** and select **Threshold** from the drop-down list. Click on the **Create** button to continue.
+*Note: The 'loose bundle' is also known as 'Threshold Bundle'.*
 
-.. image:: /feature/_images/mdmimages/cs_manageprepacks_clicktypeselectthreshold.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageprepacks_clicktypeselectthreshold.PNG
 |
 |
 
 
-* In the content window of the class, enable Default. Remember to mention Maximum Number of products you would like to add. Save the changes.
+* In the content window of the class, enable **Default**. Remember to mention Maximum Number of products you would like to add. Save the changes.
 
-.. image:: /feature/_images/mdmimages/cs_manageprepacks_inthecontentwindowclass.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageprepacks_inthecontentwindowclass.PNG
 |
 |
 
 * Similarly, there are various fields where you can add **Events, Embedded Classes** etc.
 
-.. image:: /feature/_images/mdmimages/cs_manageprepacks_similarlyaddeventsclasses.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageprepacks_similarlyaddeventsclasses.PNG
 |
 |
 
-.. image:: /feature/_images/mdmimages/cs_manageprepacks_similarlyaddeventsclasses2.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageprepacks_similarlyaddeventsclasses2.PNG
 |
 |
 
-.. image:: /feature/_images/mdmimages/cs_manageprepacks_similarlyaddeventsclasses3.PNG
+* Add property collection in the Section tab by clicking on '+' icon and click **Apply**.
+
+.. image:: /feature/_images/mdmimages/pxp_manageprepacks_addpropertycollection.PNG
 |
 |
 
-
-* Add property collection in the Section tab by clicking on "+" icon and click **Apply**.
-
-.. image:: /feature/_images/mdmimages/cs_manageprepacks_addpropertycollection.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageprepacks_addpropertycollection2.PNG
 |
 |
 
-.. image:: /feature/_images/mdmimages/cs_manageprepacks_addpropertycollection2.PNG
+* In the Relationship section, select the class by clicking on Other Side (in this demo, we selected  'article'). The type of class you choose here will decide what kind of products you can add to threshold bundles.
+
+.. image:: /feature/_images/mdmimages/pxp_manageprepacks_inrelationshipsection.PNG
 |
 |
 
-* In the Relationship section, select the class by clicking on Other Side (in this demo, we selected   *'article'*). The type of class you choose here will decide what kind of products you can add to threshold bundles.
+* Next, click on the **Explore** tab. Click on the '+' icon to see *Loose Bundle* type of class that was created earlier.
 
-.. image:: /feature/_images/mdmimages/cs_manageprepacks_inrelationshipsection.PNG
-|
-|
-
-* Next, click on the Explore tab. Hover to the "+" icon to see *Loose Bundle* type of class that was created earlier.
-
-.. image:: /feature/_images/mdmimages/cs_manageprepacks_clickexplore.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageprepacks_clickexplore.PNG
 |
 |
 
-.. image:: /feature/_images/mdmimages/cs_manageprepacks_clickexplore2.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageprepacks_clickexplore2.PNG
 |
 |
 
-.. image:: /feature/_images/mdmimages/cs_manageprepacks_clickexplore3.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageprepacks_clickexplore3.PNG
 |
 |
 
 
 * Next, click on the class **Loose Bundle**.
 
-.. image:: /feature/_images/mdmimages/cs_manageprepacks_nextclickloose.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageprepacks_nextclickloose.PNG
 |
 |
 
 
-* Click on *Overview* tab to find a sub-tab Bundle Section.
+* Click on the **Overview** tab to find a sub-tab Bundle Section.
 
-.. image:: /feature/_images/mdmimages/cs_manageprepacks_nextclickoverviewtab.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageprepacks_nextclickoverviewtab.PNG
 |
 |
 
-* Click "+" icon, which opens up to another window, where list of products you made are visible.
+* Click '+' icon, which opens up to another window, where list of products you made are visible.
 
-.. image:: /feature/_images/mdmimages/cs_manageprepacks_nextclickplusaddproduct.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageprepacks_nextclickplusaddproduct.PNG
 |
 |
 
 
 * Select the product by clicking on checkbox, and drag it to the right hand side of the space provided.
 
-.. image:: /feature/_images/mdmimages/cs_manageprepacks_selectproduct.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageprepacks_selectproduct.PNG
 |
 |
 
 
-* After selecting products, click on the **Add Product** icon.
+* After selecting the products, click on **Add Product** icon.
 
-.. image:: /feature/_images/mdmimages/cs_manageprepacks_afterselectingaddproduct.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageprepacks_afterselectingaddproduct.PNG
 |
 |
 
@@ -152,11 +148,11 @@ To do this, follow these steps:
 * Click **Back** to add more products. Images can also be added in the *Relationship* tab.
 
 
-.. image:: /feature/_images/mdmimages/cs_manageprepacks_clickback1.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageprepacks_clickback1.PNG
 |
 |
 
-.. image:: /feature/_images/mdmimages/cs_manageprepacks_clickback2.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageprepacks_clickback2.PNG
 |
 |
 

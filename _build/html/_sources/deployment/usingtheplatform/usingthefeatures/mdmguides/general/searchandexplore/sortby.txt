@@ -28,30 +28,30 @@ To do a sort by, follow these steps:
 |
 
 
-* Log in and go to *PIM*.
+* Log in and go to *Pproducts*.
 
-.. image:: /feature/_images/mdmimages/cs_parametricsearch_login.PNG
+.. image:: /feature/_images/mdmimages/pxp_parametricsearch_login.PNG
 |
 |
 
 
-* Click the **Sort and Filter** button. The menu selection will expand.
+* Click on the **Sort and Filter** button. The menu selection will expand.
 
-.. image:: /feature/_images/mdmimages/cs_sortby_clickthesortandfilter.PNG
+.. image:: /feature/_images/mdmimages/pxp_sortby_clickthesortandfilter.PNG
 |
 |
 
 
-* Select an attribute.  Only filterable attributes are displayed.  Once an attribute is selected, it will be highlighted in bold.
+* View the attributes that you can use to sort the products.
 
-.. image:: /feature/_images/mdmimages/cs_sortby_selectanattribute.PNG
+.. image:: /feature/_images/mdmimages/pxp_sortby_viewattribute.PNG
 |
 |
 
 
-* View the icon next to the selected attribute. This icon indicates the sorting order.
+* Click on the desired attribute to select the sorting order.
 
-.. image:: /feature/_images/mdmimages/cs_sortby_viewtheicon.PNG
+.. image:: /feature/_images/mdmimages/pxp_sortby_clickattribute.PNG
 |
 |
 
@@ -59,20 +59,16 @@ To do a sort by, follow these steps:
 
   |
 
-  * Below is *Created On* in ascending order (oldest to newest).
+  * Below is *Name* in ascending order (A to Z).
 
-  .. image:: /feature/_images/mdmimages/cs_sortby_ascendingorder.PNG
-  |
-  .. image:: /feature/_images/mdmimages/cs_sortby_ascendingorder2.PNG
+  .. image:: /feature/_images/mdmimages/pxp_sortby_ascendingorder.PNG
   |
   |
 
 
-  * Below is *Created On* in descending order (newest to oldest).  Click this icon to toggle between ascending or descending sort order.
+  * Below is *Name* in descending order (Z to A).  Click this icon to toggle between ascending or descending sort order.
 
-  .. image:: /feature/_images/mdmimages/cs_sortby_descendingorder.PNG
-  |
-  .. image:: /feature/_images/mdmimages/cs_sortby_descendingorder2.PNG
+  .. image:: /feature/_images/mdmimages/pxp_sortby_descendingorder.PNG
   |
   |
 

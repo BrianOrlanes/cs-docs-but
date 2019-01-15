@@ -35,46 +35,46 @@ Storing a Bookmark
 
 |
 
-* Log in and go to *PIM*.
+* Log in and go to *Products*.
 
-.. image:: /feature/_images/mdmimages/cs_searchandstorebookmarks_login.PNG
+.. image:: /feature/_images/mdmimages/pxp_searchandstorebookmarks_login.PNG
 |
 |
 
 
 * Click on the **Sort & Filter** button then click on the **Advanced Filters** button.
 
-.. image:: /feature/_images/mdmimages/cs_searchandstorebookmarks_clicksortandfilter.PNG
+.. image:: /feature/_images/mdmimages/pxp_searchandstorebookmarks_clicksortandfilter.PNG
 |
-.. image:: /feature/_images/mdmimages/cs_searchandstorebookmarks_clickadvancedfilter.PNG
+.. image:: /feature/_images/mdmimages/pxp_searchandstorebookmarks_clickadvancedfilter.PNG
 |
 |
 
 
 * Select the desired filters and click on the **Apply** button.
 
-.. image:: /feature/_images/mdmimages/cs_searchandstorebookmarks_selectfilter.PNG
+.. image:: /feature/_images/mdmimages/pxp_searchandstorebookmarks_selectfilter.PNG
 |
 |
 
 
-* Click the **Bookmarks** icon.
+* Click on the **Bookmarks** icon.
 
-.. image:: /feature/_images/mdmimages/cs_searchandstorebookmarks_clickbookmarksicon.PNG
+.. image:: /feature/_images/mdmimages/pxp_searchandstorebookmarks_clickbookmarksicon.PNG
 |
 |
 
 
 * Enter the name of the bookmark and click on the **Create** button.
 
-.. image:: /feature/_images/mdmimages/cs_searchandstorebookmarks_enterbookmarkname.PNG
+.. image:: /feature/_images/mdmimages/pxp_searchandstorebookmarks_enterbookmarkname.PNG
 |
 |
 
 
 * View the added bookmark.
 
-.. image:: /feature/_images/mdmimages/cs_searchandstorebookmarks_viewbookmark.PNG
+.. image:: /feature/_images/mdmimages/pxp_searchandstorebookmarks_viewbookmark.PNG
 |
 |
 
@@ -84,37 +84,37 @@ Searching for a Bookmark
 
 |
 
-* Go to *PIM*.
+* Go to *Products*.
 
-.. image:: /feature/_images/mdmimages/cs_searchandstorebookmarks_gotopim.PNG
+.. image:: /feature/_images/mdmimages/pxp_searchandstorebookmarks_gotoproducts.PNG
 |
 |
 
 
 * Click on the **Bookmarks** icon.
 
-.. image:: /feature/_images/mdmimages/cs_searchandstorebookmarks_clickbookmarksicon2.PNG
+.. image:: /feature/_images/mdmimages/pxp_searchandstorebookmarks_clickbookmarksicon2.PNG
 |
 |
 
 
 * Enter the name of the bookmark on the Search bar, then click on the bookmark.
 
-.. image:: /feature/_images/mdmimages/cs_searchandstorebookmarks_search.PNG
+.. image:: /feature/_images/mdmimages/pxp_searchandstorebookmarks_search.PNG
 |
 |
 
 
-* Click the **Open** button.
+* Click on the **Open** button.
 
-.. image:: /feature/_images/mdmimages/cs_searchandstorebookmarks_clickopen.PNG
+.. image:: /feature/_images/mdmimages/pxp_searchandstorebookmarks_clickopen.PNG
 |
 |
 
 
 * View the bookmark.
 
-.. image:: /feature/_images/mdmimages/cs_searchandstorebookmarks_viewbookmark.PNG
+.. image:: /feature/_images/mdmimages/pxp_searchandstorebookmarks_viewbookmark.PNG
 |
 |
 

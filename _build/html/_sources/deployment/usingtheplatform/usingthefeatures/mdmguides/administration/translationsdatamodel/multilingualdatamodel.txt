@@ -29,28 +29,28 @@ To do this, follow these steps:
 
 * Click the **Administration** icon.
 
-.. image:: /feature/_images/mdmimages/cs_multilingualdatamodel_clickadministration.PNG
+.. image:: /feature/_images/mdmimages/pxp_multilingualdatamodel_clickadministration.PNG
 |
 |
 
 
-* Click the **Translations** tab on the top.
+* Click **Translations** on the left pane.
 
-.. image:: /feature/_images/mdmimages/cs_multilingualdatamodel_clicktranslation.PNG
+.. image:: /feature/_images/mdmimages/pxp_multilingualdatamodel_clicktranslation.PNG
 |
 |
 
 
-* Click the **Tags** icon to view all the tags in the system.
+* Click on the **Tags** icon to view all the tags in the system.
 
-.. image:: /feature/_images/mdmimages/cs_multilingualdatamodel_clicktagsicon.PNG
+.. image:: /feature/_images/mdmimages/pxp_multilingualdatamodel_clicktagsicon.PNG
 |
 |
 
 
 * Select the desired tag and enter the translation value for the language on the left.
 
-.. image:: /feature/_images/mdmimages/cs_multilingualdatamodel_selectdesiredtag.PNG
+.. image:: /feature/_images/mdmimages/pxp_multilingualdatamodel_selectdesiredtag.PNG
 |
 |
 
@@ -59,14 +59,14 @@ To do this, follow these steps:
 
 |
 
-* Login again with the desired language; you can see the translated data model items.
+* Log in again with the desired language; you can see the translated data model items.
 
-.. image:: /feature/_images/mdmimages/cs_multilingualdatamodel_loginagain.PNG
+.. image:: /feature/_images/mdmimages/pxp_multilingualdatamodel_loginagain.PNG
 |
 |
 
 
-.. image:: /feature/_images/mdmimages/cs_multilingualdatamodel_loginagain3.PNG
+.. image:: /feature/_images/mdmimages/pxp_multilingualdatamodel_loginagain3.PNG
 |
 |
 

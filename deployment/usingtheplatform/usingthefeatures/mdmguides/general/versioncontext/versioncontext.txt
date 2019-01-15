@@ -27,99 +27,108 @@ To do this feature, follow these steps:
 
 |
 
-* Log in and go to *Administration*.
+* Log in and click on the **Administration** icon.
 
-.. image:: /feature/_images/mdmimages/cs_versioncontext_login.PNG
+.. image:: /feature/_images/mdmimages/pxp_versioncontext_login.PNG
 |
 |
 
 
-* Click on **Contexts** and then, click on "+" icon to create a context.
+* In *Data Model*, click on **Contexts**.
 
-.. image:: /feature/_images/mdmimages/cs_versioncontext_clickoncontexts.PNG
+.. image:: /feature/_images/mdmimages/pxp_versioncontext_clickoncontexts.PNG
 |
 |
 
+* Click on the '+' icon to create a context.
 
-* Provide the following details: *Name and Type*.  Select the **Version Context** option for the Type field.  Click on the **Create** button.
-
-.. image:: /feature/_images/mdmimages/cs_versioncontext_providenameandtype.PNG
+.. image:: /feature/_images/mdmimages/pxp_versioncontext_clickplusicon.PNG
 |
-.. image:: /feature/_images/mdmimages/cs_versioncontext_providenameandtype2.PNG
+|
+
+* Enter the name and select the **Version Context** option for the Type field. Click on the **Create** button.
+
+.. image:: /feature/_images/mdmimages/pxp_versioncontext_entername.PNG
 |
 |
 
 
 * A new window will pop up; set the details and options: *Icon, Enable Time (Campaign Period), Allow Duplicate,* and  the relevant *Tags*.
 
-.. image:: /feature/_images/mdmimages/cs_versioncontext_anewwindowwillpopup.PNG
+.. image:: /feature/_images/mdmimages/pxp_versioncontext_anewwindowwillpopup.PNG
 |
 |
 
 
-* Click the **Save** button once done. And then, click **OK**.
+* Click the **Save** button once done. And then, click on the **OK** button.
 
-.. image:: /feature/_images/mdmimages/cs_versioncontext_clickthesavebutton.PNG
+.. image:: /feature/_images/mdmimages/pxp_versioncontext_clickthesavebutton.PNG
 |
-.. image:: /feature/_images/mdmimages/cs_versioncontext_clickthesavebutton2.PNG
+.. image:: /feature/_images/mdmimages/pxp_versioncontext_clickthesavebutton2.PNG
 |
 |
 
 
 * Click on **Article** under the *Classes* section. Create a new article or select an existing one from the list.
 
-.. image:: /feature/_images/mdmimages/cs_versioncontext_clickonarticleundertheclasses.PNG
+.. image:: /feature/_images/mdmimages/pxp_versioncontext_clickonarticleundertheclasses.PNG
 |
 |
 
 
 * Once selected, update the *Version Context* field that can be seen on the right. Select the newly created version context from the options and save the changes.
 
-.. image:: /feature/_images/mdmimages/cs_versioncontext_onceselectedupdatetheversioncontext.PNG
+.. image:: /feature/_images/mdmimages/pxp_versioncontext_onceselectedupdatetheversioncontext.PNG
 |
-.. image:: /feature/_images/mdmimages/cs_versioncontext_onceselectedupdatetheversioncontext2.PNG
+.. image:: /feature/_images/mdmimages/pxp_versioncontext_onceselectedupdatetheversioncontext2.PNG
 |
 |
 
 
 * Click on the **Explore** icon and go to the product.
 
-.. image:: /feature/_images/mdmimages/cs_versioncontext_clickonexplore.PNG
+.. image:: /feature/_images/mdmimages/pxp_versioncontext_clickonexplore.PNG
+|
+.. image:: /feature/_images/mdmimages/pxp_versioncontext_clickonexplore2.PNG
 |
 |
 
+* In the *Overview* tab, go to the section of the **Version Context** and click on the '+' icon to create a version of the product.
 
-* In the *Overview* tab, go to the section of the **Version Context** and click on the "+" icon to create a version of the product.
-
-.. image:: /feature/_images/mdmimages/cs_versioncontext_intheoverviewtab.PNG
+.. image:: /feature/_images/mdmimages/pxp_versioncontext_intheoverviewtab.PNG
 |
-.. image:: /feature/_images/mdmimages/cs_versioncontext_intheoverviewtab2.PNG
+.. image:: /feature/_images/mdmimages/pxp_versioncontext_intheoverviewtab2.PNG
 |
 |
 
 
 * Provide the necessary details and then click on the **Create** button.
 
-.. image:: /feature/_images/mdmimages/cs_versioncontext_providethenecessarydetails.PNG
+.. image:: /feature/_images/mdmimages/pxp_versioncontext_providethenecessarydetails.PNG
 |
 |
 
 
 * Wait for the new window, *Create Clone Variant* to load.  Select all the *Tags* and *Attributes* that apply to that variant.
 
-.. image:: /feature/_images/mdmimages/cs_versioncontext_waitforthenewwindow.PNG
+.. image:: /feature/_images/mdmimages/pxp_versioncontext_waitforthenewwindow.PNG
 |
 |
 
 
-* Click the **Create** button and then, view the created variant.
+* Click on the **Create** button and then, click on the **OK** button.
 
-.. image:: /feature/_images/mdmimages/cs_versioncontext_clickthecreatebutton.PNG
+.. image:: /feature/_images/mdmimages/pxp_versioncontext_clickthecreatebutton.PNG
 |
-.. image:: /feature/_images/mdmimages/cs_versioncontext_clickthecreatebutton2.PNG
+.. image:: /feature/_images/mdmimages/pxp_versioncontext_clickthecreatebutton2.PNG
 |
 |
 
+* View the created variant.
+
+.. image:: /feature/_images/mdmimages/pxp_versioncontext_viewvariant.PNG
+|
+|
 
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG

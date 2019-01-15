@@ -36,36 +36,35 @@ To do this data governance feature, follow these steps:
 
 * Go to *Administration*.
 
-.. image:: /feature/_images/mdmimages/cs_dataqualityrule_gotoadministration.PNG
+.. image:: /feature/_images/mdmimages/pxp_dataqualityrule_gotoadministration.PNG
 |
 |
 
 
-* Go to the *Rule Configuration* section.
+* Under *Data Governance*, go to the *Rule Configuration* section.
 
-.. image:: /feature/_images/mdmimages/cs_dataqualityrule_gotoruleconfiguration.PNG
+.. image:: /feature/_images/mdmimages/pxp_dataqualityrule_gotoruleconfiguration.PNG
+|
+|
+
+* Click on the '+' icon to create a new rule.
+
+.. image:: /feature/_images/mdmimages/pxp_dataqualityrule_clickplus.PNG
+|
+|
+
+.. image:: /feature/_images/mdmimages/pxp_dataqualityrule_clickplus2.PNG
 |
 |
 
 
-* Click on the "+" icon to create a new rule.
+* Provide a name for the rule and click on the **Attributes and Classes** where the data quality rule will be applied.
 
-.. image:: /feature/_images/mdmimages/cs_dataqualityrule_clickplus.PNG
+.. image:: /feature/_images/mdmimages/pxp_dataqualityrule_entername.PNG
 |
 |
 
-.. image:: /feature/_images/mdmimages/cs_dataqualityrule_clickplus2.PNG
-|
-|
-
-
-* Provide a name for the rule and click on the *Attributes and Classes* where the data quality rule will be applied.
-
-.. image:: /feature/_images/mdmimages/cs_dataqualityrule_entername.PNG
-|
-|
-
-.. image:: /feature/_images/mdmimages/cs_dataqualityrule_entername2.PNG
+.. image:: /feature/_images/mdmimages/pxp_dataqualityrule_entername2.PNG
 |
 |
 
@@ -74,44 +73,41 @@ To do this data governance feature, follow these steps:
 
   * Select the attribute (in Cause) and then, add the warning (in Effect). Save all the changes.
 
-  .. image:: /feature/_images/mdmimages/cs_dataqualityrule_selectattribute.PNG
+  .. image:: /feature/_images/mdmimages/pxp_dataqualityrule_selectattribute.PNG
   |
   |
 
-  .. image:: /feature/_images/mdmimages/cs_dataqualityrule_selectattribute2cause.PNG
+  .. image:: /feature/_images/mdmimages/pxp_dataqualityrule_selectattribute2cause.PNG
   |
   |
 
-  .. image:: /feature/_images/mdmimages/cs_dataqualityrule_selectattribute3cause.PNG
+
+  * Click on the **OK** button.
+
+  .. image:: /feature/_images/mdmimages/pxp_dataqualityrule_clickok.PNG
   |
   |
 
-  * In the *Classes* section, select the rule that will be applied.
+  * Go to *Products*.
 
-  .. image:: /feature/_images/mdmimages/cs_dataqualityrule_inclasssection.PNG
+  .. image:: /feature/_images/mdmimages/pxp_dataqualityrule_gotoproductsb.PNG
   |
   |
 
-  * Go to *PIM*.
+  * Click on the **Create** button and select the class.
 
-  .. image:: /feature/_images/mdmimages/cs_dataqualityrule_gotopim.PNG
+  .. image:: /feature/_images/mdmimages/pxp_dataqualityrule_clickcreate.PNG
   |
   |
 
-  * Hover over the "+" icon and select the class.
-
-  .. image:: /feature/_images/mdmimages/cs_dataqualityrule_hoverplus.PNG
-  |
-  |
-
-  .. image:: /feature/_images/mdmimages/cs_dataqualityrule_hoverplus2.PNG
+  .. image:: /feature/_images/mdmimages/pxp_dataqualityrule_clickcreate2.PNG
   |
   |
 
 
   *Note: As indicated in the rule, the field cannot be empty. In runtime, if it's blank, it will be highlighted for its rule violation. When you click on the warning message, the applied rule notification will appear.*
 
-  .. image:: /feature/_images/mdmimages/cs_dataqualityrule_note.PNG
+  .. image:: /feature/_images/mdmimages/pxp_dataqualityrule_note.PNG
   |
   |
 

@@ -29,96 +29,93 @@ To do this feature, follow these steps:
 
 |
 
-* Log in and go to *Administration*.
+* Log in and click on the **Administration** icon.
 
-.. image:: /feature/_images/mdmimages/cs_managevirtualcatalog_login.PNG
+.. image:: /feature/_images/mdmimages/pxp_managevirtualcatalog_login.PNG
 |
 |
 
 
-* Click the **Data Model** tab and go to *Classes*.
+* In **Data Model**, go to *Classes* and click on **Virtual Catalog**.
 
-.. image:: /feature/_images/mdmimages/cs_managevirtualcatalog_gotodatamodel.PNG
+.. image:: /feature/_images/mdmimages/pxp_managevirtualcatalog_clickvirtualcatalog.PNG
 |
 |
 
 
-* Under *Classes*, go to *Virtual Catalog*.
+* Click on the '+' icon to create a new virtual catalog.
 
-.. image:: /feature/_images/mdmimages/cs_managevirtualcatalog_underclassesgotovirtualcatalog.PNG
+.. image:: /feature/_images/mdmimages/pxp_managevirtualcatalog_clickplus.PNG
 |
 |
 
 
-* Click on the **Virtual Catalog** in the first column and click on the "+" icon in the second column to create a new catalog.
+* Enter the name, enable as nature type, and select the type.
+  Click on the **Create** button.
 
-.. image:: /feature/_images/mdmimages/cs_managevirtualcatalog_clickonthevirtualcatalog.PNG
-|
-|
-
-
-* Fill out all the details like *Name, Nature Type, and Type*. It is optional to provide a detail for the *Code* field. Click on the **Create** button once done.
-
-.. image:: /feature/_images/mdmimages/cs_managevirtualcatalog_fillouthedetails.PNG
+.. image:: /feature/_images/mdmimages/pxp_managevirtualcatalog_entername.PNG
 |
 |
 
 
 * Once the pane on the right of the screen has loaded, complete the remaining details.
 
-.. image:: /feature/_images/mdmimages/cs_managevirtualcatalog_completedetails.PNG
+.. image:: /feature/_images/mdmimages/pxp_managevirtualcatalog_completedetails.PNG
 |
 |
 
 
 * Add a *Property Collection* by clicking the "+" icon in *Section*. Select a *Property Collection* and then click the **Apply** button.
 
-.. image:: /feature/_images/mdmimages/cs_managevirtualcatalog_addapropertycollection.PNG
+.. image:: /feature/_images/mdmimages/pxp_managevirtualcatalog_addapropertycollection.PNG
+|
+.. image:: /feature/_images/mdmimages/pxp_managevirtualcatalog_addapropertycollection2.PNG
 |
 |
 
 
-* Click the **Explore** button and then go to the *Virtual Catalog*.
+* Click on the **Explore** icon and go to *Virtual Catalog*.
 
-.. image:: /feature/_images/mdmimages/cs_managevirtualcatalog_clicktheexplorebutton.PNG
+.. image:: /feature/_images/mdmimages/pxp_managevirtualcatalog_clicktheexplorebutton.PNG
 |
-.. image:: /feature/_images/mdmimages/cs_managevirtualcatalog_clicktheexplorebutton2.PNG
-|
-|
-
-
-* Hover over the "+" icon to see the *Collection* class that was created.  Click on the class.
-
-.. image:: /feature/_images/mdmimages/cs_managevirtualcatalog_hoverovertheicon.PNG
-|
-.. image:: /feature/_images/mdmimages/cs_managevirtualcatalog_hoverovertheicon2.PNG
+.. image:: /feature/_images/mdmimages/pxp_managevirtualcatalog_clicktheexplorebutton2.PNG
 |
 |
 
 
-* Go to the *Overview* tab and then click the **+ Add Product(s)** button under the *Products* section.
+* Click on the **Create** button and select the virtual catalog.
 
-.. image:: /feature/_images/mdmimages/cs_managevirtualcatalog_gotooverview.PNG
+.. image:: /feature/_images/mdmimages/pxp_managevirtualcatalog_clickcreatebutton.PNG
 |
-.. image:: /feature/_images/mdmimages/cs_managevirtualcatalog_gotooverview2.PNG
-|
-|
-
-
-* Create a collection by adding products (or selecting them from existing products). Choose the products to be added in the collection and click the **Add** button.
-
-.. image:: /feature/_images/mdmimages/cs_managevirtualcatalog_createacollection.PNG
-|
-.. image:: /feature/_images/mdmimages/cs_managevirtualcatalog_createacollection2.PNG
-|
-.. image:: /feature/_images/mdmimages/cs_managevirtualcatalog_createacollection3.PNG
+.. image:: /feature/_images/mdmimages/pxp_managevirtualcatalog_clickcreatebutton2.PNG
 |
 |
 
 
-* View and check the virtual product catalog.
+* In the *Overview* tab, click on the **Add Product(s)** button under the *Products* section.
 
-.. image:: /feature/_images/mdmimages/cs_managevirtualcatalog_viewandcheck.PNG
+.. image:: /feature/_images/mdmimages/pxp_managevirtualcatalog_clickaddproducts.PNG
+|
+|
+
+
+* Create a collection by adding products (or selecting them from existing products).
+  Choose the products to be added in the collection and click on the **Add** button.
+
+.. image:: /feature/_images/mdmimages/pxp_managevirtualcatalog_createacollection.PNG
+|
+.. image:: /feature/_images/mdmimages/pxp_managevirtualcatalog_createacollection2.PNG
+|
+.. image:: /feature/_images/mdmimages/pxp_managevirtualcatalog_createacollection3.PNG
+|
+|
+
+
+* Click on the **Back** icon. View and check the virtual product catalog.
+
+.. image:: /feature/_images/mdmimages/pxp_managevirtualcatalog_viewandcheck.PNG
+|
+.. image:: /feature/_images/mdmimages/pxp_managevirtualcatalog_viewandcheck2.PNG
 |
 |
 

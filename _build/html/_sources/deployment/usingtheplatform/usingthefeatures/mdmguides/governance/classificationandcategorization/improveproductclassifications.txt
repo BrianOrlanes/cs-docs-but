@@ -31,39 +31,39 @@ To improve product classifications, follow these steps:
 
 |
 
-* Log in and click on the **Administration** button.
+* Log in and click on the **Administration** icon.
 
-.. image:: /feature/_images/mdmimages/cs_improveproductclassifications_login.PNG
+.. image:: /feature/_images/mdmimages/pxp_improveproductclassifications_login.PNG
 |
 |
 
-* Click on the **Data Governance** tab.
+* Click on **Data Governance**.
 
-.. image:: /feature/_images/mdmimages/cs_improveproductclassifications_clickdatagovernance.PNG
+.. image:: /feature/_images/mdmimages/pxp_improveproductclassifications_clickdatagovernance.PNG
 |
 |
 
-* Click on **Rules** then click on the "+" icon to create a rule.
+* Click on **Rules** then click on the '+' icon to create a rule.
 
-.. image:: /feature/_images/mdmimages/cs_improveproductclassifications_clickrules.PNG
+.. image:: /feature/_images/mdmimages/pxp_improveproductclassifications_clickrules.PNG
 |
 |
 
-* Enter the name and select **Classification** as rule type then click on the **Create** button.
+* Enter the name and select **Classification** as rule type, then click on the **Create** button.
 
-.. image:: /feature/_images/mdmimages/cs_improveproductclassifications_entername.PNG
+.. image:: /feature/_images/mdmimages/pxp_improveproductclassifications_entername.PNG
 |
 |
 
-* In the *Cause* tab, select the Class type and Class to which the rule for classification will be applied.
+* In the *Cause* section, select the Class type and Class to which the rule for classification will be applied.
 
-.. image:: /feature/_images/mdmimages/cs_improveproductclassifications_causetab.PNG
+.. image:: /feature/_images/mdmimages/pxp_improveproductclassifications_cause.PNG
 |
 |
 
-* In the *Effect* tab, select the Class to set further classification.
+* In the *Effect* section, select the Class to set further classification.
 
-.. image:: /feature/_images/mdmimages/cs_improveproductclassifications_effecttab.PNG
+.. image:: /feature/_images/mdmimages/pxp_improveproductclassifications_effect.PNG
 |
 |
 

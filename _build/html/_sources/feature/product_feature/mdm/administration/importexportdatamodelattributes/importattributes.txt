@@ -17,7 +17,8 @@ The Import Attributes is a feature that allows importing of attribute definition
                           It also reduces manual work because a user does not have to create one attribute at a time.
                         * *Example:*
 
-                            *Supplier A* has *Products X, Y and Z* with 25 attributes each. Rather than inputting all these attributes one by one in the system,
+                            *Supplier A* has *Products X, Y and Z* with 25 attributes each.
+                            Rather than inputting all these attributes one by one in the system,
                             *Supplier A* can collate all information in one document and import it using this feature.
 
 ===================     =========================================================================================================================================================================
@@ -29,30 +30,30 @@ To import attributes, follow the steps provided below:
 
 |
 
-* Log in and click on the **Administration** button.
+* Log in and click on the **Administration** icon.
 
-.. image:: /feature/_images/mdmimages/cs_importexportdatamodelattributes_login.PNG
+.. image:: /feature/_images/mdmimages/pxp_importexportdatamodelattributes_login.PNG
 |
 |
 
 
-* Click on the **Data Model** tab and go to *Properties*.
+* In the *Data Model* section, go to *Properties*.
 
-.. image:: /feature/_images/mdmimages/cs_importexportdatamodelattributes_clickondatamodel.PNG
+.. image:: /feature/_images/mdmimages/pxp_importexportdatamodelattributes_clickondatamodel.PNG
 |
 |
 
 
-* Go to any attribute type (like *Date*) and click on the **Import all Attributes** button.
+* Go to any attribute type (i.e, *Date*) and click on the **Import all Attributes** button.
 
-.. image:: /feature/_images/mdmimages/cs_importexportdatamodelattributes_clickimportallattributes.PNG
+.. image:: /feature/_images/mdmimages/pxp_importexportdatamodelattributes_clickimportallattributes.PNG
 |
 |
 
 
 * Select the file from your device.
 
-.. image:: /feature/_images/mdmimages/cs_importexportdatamodelattributes_selectthefile.PNG
+.. image:: /feature/_images/mdmimages/pxp_importexportdatamodelattributes_selectthefile.PNG
 |
 |
 

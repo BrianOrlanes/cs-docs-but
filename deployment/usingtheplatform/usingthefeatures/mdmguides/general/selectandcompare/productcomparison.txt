@@ -24,40 +24,39 @@ Product Comparison allows a user to select and compare products within PIM.
 
 How-to: Product Comparison
 ==============================
-This guide provides instructions on how to compare products.
 To do this, follow these steps:
 
 |
 
-* Log in and go to *PIM*.
+* Log in and go to *Products*.
 
-.. image:: /feature/_images/mdmimages/cs_selectandcompare_login.PNG
+.. image:: /feature/_images/mdmimages/pxp_selectandcompare_login.PNG
 |
 |
 
 
 * Select two or more products to be compared.
 
-.. image:: /feature/_images/mdmimages/cs_selectandcompare_selecttwoormore.PNG
+.. image:: /feature/_images/mdmimages/pxp_selectandcompare_selecttwoormore.PNG
 |
 |
 
 
-* Click the **Comparison View** button as shown.
+* Click on the **Comparison View** button.
 
-.. image:: /feature/_images/mdmimages/cs_selectandcompare_clickthecomparisonview.PNG
+.. image:: /feature/_images/mdmimages/pxp_selectandcompare_clickthecomparisonview.PNG
 |
 |
 
 
-* View the information table which enables the user to compare the data of the selected products.
+* View the information table to compare the data of the selected products.
 
-.. image:: /feature/_images/mdmimages/cs_selectandcompare_comparisonview.PNG
+.. image:: /feature/_images/mdmimages/pxp_selectandcompare_comparisonview.PNG
 |
 |
 
 
-*Note:  The indicators for comparison are shown on the right. The Red icon with down arrow indicates "Lesser", the Green icon with "=" indicates "Equal to", and the Green icon with up arrow indicates "Greater than" for the values being compared.*
+*Note:  The indicators for comparison are shown on the right. The Red icon with down arrow indicates 'Lesser', the Green icon with '=' indicates 'Equal to', and the Green icon with up arrow indicates 'Greater than' for the values being compared.*
 
 |
 |

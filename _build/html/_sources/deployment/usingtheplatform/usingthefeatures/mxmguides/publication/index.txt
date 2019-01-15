@@ -1,0 +1,9 @@
+=======================
+Publication
+=======================
+
+.. toctree::
+   :maxdepth: 1
+
+   creating
+   planning

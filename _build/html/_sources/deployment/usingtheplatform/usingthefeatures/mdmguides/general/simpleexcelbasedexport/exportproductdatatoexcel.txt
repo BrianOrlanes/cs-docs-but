@@ -27,33 +27,32 @@ To export product data to an Excel file, follow these steps:
 
 |
 
-* Log in and go to *PIM*.
+* Log in and go to *Products*.
 
-.. image:: /feature/_images/mdmimages/cs_exportproductdatatoexcel_loginandgotopim.PNG
+.. image:: /feature/_images/mdmimages/pxp_exportproductdatatoexcel_loginandgotoproduct.PNG
 |
 |
 
 
 * Select the products that will be exported.  A user can select an entire page by using the **Select All** button.
 
-.. image:: /feature/_images/mdmimages/cs_exportproductdatatoexcel_selecttheproducts.PNG
+.. image:: /feature/_images/mdmimages/pxp_exportproductdatatoexcel_selecttheproducts.PNG
 |
 |
 
-*Note: You may also use the **Select All** button to select all the products.*
+*Note: You may also use the Select All button to select all the products.*
 
-.. image:: /feature/_images/mdmimages/cs_exportproductdatatoexcel_selectalltheproducts.PNG
+.. image:: /feature/_images/mdmimages/pxp_exportproductdatatoexcel_selectalltheproducts.PNG
 |
 |
 
 
 * Once the products are selected, click on the **Export** button.
 
-.. image:: /feature/_images/mdmimages/cs_exportproductdatatoexcel_clicktheexportbutton.PNG
+.. image:: /feature/_images/mdmimages/pxp_exportproductdatatoexcel_clicktheexportbutton.PNG
 |
 |
 
---------------------------------------------------------------------------------------------
 
 * Wait for the Excel file to be downloaded. The exported file will contain all the data of the selected products.
 

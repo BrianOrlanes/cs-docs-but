@@ -27,94 +27,94 @@ To manage product keys, follow these steps:
 
 |
 
-* Log in and click on the **Administration** button.
+* Log in and click on the **Administration** icon.
 
-.. image:: /feature/_images/mdmimages/cs_manageproductkeys_login.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageproductkeys_login.PNG
 |
 |
 
 
 * Go to the **Data Model** tab and under *Classes*, click on **Article**, then click on **Single Article**.
 
-.. image:: /feature/_images/mdmimages/cs_manageproductkeys_gotodatamodel.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageproductkeys_gotodatamodel.PNG
 |
 |
 
 
-* In the *Section* bar, click on the "+" icon to add property collection.
+* In the *Section* bar, click on the '+' icon to add property collection.
 
-.. image:: /feature/_images/mdmimages/cs_manageproductkeys_clickplusicon.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageproductkeys_clickplusicon.PNG
 |
 |
 
 
 * Select the property collection and click on the **Apply** button.
 
-.. image:: /feature/_images/mdmimages/cs_manageproductkeys_selectpropertycollection.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageproductkeys_selectpropertycollection.PNG
 |
 |
 
 
 * Click the **drop-down** button beside the property collection. Select the attribute to be used as product key and click on the **Save** button.
 
-.. image:: /feature/_images/mdmimages/cs_manageproductkeys_clickdropdownicon.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageproductkeys_clickdropdownicon.PNG
 |
-.. image:: /feature/_images/mdmimages/cs_manageproductkeys_selectattribute.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageproductkeys_selectattribute.PNG
 |
-.. image:: /feature/_images/mdmimages/cs_manageproductkeys_selectattribute2.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageproductkeys_selectattribute2.PNG
 |
 |
 
 
-* Click on the **Explore** button and go to *PIM*, then create a product from the class "Single Article".
+* Click on the **Explore** button and go to *Products*, then create a product from the class 'Single Article'.
 
-.. image:: /feature/_images/mdmimages/cs_manageproductkeys_clickexplore.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageproductkeys_clickexplore.PNG
 |
-.. image:: /feature/_images/mdmimages/cs_manageproductkeys_createproduct.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageproductkeys_createproduct.PNG
 |
 |
 
 
 * Edit the product and enter value in the attribute that was selected as product key.
 
-.. image:: /feature/_images/mdmimages/cs_manageproductkeys_editproduct.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageproductkeys_editproduct.PNG
 |
 |
 
 
 * Click on any blank area then click on the **Save** button.
 
-.. image:: /feature/_images/mdmimages/cs_manageproductkeys_clicksave.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageproductkeys_clicksave.PNG
 |
 |
 
 
-* Go back to *PIM* and create another product of the same class.
+* Go back to *Products* and create another product of the same class.
 
-.. image:: /feature/_images/mdmimages/cs_manageproductkeys_createproduct.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageproductkeys_createproductsame.PNG
 |
 |
 
 
 * Edit the same attribute with the same value as with the previous product.
 
-.. image:: /feature/_images/mdmimages/cs_manageproductkeys_editsameattribute.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageproductkeys_editsameattribute.PNG
 |
 |
 
 
 * Click on the **Save** button and the violation for uniqueness will appear.
 
-.. image:: /feature/_images/mdmimages/cs_manageproductkeys_clicksave.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageproductkeys_clicksave2.PNG
 |
-.. image:: /feature/_images/mdmimages/cs_manageproductkeys_violation.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageproductkeys_violation.PNG
 |
 |
 
 
 * Enter a unique value in the attribute for that product to resolve the violation then click on the **Save** button.
 
-.. image:: /feature/_images/mdmimages/cs_manageproductkeys_enteruniquevalue.PNG
+.. image:: /feature/_images/mdmimages/pxp_manageproductkeys_enteruniquevalue.PNG
 |
 |
 

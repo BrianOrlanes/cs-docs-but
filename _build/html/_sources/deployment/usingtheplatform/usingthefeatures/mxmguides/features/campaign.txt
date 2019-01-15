@@ -1,0 +1,233 @@
+====================
+Marketing Campaign
+====================
+
+Marketing Campaign is a feature that allows system administrators and marketing professionals to increase awareness for certain products.
+
+**Campaign and its Types**
+
+A campaign is a long-term promotion, done to increase brand awareness or sales of a product.
+It is a fool-proof way to promote your brand and to reach your customers, clients, and leads.
+A well-planned marketing campaign aims to achieve:
+
+  * a well-targeted message that reaches the defined target audience
+  * a message that is understood by that audience
+  * a message that encourages those recipients to perform one or more actions (say make an inquiry or even buy the product/services).
+
+Contentserv MxM offers collaborative campaign solution for implementing campaigns between Central Agencies, headquarters, marketing departments and local markets (sales points, regional agencies, etc.).
+This collaboration in MxM is achieved by campaign templates (classes) created by central Agency and instances in the form of sub-campaigns offered to the local markets.
+The central entity provides campaigns that local entities may use.
+
+To use a central campaign, the local market gets approval to instantiate the campaign as sub-campaign and customize targets, products, publications as per local needs.
+
+**Collaborative campaign by Central Agencies**
+
+A collaborative campaign is a campaign whose execution schedule is defined by the central entity, which the local entity may use.
+The content remains the same for each local entity but costs are shared. To take part, local entities subscribe to the collaborative campaign.
+The main parent campaigns are created by central agencies for multiple markets during the planning phase.
+
+The central agencies may also add products as recommendations that are valid for the entire region independent of the markets.
+The local markets valid for the campaigns can also be defined, based on which local markets can create new sub-campaigns for each market.
+Central entities are made up of marketing operators in charge of specifying communications and assisting local entities in executing their marketing campaign.
+The campaign objective and goals are defined at the main campaign to set directives for the local markets.
+The overall budgets and costs can be defined which may be broken down further for local campaigns.
+
+**Types of Collaborative Campaigns**
+
+  * Collaboration by Review approval
+  * Collaborative Campaign (Automated)
+
+**Local Campaigns by Local Markets**
+
+A local campaign is an instance created from a template referenced in the list of collaborative campaigns with a specific execution schedule.
+Its aim is to meet a local communication need using a campaign template that was set up and configured by the central entity.
+The local entity's degree of autonomy depends on the implementation used.
+Local agencies consist of regional distributors, local markets, regional brand and marketing managers aiming to create localized sub-campaigns from the central campaigns.
+
+Fields such as target markets, date of execution, budgets and costs, etc. can be localized for the sub-campaigns provided that such attributes form the sub-set of parent campaign attributes.
+The local campaigns may access the recommended products defined at the parent campaign.
+
+|
+
+=====================      ======================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
+**Purpose:**               * This document will help you create a Marketing Campaign.
+
+**Target Audience:**       * Administrators
+                           * Marketing Professionals
+                           * Analysts
+
+**Prerequisites:**         * Access to PIM/MDM/MXM Products
+                           * Targets
+
+**Key Terms:**             * **Collaborative campaign**: is a campaign whose execution schedule is defined by the central entity, which the local entity may use.
+=====================      ======================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
+
+|
+
+How-to: Configure a Marketing Campaign in Contentserv PXP Application
+======================================================================
+
+
+* Log in to the Contentserv PXP application and click on the 'user profile' to select the PIM catalog.
+
+.. image:: /feature/_images/mxmimages/campaign/cs_marketingcampaign_login.PNG
+|
+
+* Click on the **Administration** icon.
+
+.. image:: /feature/_images/mxmimages/campaign/cs_marketingcampaign_administration.PNG
+|
+
+
+* Go to the *Data Model* tab and click on **Campaigns**.
+
+.. image:: /feature/_images/mxmimages/campaign/cs_marketingcampaign_clickcampaign.PNG
+|
+
+
+* Click on the **Create** icon to create a new Campaign.
+
+.. image:: /feature/_images/mxmimages/campaign/cs_marketingcampaign_clickcreate.PNG
+|
+
+* On the pop-up window, enter the name and enable as **Nature Class**. Select the type of campaign that you want to create and click on the **Create** button.
+
+.. image:: /feature/_images/mxmimages/campaign/cs_marketingcampaign_entername.PNG
+|
+
+* Click on the "+" icon beside *Section* to select the appropriate property collection.
+
+.. image:: /feature/_images/mxmimages/campaign/cs_marketingcampaign_clickplusicon.PNG
+|
+
+* Click on the **Explore** icon, then click on the user profile and select **MxM** catalog.
+
+.. image:: /feature/_images/mxmimages/campaign/cs_marketingcampaign_clickexploreicon.PNG
+|
+
+* Click on the **Campaign** menu and click on the **Create** button. From the drop-down list, select the campaign that you have created.
+
+.. image:: /feature/_images/mxmimages/campaign/cs_marketingcampaign_clickcreatebutton.PNG
+|
+
+* In the *Overview* tab, enter the details such as Schedule (date span for which the campaign will last), Target (Market you want your campaign to be promoted at) and so on.
+
+.. image:: /feature/_images/mxmimages/campaign/cs_marketingcampaign_enterdetails.PNG
+|
+
+* Click on the "+" icon to add products to the campaign via product recommendations.
+
+.. image:: /feature/_images/mxmimages/campaign/cs_marketingcampaign_productrecommendation.PNG
+|
+
+* Select and add the products you would like to run a campaign on.
+
+.. image:: /feature/_images/mxmimages/campaign/cs_marketingcampaign_selectproducts.PNG
+|
+
+* After adding the products, click on the **Back** icon.
+
+.. image:: /feature/_images/mxmimages/campaign/cs_marketingcampaign_clickback.PNG
+|
+
+* View the products added in *Products Recommendations*.
+
+.. image:: /feature/_images/mxmimages/campaign/cs_marketingcampaign_viewproducts.PNG
+|
+
+
+How-to: Configure a Collaborative Marketing Campaign in Contentserv PXP Application
+=====================================================================================
+
+* Create a new campaign.
+
+* Enter the name and enable as **Nature Class**, then select the type **Collaborative** and click on the **Create** button.
+
+.. image:: /feature/_images/mxmimages/campaign/cs_marketingcampaign_collaborative.PNG
+|
+
+* Once the collaborative campaign is created, you can connect this campaign to other local campaigns in the system.
+  Go to the **Sub Campaign Relationship** section, and click on the **Other Side** to select local campaigns.
+
+.. image:: /feature/_images/mxmimages/campaign/cs_marketingcampaign_subcampaign.PNG
+|
+
+* Click on the **Save** button.
+
+.. image:: /feature/_images/mxmimages/campaign/cs_marketingcampaign_clicksave.PNG
+|
+
+* Click on the **Explore** icon, then click on the user profile and select the **MxM** catalog.
+
+.. image:: /feature/_images/mxmimages/campaign/cs_marketingcampaign_clickexplore.PNG
+|
+
+* Click on the **Campaign** tab then click on the **Create** icon to create a collaborative campaign.
+
+.. image:: /feature/_images/mxmimages/campaign/cs_marketingcampaign_clickcampaigntab.PNG
+|
+
+* Once a new collaborative campaign is created, scroll down to the **Sub Campaigns** section. Click on the "+" icon to add sub-campaigns to this collaborative campaign.
+
+.. image:: /feature/_images/mxmimages/campaign/cs_marketingcampaign_scrolltosubcampaign.PNG
+|
+
+* You may create a new sub-campaign or add existing ones.
+
+.. image:: /feature/_images/mxmimages/campaign/cs_marketingcampaign_createoraddsubcampaign.PNG
+|
+
+* Click on the **Save** button.
+
+|
+
+* Click on the **Product Recommendations** to add products to the campaign.
+
+.. image:: /feature/_images/mxmimages/campaign/cs_marketingcampaign_addproductrecommendation.PNG
+|
+
+* The feature 'recommended products' allows you to select all marketing products available or select only the products belonging to a certain sub-campaign.
+  Click on the **Sort and Filter** drop menu on the right. In the *Applicable Filters* option, click on the sub-campaigns whose products you would want to select.
+
+.. image:: /feature/_images/mxmimages/campaign/cs_marketingcampaign_clicksortandfilter.PNG
+|
+
+How-to: Create a Campaign-to-Campaign Relationship
+===================================================
+
+* Select a campaign to which you would want to link another campaign to. Click on the campaign and go to the *Relationships* tab.
+
+.. image:: /feature/_images/mxmimages/campaign/cs_marketingcampaign_selectcampaigntolink.PNG
+|
+
+
+* Click on the "+" icon to add a Campaign.
+
+.. image:: /feature/_images/mxmimages/campaign/cs_marketingcampaign_clickplusicon2.PNG
+|
+
+* In the next window, select the campaign that you want to add or click on the **Create** button to make a new one.
+
+.. image:: /feature/_images/mxmimages/campaign/cs_marketingcampaign_selectcampaigntoadd.PNG
+|
+
+* Click on the **Back** icon to return to the main window.
+
+.. image:: /feature/_images/mxmimages/campaign/cs_marketingcampaign_clickbackicon.PNG
+|
+
+* View the added campaign in the *Campaign* section. *Note: Adding products via Product Recommendations will also show the products belonging to this campaign.*
+
+.. image:: /feature/_images/mxmimages/campaign/cs_marketingcampaign_viewaddedcampaign.PNG
+|
+
+* Click on the **Calendar View** icon for a detailed view of all the campaigns.
+
+.. image:: /feature/_images/mxmimages/campaign/cs_marketingcampaign_clickcalendarview.PNG
+|
+.. image:: /feature/_images/mxmimages/campaign/cs_marketingcampaign_clickcalendarview2.PNG
+|
+|
+
+.. image:: /feature/_images/pepimages/line-png-32.PNG
+   :alt: Contentserv line

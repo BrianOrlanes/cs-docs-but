@@ -27,51 +27,51 @@ To manage units for individual articles, follow these steps:
 
 |
 
-* Log in and click on the *Administration* button.
+* Log in and click on the **Administration** icon.
 
-.. image:: /feature/_images/mdmimages/cs_individualarticles_login.PNG
+.. image:: /feature/_images/mdmimages/pxp_individualarticles_login.PNG
 |
 |
 
 
 * Click on **Properties** and select **Unit**.
 
-.. image:: /feature/_images/mdmimages/cs_individualarticles_clickproperties.PNG
+.. image:: /feature/_images/mdmimages/pxp_individualarticles_clickpropertiesb.PNG
 |
 |
 
 
-* Click on the "+" icon.
+* Click on the '+' icon.
 
-.. image:: /feature/_images/mdmimages/cs_individualarticles_clickplusicon.PNG
+.. image:: /feature/_images/mdmimages/pxp_individualarticles_clickplusicon.PNG
 |
 |
 
 
 * Enter the name (e.g. *Unit*) and click on the **Create** button.
 
-.. image:: /feature/_images/mdmimages/cs_individualarticles_entername.PNG
+.. image:: /feature/_images/mdmimages/pxp_individualarticles_entername.PNG
 |
 |
 
 
 * Click on the **Create Tag Value** button.
 
-.. image:: /feature/_images/mdmimages/cs_individualarticles_createtagvalue.PNG
+.. image:: /feature/_images/mdmimages/pxp_individualarticles_createtagvalueb.PNG
 |
 |
 
 
 * Enter the name for the tag value (e.g. *ST*) and click on the **Create** button.
 
-.. image:: /feature/_images/mdmimages/cs_individualarticles_nametagvalue.PNG
+.. image:: /feature/_images/mdmimages/pxp_individualarticles_nametagvalue.PNG
 |
 |
 
 
 * Repeat the above steps to create other tag values.
 
-.. image:: /feature/_images/mdmimages/cs_individualarticles_repeat.PNG
+.. image:: /feature/_images/mdmimages/pxp_individualarticles_repeat.PNG
 |
 |
 
