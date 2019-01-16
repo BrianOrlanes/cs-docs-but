@@ -20,28 +20,35 @@ Key Terms
 Steps to Transfer a File
 =========================
 
-* Log in to the application.
+* Log in and go to *Onboarding*.
 
+.. image:: /tutorials/_images/pxp_effortlessfiletransfer_login.PNG
+|
 |
 
-* Click on the **Explore** icon and go to *Data Integration*.
+* Click on the **Data Integration** tab.
 
+.. image:: /tutorials/_images/pxp_effortlessfiletransfer_dataintegrationtab.PNG
+|
 |
 
 * Click on the **File Uploads** link of the created endpoint.
 
-.. image:: /tutorials/_images/cs_effortlessfiletransfer_clickfileuploads.PNG
+.. image:: /tutorials/_images/pxp_effortlessfiletransfer_clickfileuploads.PNG
 |
 |
 
 * Click on the **Import File** icon and upload the onboarding file to the supplier's *Data Integration* tab.
 
+.. image:: /tutorials/_images/pxp_effortlessfiletransfer_importfile.PNG
+|
 |
 
 * Click on the **Catalog** tab to check for data violations. *Note: The violations are shown in red, orange, and yellow color against each product. The products with red violations are not pushed into the PIM system.*
 
-.. image:: /tutorials/_images/cs_effortlessfiletransfer_clickcatalog.PNG
-
+.. image:: /tutorials/_images/pxp_effortlessfiletransfer_clickcatalog.PNG
+|
+.. image:: /tutorials/_images/pxp_effortlessfiletransfer_clickcatalog2.PNG
 |
 |
 
@@ -49,17 +56,15 @@ Steps to Transfer a File
 
 |
 
-* Click on the **Catalog** tab.
+* Go to *Products* and select the products that are needed to be transferred to Onboarding or PIM portal (Self).
 
+.. image:: /tutorials/_images/pxp_effortlessfiletransfer_gotoproducts.PNG
 |
-
-* Select all the products that are needed to be transferred to Onboarding or PIM portal (Self).
-
 |
 
 * Click on the **Transfer** icon and select **Transfer To PIM** or **Transfer To Onboarding** option.
 
-.. image:: /tutorials/_images/cs_effortlessfiletransfer_clicktransfer.PNG
+.. image:: /tutorials/_images/pxp_effortlessfiletransfer_clicktransfer.PNG
 |
 |
 

@@ -77,21 +77,21 @@ To do this feature, follow these steps:
 
 * The user who created the task, by default, is the **Accountable** user. The **Accountable** user can change the task from *Planned* to the *Ready* state.
 
-  .. image:: /feature/_images/mdmimages/pxp_racivstasks_plannedtoready.PNG
+.. image:: /feature/_images/mdmimages/pxp_racivstasks_plannedtoready.PNG
 |
 |
 
 
 * Once in the *Ready* state, the **Responsible** user acknowledges the task and sets it to either *Declined* or *In Progress*.
 
-.. image:: /feature/_images/mdmimages/racivstasks_oncethereadystate.PNG
+.. image:: /feature/_images/mdmimages/pxp_racivstasks_oncethereadystateb.PNG
 |
 |
 
 
 * When the task is completed by the **Accountable** user, the **Responsible** user acknowledges and sets the status to *Done*.
 
-.. image:: /feature/_images/mdmimages/racivstasks_whenthetaskiscompleted.PNG
+.. image:: /feature/_images/mdmimages/pxp_racivstasks_whenthetaskiscompleted.PNG
 |
 |
 
