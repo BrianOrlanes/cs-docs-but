@@ -21,13 +21,13 @@ To do this, follow these steps:
 |
 
 
-* Hover over the "+" icon and select the desired product (in this demo, we select **Smartphone Accessories**).
+* Click on the **Create** button and select the desired product (in this demo, we select **Product**).
 
-.. image:: /feature/_images/mdmimages/cs_createnewproduct_hoverplus.PNG
+.. image:: /feature/_images/mdmimages/pxp_createnewproduct_clickcreate.PNG
 |
 |
 
-.. image:: /feature/_images/mdmimages/cs_createnewproduct_hoverplus2.PNG
+.. image:: /feature/_images/mdmimages/pxp_createnewproduct_clickcreate2.PNG
 |
 |
 

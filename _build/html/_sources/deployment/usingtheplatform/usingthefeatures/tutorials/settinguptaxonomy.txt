@@ -29,7 +29,7 @@ To do this, follow these steps:
 |
 |
 
-* Then, click **Master Taxonomy**.
+* Then, click **Master Taxonomies**.
 
 .. image:: /feature/_images/mdmimages/cs_settinguptaxonomy_clickmastertaxonomy.PNG
 |
