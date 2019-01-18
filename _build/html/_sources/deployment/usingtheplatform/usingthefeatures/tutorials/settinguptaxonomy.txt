@@ -13,41 +13,41 @@ To do this, follow these steps:
 
 * Click **Administration**.
 
-.. image:: /feature/_images/mdmimages/cs_settinguptaxonomy_clickadministration.PNG
+.. image:: /feature/_images/mdmimages/pxp_settinguptaxonomy_clickadministration.PNG
 |
 |
 
 * Click **Data Model** tab.
 
-.. image:: /feature/_images/mdmimages/cs_settinguptaxonomy_clickdatamodel.PNG
+.. image:: /feature/_images/mdmimages/pxp_settinguptaxonomy_clickdatamodel.PNG
 |
 |
 
 * Click **Taxonomies** to expand.
 
-.. image:: /feature/_images/mdmimages/cs_settinguptaxonomy_clicktaxonomies.PNG
+.. image:: /feature/_images/mdmimages/pxp_settinguptaxonomy_clicktaxonomies.PNG
 |
 |
 
 * Then, click **Master Taxonomies**.
 
-.. image:: /feature/_images/mdmimages/cs_settinguptaxonomy_clickmastertaxonomy.PNG
+.. image:: /feature/_images/mdmimages/pxp_settinguptaxonomy_clickmastertaxonomy.PNG
 |
 |
 
-* Use the "+" to expand the taxonomy, vertically or horizontally.
+* Use the '+' to expand the taxonomy, vertically or horizontally.
 
-.. image:: /feature/_images/mdmimages/cs_settinguptaxonomy_useplus.PNG
+.. image:: /feature/_images/mdmimages/pxp_settinguptaxonomy_useplus.PNG
 |
 |
 
 * Taxonomy window appears. Enter details for the new taxonomy and click **Create**.
 
-.. image:: /feature/_images/mdmimages/cs_settinguptaxonomy_windowappear.PNG
+.. image:: /feature/_images/mdmimages/pxp_settinguptaxonomy_windowappear.PNG
 |
 |
 
-.. image:: /feature/_images/mdmimages/cs_settinguptaxonomy_windowappear2.PNG
+.. image:: /feature/_images/mdmimages/pxp_settinguptaxonomy_windowappear2.PNG
 |
 |
 
@@ -55,19 +55,19 @@ Icons can also be added to the Taxonomy.
 
     * Click a section under taxonomies (in this demo, we select **Casual Clothing**).
 
-    .. image:: /feature/_images/mdmimages/cs_settinguptaxonomy_clicksection.PNG
+    .. image:: /feature/_images/mdmimages/pxp_settinguptaxonomy_clicksection.PNG
     |
     |
 
     * Click **Upload icon**  and select an image from your computer.
 
-    .. image:: /feature/_images/mdmimages/cs_settinguptaxonomy_clickuploadicon.PNG
+    .. image:: /feature/_images/mdmimages/pxp_settinguptaxonomy_clickuploadicon.PNG
     |
     |
 
     * View the selected icon.
 
-    .. image:: /feature/_images/mdmimages/cs_settinguptaxonomy_viewicon.PNG
+    .. image:: /feature/_images/mdmimages/pxp_settinguptaxonomy_viewicon.PNG
     |
     |
 
