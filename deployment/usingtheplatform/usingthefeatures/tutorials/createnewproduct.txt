@@ -10,100 +10,96 @@ To do this, follow these steps:
 
 |
 
-*	Click  **Explore** from the top right and go to *PIM*.
+*	Log in and go to *Products*.
 
-.. image:: /feature/_images/mdmimages/cs_createnewproduct_clickexplore.PNG
-|
-|
-
-.. image:: /feature/_images/mdmimages/cs_createnewproduct_clickexplore2.PNG
+.. image:: /feature/_images/mdmimages/pxp_createnewproduct_clickexplore.PNG
 |
 |
 
 
-* Hover over the "+" icon and select the desired product (in this demo, we select **Smartphone Accessories**).
+* Click on the **Create** button and select the desired product (in this demo, we select **Product**).
 
-.. image:: /feature/_images/mdmimages/cs_createnewproduct_hoverplus.PNG
+.. image:: /feature/_images/mdmimages/pxp_createnewproduct_clickcreate.PNG
 |
 |
 
-.. image:: /feature/_images/mdmimages/cs_createnewproduct_hoverplus2.PNG
+.. image:: /feature/_images/mdmimages/pxp_createnewproduct_clickcreate2.PNG
 |
 |
 
 * Enter the necessary information.
 
-.. image:: /feature/_images/mdmimages/cs_createnewproduct_enternecessaryinfo.PNG
+.. image:: /feature/_images/mdmimages/pxp_createnewproduct_enternecessaryinfo.PNG
 |
 |
 
-.. image:: /feature/_images/mdmimages/cs_createnewproduct_enternecessaryinfo2.PNG
+.. image:: /feature/_images/mdmimages/pxp_createnewproduct_enternecessaryinfo2.PNG
 |
 |
 
-.. image:: /feature/_images/mdmimages/cs_createnewproduct_enternecessaryinfo3.PNG
+.. image:: /feature/_images/mdmimages/pxp_createnewproduct_enternecessaryinfo3.PNG
 |
 |
 
-* Go back to *Overview* tab and click **Add Taxonomy** to add taxonomy to the product.
+* Go back to *Overview* tab and click on **Add Taxonomy** to add taxonomy to the product.
 
-.. image:: /feature/_images/mdmimages/cs_createnewproduct_gobackoverview.PNG
+.. image:: /feature/_images/mdmimages/pxp_createnewproduct_gobackoverview.PNG
 |
 |
 
-.. image:: /feature/_images/mdmimages/cs_createnewproduct_gobackoverview2.PNG
+.. image:: /feature/_images/mdmimages/pxp_createnewproduct_gobackoverview2.PNG
 |
 |
 
-* Taxonomy menu appears. Select the desired taxonomy (in this demo, we select **Accesories**).
+* Taxonomy menu appears. Select the desired taxonomy (in this demo, we select **Mobile Phones**).
 
-.. image:: /feature/_images/mdmimages/cs_createnewproduct_taxmenuappears.PNG
+.. image:: /feature/_images/mdmimages/pxp_createnewproduct_taxmenuappears.PNG
 |
 |
 
 * View the selected taxonomy.
 
-.. image:: /feature/_images/mdmimages/cs_createnewproduct_viewselectedtax.PNG
+.. image:: /feature/_images/mdmimages/pxp_createnewproduct_viewselectedtax.PNG
 |
 |
 
-* Click  **Relationships** tab to add an image to the product.
+* Click on the **Relationships** tab to add an image to the product.
 
 
-.. image:: /feature/_images/mdmimages/cs_createnewproduct_clickrelationshiptab.PNG
+.. image:: /feature/_images/mdmimages/pxp_createnewproduct_clickrelationshiptab.PNG
 |
 |
 
-* Click on  "+" to add an entity.
+* Click on the '+' icon to add an image.
 
 
-.. image:: /feature/_images/mdmimages/cs_createnewproduct_clickplus.PNG
+.. image:: /feature/_images/mdmimages/pxp_createnewproduct_clickplus.PNG
 |
 |
 
-* Click the **select** checkbox to add the desired image (button turns to blue when selected), then click  **Add**.
+* Click on the checkbox to add the desired image (button turns to blue when selected), then click on the **Add** icon.
 
-.. image:: /feature/_images/mdmimages/cs_createnewproduct_clickselect.PNG
-|
-|
-
-.. image:: /feature/_images/mdmimages/cs_createnewproduct_clickselect2.PNG
+.. image:: /feature/_images/mdmimages/pxp_createnewproduct_clickselect.PNG
 |
 |
 
-* Drag the selected image to the right pane can also be performed to add the image.
-
-.. image:: /feature/_images/mdmimages/cs_createnewproduct_dragimage.PNG
+.. image:: /feature/_images/mdmimages/pxp_createnewproduct_clickselect2.PNG
 |
 |
 
-* To add more image, click **Back**, and repeat the previous steps.
+* Another way to add an image is to drag an image to the right pane.
 
-.. image:: /feature/_images/mdmimages/cs_createnewproduct_addimageclickback.PNG
+.. image:: /feature/_images/mdmimages/pxp_createnewproduct_dragimage.PNG
 |
 |
 
-.. image:: /feature/_images/mdmimages/cs_createnewproduct_addimageclickback2.PNG
+* To add more images, click on the **Back** icon, and repeat the previous steps.
+
+.. image:: /feature/_images/mdmimages/pxp_createnewproduct_addimageclickback.PNG
+|
+|
+
+.. image:: /feature/_images/mdmimages/pxp_createnewproduct_addimageclickback2.PNG
 |
 |
 

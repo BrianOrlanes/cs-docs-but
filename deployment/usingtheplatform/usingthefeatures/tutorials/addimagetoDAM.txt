@@ -12,56 +12,56 @@ To do this, follow these steps:
 
 |
 
-* Click **DAM**.
+* Log in and click on **DAM**.
 
-.. image:: /feature/_images/mdmimages/cs_addimagetoDAM_clickdam.PNG
+.. image:: /feature/_images/mdmimages/pxp_addimagetoDAM_clickdam.PNG
 |
 |
 
-* Hover on the "+" icon.
+* Click on the **Create** button.
 
-.. image:: /feature/_images/mdmimages/cs_addimagetoDAM_hoverplus.PNG
+.. image:: /feature/_images/mdmimages/pxp_addimagetoDAM_clickcreate.PNG
 |
 |
 
-* Then, click **Image**.
+* Click on **Image**.
 
-.. image:: /feature/_images/mdmimages/cs_addimagetoDAM_clickimage.PNG
+.. image:: /feature/_images/mdmimages/pxp_addimagetoDAM_clickimage.PNG
 |
 |
 
-* Click the **Add Image** icon on the File Preview section, and select your desired image from your computer.
+* Click on the **Add Image** icon on the File Preview section, and select your desired image from your computer.
 
-.. image:: /feature/_images/mdmimages/cs_addimagetoDAM_clickaddimage.PNG
+.. image:: /feature/_images/mdmimages/pxp_addimagetoDAM_clickaddimage.PNG
 |
 |
 
-* The image appears on the File Preview section, and click on the **pencil** icon to enter a name for the image.
+* The image appears on the File Preview section, and click on the **Edit** icon to enter a name for the image.
 
-.. image:: /feature/_images/mdmimages/cs_addimagetoDAM_entername.PNG
+.. image:: /feature/_images/mdmimages/pxp_addimagetoDAM_entername.PNG
 |
 |
 
-* Then, click **Save**.
+* Click on the **Save** button.
 
-.. image:: /feature/_images/mdmimages/cs_addimagetoDAM_clicksave.PNG
+.. image:: /feature/_images/mdmimages/pxp_addimagetoDAM_clicksave.PNG
 |
 |
 
-* Go to the *Metadata* under the *Property Collection* tab.
+* Go to the *Metadata* under the *Properties* tab.
 
-.. image:: /feature/_images/mdmimages/cs_addimagetoDAM_gotometadata.PNG
+.. image:: /feature/_images/mdmimages/pxp_addimagetoDAM_gotometadata.PNG
 |
 |
 
-.. image:: /feature/_images/mdmimages/cs_addimagetoDAM_gotometadata2.PNG
+.. image:: /feature/_images/mdmimages/pxp_addimagetoDAM_gotometadata2.PNG
 |
 |
 
 
 * The available metadata on the Meta Data section will auto-complete but the fields can be manually filled out as desired.
 
-.. image:: /feature/_images/mdmimages/cs_addimagetoDAM_availablemetadata.PNG
+.. image:: /feature/_images/mdmimages/pxp_addimagetoDAM_availablemetadata.PNG
 
 |
 
