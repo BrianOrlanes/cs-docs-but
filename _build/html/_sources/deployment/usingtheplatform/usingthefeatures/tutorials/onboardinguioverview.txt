@@ -50,7 +50,7 @@ and also, the *Status* that changes from *‘In Progress to Completed’* if the
 
 |
 
-.. image:: /tutorials/_images/pxp_onboardinguioverview_workflowstatus.PNG
+.. image:: /tutorials/_images/cs_onboardinguioverview_workflowstatus.PNG
 |
 |
 
@@ -61,7 +61,7 @@ Catalog tab displays the list of uploaded products.  You can check the details o
 
 |
 
-.. image:: /tutorials/_images/pxp_onboardinguioverview_catalog.PNG
+.. image:: /tutorials/_images/cs_onboardinguioverview_catalog.PNG
 |
 |
 
@@ -72,7 +72,7 @@ The Media tab in the onboarding portal displays all the uploaded media files alo
 
 |
 
-.. image:: /tutorials/_images/pxp_onboardinguioverview_media.PNG
+.. image:: /tutorials/_images/cs_onboardinguioverview_media.PNG
 |
 |
 
