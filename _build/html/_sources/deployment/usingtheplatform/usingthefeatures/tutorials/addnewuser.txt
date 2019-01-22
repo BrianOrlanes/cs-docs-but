@@ -11,13 +11,13 @@ To do this, follow these steps:
 
 |
 
-* Click **Administration**.
+* Log in and click on the **Administration** icon.
 
 .. image:: /feature/_images/mdmimages/pxp_addingnewusers_clicksettings.PNG
 |
 |
 
-* Click **Partner Administration**.
+* Click on **Partner Administration**.
 
 .. image:: /feature/_images/mdmimages/pxp_addingnewusers_clickpartneradmnistration.PNG
 |
@@ -29,19 +29,19 @@ To do this, follow these steps:
 |
 |
 
-* Then, click '+' to add a user.
+* Then, click on the '+' icon to add a user.
 
 .. image:: /feature/_images/mdmimages/pxp_addingnewusers_clickplus.PNG
 |
 |
 
-* Enter data in the fields.
+* Enter the data in their corresponding fields.
 
 .. image:: /feature/_images/mdmimages/pxp_addingnewusers_enterdetails.PNG
 |
 |
 
-* Then, click **Create**.
+* Click on the **Create** button.
 
 .. image:: /feature/_images/mdmimages/pxp_addingnewusers_clickcreate.PNG
 |
@@ -57,7 +57,7 @@ To do this, follow these steps:
 
 Icon for the user can also be added. To do this, follow the steps below:
 
-      * Click **Add Icon** and select an image icon from your computer.
+      * Click on the **Add Icon** and select an image icon from your computer.
 
       .. image:: /feature/_images/mdmimages/pxp_addingnewusers_clickaddicon.PNG
       |

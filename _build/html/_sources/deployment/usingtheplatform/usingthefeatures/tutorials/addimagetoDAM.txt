@@ -12,37 +12,37 @@ To do this, follow these steps:
 
 |
 
-* Click **DAM**.
+* Log in and click on **DAM**.
 
 .. image:: /feature/_images/mdmimages/pxp_addimagetoDAM_clickdam.PNG
 |
 |
 
-* Hover on the **Create** button.
+* Click on the **Create** button.
 
 .. image:: /feature/_images/mdmimages/pxp_addimagetoDAM_clickcreate.PNG
 |
 |
 
-* Then, click **Image**.
+* Click on **Image**.
 
 .. image:: /feature/_images/mdmimages/pxp_addimagetoDAM_clickimage.PNG
 |
 |
 
-* Click the **Add Image** icon on the File Preview section, and select your desired image from your computer.
+* Click on the **Add Image** icon on the File Preview section, and select your desired image from your computer.
 
 .. image:: /feature/_images/mdmimages/pxp_addimagetoDAM_clickaddimage.PNG
 |
 |
 
-* The image appears on the File Preview section, and click on the **pencil** icon to enter a name for the image.
+* The image appears on the File Preview section, and click on the **Edit** icon to enter a name for the image.
 
 .. image:: /feature/_images/mdmimages/pxp_addimagetoDAM_entername.PNG
 |
 |
 
-* Then, click on the **Save** button.
+* Click on the **Save** button.
 
 .. image:: /feature/_images/mdmimages/pxp_addimagetoDAM_clicksave.PNG
 |
