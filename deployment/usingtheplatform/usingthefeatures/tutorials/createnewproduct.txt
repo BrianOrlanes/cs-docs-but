@@ -43,7 +43,7 @@ To do this, follow these steps:
 
 * Go back to *Overview* tab and click on **Add Taxonomy** to add taxonomy to the product.
 
-.. image:: /feature/_images/mdmimages/pxp_createnewproduct_gobackoverview.PNG
+.. image:: /feature/_images/mdmimages/pxp_createnewproduct_gobackoverview1.PNG
 |
 |
 
@@ -59,7 +59,7 @@ To do this, follow these steps:
 
 * View the selected taxonomy.
 
-.. image:: /feature/_images/mdmimages/pxp_createnewproduct_viewselectedtax.PNG
+.. image:: /feature/_images/mdmimages/pxp_createnewproduct_viewselectedtax1.PNG
 |
 |
 
