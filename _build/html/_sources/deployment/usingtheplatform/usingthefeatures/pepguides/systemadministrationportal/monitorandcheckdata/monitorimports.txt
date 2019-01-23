@@ -86,7 +86,7 @@ How-to: Monitor Imports
 
 * View the data shown on the *Dashboard*.
 
-.. image:: /feature/_images/pepimages/cs_monitorimports_viewdata.PNG
+.. image:: /feature/_images/pepimages/pxp_monitorimports_viewdata.PNG
 |
 |
 

@@ -31,15 +31,11 @@ To do this, follow these steps:
 
 * Login as Supplier and click **Dashboard**. Then, click **Data Integration** and select an endpoint.
 
-.. image:: /feature/_images/pepimages/cs_manageproductdefinitionsacrosssystems_loginsupplierclickdashboard.PNG
+.. image:: /feature/_images/pepimages/pxp_manageproductdefinitionsacrosssystems_loginsupplierclickdashboard.PNG
 |
 |
 
-.. image:: /feature/_images/pepimages/cs_manageproductdefinitionsacrosssystems_loginsupplierclickdashboard2.PNG
-|
-|
-
-.. image:: /feature/_images/pepimages/cs_manageproductdefinitionsacrosssystems_loginsupplierclickdashboard3.PNG
+.. image:: /feature/_images/pepimages/pxp_manageproductdefinitionsacrosssystems_loginsupplierclickdashboard3.PNG
 |
 |
 

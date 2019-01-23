@@ -33,21 +33,21 @@ To add additional information to products, follow these steps:
 
 * Log in as Supplier, go to *Onboarding* and click on the **Data Integration** tab.
 
-.. image:: /feature/_images/pepimages/cs_manageproductsinthemastercatalog_login1.PNG
+.. image:: /feature/_images/pepimages/pxp_manageproductsinthemastercatalog_login1.PNG
 |
 |
 
 * Under the applicable inbound endpoint created for a specific organization, click on the **Import File** button.
 
-.. image:: /feature/_images/pepimages/cs_manageproductsinthemastercatalog_importfile1.PNG
+.. image:: /feature/_images/pepimages/pxp_manageproductsinthemastercatalog_importfile1.PNG
 |
 |
 
 * Select the onboarding file.
 
-.. image:: /feature/_images/pepimages/cs_manageproductsinthemastercatalog_onboardingfile1.PNG
+.. image:: /feature/_images/pepimages/pxp_manageproductsinthemastercatalog_onboardingfile1.PNG
 |
-.. image:: /feature/_images/pepimages/cs_manageproductsinthemastercatalog_onboardingfile2.PNG
+.. image:: /feature/_images/pepimages/pxp_manageproductsinthemastercatalog_onboardingfile2.PNG
 |
 |
 
