@@ -11,7 +11,6 @@ To configure an endpoint, follow these steps:
 |
 |
 
-.0
 
 *	Click the '+' icon to create the endpoint.
 
