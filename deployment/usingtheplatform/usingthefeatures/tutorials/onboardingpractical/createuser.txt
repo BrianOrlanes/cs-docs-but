@@ -7,28 +7,28 @@ To create a new user, follow the steps below:
 
 *	Log in to the application and click on the **Administration** button.
 
-.. image:: /tutorials/_images/cs_createuser_logintotheapp.PNG
+.. image:: /tutorials/_images/pxp_createuser_logintotheapp.PNG
 |
 |
 
 
 *	Go to the *Partner Administration* tab, then to *Users*.
 
-.. image:: /tutorials/_images/cs_createuser_gotopartneradmin.PNG
+.. image:: /tutorials/_images/pxp_createuser_gotopartneradmin.PNG
 |
 |
 
 
-*	Click the "+" icon to create a new user.
+*	Click the '+' icon to create a new user.
 
-.. image:: /tutorials/_images/cs_createuser_clicktheicon.PNG
+.. image:: /tutorials/_images/pxp_createuser_clicktheicon.PNG
 |
 |
 
 
 * Provide the following details: *First Name, Last Name, Username, Password, Confirm Password, E-Mail, Mobile Number, and Gender*. Click on the **Create** button.
 
-.. image:: /tutorials/_images/cs_createuser_providethedetails.PNG
+.. image:: /tutorials/_images/pxp_createuser_providethedetails.PNG
 |
 |
 

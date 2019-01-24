@@ -21,65 +21,88 @@ Key Terms
 Steps to Configure Endpoints
 ============================
 
-* Log in to the application.
+* Log in and click on the **Administration** icon.
 
+.. image:: /tutorials/_images/pxp_partnerspecificendpoints_login.PNG
 |
-
-* Click on the **Administration** icon.
-
 |
 
 * Navigate to **Data Integration** -> **Endpoints** menu.
 
-.. image:: /tutorials/_images/cs_partnerspecificendpoints_navigate.PNG
+.. image:: /tutorials/_images/pxp_partnerspecificendpoints_dataintegration.PNG
 |
 |
 
 * Click on the "+" icon to create the endpoint.
 
+.. image:: /tutorials/_images/pxp_partnerspecificendpoints_clickplusicon.PNG
+|
 |
 
-* Enter the values for the *Name, Type, and Code*, then click on the **Create** button.
+* Enter the name and select the type, then click on the **Create** button.
 
-.. image:: /tutorials/_images/cs_partnerspecificendpoints_entervalues.PNG
+.. image:: /tutorials/_images/pxp_partnerspecificendpoints_entername.PNG
 
 |
 |
 
 * Select the values for *Realtime Mapping*, *System*, *Workflow*, *Mapping*, *Dashboard Tab*, and *Physical Catalog*, then click on the **Save** button.
 
-.. image:: /tutorials/_images/cs_partnerspecificendpoints_selectvalues.PNG
+.. image:: /tutorials/_images/pxp_partnerspecificendpoints_selectvalues.PNG
 |
 |
 
 * Navigate to **Partner Administration** -> **Partners** menu.
 
+.. image:: /tutorials/_images/pxp_partnerspecificendpoints_partneradmin.PNG
+|
 |
 
-* Click on the created partner to whom the endpoint will be assigned.
+* Click on the partner to whom the endpoint will be assigned.
 
+.. image:: /tutorials/_images/pxp_partnerspecificendpoints_clickpartner.PNG
+|
 |
 
-* Select the created endpoint from the *Systems* section.
+* Click on the '+' icon from the *Systems* section, select the applicable system and click on the **Apply** button.
 
-.. image:: /tutorials/_images/cs_partnerspecificendpoints_selectcreatedendpoint.PNG
+.. image:: /tutorials/_images/pxp_partnerspecificendpoints_selectsystem.PNG
+|
 |
 
-* Click on the **Roles** tab.
+* Select the created endpoint and click on the **Save** button.
 
+.. image:: /tutorials/_images/pxp_partnerspecificendpoints_selectendpoint.PNG
+|
 |
 
-* Select the created endpoint from the *Systems* section.
+* Click on the **Roles** tab and select the applicable role.
 
+.. image:: /tutorials/_images/pxp_partnerspecificendpoints_clickroletab.PNG
+|
+|
+
+* Click on the '+' icon from the *Systems* section, select the applicable system, and click on the **Apply** button.
+
+.. image:: /tutorials/_images/pxp_partnerspecificendpoints_selectsystem2.PNG
+|
+|
+
+* Select the created endpoint and click on the **Save** button.
+
+.. image:: /tutorials/_images/pxp_partnerspecificendpoints_selectendpoint2.PNG
+|
 |
 
 * Click on the **Explore** icon and go to *Data Integration*.
 
+.. image:: /tutorials/_images/pxp_partnerspecificendpoints_clickexplore.PNG
+|
 |
 
 * Click on the **File Uploads** link of the created Endpoint to upload the desired file.
 
-.. image:: /tutorials/_images/cs_partnerspecificendpoints_clickfileuploads.PNG
+.. image:: /tutorials/_images/pxp_partnerspecificendpoints_clickfileupload.PNG
 |
 |
 
