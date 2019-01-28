@@ -53,25 +53,25 @@ To add additional information to products, follow these steps:
 
 * Go to *Catalog* and select the product.
 
-.. image:: /feature/_images/pepimages/cs_manageproductsinthemastercatalog_gotocatalog1.PNG
+.. image:: /feature/_images/pepimages/pxp_manageproductsinthemastercatalog_gotocatalog1.PNG
 |
 |
 
-* Click on the **Property Collection** tab.
+* Click on the **Properties** tab.
 
-.. image:: /feature/_images/pepimages/cs_manageproductsinthemastercatalog_gotocatalog2.PNG
+.. image:: /feature/_images/pepimages/pxp_manageproductsinthemastercatalog_gotocatalog2.PNG
 |
 |
 
 * Add information *(e.g. Long Description)* to the product and click on the **Save** button.
 
-.. image:: /feature/_images/pepimages/cs_manageproductsinthemastercatalog_gotocatalog3.PNG
+.. image:: /feature/_images/pepimages/pxp_manageproductsinthemastercatalog_gotocatalog3.PNG
 |
 |
 
 * View the content that was added successfully to the product.
 
-.. image:: /feature/_images/pepimages/cs_manageproductsinthemastercatalog_gotocatalog4.PNG
+.. image:: /feature/_images/pepimages/pxp_manageproductsinthemastercatalog_gotocatalog4.PNG
 |
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
