@@ -31,64 +31,57 @@ To set up system profile, follow these steps:
 
 |
 
-* Log in and go to *Administration*.
+* Log in and click on the **Administration** icon.
 
-.. image:: /feature/_images/pepimages/cs_managesystemprofile_login.PNG
+.. image:: /feature/_images/pepimages/pxp_managesystemprofile_login.PNG
 |
 |
 
 
-* Click on the **Partner Administration** tab.
+* Click on **Partner Administration**.
 
-.. image:: /feature/_images/pepimages/cs_managesystemprofile_clickpartneradmin.PNG
+.. image:: /feature/_images/pepimages/pxp_managesystemprofile_clickpartneradmin.PNG
 |
 |
 
 
-* Click on **Partners**.
+* Go to *Partners* and click on the '+' icon to create an organization (or select an existing one).
 
-.. image:: /feature/_images/pepimages/cs_managesystemprofile_clickpartners.PNG
+.. image:: /feature/_images/pepimages/pxp_managesystemprofile_clickplusicon.PNG
 |
 |
 
 
-* Click on the "+" icon to create an organization (or select an existing one).
+* Enter the name, select the type, and click on the **Create** button.
 
-.. image:: /feature/_images/pepimages/cs_managesystemprofile_clickplusicon.PNG
+.. image:: /feature/_images/pepimages/pxp_managesystemprofile_entername.PNG
 |
 |
 
 
-* Enter the name and click on the **Create** button.
+* In the *Systems* section, click on the '+' icon to add systems to the organization.
 
-.. image:: /feature/_images/pepimages/cs_managesystemprofile_entername.PNG
-|
-|
-
-
-* In the *Systems* section, click on the "+" icon to add systems to the organization.
-
-.. image:: /feature/_images/pepimages/cs_managesystemprofile_clicksystemplus.PNG
+.. image:: /feature/_images/pepimages/pxp_managesystemprofile_clicksystemplus.PNG
 |
 |
 
 
 * Select the system to be added and click on the **Apply** button.
 
-.. image:: /feature/_images/pepimages/cs_managesystemprofile_selectsystem.PNG
+.. image:: /feature/_images/pepimages/pxp_managesystemprofile_selectsystem.PNG
 |
 |
 
 
 * Select the endpoints to be used in the system.
 
-.. image:: /feature/_images/pepimages/cs_managesystemprofile_selectendpoints.PNG
+.. image:: /feature/_images/pepimages/pxp_managesystemprofile_selectendpoints.PNG
 |
 |
 
 * Click on the **Save** button.
 
-.. image:: /feature/_images/pepimages/cs_managesystemprofile_clicksave.PNG
+.. image:: /feature/_images/pepimages/pxp_managesystemprofile_clicksave.PNG
 |
 |
 

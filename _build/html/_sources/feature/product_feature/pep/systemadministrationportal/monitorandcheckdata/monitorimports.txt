@@ -31,32 +31,28 @@ How-to: Monitor Imports
 
 * Log in (as a *General User*).
 
-.. image:: /feature/_images/pepimages/cs_monitorimports_login.PNG
+.. image:: /feature/_images/pepimages/pxp_monitorimports_login.PNG
 |
 |
 
 
 * Go to the *Dashboard* and click on the **Data Integration** tab.
 
-.. image:: /feature/_images/pepimages/cs_monitorimports_gotodashboardclickdataintegration.PNG
+.. image:: /feature/_images/pepimages/pxp_monitorimports_gotodashboardclickdataintegration.PNG
 |
 |
 
 
-* On the Data Integration page, find the endpoint for your onboarding.  Once found, click on the dashboard entry.
+* On the Data Integration page, find the endpoint for your onboarding. Once found, click on the dashboard entry.
 
-.. image:: /feature/_images/pepimages/cs_monitorimports_ondataintegrationtab.PNG
+.. image:: /feature/_images/pepimages/pxp_monitorimports_ondataintegrationtab.PNG
 |
 |
 
 
 * On that *Onboard Endpoint* page, click on the **Import File** button.
 
-.. image:: /feature/_images/pepimages/cs_monitorimports_onendpintpage.PNG
-|
-|
-
-.. image:: /feature/_images/pepimages/cs_monitorimports_clickimportfile.PNG
+.. image:: /feature/_images/pepimages/pxp_monitorimports_clickimportfile.PNG
 |
 |
 
@@ -90,7 +86,7 @@ How-to: Monitor Imports
 
 * View the data shown on the *Dashboard*.
 
-.. image:: /feature/_images/pepimages/cs_monitorimports_viewdata.PNG
+.. image:: /feature/_images/pepimages/pxp_monitorimports_viewdata.PNG
 |
 |
 

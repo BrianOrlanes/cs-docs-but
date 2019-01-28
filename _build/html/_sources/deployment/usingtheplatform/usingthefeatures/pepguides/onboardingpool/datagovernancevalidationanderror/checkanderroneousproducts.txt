@@ -32,18 +32,18 @@ To do this, follow these steps:
 
 * Log in and click **Dashboard** to explore the products.
 
-.. image:: /feature/_images/pepimages/cs_checkanderroneousproducts_clickdashboard.PNG
+.. image:: /feature/_images/pepimages/pxp_checkanderroneousproducts_clickdashboard.PNG
 |
 |
 
 
 * Select an endpoint in the *Data Integration* tab and click **Catalog**.
 
-.. image:: /feature/_images/pepimages/cs_checkanderroneousproducts_clickcatalog.PNG
+.. image:: /feature/_images/pepimages/pxp_checkanderroneousproducts_clickcatalog.PNG
 |
 |
 
-.. image:: /feature/_images/pepimages/cs_checkanderroneousproducts_clickcatalog2.PNG
+.. image:: /feature/_images/pepimages/pxp_checkanderroneousproducts_clickcatalog2.PNG
 |
 |
 

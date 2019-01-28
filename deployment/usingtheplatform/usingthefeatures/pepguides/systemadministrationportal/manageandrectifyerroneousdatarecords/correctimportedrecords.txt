@@ -32,18 +32,18 @@ To do this, follow these steps:
 
 * Log in and go to the *Dashboard*.
 
-.. image:: /feature/_images/pepimages/cs_correctimportedrecords_gotodashboard.PNG
+.. image:: /feature/_images/pepimages/pxp_correctimportedrecords_gotodashboard.PNG
 |
 |
 
 
 * Click on the **Data Integration** tab and select an endpoint.
 
-.. image:: /feature/_images/pepimages/cs_correctimportedrecords_clickdataintegrationtab.PNG
+.. image:: /feature/_images/pepimages/pxp_correctimportedrecords_clickdataintegrationtab.PNG
 |
 |
 
-.. image:: /feature/_images/pepimages/cs_correctimportedrecords_clickdataintegrationtab2.PNG
+.. image:: /feature/_images/pepimages/pxp_correctimportedrecords_clickdataintegrationtab2.PNG
 |
 |
 
@@ -69,20 +69,17 @@ To do this, follow these steps:
 |
 |
 
-
 * Click **Catalog**. The Catalog includes the products that are visible with violations.
 
 .. image:: /feature/_images/pepimages/cs_correctimportedrecords_clickcatalog.PNG
 |
 |
 
-
 * Click on the **Transfer to PIM** option. The products get transferred to PIM.
 
 .. image:: /feature/_images/pepimages/cs_correctimportedrecords_clicktransferpim.PNG
 |
 |
-
 
 .. image:: /feature/_images/pepimages/line-png-32.PNG
    :alt: Contentserv line

@@ -22,7 +22,7 @@ Manage Outbound Endpoint is an admin feature that manages *Outbound Endpoints* o
 ===================     ===================================================================================================================================================================
 
 
-How-to: Create Outbound Endpoints
+How-to: Manage Outbound Endpoints
 ======================================
 To do this, follow these steps:
 
@@ -30,67 +30,67 @@ To do this, follow these steps:
 
 * Click **Administration**.
 
-.. image:: /feature/_images/pepimages/cs_manageoutboundendpoints_clickadministration.PNG
+.. image:: /feature/_images/pepimages/pxp_manageoutboundendpoints_clickadministration.PNG
 |
 |
 
 
-* Click *Data integration* tab and click on the **Endpoints** section on the left. To create an endpoint, click on the "+" icon on the right side of the window.
+* Click **Data integration** and click on **Endpoints** on the left. To create an endpoint, click on the '+' icon on the right side of the window.
 
-.. image:: /feature/_images/pepimages/cs_manageoutboundendpoints_clickdataintegrationtab.PNG
-|
-|
-
-.. image:: /feature/_images/pepimages/cs_manageoutboundendpoints_clickdataintegrationtab2.PNG
+.. image:: /feature/_images/pepimages/pxp_manageoutboundendpoints_clickdataintegrationtab.PNG
 |
 |
 
-.. image:: /feature/_images/pepimages/cs_manageoutboundendpoints_clickdataintegrationtab3.PNG
+.. image:: /feature/_images/pepimages/pxp_manageoutboundendpoints_clickdataintegrationtab2.PNG
+|
+|
+
+.. image:: /feature/_images/pepimages/pxp_manageoutboundendpoints_clickdataintegrationtab3.PNG
 |
 |
 
 * Fill-in the details *(Name, code, type of Endpoint)* and select the outbound endpoint. Click on the **Create** button to create an endpoint.
 
-.. image:: /feature/_images/pepimages/cs_manageoutboundendpoints_fillindetails.PNG
+.. image:: /feature/_images/pepimages/pxp_manageoutboundendpoints_fillindetails.PNG
 |
 |
 
 
 * Select the process in the endpoint for offboarding data.
 
-.. image:: /feature/_images/pepimages/cs_manageoutboundendpoints_selectprocessinendpoint.PNG
+.. image:: /feature/_images/pepimages/pxp_manageoutboundendpoints_selectprocessinendpoint.PNG
 |
 |
 
-.. image:: /feature/_images/pepimages/cs_manageoutboundendpoints_selectprocessinendpoint2.PNG
+.. image:: /feature/_images/pepimages/pxp_manageoutboundendpoints_selectprocessinendpoint2.PNG
 |
 |
 
-.. image:: /feature/_images/pepimages/cs_manageoutboundendpoints_selectprocessinendpoint3.PNG
+.. image:: /feature/_images/pepimages/pxp_manageoutboundendpoints_selectprocessinendpoint3.PNG
 |
 |
 
-* Click to the **Explore** icon then go to *PIM*. Select the articles to be exported using the export button.
+* Click to the **Explore** icon then go to *Products*. Select the articles to be exported using the export button.
 
-.. image:: /feature/_images/pepimages/cs_manageoutboundendpoints_gotoexplore.PNG
-|
-|
-
-.. image:: /feature/_images/pepimages/cs_manageoutboundendpoints_gotoexplore2.PNG
+.. image:: /feature/_images/pepimages/pxp_manageoutboundendpoints_gotoexplore.PNG
 |
 |
 
-.. image:: /feature/_images/pepimages/cs_manageoutboundendpoints_gotoexplore3.PNG
+.. image:: /feature/_images/pepimages/pxp_manageoutboundendpoints_gotoexplore2.PNG
 |
 |
 
-.. image:: /feature/_images/pepimages/cs_manageoutboundendpoints_gotoexplore4.PNG
+.. image:: /feature/_images/pepimages/pxp_manageoutboundendpoints_gotoexplore3.PNG
+|
+|
+
+.. image:: /feature/_images/pepimages/pxp_manageoutboundendpoints_gotoexplore4.PNG
 |
 |
 
 * Next, select the endpoint from which data has to be offboarded.
 
-.. image:: /feature/_images/pepimages/cs_manageoutboundendpoints_nextselectendpoint.PNG
+.. image:: /feature/_images/pepimages/pxp_manageoutboundendpoints_nextselectendpoint.PNG
 |
 |
 
