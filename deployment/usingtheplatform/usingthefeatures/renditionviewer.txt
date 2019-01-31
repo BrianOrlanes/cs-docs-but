@@ -1,0 +1,112 @@
+==========================================
+Configurable Image Variants
+==========================================
+The image variants/thumbnails/renditions are user defined versions of the original binary image.
+The PXP DAM uses Image Magick tool to generate the image variants based on multiple formats and DPI.
+
+|
+
+The configuration to auto generate image variants can be done at the asset type class level (image class) or at the mime-type based sub-classes of image class.
+
+|
+
+The technical image variant (TIV) class provides functionality to configure the context of image variants to be generated.
+
+|
+
+Within the context, the image variants are defined based on the tag combination of format and dpi.  User can add desired dpi from the tag configuration of DPI tag (LOV).
+The formats supported currently to create image variants include:
+
+* PNG
+* JPEG
+* Original
+
+|
+
+The user can create combinations of the two LOVs tags (format & DPI ) in the image variant context. For eg. Consider the following DPI tags available.
+
+* 75 dpi
+* 150 dpi
+* 300 dpi
+
+|
+
+The possible combinations may be:
+
+* 75 dpi - PNG
+* 150 dpi - JPEG
+* 300 dpi - original
+
+|
+|
+
+How-to: Create COnfigurable Image Variants
+===============================================
+To do this, follow these steps:
+
+|
+
+* Login and click on the **Administration** icon.
+
+.. image:: /feature/_images/pepimages/pxp_imagevariants_login.PNG
+|
+|
+
+
+* Go to *Data Model -> Classes -> Assets*.
+
+.. image:: /feature/_images/pepimages/pxp_imagevariants_gotoasset.PNG
+|
+|
+
+* Click on the '+' icon to create a new Asset.
+
+.. image:: /feature/_images/pepimages/pxp_imagevariants_clickplusicon.PNG
+|
+|
+
+* Enter the Name, enable Nature class, and select the type as Technical image. Then, click on the **Create** button
+
+.. image:: /feature/_images/pepimages/pxp_imagevariants_entername.PNG
+|
+|
+
+* Click on the **Context** label on the righthand window.
+
+.. image:: /feature/_images/pepimages/pxp_imagevariants_clickcontextlabel.PNG
+|
+|
+
+* Enable Time and set the duration, then click on the **OK** button.
+
+.. image:: /feature/_images/pepimages/pxp_imagevariants_clickcontextlabel.PNG
+|
+|
+
+* Go to *Image* and on the righthand window, select the technical image that you have created.
+
+.. image:: /feature/_images/pepimages/pxp_imagevariants_clickcontextlabel.PNG
+|
+|
+
+* Click on the **Save** button.
+
+.. image:: /feature/_images/pepimages/pxp_imagevariants_clicksave.PNG
+|
+|
+
+* Click on the **Explore** icon and go to *DAM*.
+
+.. image:: /feature/_images/pepimages/pxp_imagevariants_explore.PNG
+|
+.. image:: /feature/_images/pepimages/pxp_imagevariants_explore2.PNG
+|
+|
+
+*Note: Then, User can operate the system and manage the supplier's onboarding catalog products. Once the Products are  quality checked, user can transfer the products to the PIM.*
+
+|
+|
+
+.. image:: /feature/_images/pepimages/line-png-32.PNG
+   :alt: Contentserv line
