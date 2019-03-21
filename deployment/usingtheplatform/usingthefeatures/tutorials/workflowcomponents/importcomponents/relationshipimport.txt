@@ -1,0 +1,45 @@
+=====================
+Relationship Import
+=====================
+Relationship Import component is used to import relationships to the system.
+
+|
+
+.. image:: /tutorials/_images/pxp_importcomponents_relationshipimport.PNG
+|
+|
+
+.. image:: /tutorials/_images/pxp_importcomponents_relationshipimport2.PNG
+|
+|
+
+.. image:: /tutorials/_images/pxp_importcomponents_relationshipimport3.PNG
+|
+|
+
+
+Relationship Import - Property Configuration
+===============================================
+
+===========   ==========================   ====================================================================================================================================================================================================================
+**Sr. No.**   **Screen Element**           **Description**
+===========   ==========================   ====================================================================================================================================================================================================================
+1.            Sheet Name                   The onboarding file is the Excel file. Excel file may contain different sheets in it.
+                                           Here, we need to mention the sheet name which contains the relationship details.
+2.            Relationship Column Name     This field is enabled when multiple relationships must be imported into the system.
+                                           All the relationships in an onboarding file have unique identification or IDs.
+                                           Here, in Relationship Column Name, you need to define the column name of a sheet which contains the unique IDs of the relationships.
+                                           So, a system will fetch all the IDs of the relationships from the defined column of the sheet.
+3.            sourceIDColumnName           It contains the column name of a sheet, which contains the ID of the class that is selected in Side1 while forming the relationship.
+4.            targetIDColumnName           It contains the column name of a sheet, which contains the ID of the class that is selected in Side2 while forming the relationship.
+5.            contextIDColumn              Enter the column name of a sheet, which contains the IDs of the context associated with the relationships.
+                                           You only need to enter the value here when you have the context associated with the relationship.
+6.            From Date Column Name        This option is present for time-enabled relationships. Enter the column name of a sheet, which contains the effective date of a relationship.
+                                           It contains the starting date from when the relationship will be effective.
+===========   ==========================   ====================================================================================================================================================================================================================
+
+|
+|
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line

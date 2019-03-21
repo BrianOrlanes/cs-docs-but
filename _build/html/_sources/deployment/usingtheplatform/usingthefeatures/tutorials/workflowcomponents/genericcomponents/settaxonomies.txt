@@ -1,0 +1,23 @@
+================
+Set Taxonomies
+================
+This component is used to set the taxonomy values manually.
+
+|
+
+.. image:: /tutorials/_images/pxp_genericcomponents_settaxonomies.PNG
+|
+|
+
+.. image:: /tutorials/_images/pxp_genericcomponents_settaxonomies2.PNG
+|
+|
+
+.. image:: /tutorials/_images/pxp_genericcomponents_settaxonomies3.PNG
+|
+
+*Note: Property configuration is not needed for Set Taxonomies component.*
+
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line

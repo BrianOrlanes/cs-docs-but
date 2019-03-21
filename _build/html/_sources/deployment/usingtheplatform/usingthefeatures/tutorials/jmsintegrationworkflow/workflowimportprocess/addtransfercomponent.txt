@@ -1,0 +1,67 @@
+====================================
+Add Transfer Component
+====================================
+To add a Transfer Component, follow the steps below:
+
+|
+
+* The Transfer component is used to transfer the products to PIM, Onboarding portal, Offboarding portal, or to the Data Integration portal.
+  To add the Transfer component, select the last notation in the workflow and click on the **Task** notation.
+
+.. image:: /tutorials/_images/pxp_importprocessaddtransfercomponent_selectlastnotation.PNG
+|
+|
+
+* When you click on the **Task** notation, it gets added in the flow.
+
+.. image:: /tutorials/_images/pxp_importprocessaddtransfercomponent_clicktasknotation.PNG
+|
+|
+
+* Click on the **Change type** icon and select the component.
+
+.. image:: /tutorials/_images/pxp_importprocessaddtransfercomponent_clickchangetype.PNG
+|
+|
+
+* As soon as you click on the **Change type** icon, a pop-up window appears containing the types of components.
+
+.. image:: /tutorials/_images/pxp_importprocessaddtransfercomponent_popupwindow.PNG
+|
+|
+
+* Select the **Transfer** component from the list.
+
+.. image:: /tutorials/_images/pxp_importprocessaddtransfercomponent_selecttransfer.PNG
+|
+|
+
+* Enter the name for the component.
+
+.. image:: /tutorials/_images/pxp_importprocessaddtransfercomponent_entername.PNG
+|
+|
+
+Transfer Component - Configuration
+==========================================
+
+===========   ==========================   ====================================================================================================================================================================================================================
+**Sr. No.**   **Screen Element**           **Description**
+===========   ==========================   ====================================================================================================================================================================================================================
+1.            Destination Catalog IP       Select the catalog where you want to transfer the products. Select one of the following options:
+
+                                           * PIM
+                                           * Onboarding
+                                           * Offboarding
+                                           * Data Integration
+
+2.            Destination Organization     Select the organization from the list where you want to transfer the product details.
+              ID
+
+===========   ==========================   ====================================================================================================================================================================================================================
+
+|
+|
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line

@@ -1,0 +1,30 @@
+====================================
+Add End Event and Mark Executable
+====================================
+
+
+*	Once you add all the components in the workflow, you need to end the workflow using the **End Event**.
+For this, select the last component and click on the  **End Event** notation.
+
+.. image:: /tutorials/_images/pxp_addendevent_addallcomponents.PNG
+
+|
+|
+
+*	Once you click on the **End Event** notation, it will be added in the flow.
+
+.. image:: /tutorials/_images/pxp_addendevent_onceyouclick.PNG
+
+|
+|
+ 
+*	Once you add all the components ad define the workflow, select the **Executable** option.
+It is necessary to trigger the process.
+
+.. image:: /tutorials/_images/pxp_addendevent_onceaddallcomponents.PNG
+
+|
+|
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line

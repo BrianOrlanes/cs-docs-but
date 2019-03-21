@@ -1,0 +1,25 @@
+=============================
+JMS Consumer Acknowledgement
+=============================
+JMS Consumer Acknowledgement component is used to acknowledge to the consumer after receiving the message from the consumer.
+
+|
+
+.. image:: /tutorials/_images/pxp_jmsimportcomponents_jmsconsumeracknowledgementimport.PNG
+|
+|
+
+.. image:: /tutorials/_images/pxp_jmsimportcomponents_jmsconsumeracknowledgementimport2.PNG
+|
+|
+
+.. image:: /tutorials/_images/pxp_jmsimportcomponents_jmsconsumeracknowledgementimport3.PNG
+|
+
+*Note: Property configuration is not needed for JMS Consumer Acknowledgement component. *
+
+|
+|
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line

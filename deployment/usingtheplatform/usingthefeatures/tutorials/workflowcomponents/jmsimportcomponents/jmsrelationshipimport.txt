@@ -1,0 +1,25 @@
+=========================
+JMS Relationship Import
+=========================
+JMS Relationship Import component is used to import the JMS relationships to the system.
+
+|
+
+.. image:: /tutorials/_images/pxp_jmsimportcomponents_jmsrelationshipimport.PNG
+|
+|
+
+.. image:: /tutorials/_images/pxp_jmsimportcomponents_jmsrelationshipimport2.PNG
+|
+|
+
+.. image:: /tutorials/_images/pxp_jmsimportcomponents_jmsrelationshipimport3.PNG
+|
+
+*Note: Property configuration is not needed for JMS Relationship Import component.*
+
+|
+|
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line

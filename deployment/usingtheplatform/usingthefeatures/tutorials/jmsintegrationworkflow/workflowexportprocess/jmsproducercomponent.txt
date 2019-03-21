@@ -1,0 +1,91 @@
+====================================
+JMS Producer Component
+====================================
+
+
+* The **JMS Producer** component is used to establish the connection between PXP system and the producer’s messaging server. PXP system will send the data to the producer’s messaging server. To add the **JMS Producer** component, select the last notation in the workflow and click on the   **Task** notation symbol.
+
+.. image:: /tutorials/_images/pxp_jmsproducercomponent_jmsproducercomponentestablish.PNG
+
+|
+|
+
+
+* Once you click on the **Task** notation, it gets added in the flow.
+
+.. image:: /tutorials/_images/pxp_jmsproducercomponent_clicktasnotation.PNG
+
+|
+|
+ 
+* Define the type of component by clicking on the **Change type** icon.
+
+
+.. image:: /tutorials/_images/pxp_jmsproducercomponent_definetypecomponent.PNG
+
+|
+|
+
+*  As soon as you click on the  **Change type** icon, a pop window appears containing types of component.
+
+
+.. image:: /tutorials/_images/pxp_jmsproducercomponent_assoon.PNG
+
+|
+|
+
+* Select the component **JMS Producer** from the list.
+
+.. image:: /tutorials/_images/pxp_jmsproducercomponent_selectjmsproducer.PNG
+
+|
+|
+
+* Enter a name to the component.
+
+.. image:: /tutorials/_images/pxp_jmsproducercomponent_entername.PNG
+
+|
+|
+
+* Select the **JMS Producer** component and enter the details of the **JMS Producer** component as described in the following table in the third vertical section.
+
+.. image:: /tutorials/_images/pxp_jmsproducercomponent_selectjmsproducerenterdetails.PNG
+
+|
+|
+
+JMS Producer Component - Configuration
+==========================================
+
+===========   ==========================   ====================================================================================================================================================================================================================
+**Sr. No.**   **Screen Element**           **Description**
+===========   ==========================   ====================================================================================================================================================================================================================
+1.            Consumer IP                  Provide the consumer IP address from where the PXP system will receive the message,
+                                           which will contain the details in form of a JSON object.
+                                           You need to prepend the protocol of the respective MQ server.
+                                           For example, if you are using ActiveMQ,
+                                           then use the tcp protocol in the beginning.
+                                           **Example of Consumer IP**: tcp://0.0.0.0
+2.            Consumer Port                Provide the consumer port number from where the PXP system will receive the message,
+                                           which will contain the details in form of a JSON object.
+3.            Consumer Queue Name          Enter the consumer queue name, from where the PXP system will receive the message,
+                                           which will contain the details in form of a JSON object.
+4.            Consumer Acknowledgement     Once the PXP system sends the message to the producer system,
+              Queue                        then the PXP system will wait for the acknowledgement from the producer system.
+                                           The producer system will send the acknowledgment of the process to the PXP system.
+                                           **Producer Acknowledgement Queue** contains the queue name from where the PXP system will receive
+                                           the acknowledgment of the completion of the process.
+                                           There are following two types of acknowledgments:
+                                           *	**Successful Completion**: When the producer system receives the message successfully,
+                                           it will send the success message to the PXP system.
+                                           *	**Unsuccessful Completion**: When the producer system does not receive a proper message,
+                                           or it receives the erroneous message, then it will send the acknowledgment with an error message.
+
+
+===========   ==========================   ====================================================================================================================================================================================================================
+
+|
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line

@@ -1,0 +1,37 @@
+==========================
+Set Attributes and Tags
+==========================
+This component is used to set the attributes and tags values manually.
+
+|
+
+.. image:: /tutorials/_images/pxp_genericcomponents_setattributesandtags.PNG
+|
+|
+
+.. image:: /tutorials/_images/pxp_genericcomponents_setattributesandtags2.PNG
+|
+|
+
+.. image:: /tutorials/_images/pxp_genericcomponents_setattributesandtags3.PNG
+|
+|
+
+
+Set Attributes and Tags – Property Configuration
+=====================================================
+
+===========   ==========================   ====================================================================================================================================================================================================================
+**Sr. No.**   **Screen Element**           **Description**
+===========   ==========================   ====================================================================================================================================================================================================================
+1.            Add Tags                     Select the tags from the list for which you want to set the value manually.
+                                           Select the tag and enter the value for the respective tag. In this way, you can add multiple tags and their values.
+2.            Add Attributes               Select the attributes from the list for which you want to set the value manually.
+                                           Select the attribute and enter the value for the respective attribute. In this way, you can add multiple attributes and their values.
+===========   ==========================   ====================================================================================================================================================================================================================
+
+|
+|
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line

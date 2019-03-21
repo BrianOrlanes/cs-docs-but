@@ -1,0 +1,68 @@
+================
+Create Workflow
+================
+To create a workflow, follow the steps below:
+
+|
+
+* Log in and click on the **Administration** icon.
+
+.. image:: /tutorials/_images/pxp_importprocesscreateworkflow_login.PNG
+|
+|
+
+* Navigate to **Data Integration** -> **Workflow** menu.
+
+.. image:: /tutorials/_images/pxp_importprocesscreateworkflow_navigate.PNG
+|
+|
+
+* Click on the '+' icon to create the workflow.
+
+.. image:: /tutorials/_images/pxp_importprocesscreateworkflow_clickplusicon.PNG
+|
+|
+
+* Enter the name and code from the *Create* pop-up window. Select the **JMS integration Workflow** from event type.
+  Click on the **Create** button.
+
+.. image:: /tutorials/_images/pxp_importprocesscreateworkflow_entername.PNG
+|
+|
+
+* You will be redirected to a pop-up window where you can define the workflow for JMS integration import process.
+
+.. image:: /tutorials/_images/pxp_importprocesscreateworkflow_popupwindow.PNG
+|
+|
+
+* The **Graph** section in a pop-up window is divided into three vertical sections. The first two vertical sections are called Workflow Modeler.
+  It allows to configure workflows using BPMN 2.0 modeling notation. This will allow users to model the complex process using universally known and standardized BPMN 2.0 notation.
+  The third vertical section contains the details of each component of JMS integration.
+
+.. image:: /tutorials/_images/pxp_importprocesscreateworkflow_graphsection.PNG
+|
+|
+
+* Drag and drop the notations in Workflow Modeler to define JMS integration import process. The workflow starts with the Start Event,
+  which acts as a process trigger. Therefore, the first element in the workflow will be the Start Event.
+
+.. image:: /tutorials/_images/pxp_importprocesscreateworkflow_draganddrop.PNG
+|
+|
+
+* You will see the notation for Start Event. Click on the notation and then click on the **Change type** icon and you will see the list of component types.
+
+.. image:: /tutorials/_images/pxp_importprocesscreateworkflow_clicknotation.PNG
+|
+|
+
+* When you click on the **Change type** icon you will see the list of component types. Select the **Process Start** component type from the list.
+
+.. image:: /tutorials/_images/pxp_importprocesscreateworkflow_selectprocessstart.PNG
+|
+|
+
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line

@@ -1,0 +1,48 @@
+====================================
+Add JMS Article Import Component
+====================================
+To add a JMS Article Import Component, follow the steps below:
+
+|
+
+* The **JMS Article Import** component is used to import the articles via JMS.
+  To add the JMS Article Import component, select the last notation in the workflow and click on the **Task** notation.
+
+.. image:: /tutorials/_images/pxp_importprocessaddjmsarticlecomponent_selectlastnotation.PNG
+|
+|
+
+* When you click on the Task notation, it gets added in the flow.
+
+.. image:: /tutorials/_images/pxp_importprocessaddjmsarticlecomponent_clicktasknotation.PNG
+|
+|
+
+* Click on the **Change type** icon and select the component.
+
+.. image:: /tutorials/_images/pxp_importprocessaddjmsarticlecomponent_clickchangetype.PNG
+|
+|
+
+* As soon as you click on the **Change type** icon, a pop-up window appears containing the types of components.
+
+.. image:: /tutorials/_images/pxp_importprocessaddjmsarticlecomponent_popupwindow.PNG
+|
+|
+
+* Select the **JMS Article Import** component from the list.
+
+.. image:: /tutorials/_images/pxp_importprocessaddjmsarticlecomponent_selectjmsarticleimport.PNG
+|
+|
+
+* Enter the name for the component.
+
+.. image:: /tutorials/_images/pxp_importprocessaddjmsarticlecomponent_entername.PNG
+|
+|
+
+
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line

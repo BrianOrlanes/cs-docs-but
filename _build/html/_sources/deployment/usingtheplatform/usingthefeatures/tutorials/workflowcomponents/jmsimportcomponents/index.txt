@@ -1,0 +1,27 @@
+=======================
+JMS Import Components
+=======================
+The PXP system will receive the message from the consumer messaging server while onboarding.
+The message contains the JSON object, which contains the details of different entities of the system like an article, assets, relationships, and so on.
+The PXP system will fetch all the details from the JSON object, and it will onboard all the products and other details into the system.
+Once the PXP system receives the message from the consumer system, it will send the acknowledgment to the consumer system for the completion of the process.
+
+
+.. toctree::
+   :maxdepth: 1
+
+   jmsconsumer
+   jmsarticleimport
+   jmsassetimport
+   jmstaxonomyimport
+   jmsrelationshipimport
+   jmsvariantimport
+   jmstargetimport
+   jmsnaturerelationshipimport
+   jmsconsumeracknowledgement
+
+
+
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line

@@ -1,0 +1,63 @@
+==================
+TextAsset Import
+==================
+TextAsset Import component is used to import the text assets to the system.
+
+|
+
+.. image:: /tutorials/_images/pxp_importcomponents_textassetimport.PNG
+|
+|
+
+.. image:: /tutorials/_images/pxp_importcomponents_naturerelationshipimport2.PNG
+|
+|
+
+.. image:: /tutorials/_images/pxp_importcomponents_naturerelationshipimport3.PNG
+|
+|
+
+
+TextAsset Import - Property Configuration
+=====================================================
+
+===========   ==========================   ====================================================================================================================================================================================================================
+**Sr. No.**   **Screen Element**           **Description**
+===========   ==========================   ====================================================================================================================================================================================================================
+1.            Sheet Name                   The onboarding file is the Excel file. Excel file may contain different sheets in it.
+                                           Here, we need to mention the sheet name which contains the text asset details.
+2.            Primary Key Column           All the text assets in an onboarding file have unique identification or IDs.
+                                           Here, in Primary Key Column, we need to define the column name of a sheet which contains the unique IDs of the text assets.
+                                           So, a system will fetch all the IDs of the text assets from the defined column of the sheet.
+3.            Type                         Here we need to select one of the following options:
+
+                                           * Single Class: Select this option, if all the text assets in an onboarding file use the same class of the system.
+                                             For example, if all the text assets are TextAsset or all the text assets are Language.
+                                           * Column Class: Select this option, if text assets in an onboarding file use different types of classes of the system.
+                                             For example, there are two types of text assets in a sheet; one is TextAsset and the other one is Language.
+4.            Class ID/Column Name         The value of this field is based on the selection of Type field.
+
+                                           * Class ID: When all the text assets in an onboarding file use the same class of the system, we select Single Class option from Type field.
+                                             In this case, we need to select that system-generated class from the list as Class ID.
+                                           * Class Column: When text assets in an onboarding file use different classes of the system, we select the Column Class option from the Type field.
+                                             In this case, we need to enter the column name of a sheet, which contains the IDs of all the classes in the Class Column field.
+5.            Multiclassification          Select this option, if text assets in a sheet use non-nature classes.
+                                           You only need to enter the value here when you have the context associated with the relationship.
+6.            Type                         As soon as you select MultiClassification option, this option will be visible. Here, we need to select one of the options:
+
+                                           * Multiple Class: Select this option, if text assets in an onboarding file use multiple system-generated non-nature classes.
+                                           * Column Class: Select this option, if text assets in an onboarding file use multiple non-nature classes which are yet to be created.
+7.            Select Classes/Column Name   The value of this field is based on the selection of Type field.
+
+                                           * Select Classes: When all the text assets in an onboarding file use multiple system-generated non-nature classes, we select the Multiple Class option from the Type field.
+                                             In this case, we need to select those system-generated classes from the list.
+                                           * Class Column Name: When text assets in an onboarding file use multiple non-nature classes which are yet to be created, we select the Column Class option from the Type field.
+                                             In this case, we need to enter the column name of a sheet, which contains the IDs of all the non-nature classes in a Class Column Name field.
+8.            Taxonomies                   Here we need to enter the column name of a sheet of an onboarding file which contains the taxonomy details.
+===========   ==========================   ====================================================================================================================================================================================================================
+
+|
+|
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line

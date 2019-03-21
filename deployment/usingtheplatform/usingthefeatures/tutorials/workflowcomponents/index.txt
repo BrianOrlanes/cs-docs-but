@@ -1,0 +1,22 @@
+===================
+Workflow Components
+===================
+Workflow provides businesses with the capability of understanding their internal business procedures in a graphical notation and will give organizations the ability to communicate these procedures in a standard manner.
+It depicts the steps in a business process. It depicts the end to end flow of a business process. Workflow provides standard notations readily understandable by all business stakeholders.
+Each graphical notation has special meaning and usage in the workflow. Workflow helps to gain understanding through an easy-to-understand visual representation of the detailed steps of business processes.
+Users can decide the order of the process and they can customize the workflow according to their needs. The workflow components are divided into following categories:
+
+
+.. toctree::
+   :maxdepth: 1
+
+   importcomponents/index
+   exportcomponents/index
+   jmsimportcomponents/index
+   jmsexportcomponents/index
+   genericcomponents/index
+
+
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line

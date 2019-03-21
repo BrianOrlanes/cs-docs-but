@@ -35,3 +35,5 @@ Learn how to use the Contentserv Onboarding system.
    onboardingpractical/index
    onboardingfileformat/index
    onboardingcapabilities/index
+   jmsintegrationworkflow/index
+   workflowcomponents/index

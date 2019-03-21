@@ -1,0 +1,25 @@
+================================
+JMS Nature Relationship Import
+================================
+JMS Nature Relationship Import component is used to import the JMS nature relationships to the system.
+
+|
+
+.. image:: /tutorials/_images/pxp_jmsimportcomponents_jmsnaturerelationshipimport.PNG
+|
+|
+
+.. image:: /tutorials/_images/pxp_jmsimportcomponents_jmsnaturerelationshipimport2.PNG
+|
+|
+
+.. image:: /tutorials/_images/pxp_jmsimportcomponents_jmsnaturerelationshipimport3.PNG
+|
+
+*Note: Property configuration is not needed for JMS Nature Relationship Import component.*
+
+|
+|
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line
